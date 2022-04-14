@@ -1,0 +1,114 @@
+{
+  "main": {
+    "id": "aaa50c0e4a485ba2",
+    "type": "split",
+    "children": [
+      {
+        "id": "8acd05b43e0673b4",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1223dc17c021d499",
+    "type": "split",
+    "children": [
+      {
+        "id": "f9e5ada47efd1077",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2da10876c4526be7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "877be8b1f95ac8a7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Bixbi",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4bd775437d946c5b",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a6f6b16e6e07324d",
+    "type": "split",
+    "children": [
+      {
+        "id": "f537034c70f1609a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b9e8c45404910457",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5bf7b81459fa8576",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "8acd05b43e0673b4",
+  "lastOpenFiles": [
+    "Welten/Deseria/Figuren/Anna.md",
+    "Welten/Deseria/Stories/Das Begräbnis/Kapitel/Einleitung.md",
+    "Welten/Deseria/Locations/Bagdabad.md",
+    "Welten/Deseria/Stories/Das Begräbnis/Plot.md",
+    "Welten/Untitled Kanban.md",
+    "Welten/Deseria/Spieler/Spieler 2.md",
+    "Welten/Deseria/Spieler/Spieler 1.md",
+    "Welten/Deseria/1. Stories/Untitled.md",
+    "Welten/Deseria/Locations/Ruinen von Tambuko.md",
+    "Welten/Deseria/Locations/Westoman.md"
+  ]
+}
