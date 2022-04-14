@@ -6,5 +6,11 @@
   "showFrontmatter": true,
   "alwaysUpdateLinks": true,
   "useMarkdownLinks": true,
-  "attachmentFolderPath": "Welten/Deseria/99. Attachements"
+  "attachmentFolderPath": "Welten/Deseria/99. Attachements",
+  "pdfExportSettings": {
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "2",
+    "downscalePercent": 100
+  }
 }
