@@ -8,7 +8,7 @@ Some stories are free to play - some other can be purchased.
 So have fun and lot of incredible hours playing!!!
 
 ## Content
-[Deseria / Das Begräbnis](Welten/Deseria/1._Stories/Das_Begräbnis/Notizen/Plot.md) (german/deutsch)
+[Deseria - Das Begräbnis](Welten/Deseria/1._Stories/Das_Begräbnis/Notizen/Plot.md) (german/deutsch)
 
 ## External links
 

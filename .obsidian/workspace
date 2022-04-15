@@ -11,7 +11,7 @@
           "state": {
             "file": "Welcome to the World of nerdness.md",
             "mode": "source",
-            "source": false
+            "source": true
           }
         }
       }
