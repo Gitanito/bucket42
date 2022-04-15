@@ -1,7 +1,7 @@
 {
-  "folderNoteHide": true,
-  "folderNoteType": "inside",
-  "folderNoteName": "_about_",
+  "folderNoteHide": false,
+  "folderNoteType": "index",
+  "folderNoteName": "index",
   "folderNoteKey": "ctrl",
   "folderNoteAutoRename": true,
   "folderDelete2Note": false,

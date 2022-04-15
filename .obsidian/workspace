@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Welten/0. Spieler/0. Spieler.md",
+            "file": "Welten/index.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welten/0. Spieler/0. Spieler.md",
+                "file": "Welten/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,6 +115,7 @@
   },
   "active": "0f53b998e84d0747",
   "lastOpenFiles": [
+    "Welten/index.md",
     "Welten/0. Spieler/0. Spieler.md",
     "Welten/Deseria/2. Figuren/2. Figuren.md",
     "Welten/Deseria/5. Details/Einflüsse und Konditionen/Einflüsse und Konditionen.md",
@@ -123,7 +124,6 @@
     "Welten/Deseria/99. Attachements/99. Attachements.md",
     "Welten/Deseria/6. Sideinfo/Währungen/Währungen.md",
     "Welten/Deseria/6. Sideinfo/Sprachen/Sprachen.md",
-    "Welten/Deseria/6. Sideinfo/Schulen und Magieschulen/Schulen und Magieschulen.md",
-    "Welten/Deseria/6. Sideinfo/Religionen/Religionen.md"
+    "Welten/Deseria/6. Sideinfo/Schulen und Magieschulen/Schulen und Magieschulen.md"
   ]
 }
