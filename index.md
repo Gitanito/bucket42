@@ -1,5 +1,4 @@
 # The Homebrewery by Nico
-
 The Homebrewery makes the creation and sharing of authentic looking Fifth-Edition homebrews easy. It uses [Markdown](https://help.github.com/articles/markdown-basics/) with a little CSS magic to make your brews come to life.
 
 **Try it!** Simply edit the text on the left and watch it *update live* on the right.
@@ -30,10 +29,6 @@ This tool will **always** be free, never have ads, and I will never offer any "p
 > * Hit print and enjoy! You're done!
 >
 > If you want to save ink or have a monochrome printer, add the **Ink Friendly** snippet to your brew before you print
-
-
-```
-```
 
 ## V3.0.0 Released!
 With the latest major update to *The Homebrewery* we've implemented an extended Markdown-like syntax for block and span elements, plus a few other changes, eliminating the need for HTML tags like **div** and **span** in most cases. No raw HTML tags should be needed in a brew, and going forward, raw HTML will no longer receive debugging support (*but can still be used if you insist*).
