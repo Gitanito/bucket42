@@ -19,5 +19,6 @@
   "obsidian-plugin-toc",
   "obsidian-timelines",
   "note-refactor-obsidian",
-  "css-snippets"
+  "css-snippets",
+  "obsidian-filename-heading-sync"
 ]

@@ -1,9 +1,8 @@
-[Lord_Bixbi](../../../2._Figuren/Lord_Bixbi.md) muss zu einer Beerdigung einer wichtigen Person. 
-[Einleitung](../Kapitel/Einleitung.md)
-[Lord_Bixbi](../../../2._Figuren/Lord_Bixbi.md)[Anna](../../../2._Figuren/Anna.md)
+# Deseria / Das Begräbnis
+[Lord_Bixbi](../../../2._Figuren/Lord_Bixbi.md) muss zu einer Beerdigung einer wichtigen Person.
 Ihr trefft ihn in der Kutsche und er vertraut euch an, dass er Etwas abholen muss.
-[Einleitung](../Kapitel/Einleitung.md)
-Er bittet euch, es für ihn zu holen und sich am Abend zu treffen für eine Übergabe.
+Er bittet euch, es für ihn zu holen und sich am Abend zu treffen für eine Übergabe. [Einleitung](../Kapitel/Einleitung.md)
+
 
 Ihr holt das Relikt zu einem viel zu teuren Preis - euer ganzes Geld ist weg - aber der Lord meinte, ihr sollt nicht feilschen sondern alles zahlen was sie verlangen.
 
