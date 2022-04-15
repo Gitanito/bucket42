@@ -1,6 +1,6 @@
 [Lord Bixbi](Lord%20Bixbi.md) muss zu einer Beerdigung einer wichtigen Person. 
 [Einleitung](../Kapitel/Einleitung.md)
-
+[Lord Bixbi](../../../2.%20Figuren/Lord%20Bixbi.md)
 Ihr trefft ihn in der Kutsche und er vertraut euch an, dass er Etwas abholen muss.
 
 Er bittet euch, es für ihn zu holen und sich am Abend zu treffen für eine Übergabe.

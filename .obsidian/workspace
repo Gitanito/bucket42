@@ -11,7 +11,7 @@
           "state": {
             "file": "Welten/Deseria/1. Stories/Das Begräbnis/Notizen/Plot.md",
             "mode": "source",
-            "source": false
+            "source": true
           }
         }
       }
@@ -117,14 +117,14 @@
   "active": "e9163827a054003d",
   "lastOpenFiles": [
     "Welten/Deseria/1. Stories/Das Begräbnis/Notizen/Plot.md",
-    "index.md",
+    "Welten/Deseria/2. Figuren/Lord Bixbi.md",
     "Welten/Deseria/1. Stories/Das Begräbnis/Kapitel/Einleitung.md",
+    "index.md",
     "Welten/index.md",
     "Welten/Deseria/4. Locations/Westoman.md",
     "Welten/Deseria/4. Locations/Treffpunkt.md",
     "Welten/Deseria/4. Locations/Ruinen von Tambuko.md",
     "Welten/Deseria/2. Figuren/Kutscher.md",
-    "Welten/0. Spieler/0. Spieler.md",
-    "Welten/Deseria/2. Figuren/2. Figuren.md"
+    "Welten/0. Spieler/0. Spieler.md"
   ]
 }
