@@ -16,6 +16,6 @@
   "defaultViewMode": "source",
   "promptDelete": false,
   "newFileLocation": "current",
-  "newLinkFormat": "shortest",
+  "newLinkFormat": "relative",
   "showUnsupportedFiles": true
 }
