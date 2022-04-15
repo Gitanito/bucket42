@@ -1,8 +1,5 @@
 # The Homebrewery by Nico
 
-Welcome traveler from an antique land. Please sit and tell us of what you have seen. The unheard of monsters, who slither and bite. Tell us of the wondrous items and and artifacts you have found, their mysteries yet to be unlocked. Of the vexing vocations and surprising skills you have seen.
-
-### Homebrew D&D made easy
 The Homebrewery makes the creation and sharing of authentic looking Fifth-Edition homebrews easy. It uses [Markdown](https://help.github.com/articles/markdown-basics/) with a little CSS magic to make your brews come to life.
 
 **Try it!** Simply edit the text on the left and watch it *update live* on the right.

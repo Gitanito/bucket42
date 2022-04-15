@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "30d7731016a7d4c6",
+        "id": "0f53b998e84d0747",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Welten/Deseria/99. Attachements/Test.md",
+            "file": "Welten/0. Spieler/0. Spieler.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#ddd",
+                "query": "SEARCH_QUERY",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welten/Deseria/99. Attachements/Test.md",
+                "file": "Welten/0. Spieler/0. Spieler.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,17 +113,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "30d7731016a7d4c6",
+  "active": "0f53b998e84d0747",
   "lastOpenFiles": [
-    "Welten/Deseria/99. Attachements/Test.md",
-    "Welten/Deseria/1. Stories/Das Begräbnis/Kapitel/Einleitung.md",
-    "Welten/Deseria/1. Stories/Das Begräbnis/Notizen/Plot.md",
-    "Welten/Deseria/2. Figuren/Anna.md",
-    "Welten/Deseria/2. Figuren/Lord Bixbi.md",
-    "Welten/Deseria/4. Locations/Westoman.md",
-    "Welten/Untitled Kanban.md",
-    "Welten/Deseria/4. Locations/Bagdabad.md",
-    "Welten/0. Spieler/Spieler 2.md",
-    "Welten/0. Spieler/Spieler 1.md"
+    "Welten/0. Spieler/0. Spieler.md",
+    "Welten/Deseria/2. Figuren/2. Figuren.md",
+    "Welten/Deseria/5. Details/Einflüsse und Konditionen/Einflüsse und Konditionen.md",
+    "Welten/Deseria/6. Sideinfo/6. Sideinfo.md",
+    "Welten/Deseria/6. Sideinfo/Wissenschaften/Wissenschaften.md",
+    "Welten/Deseria/99. Attachements/99. Attachements.md",
+    "Welten/Deseria/6. Sideinfo/Währungen/Währungen.md",
+    "Welten/Deseria/6. Sideinfo/Sprachen/Sprachen.md",
+    "Welten/Deseria/6. Sideinfo/Schulen und Magieschulen/Schulen und Magieschulen.md",
+    "Welten/Deseria/6. Sideinfo/Religionen/Religionen.md"
   ]
 }
