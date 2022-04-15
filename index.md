@@ -3,7 +3,7 @@
 The Homebrewery makes the creation and sharing of authentic looking Fifth-Edition homebrews easy. It uses [Markdown](https://help.github.com/articles/markdown-basics/) with a little CSS magic to make your brews come to life.
 
 **Try it!** Simply edit the text on the left and watch it *update live* on the right.
-[Plot](Welten/Deseria/1.%20Stories/Das%20Begräbnis/Notizen/Plot.md)
+[Plot](Plot.md)
 
 
 ### Editing and Sharing
