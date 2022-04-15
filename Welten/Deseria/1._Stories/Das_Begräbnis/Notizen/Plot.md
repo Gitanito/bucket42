@@ -6,25 +6,36 @@ Er bittet euch, es für ihn zu holen und sich am Abend zu treffen für eine Übe
 
 Ihr holt das Relikt zu einem viel zu teuren Preis - euer ganzes Geld ist weg - aber der Lord meinte, ihr sollt nicht feilschen sondern alles zahlen was sie verlangen.
 
+
 Das Ding muss ihm also sehr wichtig sein.
+
 
 Am Abend wartet ihr auf ihn wie abgesprochen in einem Straßencafe.
 
+
 Doch er taucht nicht auf.
+
 
 Ihr wolltet eigentlich weiter in die nächste größere Stadt, aber jetzt wird es schon so spät, dass keine Kutschen mehr fahren.
 
+
 Ihr müsst also hier übernachten.
+
 
 Da ihr euer ganzes Geld für das Relikt ausgegeben habt, könnt ihr euch keine Unterkunft mieten.
 
+
 Ihr denkt: Wenn uns dieser [Lord_Bixbi](../../../2._Figuren/Lord_Bixbi.md) so hängen lässt, dann soll er uns wenigstens bei sich übernachten lassen.
+
 
 Ihr wisst aber nicht wo er wohnt - also fragt ihr die Leute.
 
+
 Sie kennen zwar den Namen nicht, aber sie wissen, dass in einem Anwesen um die Ecke ein englischer Herr wohnt und beschreiben auch den Weg.
 
+
 Es fängt leicht zu nieseln an.
+
 
 Auf dem Weg dorthin werdet ihr von Straßenkindern überfallen.
 
