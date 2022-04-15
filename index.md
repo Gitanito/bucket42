@@ -4,7 +4,7 @@ The Homebrewery makes the creation and sharing of authentic looking Fifth-Editio
 
 **Try it!** Simply edit the text on the left and watch it *update live* on the right.
 
-[index](Welten/index.md)
+[Plot](Plot.md)
 
 ### Editing and Sharing
 When you create your own homebrew you will be given a *edit url* and a *share url*.  Any changes you make will be automatically saved to the database within a few seconds. Anyone with the edit url will be able to make edits to your homebrew. So be careful about who you share it with.

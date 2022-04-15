@@ -15,5 +15,9 @@
   "simple-embeds",
   "copy-as-html",
   "mrj-text-expand",
-  "folder-note-plugin"
+  "folder-note-plugin",
+  "obsidian-plugin-toc",
+  "obsidian-timelines",
+  "note-refactor-obsidian",
+  "css-snippets"
 ]
