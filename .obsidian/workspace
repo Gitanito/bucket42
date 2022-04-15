@@ -11,7 +11,7 @@
           "state": {
             "file": "Welten/Deseria/1._Stories/Das_Begräbnis/Notizen/Plot.md",
             "mode": "source",
-            "source": true
+            "source": false
           }
         }
       }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "SEARCH_QUERY",
+                "query": "arbeits",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -57,7 +57,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -117,14 +118,14 @@
   "active": "e9163827a054003d",
   "lastOpenFiles": [
     "Welten/Deseria/1._Stories/Das_Begräbnis/Notizen/Plot.md",
+    "Welten/Deseria/4._Locations/Arbeitszimmer.md",
+    "Welten/Deseria/5._Details/Gegenstände/Brief.md",
+    "Welten/Deseria/4._Locations/Straßencafe.md",
+    "Welten/Deseria/5._Details/Gegenstände/Relikt.md",
     "index.md",
     "Welten/Deseria/1._Stories/Das_Begräbnis/Kapitel/Einleitung.md",
     "Welten/Deseria/2._Figuren/Lord_Bixbi.md",
     "Welten/index.md",
-    "Welten/Deseria/4._Locations/Westoman.md",
-    "Welten/Deseria/4._Locations/Treffpunkt.md",
-    "Welten/Deseria/4._Locations/Ruinen_von_Tambuko.md",
-    "Welten/Deseria/2._Figuren/Kutscher.md",
-    "Welten/0. Spieler/0. Spieler.md"
+    "Welten/Deseria/4._Locations/Westoman.md"
   ]
 }

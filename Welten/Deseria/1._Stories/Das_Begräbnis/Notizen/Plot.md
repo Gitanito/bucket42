@@ -4,13 +4,13 @@ Ihr trefft ihn in der Kutsche und er vertraut euch an, dass er Etwas abholen mus
 Er bittet euch, es für ihn zu holen und sich am Abend zu treffen für eine Übergabe. [Einleitung](../Kapitel/Einleitung.md)
 
 
-Ihr holt das Relikt zu einem viel zu teuren Preis - euer ganzes Geld ist weg - aber der Lord meinte, ihr sollt nicht feilschen sondern alles zahlen was sie verlangen.
+Ihr holt das [Relikt](../../../5._Details/Gegenstände/Relikt.md) zu einem viel zu teuren Preis - euer ganzes Geld ist weg - aber der Lord meinte, ihr sollt nicht feilschen sondern alles zahlen was sie verlangen.
 
 
 Das Ding muss ihm also sehr wichtig sein.
 
 
-Am Abend wartet ihr auf ihn wie abgesprochen in einem Straßencafe.
+Am Abend wartet ihr auf ihn wie abgesprochen in einem [Straßencafe](../../../4._Locations/Straßencafe.md).
 
 
 Doch er taucht nicht auf.
@@ -22,7 +22,7 @@ Ihr wolltet eigentlich weiter in die nächste größere Stadt, aber jetzt wird e
 Ihr müsst also hier übernachten.
 
 
-Da ihr euer ganzes Geld für das Relikt ausgegeben habt, könnt ihr euch keine Unterkunft mieten.
+Da ihr euer ganzes Geld für das [Relikt](../../../5._Details/Gegenstände/Relikt.md) ausgegeben habt, könnt ihr euch keine Unterkunft mieten.
 
 
 Ihr denkt: Wenn uns dieser [Lord_Bixbi](../../../2._Figuren/Lord_Bixbi.md) so hängen lässt, dann soll er uns wenigstens bei sich übernachten lassen.
@@ -41,7 +41,7 @@ Auf dem Weg dorthin werdet ihr von Straßenkindern überfallen.
 
 Da ihr kein Geld habt tun sie euch nichts.
 
-Das Relikt interessiert sie nicht (Glück gehabt) - aber es wird beschädigt und zerbricht in 2 Hälften.
+Das [Relikt](../../../5._Details/Gegenstände/Relikt.md) interessiert sie nicht (Glück gehabt) - aber es wird beschädigt und zerbricht in 2 Hälften.
 
 Ihr findet das Haus, läutet und Frau [Anna](../../../2._Figuren/Anna.md) macht euch auf.
 
@@ -51,11 +51,11 @@ Er musste zu dieser Beerdigung - mehr weiß sie auch nicht.
 
 Er bekam am Vormittag einen Brief mit der Einladung.
 
-Ihr dürft natürlich übernachten. Frau Anna richtet auch im Arbeitszimmer von [Lord_Bixbi](../../../2._Figuren/Lord_Bixbi.md) die Couch her.
+Ihr dürft natürlich übernachten. Frau Anna richtet auch im [Arbeitszimmer](../../../4._Locations/Arbeitszimmer.md) von [Lord_Bixbi](../../../2._Figuren/Lord_Bixbi.md) die Couch her.
 
 Ihr wollt gerade das Licht löschen, da fällt euch die Einladung ins Auge: Ganz verschnörkelt steht da: “Erscheinet zur Reise ins ewige Licht - Lady Beth von Grauenschleier verlässt diese Welt um der Gesellschaft der Ahnen zu fröhnen. Heute 2 Stunden nach dem Mittagsschlag. Friedhof ‘Olivengarten’.”
 
-Wenn ihr zweifelt ob es tatsächlich eine Beisetzung ist: Untersucht den Brief - findet dass das Papier komisch bunt ist und die Tinte eher Alltagstinte (grün/blau) ist und die Schrift sehr krakelig. Sieht eher wie eine Geburtstagseinladung als eine Trauer-Karte aus. (Hinweis 1)
+Wenn ihr zweifelt ob es tatsächlich eine Beisetzung ist: Untersucht den [Brief](../../../5._Details/Gegenstände/Brief.md) - findet dass das Papier komisch bunt ist und die Tinte eher Alltagstinte (grün/blau) ist und die Schrift sehr krakelig. Sieht eher wie eine Geburtstagseinladung als eine Trauer-Karte aus. (Hinweis 1)
 
 Wenn ihr nicht zweifelt, dann macht das Licht aus und legt euch schlafen.
 
@@ -65,17 +65,17 @@ In der Nacht hört ihr Poltern vom Gang und eine Frauenstimme fluchen. Ihr denkt
 
 Ihr entdeckt in beiden Fällen, dass der schwere Esstisch vor die Eingangstür geschoben wurde und der schwere Teppich ist verschoben/schief. Sonst nichts Auffälliges.
 
-Am nächsten Morgen steht ihr auf - Bixbi ist noch immer nicht da - Die Luft ist angenehm frisch wie nach einem Regen - ihr wollt euch von Frau Anna verabschieden, aber findet sie nirgends. Im Gang ist immernoch dieses Durcheinander. Trotz Rufen taucht Frau Anna nicht auf. Und eigentlich dachtet ihr (weil das hier so üblich ist) stünde sie schon lange in der Küche und macht Frühstück - doch von Frühstück und Frau Anna keine Spur…
+Am nächsten Morgen steht ihr auf - [Lord_Bixbi](../../../2._Figuren/Lord_Bixbi.md) ist noch immer nicht da - Die Luft ist angenehm frisch wie nach einem Regen - ihr wollt euch von Frau [Anna](../../../2._Figuren/Anna.md) verabschieden, aber findet sie nirgends. Im Gang ist immernoch dieses Durcheinander. Trotz Rufen taucht Frau [Anna](../../../2._Figuren/Anna.md) nicht auf. Und eigentlich dachtet ihr (weil das hier so üblich ist) stünde sie schon lange in der Küche und macht Frühstück - doch von Frühstück und Frau [Anna](../../../2._Figuren/Anna.md) keine Spur…
 
 Wenn ihr den Eingangsbereich untersucht findet ihr lose Dielen halb unter dem schweren Teppich. Ihr könnt den Teppich wegschieben und findet eine Klappe in den Keller.
 
 Offensichtlich ein geheimer Zugang - oder Fluchtweg - oder Vorratsraum - oder Waffenkammer.
 
-Eigentlich geht es auch aber garnichts an was da unten ist - ihr seid ja zu Gast in diesem Haus - und Frau Anna ist sicher nur kurz auf den Markt gegangen und kommt gleich wieder.
+Eigentlich geht es auch aber garnichts an was da unten ist - ihr seid ja zu Gast in diesem Haus - und Frau [Anna](../../../2._Figuren/Anna.md) ist sicher nur kurz auf den Markt gegangen und kommt gleich wieder.
 
 Wenn ihr die Klappe öffnet riecht es nach Verwesung. Ohne Licht könnt ihr nicht da runter.
 
-Ihr sucht nach einer Kerze oder Fackel oder einem Feuerzeug im Haus. Ihr findet eine Öl-Lampe im Arbeitszimmer und ein Feuerzeug in der Küche um sie zu entzünden.
+Ihr sucht nach einer Kerze oder Fackel oder einem Feuerzeug im Haus. Ihr findet eine Öl-Lampe im [Arbeitszimmer](../../../4._Locations/Arbeitszimmer.md) und ein Feuerzeug in der Küche um sie zu entzünden.
 
 Ihr könnt euch immernoch entscheiden das Haus einfach Richtung Friedhof zu verlassen.
 
