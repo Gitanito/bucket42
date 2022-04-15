@@ -1,6 +1,6 @@
-[Lord Bixbi](Lord%20Bixbi.md) muss zu einer Beerdigung einer wichtigen Person. 
+[Lord_Bixbi](../../../2._Figuren/Lord_Bixbi.md) muss zu einer Beerdigung einer wichtigen Person. 
 [Einleitung](../Kapitel/Einleitung.md)
-[Lord Bixbi](../../../2.%20Figuren/Lord%20Bixbi.md)[Anna](../../../2.%20Figuren/Anna.md)
+[Lord_Bixbi](../../../2._Figuren/Lord_Bixbi.md)[Anna](../../../2._Figuren/Anna.md)
 Ihr trefft ihn in der Kutsche und er vertraut euch an, dass er Etwas abholen muss.
 [Einleitung](../Kapitel/Einleitung.md)
 Er bittet euch, es für ihn zu holen und sich am Abend zu treffen für eine Übergabe.
@@ -19,7 +19,7 @@ Ihr müsst also hier übernachten.
 
 Da ihr euer ganzes Geld für das Relikt ausgegeben habt, könnt ihr euch keine Unterkunft mieten.
 
-Ihr denkt: Wenn uns dieser [Lord Bixbi](Lord%20Bixbi.md) so hängen lässt, dann soll er uns wenigstens bei sich übernachten lassen.
+Ihr denkt: Wenn uns dieser [Lord_Bixbi](../../../2._Figuren/Lord_Bixbi.md) so hängen lässt, dann soll er uns wenigstens bei sich übernachten lassen.
 
 Ihr wisst aber nicht wo er wohnt - also fragt ihr die Leute.
 
@@ -33,7 +33,7 @@ Da ihr kein Geld habt tun sie euch nichts.
 
 Das Relikt interessiert sie nicht (Glück gehabt) - aber es wird beschädigt und zerbricht in 2 Hälften.
 
-Ihr findet das Haus, läutet und Frau [Anna](Anna.md) macht euch auf.
+Ihr findet das Haus, läutet und Frau [Anna](../../../2._Figuren/Anna.md) macht euch auf.
 
 Sie weiß auch nicht, wo ihr Herr bleibt und fängt an sich Sorgen zu machen.
 
@@ -41,7 +41,7 @@ Er musste zu dieser Beerdigung - mehr weiß sie auch nicht.
 
 Er bekam am Vormittag einen Brief mit der Einladung.
 
-Ihr dürft natürlich übernachten. Frau Anna richtet auch im Arbeitszimmer von [Lord Bixbi](Lord%20Bixbi.md) die Couch her.
+Ihr dürft natürlich übernachten. Frau Anna richtet auch im Arbeitszimmer von [Lord_Bixbi](../../../2._Figuren/Lord_Bixbi.md) die Couch her.
 
 Ihr wollt gerade das Licht löschen, da fällt euch die Einladung ins Auge: Ganz verschnörkelt steht da: “Erscheinet zur Reise ins ewige Licht - Lady Beth von Grauenschleier verlässt diese Welt um der Gesellschaft der Ahnen zu fröhnen. Heute 2 Stunden nach dem Mittagsschlag. Friedhof ‘Olivengarten’.”
 
@@ -101,7 +101,7 @@ Auch Frau Anna könnte hier gestorben sein.
 
 Geht ihr weiter oder zurück?
 
-Zum Glück dürfte es das einzige Stromkabel der Stadt sein. Strom ist ja noch nicht sooo lange “erfunden”. Sogar das Anwesen von [Lord Bixbi](Lord%20Bixbi.md) hat scheinbar noch keine Stromleitung erhalten - sonst hätten sie ja in der Nacht Glühlampen gehabt und keine Öl-Lampen.
+Zum Glück dürfte es das einzige Stromkabel der Stadt sein. Strom ist ja noch nicht sooo lange “erfunden”. Sogar das Anwesen von [Lord_Bixbi](../../../2._Figuren/Lord_Bixbi.md) hat scheinbar noch keine Stromleitung erhalten - sonst hätten sie ja in der Nacht Glühlampen gehabt und keine Öl-Lampen.
 
 Aber dieses Stromkabel muss ja irgendwohin führen und einen Zweck haben.
 
@@ -113,7 +113,7 @@ Ihr könnt auf euch Aufmerksam machen - ihr habt ja bestimmt etwas längliches d
 
 Es erscheint unrealistisch, dass Frau Anna hier unten ist oder war oder diesen Gang nutzt um einkaufen zu gehen - auch wenn er scheinbar direkt unter einen Markt führt.
 
-Wenn ihr “befreit” werdet, dann steht ihr direkt auf der Veranda von dem Café, in welchem ihr gestern auf [Lord Bixbi](Lord%20Bixbi.md) gewartet habt.
+Wenn ihr “befreit” werdet, dann steht ihr direkt auf der Veranda von dem Café, in welchem ihr gestern auf [Lord_Bixbi](../../../2._Figuren/Lord_Bixbi.md) gewartet habt.
 
 Wenn ihr zurück geht, passt auf dass ihr keine hohen Wellen macht (Probe) um das Wasser nicht wieder unter Strom zu setzen. Steigt wieder heraus und schiebt den Teppich wieder an seine Position. Verlasst das Haus dann Richtung Markt um nach dem Friedhof zu fragen.
 
@@ -143,7 +143,7 @@ Fragt den Gärtner, ob er was von der Beerdigung gestern weiß.
 
 Er wird verneinen - gestern hat keine Beerdigung stattgefunden - das weiß er sicher, denn er müsste ja das Grab herrichten. Er war gestern Nachmittag aber auch gar nicht da sondern zu seiner Schwester gereist - er hatte ja frei. Heute morgen hat er sich aber darüber geärgert, dass 5 Gräber zertrampelt wurden.
 
-Fragt ihn nach [Lord Bixbi](Lord%20Bixbi.md). Er kennt [Lord Bixbi](Lord%20Bixbi.md) nicht - nur hat er gehört, dass ein Englischer Lord hier letzte Woche beerdigt wurde. Das ist sehr ungewöhnlich zu dieser Jahreszeit. Es ist einfach zu heiß. Normalerweise werden Verstorbene noch bis in den Herbst in den Katakomben unter dem Rathaus gelagert und einbalsamiert, bis die Hitze und die Sandstürme vorbei sind und die Trauergäste sicher anreisen können. Es war auch nur EIN Trauergast gekommen, was ihn sehr wunderte - ein sehr gut gekleideter Herr.
+Fragt ihn nach [Lord_Bixbi](../../../2._Figuren/Lord_Bixbi.md). Er kennt [Lord_Bixbi](../../../2._Figuren/Lord_Bixbi.md) nicht - nur hat er gehört, dass ein Englischer Lord hier letzte Woche beerdigt wurde. Das ist sehr ungewöhnlich zu dieser Jahreszeit. Es ist einfach zu heiß. Normalerweise werden Verstorbene noch bis in den Herbst in den Katakomben unter dem Rathaus gelagert und einbalsamiert, bis die Hitze und die Sandstürme vorbei sind und die Trauergäste sicher anreisen können. Es war auch nur EIN Trauergast gekommen, was ihn sehr wunderte - ein sehr gut gekleideter Herr.
 
 Er fügt hinzu, dass er sich aber mit den lokalen Gegebenheiten noch nicht so gut auskennt. Er ist erst seit etwa 1 Jahr der Gärtner. Sein Vorgänger hatte sich wohl erhängt - auch dieser war nur 1 Jahr hier. Die anderen Vorgänger sind wohl einfach verschwunden und wurden nie wieder gesehen. Ob diese noch leben weiß niemand.
 
