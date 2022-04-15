@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Welcome to the World of nerdness.md",
+            "file": "index.md",
             "mode": "source",
             "source": true
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome to the World of nerdness.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
   },
   "active": "e9163827a054003d",
   "lastOpenFiles": [
-    "Welcome to the World of nerdness.md",
+    "index.md",
     "Welten/Deseria/1._Stories/Das_Begräbnis/Notizen/Plot.md",
     "Welten/Deseria/1._Stories/Das_Begräbnis/Kapitel/Einleitung.md",
     "Welten/Deseria/2._Figuren/Lord_Bixbi.md",
