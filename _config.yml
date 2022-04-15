@@ -1,5 +1,5 @@
 theme: jekyll-theme-merlot
-baseurl: "/bucket42"
+baseurl: "/"
 url: "" 
 plugins:
   - jekyll-relative-links
