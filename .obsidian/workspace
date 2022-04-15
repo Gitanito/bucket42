@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Bixbi",
+                "query": "tag:#ddd",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,7 +84,7 @@
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -95,22 +95,32 @@
               "type": "todo",
               "state": {}
             }
+          },
+          {
+            "id": "ec8b846421971524",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "30d7731016a7d4c6",
   "lastOpenFiles": [
     "Welten/Deseria/1. Stories/Das Begräbnis/Kapitel/Einleitung.md",
-    "Welten/Deseria/4. Locations/Westoman.md",
-    "Welten/Untitled Kanban.md",
     "Welten/Deseria/1. Stories/Das Begräbnis/Notizen/Plot.md",
     "Welten/Deseria/2. Figuren/Anna.md",
     "Welten/Deseria/2. Figuren/Lord Bixbi.md",
+    "Welten/Deseria/4. Locations/Westoman.md",
+    "Welten/Untitled Kanban.md",
     "Welten/Deseria/4. Locations/Bagdabad.md",
     "Welten/0. Spieler/Spieler 2.md",
     "Welten/0. Spieler/Spieler 1.md",

@@ -1,5 +1,6 @@
 {
   "cssTheme": "Golden Book",
   "baseFontSize": 20,
-  "theme": "moonstone"
+  "theme": "moonstone",
+  "translucency": false
 }
