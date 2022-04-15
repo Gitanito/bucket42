@@ -14,5 +14,7 @@
     "downscalePercent": 100
   },
   "defaultViewMode": "source",
-  "promptDelete": false
+  "promptDelete": false,
+  "newFileLocation": "current",
+  "newLinkFormat": "relative"
 }

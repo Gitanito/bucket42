@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Welten/Deseria/1. Stories/Das Begräbnis/Kapitel/Einleitung.md",
+            "file": "Welten/Deseria/1. Stories/Das Begräbnis/Notizen/Plot.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welten/Deseria/1. Stories/Das Begräbnis/Kapitel/Einleitung.md",
+                "file": "Welten/Deseria/1. Stories/Das Begräbnis/Notizen/Plot.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,9 +116,9 @@
   },
   "active": "e9163827a054003d",
   "lastOpenFiles": [
-    "Welten/Deseria/1. Stories/Das Begräbnis/Kapitel/Einleitung.md",
     "Welten/Deseria/1. Stories/Das Begräbnis/Notizen/Plot.md",
     "index.md",
+    "Welten/Deseria/1. Stories/Das Begräbnis/Kapitel/Einleitung.md",
     "Welten/index.md",
     "Welten/Deseria/4. Locations/Westoman.md",
     "Welten/Deseria/4. Locations/Treffpunkt.md",

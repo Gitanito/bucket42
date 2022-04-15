@@ -1,5 +1,5 @@
 [Lord Bixbi](Lord%20Bixbi.md) muss zu einer Beerdigung einer wichtigen Person. 
-[[Einleitung]]
+[Einleitung](../Kapitel/Einleitung.md)
 
 Ihr trefft ihn in der Kutsche und er vertraut euch an, dass er Etwas abholen muss.
 
