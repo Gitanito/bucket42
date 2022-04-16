@@ -9,9 +9,10 @@ So have fun and lot of incredible hours playing!!!
 
 ## Content
 ### Deseria / Das Begräbnis
-[Interactive](Downloads/Deseria/index.html) (german/deutsch)
-[One-Pager](Downloads/Deseria/full.html) (german/deutsch)
-[PDF](Downloads/Deseria/deseria_1.pdf) (german/deutsch)
+- [Interactive](Downloads/Deseria/index.html) (german/deutsch)
+- [One-Pager](Downloads/Deseria/full.html) (german/deutsch)
+- [PDF](Downloads/Deseria/deseria_1.pdf) (german/deutsch)
+
 
 ## External links
 
