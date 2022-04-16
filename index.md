@@ -1,4 +1,4 @@
-# Welcome to the World of nerdness
+# Welcome to the World of nerdiness
 This page is created in two Languages: English and German. That is for purpose. Because in the RPG-Universe nearly everything is written in english - not bad for adults. But i wanted to play with my kids. I was searching month for good content in written in german or kid-friendly content that can be translated on the fly. It was nearly impossible to find something playable. 
 
 I thougth by my self: If I can't find any good content - other parents have the same problem. So the amazing stories and plots for kids will never be played with german-speaking kids.
@@ -8,7 +8,10 @@ Some stories are free to play - some other can be purchased.
 So have fun and lot of incredible hours playing!!!
 
 ## Content
-[Deseria / Das Begräbnis](Welten/Deseria/1._Stories/Das_Begräbnis/Notizen/Plot.md) (german/deutsch)
+### Deseria / Das Begräbnis
+[Interactive](Downloads/Deseria/index.html) (german/deutsch)
+[One-Pager](Downloads/Deseria/full.html) (german/deutsch)
+[PDF](Downloads/Deseria/deseria_1.pdf) (german/deutsch)
 
 ## External links
 
