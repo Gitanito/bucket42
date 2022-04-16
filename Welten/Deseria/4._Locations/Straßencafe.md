@@ -1,3 +1,0 @@
-# Strassencafe
-
-Besser gehts nicht

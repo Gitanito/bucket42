@@ -1,33 +1,29 @@
 {
   "main": {
-    "id": "aaa50c0e4a485ba2",
+    "id": "c59221f20607c7c8",
     "type": "split",
     "children": [
       {
-        "id": "e9163827a054003d",
+        "id": "d541a27b62de677c",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Welten/Deseria/1._Stories/Das_Begräbnis/Notizen/Plot.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "1223dc17c021d499",
+    "id": "80e29d743ef6e90d",
     "type": "split",
     "children": [
       {
-        "id": "f9e5ada47efd1077",
+        "id": "4b17f39653946a97",
         "type": "tabs",
         "children": [
           {
-            "id": "2da10876c4526be7",
+            "id": "c8b5f27abdec8cb6",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -35,12 +31,12 @@
             }
           },
           {
-            "id": "877be8b1f95ac8a7",
+            "id": "bbc08d0dcbe1cbcb",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "arbeits",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -48,63 +44,34 @@
                 "sortOrder": "alphabetical"
               }
             }
-          },
-          {
-            "id": "4bd775437d946c5b",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
   "right": {
-    "id": "a6f6b16e6e07324d",
+    "id": "abb10a44d056ab4a",
     "type": "split",
     "children": [
       {
-        "id": "f537034c70f1609a",
+        "id": "c5b49bd8c544a815",
         "type": "tabs",
         "children": [
           {
-            "id": "b9e8c45404910457",
+            "id": "14b56ea181ad1e17",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welten/Deseria/1._Stories/Das_Begräbnis/Notizen/Plot.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
-              }
-            }
-          },
-          {
-            "id": "5bf7b81459fa8576",
-            "type": "leaf",
-            "state": {
-              "type": "todo",
-              "state": {}
-            }
-          },
-          {
-            "id": "ec8b846421971524",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
+                "unlinkedCollapsed": true
               }
             }
           }
@@ -115,17 +82,6 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e9163827a054003d",
-  "lastOpenFiles": [
-    "Welten/Deseria/1._Stories/Das_Begräbnis/Notizen/Plot.md",
-    "Welten/Deseria/4._Locations/Arbeitszimmer.md",
-    "Welten/Deseria/5._Details/Gegenstände/Brief.md",
-    "Welten/Deseria/4._Locations/Straßencafe.md",
-    "Welten/Deseria/5._Details/Gegenstände/Relikt.md",
-    "index.md",
-    "Welten/Deseria/1._Stories/Das_Begräbnis/Kapitel/Einleitung.md",
-    "Welten/Deseria/2._Figuren/Lord_Bixbi.md",
-    "Welten/index.md",
-    "Welten/Deseria/4._Locations/Westoman.md"
-  ]
+  "active": "d541a27b62de677c",
+  "lastOpenFiles": []
 }

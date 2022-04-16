@@ -1,1 +1,0 @@
-Traurige abgemagerte Gestalt
