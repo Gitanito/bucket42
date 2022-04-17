@@ -184,7 +184,7 @@ include "pd.php";
 include "pde.php";
 
 
-renderFile('index.html',$startfile_rel_path,$startfile_rel_path);
+renderFile('interactive.html',$startfile_rel_path,$startfile_rel_path);
 
 $out = $GLOBALS['start'];
 
@@ -203,11 +203,15 @@ $out .= $GLOBALS['end'];
 $fullfilename = str_replace('Downloads', '', preg_replace('$[\W]$','',$GLOBALS['output_path']));
 
   file_put_contents($GLOBALS['output_path'].$fullfilename.'.html', $out);
+  echo 'Open "http://localhost/bucket42/'.$GLOBALS['output_path'].$fullfilename.'.html" in your Browser and print to a PDF'.PHP_EOL; 
+  
+  
+  //exec('wkhtmltopdf -B 0 -L 0 -R 0 -T 0 -s A4 --background --images --no-footer-line --no-header-line --dpi 300 --enable-smart-shrinking "http://localhost/bucket42/'.$GLOBALS['output_path'].$fullfilename.'.html" "'.$GLOBALS['output_path'].$fullfilename.'.pdf"');
   
 $md = "# ".$name_story.PHP_EOL;
 $md .= "## Welt: ".$name_world.PHP_EOL;
 
-$md .= "[Interaktiv](index.html)".PHP_EOL;
+$md .= "[Interaktiv](interactive.html)".PHP_EOL;
 $md .= "[Einseiter](".$fullfilename.".html)".PHP_EOL;
 $md .= "[PDF](".$fullfilename.".pdf)".PHP_EOL;
   file_put_contents($GLOBALS['output_path'].'index.md', $md);
