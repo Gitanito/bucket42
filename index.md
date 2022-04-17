@@ -9,7 +9,7 @@ So have fun and lot of incredible hours playing!!!
 
 ## Content
 
-[### Deseria / Das Begräbnis](Downloads/Deseria/Begraebnis/index.md)
+[Deseria / Das Begräbnis](Downloads/Deseria/Begraebnis/index.md)
 
 ## External links
 
