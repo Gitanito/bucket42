@@ -1,0 +1,35 @@
+---
+
+kanban-plugin: basic
+
+---
+
+## Spieler
+
+- [ ] [Spieler 1](88.%20Spiel/16.4.22/Spieler/Spieler%201.md) #Rasse/Halbling
+- [ ] [Spieler 2](88.%20Spiel/16.4.22/Spieler/Spieler%202.md) #RasseMensch
+
+
+## Figuren
+
+- [ ] [Lord Bixbi](../../../2.%20Figuren/Lord%20Bixbi.md)
+- [ ] [Anna](../../../2.%20Figuren/Anna.md)
+- [ ] [Kutscher](../../../2.%20Figuren/Kutscher.md)
+
+
+## Locations
+
+- [ ] [Straßencafe](../../../4.%20Locations/Straßencafe.md)
+- [ ] [Westoman](../../../4.%20Locations/Westoman.md)
+- [ ] [Arbeitszimmer](../../../4.%20Locations/Arbeitszimmer.md)
+- [ ] [Ruinen von Tambuko](../../../4.%20Locations/Ruinen%20von%20Tambuko.md)
+- [ ] [Bagdabad](../../../4.%20Locations/Bagdabad.md)
+
+
+
+
+%% kanban:settings
+```
+{"kanban-plugin":"basic","new-card-insertion-method":"prepend","new-note-folder":"/","hide-tags-in-title":true,"show-checkboxes":false}
+```
+%%
