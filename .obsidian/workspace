@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Welten/Deseria/88. Spiel/16.4.22/Spieler/Spieler 1.md",
+            "file": "index.md",
             "mode": "source",
             "backlinks": true,
             "source": true
@@ -58,8 +58,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -79,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welten/Deseria/88. Spiel/16.4.22/Spieler/Spieler 1.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,6 +117,7 @@
   },
   "active": "b3b7d14984359e9c",
   "lastOpenFiles": [
+    "index.md",
     "Welten/Deseria/88. Spiel/16.4.22/Spieler/Spieler 1.md",
     "Welten/Deseria/1. Stories/Das Begraebnis/Kapitel/Einleitung.md",
     "Welten/Deseria/1. Stories/Das Begraebnis/Notizen/Plot.md",
@@ -126,7 +126,6 @@
     "Welten/Deseria/4. Locations/Keller.md",
     "Welten/Deseria/4. Locations/Bagdabad.md",
     "Welten/Deseria/4. Locations/Arbeitszimmer.md",
-    "Welten/Deseria/2. Figuren/Lord Bixbi.md",
-    "Welten/Deseria/2. Figuren/Kutscher.md"
+    "Welten/Deseria/2. Figuren/Lord Bixbi.md"
   ]
 }
