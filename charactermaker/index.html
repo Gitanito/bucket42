@@ -69,13 +69,13 @@
                 if (last_topic != m[1]) {
                   $('#' + c.replaceAll("__x", "")).addClass('li-active');
                 }
-                $('#' + c.replaceAll("__x", "") + '_v').html(m[1]);
+                $('#' + c.replaceAll("__x", "") + '_v').val(m[1]);
               } else if (c.includes("_Skill")) { // Activate Skill
                 //console.log(last_topic + "!=" +  m[1] + ' ' + c);
                 if (last_topic != m[1]) {
                   $('#' + c).addClass('li-active');
                 }
-                $('#' + c + '_v').html(m[1]);
+                $('#' + c + '_v').val(m[1]);
               } else if (c.includes("_Checks")) { // Activate Skill
                 //console.log(last_topic + "=" +  m[1] + ' ' + c);
                 last_topic = m[1];
@@ -201,7 +201,7 @@
             
             <div class="col-6">
               <ul>
-                <li id="Athletics_Skill"><span class="lang">Atletik</span> (<span id="Athletics_Skill_v"></span>)</li>
+                <li id="Athletics_Skill"><span class="lang">Atletik</span> (<input style="width:20px;" id="Athletics_Skill_v" value="">)</li>
                 <li class="li-active"><span class="lang" data-lang="Carrying">Tragen</span>: <input style="width:25px;" id="Maximum_Carrying_Capacity" value=""> lbs.</li>
                 <li class="li-active"><span class="lang" data-lang="Push-Drag-Lift">Heben</span>: <input style="width:25px;" id="Maximum_Lift" value=""> lbs.</li>
               </ul>
@@ -218,9 +218,9 @@
             
             <div class="col-6">
               <ul>
-                <li id="Acrobatics_Skill"><span class="lang" data-lang="Acrobatics">Akrobatik</span> (<span id="Acrobatics_Skill_v"></span>)</li>
-                <li id="Sleight_of_Hand_Skill"><span class="lang" data-lang="Sleight of Hand">Fingerfertigkeit</span> (<span id="Sleight_of_Hand_Skill_v"></span>)</li>
-                <li id="Stealth_Skill"><span class="lang" data-lang="Stealth">Heimlichkeit</span> (<span id="Stealth_Skill_v"></span>)</li>
+                <li id="Acrobatics_Skill"><span class="lang" data-lang="Acrobatics">Akrobatik</span> (<input style="width:20px;" id="Acrobatics_Skill_v" value="">)</li>
+                <li id="Sleight_of_Hand_Skill"><span class="lang" data-lang="Sleight of Hand">Fingerfertigkeit</span> (<input style="width:20px;" id="Sleight_of_Hand_Skill_v" value="">)</li>
+                <li id="Stealth_Skill"><span class="lang" data-lang="Stealth">Heimlichkeit</span> (<input style="width:20px;" id="Stealth_Skill_v" value="">)</li>
               </ul>
             </div>
             
@@ -409,16 +409,16 @@
         
         <div class="col-3">
           <ul>
-            <li id="Arcana_Skill"><span class="lang" data-lang="Arcana">Arkane Kunde</span> (<span id="Arcana_Skill_v"></span>)</li>
-            <li id="History_Skill"><span class="lang" data-lang="History">Geschichte</span> (<span id="History_Skill_v"></span>)</li>
-            <li id="Investigation_Skill"><span class="lang" data-lang="Investigation">Nachforschung</span> (<span id="Investigation_Skill_v"></span>)</li>
+            <li id="Arcana_Skill"><span class="lang" data-lang="Arcana">Arkane Kunde</span> (<input style="width:20px;" id="Arcana_Skill_v" value="">)</li>
+            <li id="History_Skill"><span class="lang" data-lang="History">Geschichte</span> (<input style="width:20px;" id="History_Skill_v" value="">)</li>
+            <li id="Investigation_Skill"><span class="lang" data-lang="Investigation">Nachforschung</span> (<input style="width:20px;" id="Investigation_Skill_v" value="">)</li>
           </ul>
         </div>
         
         <div class="col-3">
           <ul>
-            <li id="Nature_Skill"><span class="lang" data-lang="Nature">Naturkunde</span> (<span id="Nature_Skill_v"></span>)</li>
-            <li id="Religion_Skill"><span class="lang" data-lang="Religion">Religion</span> (<span id="Religion_Skill_v"></span>)</li>
+            <li id="Nature_Skill"><span class="lang" data-lang="Nature">Naturkunde</span> (<input style="width:20px;" id="Nature_Skill_v" value="">)</li>
+            <li id="Religion_Skill"><span class="lang" data-lang="Religion">Religion</span> (<input style="width:20px;" id="Religion_Skill_v" value="">)</li>
           </ul>
         </div>
         
@@ -445,16 +445,16 @@
         
         <div class="col-3">
           <ul>
-            <li id="Animal_Handling_Skill"><span class="lang" data-lang="Animal Handling">Tiere verstehen</span> (<span id="Animal_Handling_Skill_v"></span>)</li>
-            <li id="Insight_Skill"><span class="lang" data-lang="Insight">Motiv erkennen</span> (<span id="Insight_Skill_v"></span>)</li>
-            <li id="Medicine_Skill"><span class="lang" data-lang="Medicine">Heilkunde</span> (<span id="Medicine_Skill_v"></span>)</li>
+            <li id="Animal_Handling_Skill"><span class="lang" data-lang="Animal Hndlng">Tiere verstehen</span> (<input style="width:20px;" id="Animal_Handling_Skill_v" value="">)</li>
+            <li id="Insight_Skill"><span class="lang" data-lang="Insight">Motiv erkennen</span> (<input style="width:20px;" id="Insight_Skill_v" value="">)</li>
+            <li id="Medicine_Skill"><span class="lang" data-lang="Medicine">Heilkunde</span> (<input style="width:20px;" id="Medicine_Skill_v" value="">)</li>
           </ul>
         </div>
         
         <div class="col-3">
           <ul>
-            <li id="Perception_Skill"><span class="lang" data-lang="Perception">Wahrnehmung</span> (<span id="Perception_Skill_v"></span>)</li>
-            <li id="Survival_Skill"><span class="lang" data-lang="Survival">Überlebenskunst</span> (<span id="Survival_Skill_v"></span>)</li>
+            <li id="Perception_Skill"><span class="lang" data-lang="Perception">Wahrnehmung</span> (<input style="width:20px;" id="Perception_Skill_v" value="">)</li>
+            <li id="Survival_Skill"><span class="lang" data-lang="Survival">Überlebenskunst</span> (<input style="width:20px;" id="Survival_Skill_v" value="">)</li>
           </ul>
         </div>
         
@@ -481,10 +481,10 @@
         
         <div class="col-3">
           <ul>
-            <li id="Deception_Skill"><span class="lang" data-lang="Deception">Täuschung</span> (<span id="Deception_Skill_v"></span>)</li>
-            <li id="Intimidation_Skill"><span class="lang" data-lang="Intimidation">Einschüchtern</span> (<span id="Intimidation_Skill_v"></span>)</li>
-            <li id="Performance_Skill"><span class="lang" data-lang="Performance">Auftreten</span> (<span id="Performance_Skill_v"></span>)</li>
-            <li id="Persuasion_Skill"><span class="lang" data-lang="Persuasion">Überzeugen</span> (<span id="Persuasion_Skill_v"></span>)</li>
+            <li id="Deception_Skill"><span class="lang" data-lang="Deception">Täuschung</span> (<input style="width:20px;" id="Deception_Skill_v" value="">)</li>
+            <li id="Intimidation_Skill"><span class="lang" data-lang="Intimidation">Einschüchtern</span> (<input style="width:20px;" id="Intimidation_Skill_v" value="">)</li>
+            <li id="Performance_Skill"><span class="lang" data-lang="Performance">Auftreten</span> (<input style="width:20px;" id="Performance_Skill_v" value="">)</li>
+            <li id="Persuasion_Skill"><span class="lang" data-lang="Persuasion">Überzeugen</span> (<input style="width:20px;" id="Persuasion_Skill_v" value="">)</li>
           </ul>
         </div>
         
