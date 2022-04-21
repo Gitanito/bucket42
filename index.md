@@ -9,7 +9,8 @@ So have fun and lot of incredible hours playing!!!
 
 ## Content
 
-![DnD Character-Card Maker for Kids](charactermaker/index.html)
+
+[DnD Character-Card Maker for Kids](charactermaker/index.html)
 
 ## External links
 
