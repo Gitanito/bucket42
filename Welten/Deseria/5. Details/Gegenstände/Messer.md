@@ -1,0 +1,1 @@
+Ein großes glattes Küchenmesser

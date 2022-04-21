@@ -1,18 +1,49 @@
-### Der Kutscher
-Traurige abgemagerte Gestalt
+---
+tags: npc typ/Arbeiter relevanz/Ja
+---
+## Kutscher
 
-- [x] Test ✅ 2022-04-16
-- [ ] LAla
+
+<div class='descriptive'>
+
+- **Typ: **Arbeiter 
+- **Relevant: **Ja
+
+</div>
 
 
->##### PDF Exporting
-> PDF Printing works best in Chrome. If you are having quality/consistency issues, try using Chrome to print instead.
+___
+> ## Kutscher
+>*Trauriger dreckiger Typ*
+> ___
+> - **Rüstungsklasse** 4
+> - **Trefferpunkte** 12
+> - **Bewegungsrate** 30m.
+> 
+>___
+>|STK|GES|KON|INT|WSH|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|18 (+4)|13 (+1)|7 (-2)|5 (-3)|13 (+1)|1 (-5)|
+>___
 >
-> After clicking the "Print" item in the navbar a new page will open and a print dialog will pop-up.
-> * Set the **Destination** to "Save as PDF"
-> * Set **Paper Size** to "Letter"
-> * If you are printing on A4 paper, make sure to have the "A4 page size snippet" in your brew
-> * In **Options** make sure "Background Images" is selected.
-> * Hit print and enjoy! You're done!
+> - **Empfindlichkeiten** Luftzug
+> - **Fertigkeiten** Sehr langsam Pfeifen
+> - **Sprachen** 
+> - **Stufe** 3
 >
-> If you want to save ink or have a monochrome printer, add the **Ink Friendly** snippet to your brew before you print
+> ___
+> 
+> ### Actions
+>  
+
+
+
+### Trauriger dreckiger Typ
+
+Der schmutzigste Typ, der euch seit langem begegnet ist. Lange graue Haare verpesten die Luft in der Kutsche. 
+Er scheint traurig zu sein, aber da er nicht spricht kanns eh jedem egal sein...
+
+```
+```
+![](../99._Attachements/Characters/jpg/12eb893d2bbfaffd.jpeg)
+

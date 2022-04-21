@@ -1,6 +1,10 @@
 {
-  "cssTheme": "Golden Coffee",
-  "baseFontSize": 21,
+  "cssTheme": "Solarized",
+  "baseFontSize": 23,
   "theme": "moonstone",
-  "translucency": false
+  "translucency": false,
+  "textFontFamily": "",
+  "enabledCssSnippets": [
+    "critical"
+  ]
 }

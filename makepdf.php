@@ -51,19 +51,23 @@
   $end = '</body></html>';
   
 
-function findAndReplaceAllLinks($text) {
+function findAndReplaceAllLinks($text, $relpath) {
 
   // find and replace images
   $list_found = ['<img src="'];
   $list_img_replace = ['<img class="mini" src="'];
   $list_ = explode('<img src="', $text);
+  $relpath_ = explode('/',$relpath);
+  unset($relpath_[sizeof($relpath_)-1]);
+  $relpath = join('/',$relpath_).'/'; 
+  
   foreach($list_ as $k => $v) {
     if ($k > 0) {
       $t = explode('"', $v);
       if (!in_array($t[0], $list_found)) {
         $list_found[] = $t[0];
-        $imageData = base64_encode(file_get_contents(str_replace('%20',' ',$GLOBALS['base_rel_path'].$t[0])));
-        $src = 'data:' . mime_content_type(str_replace('%20',' ',$GLOBALS['base_rel_path'].$t[0])) . ';base64,' . $imageData;
+        $imageData = base64_encode(file_get_contents(str_replace('%20',' ',$relpath.$t[0])));
+        $src = 'data:' . mime_content_type(str_replace('%20',' ',$relpath.$t[0])) . ';base64,' . $imageData;
         $list_img_replace[] = $src;
       }
     }
@@ -106,7 +110,10 @@ function makeHeader($path, $text) {
       $tags[] = ucwords(str_replace('/', ': ', $e));
     }
     $newtext_ = explode('---', $trimmed);
-    $trimmed = trim($newtext_[sizeof($newtext_)-1]);
+    unset($newtext_[0]);
+    unset($newtext_[1]);
+    
+    $trimmed = trim(join('---',$newtext_));
   }
   
   if (!in_array(substr($trimmed, 0, 2), ['# ','##'])) {
@@ -118,7 +125,7 @@ function makeHeader($path, $text) {
   $out .= $trimmed.PHP_EOL.PHP_EOL;
   
   foreach($tags as $tag) {
-    $out .= '> '.$tag.'<br>'.PHP_EOL;
+    //$out .= '> '.$tag.'<br>'.PHP_EOL;
   }
   
   return $out;
@@ -137,9 +144,9 @@ function renderFile($name, $path, $fn) {
 
   $out = $GLOBALS['start'];
 
-  $linklist = findAndReplaceAllLinks($rendered);
+  $linklist = findAndReplaceAllLinks($rendered,$path);
   
-  $replacer_s = ['/pagebreak','[ ] ','[x] '];
+  $replacer_s = ['\page','[ ] ','[x] '];
   $replacer_r = ['</div><div class="phb page">','<input type=checkbox /> ','<input type=checkbox checked /> '];
    
    $mycontent = str_replace($replacer_s, $replacer_r, $linklist[0] );

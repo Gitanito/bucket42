@@ -1,7 +1,7 @@
 {
   "outputDirectory": "/",
   "templateFilename": "{{title}}",
-  "inputFieldList": "title,body",
+  "inputFieldList": "title",
   "textReplacementTemplate": "[[{{title}}]]",
   "templateDirectory": "Welten/templates",
   "replaceSelection": "always",

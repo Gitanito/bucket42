@@ -24,5 +24,7 @@
   "obsidian-csv-table",
   "obsidian-card-view-mode",
   "obsidian-notes-from-template",
-  "obsidian-tagfolder"
+  "obsidian-tagfolder",
+  "cmenu-plugin",
+  "text-snippets-obsidian"
 ]

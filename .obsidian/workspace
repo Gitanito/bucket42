@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "b3b7d14984359e9c",
+        "id": "0c152541eae90c33",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Downloads/Deseria/Begraebnis/index.md",
+            "file": "index.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "rasse",
+                "query": "tag:#maka/tori",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Downloads/Deseria/Begraebnis/index.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,14 +87,6 @@
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
               }
-            }
-          },
-          {
-            "id": "5bf7b81459fa8576",
-            "type": "leaf",
-            "state": {
-              "type": "todo",
-              "state": {}
             }
           },
           {
@@ -107,25 +99,34 @@
                 "useHierarchy": true
               }
             }
+          },
+          {
+            "id": "75ca46af6443e631",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 281,
+    "collapsed": true
   },
-  "active": "b3b7d14984359e9c",
+  "active": "0c152541eae90c33",
   "lastOpenFiles": [
-    "Downloads/Deseria/Begraebnis/index.md",
-    "Welten/Deseria/1. Stories/Das Begraebnis/Notizen/Plot.md",
     "index.md",
-    "Welten/Deseria/88. Spiel/16.4.22/Spieler/Spieler 1.md",
     "Welten/Deseria/1. Stories/Das Begraebnis/Kapitel/Einleitung.md",
-    "Welten/Deseria/4. Locations/Ruinen von Tambuko.md",
-    "Welten/Deseria/4. Locations/Küche.md",
-    "Welten/Deseria/4. Locations/Keller.md",
+    "Welten/Deseria/3. Events und Ereignisse/DSDSH.md",
+    "Welten/Deseria/3. Events und Ereignisse/Prozession des heiligen Hasen.md",
+    "Welten/Deseria/4. Locations/Arbeitszimmer.md",
     "Welten/Deseria/4. Locations/Bagdabad.md",
-    "Welten/Deseria/4. Locations/Arbeitszimmer.md"
+    "Welten/Deseria/4. Locations/Keller.md",
+    "Welten/Deseria/4. Locations/Küche.md",
+    "Welten/Deseria/4. Locations/Prickelns.md",
+    "Welten/Deseria/4. Locations/Ruinen von Tambuko.md"
   ]
 }

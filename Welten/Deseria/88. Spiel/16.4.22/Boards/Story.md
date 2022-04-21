@@ -9,8 +9,9 @@ kanban-plugin: basic
 - [ ] Untersuche [Einladung](../../../5.%20Details/Gegenstände/Einladung.md)
 - [ ] Finde den [Keller](../../../4.%20Locations/Keller.md)
 - [ ] Hole das [Relikt](../../../5.%20Details/Gegenstände/Relikt.md)
-- [ ] Finde [[Messer]] in [Küche](../../../4.%20Locations/Küche.md)
-- [ ] In [[../../../4. Locations/Keller]] säubere Abfluss mit [[Messer]]
+- [ ] Finde [Messer](../../../5.%20Details/Gegenstände/Messer.md) in [Küche](../../../4.%20Locations/Küche.md)
+- [ ] Finde [Prickelns](../../../4.%20Locations/Prickelns.md) in der [Küche](../../../4.%20Locations/Küche.md)
+- [ ] In [Keller](../../../4.%20Locations/Keller.md) säubere Abfluss mit [Messer](../../../5.%20Details/Gegenstände/Messer.md)
 
 
 ## In Progress

@@ -12,7 +12,7 @@ kanban-plugin: basic
 
 ## Figuren
 
-- [ ] [Lord Bixbi](../../../2.%20Figuren/Lord%20Bixbi.md)
+- [ ] [Lord Van Na-Bi](../../../2.%20Figuren/Lord%20Van%20Na-Bi.md)
 - [ ] [Anna](../../../2.%20Figuren/Anna.md)
 - [ ] [Kutscher](../../../2.%20Figuren/Kutscher.md)
 
