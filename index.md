@@ -82,7 +82,7 @@ No Downloads available at the moment
 
 ### Just testing
 
-```
+```mermaid
 stateDiagram-v2  
     [*] --> Active  
   
