@@ -80,12 +80,3 @@ So have fun and lot of incredible hours playing!!!
 No Downloads available at the moment
 
 
-### Just testing
-
-```mermaid
-  graph TD;
-      A-->B;
-      A-->C;
-      B-->D;
-      C-->D;
-```
