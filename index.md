@@ -8,9 +8,8 @@ Some stories are free to play - some other can be purchased.
 So have fun and lot of incredible hours playing!!!
 
 ## My Content
-[DnD Character-Card Maker for Kids](charactermaker/index.html) (DE/EN)
-
-[RPG Animated Maps](https://www.youtube.com/playlist?list=PLoZvZl8dnL9jEpMg-P8Z7ZWCWmdhek2WP)
+- [DnD Character-Card Maker for Kids](charactermaker/index.html) (DE/EN)
+- [RPG Animated Maps](https://www.youtube.com/playlist?list=PLoZvZl8dnL9jEpMg-P8Z7ZWCWmdhek2WP)
 
 
 ## External links
