@@ -15,7 +15,7 @@ So have fun and lot of incredible hours playing!!!
 
 ## External links
 ### Character building
-- [Fast Character | D&D Character Creator](https://fastcharacter.com/)
+- [Fast Character D&D Character Creator](https://fastcharacter.com/)
 - [Briar Lantern - Cute Character-Sheets](http://briarlantern.com/cute-character-sheets/)
 - [Vorgefertigte Charaktere – D3: Dungeons & Dragons auf Deutsch](https://www.dnddeutsch.de/vorgefertigte-charaktere/)
 - [Character Sheets & Other Resources – 5th Edition SRD](https://www.5esrd.com/tools-resources/character-sheets/)
@@ -27,7 +27,7 @@ So have fun and lot of incredible hours playing!!!
 - [NPCs Archives - Dndspeak](https://www.dndspeak.com/category/npcs/)
 - [The Homebrewery - NaturalCrit](https://homebrewery.naturalcrit.com/)
 - [Dungeon Masters Guild -](https://www.dmsguild.com/)
-- [Rätsel für Kinder und Erwachsene | Raetseldino.de](https://www.raetseldino.de/)
+- [Rätsel für Kinder und Erwachsene Raetseldino.de](https://www.raetseldino.de/)
 - [Kinderrätsel - Kleine Schule](https://www.kleineschule.com.de/raetsel.html)
 - [Rätselgedichte, Rätselreime, Gedichträtsel, Versrätsel](https://www.janko.at/Raetselgedichte/index.htm)
 - [Kategorie:Abenteuer – How to be a Hero](https://howtobeahero.de/index.php?title=Kategorie:Abenteuer)
@@ -43,27 +43,27 @@ So have fun and lot of incredible hours playing!!!
 
 ### Maps
 - [Azgaar's Fantasy Map Generator v1.732](https://azgaar.github.io/Fantasy-Map-Generator/)
-- [Inkarnate - Create Fantasy Maps Online](https://inkarnate.com/)
-- [Complete Mapmaking Pack – Forgotten Adventures](https://www.forgotten-adventures.net/product/map-making/mapmaking-pack/)
-- [deepnight.net | RPG Map](https://deepnight.net/tools/rpg-map/)
-- [Dungeon & Town Cutouts - Map Making for Miniatures](http://www.dndadventure.com/dungeon-master-resources/dungeon-town-cutouts-map-making-miniatures/)
+- [Inkarnate  Create Fantasy Maps Online](https://inkarnate.com/)
+- [Complete Mapmaking Pack Forgotten Adventures](https://www.forgotten-adventures.net/product/map-making/mapmaking-pack/)
+- [deepnight.net RPG Map](https://deepnight.net/tools/rpg-map/)
+- [Dungeon & Town Cutouts  Map Making for Miniatures](http://www.dndadventure.com/dungeon-master-resources/dungeon-town-cutouts-map-making-miniatures/)
 
 ### Miniatures and more
-- [4098 free SVG and PNG icons for your games or apps | Game-icons.net](https://game-icons.net/)
+- [4098 free SVG and PNG icons for your games or apps  Game-icons.net](https://game-icons.net/)
 - [400+ Free Fantasy Weapons & Sword Images](https://pixabay.com/images/search/fantasy%20weapons/)
 - [Easy Dungeons & Dragons Prep for Dungeon Masters](https://geekdad.com/2016/02/easy-dungeon-master-preparation/)
 - [Artbreeder](https://www.artbreeder.com/beta/browse)
 - [Rogue and Ranger Collection! by mz4250 - Thingiverse](https://www.thingiverse.com/thing:2435041)
-- [Bard Collection by mz4250 - Thingiverse](https://www.thingiverse.com/thing:2434314)
-- [3D Printables for Tabletop Games | Make Tabletop](https://maketabletop.com/printables/?tags=monster)
+- [Bard Collection by mz4250  Thingiverse](https://www.thingiverse.com/thing:2434314)
+- [3D Printables for Tabletop Games Make Tabletop](https://maketabletop.com/printables/?tags=monster)
 - [All the 3D models of EmanG • Cults](https://cults3d.com/en/users/EmanG/creations)
 - [Papermaker - Free papercraft software](https://papercraft-maker.com/)
-- [Paper Friends Fantasy Characters Page 02 | Dungeons and dragons miniatures, Dungeons and dragons characters, Dungeons and dragons 5](https://www.pinterest.at/pin/564005553325338415/)
+- [Paper Friends Fantasy Characters Page 02  Dungeons and dragons miniatures, Dungeons and dragons characters, Dungeons and dragons 5](https://www.pinterest.at/pin/564005553325338415/)
 - [ANVL - Custom Miniatures - Create TTRPG Custom Minis](https://anvl.co/)
 - [Eldritch Foundry Custom Miniatures](https://eldritch-foundry.com/)
 - [DesktopHero 2.0](https://beta.desktophero3d.com/)
 - [RPG character creator tool](https://codepen.io/sanchopanza/pen/Bbdyoz)
-- [The Character Creator - Build visually stunning avatars](https://charactercreator.org/#)
+- [The Character Creator  Build visually stunning avatars](https://charactercreator.org/#)
 - [donjon; RPG Tools](https://donjon.bin.sh/)
 
 
