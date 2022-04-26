@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "readme.md.md",
+            "file": "readme.md",
             "mode": "source",
             "backlinks": true,
             "source": true
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "readme.md.md",
+                "file": "readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
   },
   "active": "2443d354a43e5e9f",
   "lastOpenFiles": [
-    "readme.md.md",
+    "readme.md",
     "index.md",
     "Welten/Deseria/1. Stories/Das Begraebnis/Kapitel/Akt 1.md",
     "Welten/Deseria/1. Stories/Das Begraebnis/Notizen/Plot.md",
