@@ -11,8 +11,9 @@ Das Problem: Die Auditions zu [DSDSH](../../../3.%20Events%20und%20Ereignisse/DS
 Board: [Story](../../../88.%20Spiel/16.4.22/Boards/Story.md)
 
 
-Lies Deinen Spielern die [Einleitung](../Kapitel/Einleitung.md) vor.
+Lies deinen Spielern die [Einleitung](../Kapitel/Einleitung.md) vor.
 
+Startet mit [Akt 1](../Kapitel/Akt%201.md).
 
 
 Ihr holt das [Relikt](../../../5.%20Details/Gegenstände/Relikt.md) zu einem viel zu teuren Preis - euer ganzes Geld ist weg - aber der Lord meinte, ihr sollt nicht feilschen sondern alles zahlen was sie verlangen.

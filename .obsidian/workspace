@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "index.md",
+            "file": "readme.md.md",
             "mode": "source",
             "backlinks": true,
             "source": true
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "readme.md.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,15 +118,15 @@
   },
   "active": "2443d354a43e5e9f",
   "lastOpenFiles": [
+    "readme.md.md",
     "index.md",
-    "Welten/Deseria/1. Stories/Das Begraebnis/Kapitel/Akt 3.md",
-    "Welten/Deseria/5. Details/Gegenstände/Zeitpausierer.md",
+    "Welten/Deseria/1. Stories/Das Begraebnis/Kapitel/Akt 1.md",
+    "Welten/Deseria/1. Stories/Das Begraebnis/Notizen/Plot.md",
     "Welten/Deseria/1. Stories/Das Begraebnis/Kapitel/Akt 2.md",
-    "Welten/Deseria/5. Details/Gegenstände/Messer.md",
-    "Welten/Deseria/5. Details/Gegenstände/Prickels.md",
-    "Welten/Deseria/5. Details/Gegenstände/Einladung.md",
-    "Welten/Deseria/4. Locations/Küche.md",
-    "Welten/Deseria/4. Locations/Straßencafe.md",
-    "Welten/Deseria/2. Figuren/Kutscher.md"
+    "Welten/Deseria/2. Figuren/Anna.md",
+    "Welten/Deseria/2. Figuren/Lord Van Na-Bi.md",
+    "Welten/Deseria/2. Figuren/Kutscher.md",
+    "Welten/Deseria/2. Figuren/Gärtner.md",
+    "Welten/Deseria/2. Figuren/Beduinen.md"
   ]
 }
