@@ -1,4 +1,4 @@
-# Welcome to the World of nerdiness
+# Welcome to the world of nerdiness
 This page is created in two Languages: English and German. That is for purpose. Because in the RPG-Universe nearly everything is written in english - not bad for adults. But i wanted to play with my kids. I was searching month for good content in written in german or kid-friendly content that can be translated on the fly. It was nearly impossible to find something playable. 
 
 I thougth by my self: If I can't find any good content - other parents have the same problem. So the amazing stories and plots for kids will never be played with german-speaking kids.
@@ -7,9 +7,12 @@ This is why i write my own plots and translate some plots from all over the worl
 Some stories are free to play - some other can be purchased.
 So have fun and lot of incredible hours playing!!!
 
+
+
 ## My Content
 - [DnD Character-Card Maker for Kids](charactermaker/index.html) (DE/EN)
 - [RPG Animated Maps](https://www.youtube.com/playlist?list=PLoZvZl8dnL9jEpMg-P8Z7ZWCWmdhek2WP)
+
 
 
 ## External links
@@ -47,6 +50,7 @@ So have fun and lot of incredible hours playing!!!
 - [deepnight.net RPG Map](https://deepnight.net/tools/rpg-map/)
 - [Dungeon & Town Cutouts  Map Making for Miniatures](http://www.dndadventure.com/dungeon-master-resources/dungeon-town-cutouts-map-making-miniatures/)
 
+
 ### Miniatures and more
 - [4098 free SVG and PNG icons for your games or apps  Game-icons.net](https://game-icons.net/)
 - [400+ Free Fantasy Weapons & Sword Images](https://pixabay.com/images/search/fantasy%20weapons/)
@@ -64,15 +68,6 @@ So have fun and lot of incredible hours playing!!!
 - [RPG character creator tool](https://codepen.io/sanchopanza/pen/Bbdyoz)
 - [The Character Creator  Build visually stunning avatars](https://charactercreator.org/#)
 - [donjon; RPG Tools](https://donjon.bin.sh/)
-
-
-
-
-
-
-
-
-
 
 
 ## Downloads
