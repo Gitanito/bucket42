@@ -8,6 +8,7 @@ section#downloads {display:none !important;}
 header h1 {
   font-size: 4em;
 }
-.container {
-  background-image: url(/assets/logo.webp) no-repeat right top;
+header {
+  background: url(/assets/logo.webp) no-repeat right top;
+  background-size: auto 90%;
 }
