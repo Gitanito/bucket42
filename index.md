@@ -93,3 +93,10 @@ No Downloads available at the moment
 This page is made with love and passion by Gitanito
 ```
 
+```mermaid  
+graph TD;  
+	A --> B;  
+	A --> C;  
+	B --> D;  
+	C --> D;  
+```
