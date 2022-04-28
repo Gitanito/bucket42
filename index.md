@@ -58,6 +58,7 @@ So have fun and lot of incredible hours playing!!!
 - [Complete Mapmaking Pack Forgotten Adventures](https://www.forgotten-adventures.net/product/map-making/mapmaking-pack/)
 - [deepnight.net RPG Map](https://deepnight.net/tools/rpg-map/)
 - [Dungeon & Town Cutouts  Map Making for Miniatures](http://www.dndadventure.com/dungeon-master-resources/dungeon-town-cutouts-map-making-miniatures/)
+- [2-Minute Tabletop – Hand-drawn Maps & Assets for Tabletop RPGs](https://2minutetabletop.com/gallery/)
 
 
 ### Miniatures and more
@@ -77,7 +78,10 @@ So have fun and lot of incredible hours playing!!!
 - [RPG character creator tool](https://codepen.io/sanchopanza/pen/Bbdyoz)
 - [The Character Creator  Build visually stunning avatars](https://charactercreator.org/#)
 - [donjon; RPG Tools](https://donjon.bin.sh/)
-
+- [2-Minute Token Editor](https://tools.2minutetabletop.com/token-editor/)
+- [pixeldudesmaker by 0x72](https://0x72.itch.io/pixeldudesmaker)
+- [PaperDungeonMaker by 0x72](https://0x72.itch.io/paperdungeonmaker)
+- [0x72 - itch.io](https://0x72.itch.io/)
 
 ## Downloads
 No Downloads available at the moment

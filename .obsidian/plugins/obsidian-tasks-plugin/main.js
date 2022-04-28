@@ -8274,10 +8274,10 @@ var require_en = __commonJS({
       return exports.casual.parse(text2, ref, option);
     }
     exports.parse = parse;
-    function parseDate(text2, ref, option) {
+    function parseDate2(text2, ref, option) {
       return exports.casual.parseDate(text2, ref, option);
     }
-    exports.parseDate = parseDate;
+    exports.parseDate = parseDate2;
     function createCasualConfiguration(littleEndian = false) {
       const option = createConfiguration(false, littleEndian);
       option.parsers.unshift(new ENCasualDateParser_1.default());
@@ -8839,10 +8839,10 @@ var require_de = __commonJS({
       return exports.casual.parse(text2, ref, option);
     }
     exports.parse = parse;
-    function parseDate(text2, ref, option) {
+    function parseDate2(text2, ref, option) {
       return exports.casual.parseDate(text2, ref, option);
     }
-    exports.parseDate = parseDate;
+    exports.parseDate = parseDate2;
     function createCasualConfiguration(littleEndian = true) {
       const option = createConfiguration(false, littleEndian);
       option.parsers.unshift(new DECasualTimeParser_1.default());
@@ -9512,10 +9512,10 @@ var require_fr = __commonJS({
       return exports.casual.parse(text2, ref, option);
     }
     exports.parse = parse;
-    function parseDate(text2, ref, option) {
+    function parseDate2(text2, ref, option) {
       return exports.casual.parseDate(text2, ref, option);
     }
-    exports.parseDate = parseDate;
+    exports.parseDate = parseDate2;
     function createCasualConfiguration(littleEndian = true) {
       const option = createConfiguration(false, littleEndian);
       option.parsers.unshift(new FRCasualDateParser_1.default());
@@ -9724,10 +9724,10 @@ var require_ja = __commonJS({
       return exports.casual.parse(text2, ref, option);
     }
     exports.parse = parse;
-    function parseDate(text2, ref, option) {
+    function parseDate2(text2, ref, option) {
       return exports.casual.parseDate(text2, ref, option);
     }
-    exports.parseDate = parseDate;
+    exports.parseDate = parseDate2;
     function createCasualConfiguration() {
       const option = createConfiguration();
       option.parsers.unshift(new JPCasualDateParser_1.default());
@@ -10114,10 +10114,10 @@ var require_pt = __commonJS({
       return exports.casual.parse(text2, ref, option);
     }
     exports.parse = parse;
-    function parseDate(text2, ref, option) {
+    function parseDate2(text2, ref, option) {
       return exports.casual.parseDate(text2, ref, option);
     }
-    exports.parseDate = parseDate;
+    exports.parseDate = parseDate2;
     function createCasualConfiguration(littleEndian = true) {
       const option = createConfiguration(false, littleEndian);
       option.parsers.push(new PTCasualDateParser_1.default());
@@ -10831,10 +10831,10 @@ var require_nl = __commonJS({
       return exports.casual.parse(text2, ref, option);
     }
     exports.parse = parse;
-    function parseDate(text2, ref, option) {
+    function parseDate2(text2, ref, option) {
       return exports.casual.parseDate(text2, ref, option);
     }
-    exports.parseDate = parseDate;
+    exports.parseDate = parseDate2;
     function createCasualConfiguration(littleEndian = true) {
       const option = createConfiguration(false, littleEndian);
       option.parsers.unshift(new NLCasualDateParser_1.default());
@@ -10923,10 +10923,10 @@ var require_dist = __commonJS({
       return exports.casual.parse(text2, ref, option);
     }
     exports.parse = parse;
-    function parseDate(text2, ref, option) {
+    function parseDate2(text2, ref, option) {
       return exports.casual.parseDate(text2, ref, option);
     }
-    exports.parseDate = parseDate;
+    exports.parseDate = parseDate2;
   }
 });
 
@@ -14124,6 +14124,7 @@ var Recurrence = class {
     return text2;
   }
   next() {
+    var _a;
     let next;
     if (this.baseOnToday) {
       const today = window.moment();
@@ -14132,7 +14133,7 @@ var Recurrence = class {
       }));
       next = ruleBasedOnToday.after(today.endOf("day").utc(true).toDate());
     } else {
-      const after = window.moment(this.referenceDate).endOf("day").utc(true);
+      const after = window.moment((_a = this.referenceDate) != null ? _a : void 0).endOf("day").utc(true);
       next = this.rrule.after(after.toDate());
     }
     if (next !== null) {
@@ -14395,10 +14396,12 @@ var _Task = class {
       const textSpan = li.createSpan();
       textSpan.addClass("tasks-list-text");
       yield import_obsidian2.MarkdownRenderer.renderMarkdown(taskAsString, textSpan, this.path, null);
-      const pElement = textSpan.querySelector("p");
+      const blockQuote = textSpan.querySelector("blockquote");
+      const directParentOfPTag = blockQuote != null ? blockQuote : textSpan;
+      const pElement = directParentOfPTag.querySelector("p");
       if (pElement !== null) {
         while (pElement.firstChild) {
-          textSpan.insertBefore(pElement.firstChild, pElement);
+          directParentOfPTag.insertBefore(pElement.firstChild, pElement);
         }
         pElement.remove();
       }
@@ -16206,7 +16209,7 @@ var LivePreviewExtension = class {
 var import_obsidian7 = __toModule(require("obsidian"));
 
 // src/Query.ts
-var import_chrono_node2 = __toModule(require_dist());
+var chrono2 = __toModule(require_dist());
 var Query = class {
   constructor({ source }) {
     this._limit = void 0;
@@ -16573,7 +16576,7 @@ var Query = class {
     }
   }
   parseDate(input) {
-    return window.moment(import_chrono_node2.default.parseDate(input)).startOf("day");
+    return window.moment(chrono2.parseDate(input)).startOf("day");
   }
   stringIncludesCaseInsensitive(haystack, needle) {
     return haystack.toLocaleLowerCase().includes(needle.toLocaleLowerCase());
