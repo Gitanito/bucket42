@@ -88,14 +88,19 @@
 <script>
 	
 	let wordstack = [];
+	let wordstack_newest = [];
 	
 	function newText() {
         let rnd = 0;
+        let mystack = wordstack;
+        if ($('#lol').checked) {
+          mystack = wordstack_newest;
+        }
 	      for( let i = 0; i < 100; i++) {
-          rnd = Math.floor(Math.random() * wordstack.length);
-          if (wordstack[rnd].trim().length > 1) break;
+          rnd = Math.floor(Math.random() * mystack.length);
+          if (mystack[rnd].trim().length > 1) break;
 				}
-				$('#bigtext').html(wordstack[rnd].replace('-','<br>'));
+				$('#bigtext').html(mystack[rnd].replace('-','<br>'));
 	}
 	
 	
@@ -121,6 +126,9 @@
 				for (let a = 0; a < results.data.length; a++) {
             if (results.data[a][0].trim().length > 1) {
               wordstack.push(results.data[a][0].trim());
+              if (results.data[a][1].trim().length > 0) {
+                wordstack_newest.push(results.data[a][0].trim());               
+              } 
             }
 				}
 				
@@ -145,6 +153,7 @@
 	});
 </script>
 <body onMouseDown="newText();">
+  <h2><input type="checkbox" id="lol"><label for="lol"> Nur Neuste</label></h2>
   <h1 id="bigtext"></h1>
 </body>
 </html>
