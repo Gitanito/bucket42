@@ -1,12 +1,7 @@
 <html>
+  <title>2D Lernwörter</title>
 	<script>
-		let slide_minutes = 2;
-		let video_length_minutes = 120;
-		let search_string = "concert";
 		let text_title = "Test";
-		let text_start = "Test2";
-		let text_end = "Test3";
-		let startimage = 5;
 		let config_csv = "https://docs.google.com/spreadsheets/d/1i_1T4xwrgO6Fmjgt8m6UwFidqRs7SXshg-d3BtY___Q/export?format=csv&sheet=1"; 
 	</script>
 	
@@ -84,52 +79,19 @@
 </style>
 <script>
 	
-	
-	function shuffle(array) {
-	  var copy = [], n = array.length, i;
-
-	  // While there remain elements to shuffle…
-	  while (n) {
-
-		// Pick a remaining element…
-		i = Math.floor(Math.random() * array.length);
-
-		// If not already shuffled, move it to the new array.
-		if (i in array) {
-		  copy.push(array[i]);
-		  delete array[i];
-		  n--;
-		}
-	  }
-
-	  return copy;
-	}
-	
-	let API_KEY = '616352-880ec209cc4e8b262c33dd643';
-
-	let secscounter = 0;
-	let imagearray = [];
-	let pixabay_startelement = {};
-	let playing = false;
-	let pic_big = true;
 	let wordstack = [];
 	
 	function newText() {
-        let zufall = "";
-			
+        let rnd = 0;
 	      for( let i = 0; i < 100; i++) {
-          zufall = Math.floor(Math.random() * wordstack.length);
-          let mystr = wordstack[zufall];
-          if (mystr.trim().length > 1) break;
+          rnd = Math.floor(Math.random() * wordstack.length);
+          if (wordstack[rnd].trim().length > 1) break;
 				}
-				
-				$('#bigtext').html(wordstack[zufall]);
+				$('#bigtext').html(wordstack[rnd].replace('-','<br>'));
 	}
 	
 	
 	$(document).ready(function(){
-		
-		
 		Papa.parse(config_csv, { 
 			delimiter: "",	// auto-detect
 			newline: "",	// auto-detect
@@ -149,8 +111,8 @@
 				console.log(results.data);
 				wordstack = [];
 				for (let a = 0; a < results.data.length; a++) {
-            if (results.data[a][0].length > 1) {
-              wordstack.push(results.data[a][0]);
+            if (results.data[a][0].trim().length > 1) {
+              wordstack.push(results.data[a][0].trim());
             }
 				}
 				
@@ -175,11 +137,6 @@
 	});
 </script>
 <body onMouseDown="newText();">
-	<div id="container">
-    <div id="container">
-      <h1 id="bigtext"></h1>
-		</div>
-	</div>
+  <h1 id="bigtext"></h1>
 </body>
-
 </html>
