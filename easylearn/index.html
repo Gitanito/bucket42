@@ -139,7 +139,8 @@
 			
         for( let i = 0; i < 100; i++) {
           zufall = Math.floor(Math.random() * results.data.length);
-          if (results.data[zufall].trim().length > 1) break;
+          let mystr = results.data[zufall];
+          if (mystr.trim().length > 1) break;
 				}
 				
 				$('#bigtext').html(results.data[zufall]);
