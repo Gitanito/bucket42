@@ -119,7 +119,7 @@
 			
 	      for( let i = 0; i < 100; i++) {
           zufall = Math.floor(Math.random() * wordstack.length);
-          let mystr = wordstack[zufall][0];
+          let mystr = wordstack[zufall];
           if (mystr.trim().length > 1) break;
 				}
 				
@@ -147,7 +147,13 @@
 				results.data.shift();
 				
 				console.log(results.data);
-				wordstack = results.data;
+				wordstack = [];
+				for (let a = 0; a < results.data.length; a++) {
+            if (results.data[a][0].length > 1) {
+              wordstack.push(results.data[a][0]);
+            }
+				}
+				
 				newText();
         
 			},
