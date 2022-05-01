@@ -1,7 +1,4 @@
-
-
-
-
+{% include header.html %}
 
 # Welcome to the world of nerdiness
 This page is created in two Languages: English and German. That is for purpose. Because in the RPG-Universe nearly everything is written in english - not bad for adults. But i wanted to play with my kids. I was searching month for good content in written in german or kid-friendly content that can be translated on the fly. It was nearly impossible to find something playable. 
