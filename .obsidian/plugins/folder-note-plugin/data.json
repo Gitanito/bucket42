@@ -1,9 +1,0 @@
-{
-  "folderNoteHide": false,
-  "folderNoteType": "index",
-  "folderNoteName": "index",
-  "folderNoteKey": "ctrl",
-  "folderNoteAutoRename": true,
-  "folderDelete2Note": false,
-  "folderNoteStrInit": "# {{FOLDER_NAME}} \n {{FOLDER_BRIEF_LIVE}} \n"
-}
