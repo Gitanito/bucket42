@@ -1,3 +1,7 @@
+---
+tags: Location/Meetingpoint LocationType/Room Part/Locations
+---
+
 Eklig stinkender Keller.
 Es gibt keinen zweiten Ein-/Ausgang
 

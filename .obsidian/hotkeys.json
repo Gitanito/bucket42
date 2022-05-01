@@ -6,5 +6,14 @@
       ],
       "key": "1"
     }
-  ]
+  ],
+  "editor:toggle-source": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "1"
+    }
+  ],
+  "obsidian-icons-plugin:open-icons-plugin-modal": []
 }

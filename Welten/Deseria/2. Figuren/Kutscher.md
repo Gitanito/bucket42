@@ -1,7 +1,7 @@
 ---
-tags: npc typ/Arbeiter relevanz/Ja
+tags: Part/Person
 ---
-## Kutscher
+# Kutscher
 ![](../99._Attachements/Characters/webp/12eb893d2bbfaffd.webp)
 
 <div class='descriptive'>

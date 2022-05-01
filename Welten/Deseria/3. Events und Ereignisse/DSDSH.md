@@ -1,5 +1,8 @@
-## Desaria Sucht Den SuperHelden
-Vollkommen überbewertete Reality-Show im Colosseum von [Spraburh](../4.%20Locations/Spraburh.md). Junge möchtegern-Helden können hier antreten und dem Publikum beweisen was für tolle Helden sie sind.
+---
+tags: Part/Infos
+---
+# Desaria Sucht Den SuperHelden
+Vollkommen überbewertete Reality-Show im Colosseum von [Mambula](../4.%20Locations/Mambula.md). Junge möchtegern-Helden können hier antreten und dem Publikum beweisen was für tolle Helden sie sind.
 Das Problem ist, dass man automatisch aus der Show rausfliegt sobald man stirbt. Die Bürgerrechtsbewegung fordert seit Jahren, dass der Held durch die erlittene physische Benachteiligung automatisch das "goldene Ticket" für die Final-Show erhält. 
 Ein einziges Mal wurde diese Regel tatsächlich angewandt. Leider tauchten die Helden in der Final-Show nicht auf. Die Jury wertete das als Affront und schaffte die Regel direkt wieder ab.
 

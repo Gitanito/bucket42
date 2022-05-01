@@ -1,3 +1,16 @@
+---
+tags: Location/Meetingpoint LocationType/Country Part/Locations
+---
+
+```leaflet
+
+id: deseria_map
+image: [Deseria 2022-04-29-20-37](../99._Attachements/Deseria%202022-04-29-20-37.jpeg)
+scale: 1
+
+```
+
+
 Das wundervolle Land Deseria.
 Nichts ist vergleichbar mit der unendlich weiten Wüste.
 Sand, Sand, Sand - sonst Nichts. 
@@ -10,6 +23,6 @@ Sie bauen wundervolle Badehäuser, aber lassen den Abfluss einfach weg - wozu so
 
 ```
 ```
-![](../99._Attachements/desaria_map.webp)
+
 
 \page

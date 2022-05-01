@@ -1,6 +1,9 @@
+---
+tags: Part/Story
+---
+
+# Akt 3
 ## Das Haus
-
-
 
 Am nächsten Morgen steht ihr auf  - [Lord Van Na-Bi](../../../2.%20Figuren/Lord%20Van%20Na-Bi.md) ist noch immer nicht da - Die Luft ist angenehm frisch wie nach einem Regen - ihr wollt euch von Frau [Anna](../../../2.%20Figuren/Anna.md) verabschieden, aber findet sie nirgends. Im Gang ist immer noch dieses Durcheinander. 
 

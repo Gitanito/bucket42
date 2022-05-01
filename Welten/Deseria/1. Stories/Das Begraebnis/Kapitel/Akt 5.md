@@ -1,3 +1,8 @@
+---
+tags: Part/Story
+---
+
+# Akt 5
 ## Gefunden
 Ihr hört ein leises Wimmern. 
 
@@ -48,7 +53,7 @@ Da ihr Plan also nicht glückte war sie so erbost, dass sie einen Beschwörungsz
 > Der Kutscher ist als ihr Gehilfe ja auch noch da - keine Ahnung wie sie zu dem gekommen ist - aber er steht unter ihrem Befehl und das könnte weh tun
 
 Wenn Sie ihren Zauber wirken kann, vibriert euer [Zeitpausierer](../../../5.%20Details/Gegenstände/Zeitpausierer.md) und sie wird hineingezogen. Er verliert sofort sein Wirkung.
-Und... Ihr werdet es kaum glauben, ihr merkt, dass ihr durch einen Strudel gezogen werdet. Es macht WUSCH! und ihr sitzt wieder in der Kutsche nach [Spraburh](../../../4.%20Locations/Spraburh.md) zu den [DSDSH](../../../3.%20Events%20und%20Ereignisse/DSDSH.md) Auditions. Sie rasselt über die plattgedrückte Düne... Ein kleines Städtchen kommt näher...
+Und... Ihr werdet es kaum glauben, ihr merkt, dass ihr durch einen Strudel gezogen werdet. Es macht WUSCH! und ihr sitzt wieder in der Kutsche nach [Mambula](../../../4.%20Locations/Mambula.md) zu den [DSDSH](../../../3.%20Events%20und%20Ereignisse/DSDSH.md) Auditions. Sie rasselt über die plattgedrückte Düne... Ein kleines Städtchen kommt näher...
 Es scheint, GESTERN zu sein. Der Kutscher setzt zur Bremsung an... 
 
 > Fleht ihn an, NICHT anzuhalten - sonst müsst ihr den ganzen letzten Tag noch einmal erleben...

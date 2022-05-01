@@ -1,19 +1,19 @@
 {
   "legacyEditor": false,
-  "livePreview": true,
+  "livePreview": false,
   "spellcheck": true,
   "showLineNumber": false,
   "showFrontmatter": true,
   "alwaysUpdateLinks": true,
   "useMarkdownLinks": true,
-  "attachmentFolderPath": "Welten/Deseria/99. Attachements",
+  "attachmentFolderPath": "Welten/Deseria/99._Attachements",
   "pdfExportSettings": {
     "pageSize": "A4",
     "landscape": false,
     "margin": "2",
     "downscalePercent": 100
   },
-  "defaultViewMode": "source",
+  "defaultViewMode": "preview",
   "promptDelete": false,
   "newFileLocation": "current",
   "newLinkFormat": "relative",

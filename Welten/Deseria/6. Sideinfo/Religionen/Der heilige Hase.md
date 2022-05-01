@@ -1,3 +1,7 @@
+---
+tags: Part/Infos
+---
+
 # Der heilige Hase
 Dieser Hase hat nach der Überlieferung im Jahr 261 vor [[Temperlin]] eine trächtige Henne vor dem Fuchs gerettet.
 Diese Legende wurde später in vielen Volksliedern überliefert.

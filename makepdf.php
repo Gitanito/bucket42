@@ -91,8 +91,6 @@ function findAndReplaceAllLinks($text, $relpath) {
   
   $text = str_replace($list_found,$list_replace,$text);
   
-  
-  
   return [$text, $list_found, $list_img_replace, $list_replace];
 }
 
@@ -135,9 +133,12 @@ function renderFile($name, $path, $fn) {
     //echo $path;
     $text = file_get_contents($path);
     
-   
   $Parsedown = new ParsedownExtended();
 
+  $extr_ = explode('Part/',$text);
+  $extr__ = explode(PHP_EOL, $extr_[1]);
+  $ident = $extr__[0];
+ 
   $rendered = makeHeader($path, $text);
 
   $rendered = $Parsedown->text($rendered);
@@ -151,7 +152,6 @@ function renderFile($name, $path, $fn) {
    
    $mycontent = str_replace($replacer_s, $replacer_r, $linklist[0] );
    
-   $ident = (int)substr($mycontent, 2, 1);
    if (!isset($GLOBALS['stack'][$ident][md5($mycontent)])) {
       $intern_content = $mycontent;
       foreach($linklist[3] as $l) {
@@ -195,14 +195,16 @@ renderFile('interactive.html',$startfile_rel_path,$startfile_rel_path);
 
 $out = $GLOBALS['start'];
 
-for($k = 1; $k < 7; $k++) {
-//echo $k.'\n';
-  if (isset($GLOBALS['stack'][$k])) {
-    foreach($GLOBALS['stack'][$k] as $x) {
-      $out .= ' '.$x;
-    }
+//var_dump($GLOBALS['stack']);
+
+foreach($GLOBALS['stack'] as $k => $x) {
+  echo $k."\n";
+  foreach($x as $m =>$s) {
+    echo $m."\n";
+    $out .= ' '.$s;
   }
 }
+    
 $out .= $GLOBALS['mid'];
 $out .= join(' ', $GLOBALS['stack_img']);
 $out .= $GLOBALS['end'];

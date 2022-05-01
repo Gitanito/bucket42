@@ -1,3 +1,7 @@
+---
+tags: Location/Meetingpoint LocationType/Bar Part/Locations
+---
+
 Ein heruntergekommenes Cafe am Südrand des Marktplatzes. Kühl im Sommer weil wenig Sonne hierher scheint. Feucht und zugig im Winter.
 Der Kaffee ist eine Zumutung. Die Tassen schmutzig.
 Gläser gibt es gar keine - die wurden wohl schon vor langer Zeit bei einer Schlägerei zerschlagen. 

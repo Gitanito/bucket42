@@ -1,3 +1,7 @@
+---
+tags: Part/Person
+---
+
 Ein freundlicher Typ mit vielen Talenten.
 
 

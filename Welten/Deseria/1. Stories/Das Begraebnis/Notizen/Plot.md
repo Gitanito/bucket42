@@ -1,3 +1,7 @@
+---
+tags: Part/DM-Material
+---
+
 # Deseria, Das Begräbnis
 
 Der irgendwie-nicht-ganz-sicher-adlige [Lord Van Na-Bi](../../../2.%20Figuren/Lord%20Van%20Na-Bi.md) muss zu einer Beerdigung einer wichtigen Person die er nicht kennt.
@@ -11,7 +15,7 @@ Das Problem: Die Auditions zu [DSDSH](../../../3.%20Events%20und%20Ereignisse/DS
 Board: [Story](../../../88.%20Spiel/16.4.22/Boards/Story.md)
 
 
-Lies deinen Spielern die [Einleitung](../Kapitel/Einleitung.md) vor.
+Lies deinen Spielern [1. Einleitung](../Kapitel/1.%20Einleitung.md) vor.
 
 Startet mit [Akt 1](../Kapitel/Akt%201.md).
 

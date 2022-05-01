@@ -4,15 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "2443d354a43e5e9f",
+        "id": "08163ae4ecde2b64",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "index.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
+            "file": "Welten/Deseria/2. Figuren/GENERATOR.md",
+            "mode": "preview",
+            "backlinks": false,
+            "source": true
           }
         }
       }
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#maka/tori",
+                "query": "tag:#Location/Meetingpoint",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -62,7 +62,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 370.0055618286133
   },
   "right": {
     "id": "a6f6b16e6e07324d",
@@ -72,23 +72,6 @@
         "id": "f537034c70f1609a",
         "type": "tabs",
         "children": [
-          {
-            "id": "b9e8c45404910457",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "index.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
-              }
-            }
-          },
           {
             "id": "ec8b846421971524",
             "type": "leaf",
@@ -107,26 +90,88 @@
               "type": "todo",
               "state": {}
             }
+          },
+          {
+            "id": "f328a08d360e932d",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {}
+            }
+          },
+          {
+            "id": "05a8c66ec3b444e3",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "f5ad1ae506fe9f89",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welten/Deseria/2. Figuren/GENERATOR.md"
+              }
+            }
+          },
+          {
+            "id": "bb72c52c0a048271",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Welten/Deseria/2. Figuren/GENERATOR.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1c97f492da7b1b79",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "077fa665b4241eec",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welten/Deseria/2. Figuren/GENERATOR.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 281,
-    "collapsed": true
+    "width": 190.39112854003906
   },
-  "active": "2443d354a43e5e9f",
+  "active": "08163ae4ecde2b64",
   "lastOpenFiles": [
-    "index.md",
-    "readme.md",
+    "Welten/Deseria/2. Figuren/GENERATOR.md",
+    "Welten/Deseria/1. Stories/GENERATOR.md",
     "Welten/Deseria/1. Stories/Das Begraebnis/Kapitel/Akt 1.md",
-    "Welten/Deseria/1. Stories/Das Begraebnis/Notizen/Plot.md",
     "Welten/Deseria/1. Stories/Das Begraebnis/Kapitel/Akt 2.md",
-    "Welten/Deseria/2. Figuren/Anna.md",
-    "Welten/Deseria/2. Figuren/Lord Van Na-Bi.md",
-    "Welten/Deseria/2. Figuren/Kutscher.md",
+    "Welten/Deseria/1. Stories/Das Begraebnis/Kapitel/1. Einleitung.md",
+    "Welten/Deseria/4. Locations/Arbeitszimmer.md",
     "Welten/Deseria/2. Figuren/Gärtner.md",
-    "Welten/Deseria/2. Figuren/Beduinen.md"
+    "Welten/Deseria/2. Figuren/Beduinen.md",
+    "Welten/Deseria/2. Figuren/Anna.md",
+    "Welten/Deseria/1. Stories/Das Begraebnis/Notizen/Plot.md"
   ]
 }

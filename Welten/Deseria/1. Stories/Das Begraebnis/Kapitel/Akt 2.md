@@ -1,5 +1,10 @@
+---
+tags: Part/Story
+---
+
+# Akt 2 
 ## Nichts ist sicher
-Ihr kommt also in die kleine Stadt [Caer Gildanor](../../../4.%20Locations/Caer%20Gildanor.md) zurück, wo ihr euch nicht auskennt. Ihr fragt euch zum Marktplatz durch.
+Ihr kommt also in die kleine Stadt [Gilmanor](../../../4.%20Locations/Gilmanor.md) zurück, wo ihr euch nicht auskennt. Ihr fragt euch zum Marktplatz durch.
 Dort findet ihr das [Straßencafe](../../../4.%20Locations/Straßencafe.md) von dem [Lord Van Na-Bi](../../../2.%20Figuren/Lord%20Van%20Na-Bi.md) wohl geredet hat.
 
 Er taucht aber nicht auf - ihr wartet und wartet.

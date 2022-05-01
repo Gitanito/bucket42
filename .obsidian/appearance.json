@@ -1,10 +1,10 @@
 {
-  "cssTheme": "Solarized",
-  "baseFontSize": 15,
-  "theme": "moonstone",
+  "cssTheme": "Obsidianite",
+  "baseFontSize": 23,
+  "theme": "obsidian",
   "translucency": false,
   "textFontFamily": "",
   "enabledCssSnippets": [
-    "critical"
+    "Iterative Rainbow Folder Titles"
   ]
 }

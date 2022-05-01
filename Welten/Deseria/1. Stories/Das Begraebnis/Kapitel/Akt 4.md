@@ -1,3 +1,8 @@
+---
+tags: Part/Story
+---
+
+# Akt 4
 ## Der Weg zum Friedhof
 
 Weil [Lord Van Na-Bi](../../../2.%20Figuren/Lord%20Van%20Na-Bi.md) noch immer nicht aufgetaucht ist und auch [Anna](../../../2.%20Figuren/Anna.md) spurlos verschwunden ist, wollt ihr euch auf dem Friedhof umsehen.

@@ -20,10 +20,10 @@ kanban-plugin: basic
 ## Locations
 
 - [ ] [Straßencafe](../../../4.%20Locations/Straßencafe.md)
-- [ ] [Spraburh](../../../4.%20Locations/Spraburh.md)
+- [ ] [Mambula](../../../4.%20Locations/Mambula.md)
 - [ ] [Arbeitszimmer](../../../4.%20Locations/Arbeitszimmer.md)
-- [ ] [Ruinen von Gildanor](../../../4.%20Locations/Ruinen%20von%20Gildanor.md)
-- [ ] [Fywich](../../../4.%20Locations/Fywich.md)
+- [ ] [Ruinen von Gilmanor](../../../4.%20Locations/Ruinen%20von%20Gilmanor.md)
+- [ ] [Rambatui](../../../4.%20Locations/Rambatui.md)
 
 
 

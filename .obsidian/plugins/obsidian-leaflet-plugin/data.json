@@ -1,0 +1,143 @@
+{
+  "mapMarkers": [
+    {
+      "id": "deseria_map",
+      "lastAccessed": 1651268529800,
+      "markers": [
+        {
+          "id": "ID_c85b0829ea58",
+          "type": "default",
+          "loc": [
+            -6.691728740347536,
+            11.259371525776777
+          ],
+          "link": "Mambula",
+          "layer": "%5BDeseria%202022-04-29-19-57%5D(..%2F99._Attachements%2FDeseria%202022-04-29-19-57.jpeg)",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.4498125952869624,
+            0.5009013326108097
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "always"
+        },
+        {
+          "id": "ID_092808dbfb6b",
+          "type": "default",
+          "loc": [
+            -7.3517539078743495,
+            12.880704911252758
+          ],
+          "link": "Gilmanor",
+          "layer": "%5BDeseria%202022-04-29-20-37%5D(..%2F99._Attachements%2FDeseria%202022-04-29-20-37.jpeg)",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.5145849652435559,
+            0.5503067252677876
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "always"
+        },
+        {
+          "id": "ID_7a199bfafb49",
+          "type": "default",
+          "loc": [
+            -7.144148434251301,
+            12.376914420710358
+          ],
+          "link": "Ruinen von Gilmanor",
+          "layer": "%5BDeseria%202022-04-29-20-37%5D(..%2F99._Attachements%2FDeseria%202022-04-29-20-37.jpeg)",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.49445850369879085,
+            0.5347666664234892
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "always"
+        },
+        {
+          "id": "ID_59f8abaa18c9",
+          "type": "default",
+          "loc": [
+            -6.988222377524939,
+            13.596978952912867
+          ],
+          "link": "Rambatui",
+          "layer": "%5BDeseria%202022-04-29-20-37%5D(..%2F99._Attachements%2FDeseria%202022-04-29-20-37.jpeg)",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "always"
+        },
+        {
+          "id": "ID_ab69f98a38ea",
+          "type": "default",
+          "loc": [
+            -7.2755019728671755,
+            12.517239691109733
+          ],
+          "link": "Friedhof",
+          "layer": "%5BDeseria%202022-04-29-20-37%5D(..%2F99._Attachements%2FDeseria%202022-04-29-20-37.jpeg)",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "always"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Welten/Deseria/4. Locations/Deseria.md"
+      ]
+    }
+  ],
+  "defaultMarker": {
+    "type": "default",
+    "iconName": "map-marker",
+    "color": "#dddddd",
+    "transform": {
+      "size": 6,
+      "x": 0,
+      "y": -2
+    }
+  },
+  "markerIcons": [],
+  "color": "#dddddd",
+  "lat": 39.983334,
+  "long": -82.98333,
+  "notePreview": false,
+  "layerMarkers": true,
+  "previousVersion": "5.0.3",
+  "version": {
+    "major": 5,
+    "minor": 0,
+    "patch": 3
+  },
+  "warnedAboutMapMarker": false,
+  "copyOnClick": false,
+  "displayMarkerTooltips": "hover",
+  "displayOverlayTooltips": true,
+  "configDirectory": null,
+  "mapViewEnabled": true,
+  "mapViewParameters": {},
+  "enableDraw": true,
+  "defaultUnitType": "imperial",
+  "defaultTile": "https://stamen-tiles.a.ssl.fastly.net/terrain/{z}/{x}/{y}.png",
+  "defaultTileDark": "https://stamen-tiles.a.ssl.fastly.net/terrain/{z}/{x}/{y}.png",
+  "defaultAttribution": "Map tiles by <a href=\"http://stamen.com\">Stamen Design</a>, under <a href=\"http://creativecommons.org/licenses/by/3.0\">CC BY 3.0</a>. Data by <a href=\"http://openstreetmap.org\">OpenStreetMap</a>, under <a href=\"http://www.openstreetmap.org/copyright\">ODbL</a>."
+}
