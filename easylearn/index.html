@@ -55,7 +55,7 @@
 		width: 100%;
 		margin-top: 0;
 		font-size: 200px;
-		color: white;
+		color: black;
 		text-stroke: 1px black;
 		text-shadow: 5px 5px 10px black;
 		font-family: 'Saira Condensed', sans-serif;
@@ -137,7 +137,7 @@
 				console.log(results.data);
         let zufall = "";
 			
-        for( int i = 0; i < 100; i++) {
+        for( let i = 0; i < 100; i++) {
           zufall = Math.floor(Math.random() * results.data.length);
           if (results.data[zufall].trim().length > 1) break;
 				}
@@ -163,7 +163,6 @@
 </script>
 <body>
 	<div id="container">
-    <img id="img" src="">
     <div id="container">
       <h1 id="bigtext"></h1>
 		</div>
