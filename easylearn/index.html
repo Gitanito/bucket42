@@ -112,7 +112,19 @@
 	let pixabay_startelement = {};
 	let playing = false;
 	let pic_big = true;
+	let wordstack = [];
 	
+	function newText() {
+        let zufall = "";
+			
+	      for( let i = 0; i < 100; i++) {
+          zufall = Math.floor(Math.random() * wordstack.length);
+          let mystr = wordstack[zufall][0];
+          if (mystr.trim().length > 1) break;
+				}
+				
+				$('#bigtext').html(wordstack[zufall]);
+	}
 	
 	
 	$(document).ready(function(){
@@ -135,15 +147,9 @@
 				results.data.shift();
 				
 				console.log(results.data);
-        let zufall = "";
-			
-        for( let i = 0; i < 100; i++) {
-          zufall = Math.floor(Math.random() * results.data.length);
-          let mystr = results.data[zufall][0];
-          if (mystr.trim().length > 1) break;
-				}
-				
-				$('#bigtext').html(results.data[zufall]);
+				wordstack = results.data;
+				newText();
+        
 			},
 			error: undefined,
 			download: true,
@@ -162,7 +168,7 @@
 		
 	});
 </script>
-<body>
+<body onMouseDown="newText();">
 	<div id="container">
     <div id="container">
       <h1 id="bigtext"></h1>
