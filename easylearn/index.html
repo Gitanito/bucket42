@@ -135,9 +135,12 @@
 				results.data.shift();
 				
 				console.log(results.data);
+        let zufall = "";
 			
-        let zufall = Math.floor(Math.random() * results.data.length);
-				
+        for( int i = 0; i < 100; i++) {
+          zufall = Math.floor(Math.random() * results.data.length);
+          if (results.data[zufall].trim().length > 1) break;
+				}
 				
 				$('#bigtext').html(results.data[zufall]);
 			},
