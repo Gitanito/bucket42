@@ -3,6 +3,23 @@ let player;
 let vid = "";
 let grid_x = 96;
 let grid_y = 96;
+let colors = [
+    "#067BC2", // blue
+    "#F37748", // orange
+    "#9D8DF1", // lila
+    "#ECC30B", // yellow
+    "#1CFEBA", // green
+    "#613F75", // purple
+    "#84BCDA", // lightblue
+    "#D56062", // red
+    "#0B6E4F", // hunter
+    "#FA9F42", // sun
+    "#49111C", // darkred
+    "#A9927D", // wood
+    "#EF798A", // flesh
+    "#482728" // brown
+];
+
 
 function openTable() {
     vid = youtube_parser($('#vidurl').val());
@@ -181,12 +198,13 @@ function previewAnduploadImage(image) {
     // container
     var imgView = document.createElement("div");
     imgView.className = "element-image";
-    imgView.style = "position: absolute; top: 1in; left: 1in;";
+    imgView.style = "position: absolute; top: "+grid_y+"px; left: "+grid_x+"px;";
     imagePreviewRegion.appendChild(imgView);
     $(imgView).draggable({ grid: [ grid_x, grid_y ] });
 
     // previewing image
     var img = document.createElement("img");
+    img.style = "border: 5px solid " + colors[$('.element-image img').length] + ";";
     imgView.appendChild(img);
 /*
     // progress overlay
