@@ -52,6 +52,9 @@ So have fun and lot of incredible hours playing!!!
 - [deepnight.net RPG Map](https://deepnight.net/tools/rpg-map/)
 - [Dungeon & Town Cutouts  Map Making for Miniatures](http://www.dndadventure.com/dungeon-master-resources/dungeon-town-cutouts-map-making-miniatures/)
 - [2-Minute Tabletop – Hand-drawn Maps & Assets for Tabletop RPGs](https://2minutetabletop.com/gallery/)
+- [Random Dungeon Map Generator](https://www.gozzys.com/dungeon-maps)
+- [Dave's Mapper](https://davesmapper.com/city)
+- 
 
 
 ### Miniatures and more
@@ -75,6 +78,14 @@ So have fun and lot of incredible hours playing!!!
 - [pixeldudesmaker by 0x72](https://0x72.itch.io/pixeldudesmaker)
 - [PaperDungeonMaker by 0x72](https://0x72.itch.io/paperdungeonmaker)
 - [0x72 - itch.io](https://0x72.itch.io/)
+
+## Online Party
+- [Roll For Your Party](https://rollforyour.party/)
+- [Roll Dice With Friends](https://rolldicewithfriends.com/)
+- [Google Hangouts](https://hangouts.google.com/)
+- [Free Video Conferencing Software for Web & Mobile | Jitsi](https://jitsi.org/)
+- [StreamYard](https://streamyard.com/)
+- [Mythic Table | Mythic Table](https://www.mythictable.com/)
 
 ## Downloads
 No Downloads available at the moment
