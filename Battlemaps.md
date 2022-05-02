@@ -1,4 +1,6 @@
 # This are Battlemaps made by me
+All videos are looped. Just start a video and put it in fullscreen-mode to play on a gaming-table-montor.
+
 
 <style>.ytp-show-cards-title {display:none;visibility:none;}</style>
 <div id="player"></div>
