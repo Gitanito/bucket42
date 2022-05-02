@@ -33,9 +33,20 @@
 		event.target.playVideo();
 	}
 	function onPlayerStateChange(event) {
+	
+			var YTP=event.target;
+           if(event.data===1){
+                var remains=YTP.getDuration() - YTP.getCurrentTime();
+                if(this.rewindTO)
+                    clearTimeout(this.rewindTO);
+                this.rewindTO=setTimeout(function(){
+                     YTP.seekTo(0);
+                 },(remains-0.1)*1000);
+             }
+/*
 		if (event.data === YT.PlayerState.ENDED) {
 			player.playVideo(); 
-		}
+		}*/
 	}
 </script>
 
