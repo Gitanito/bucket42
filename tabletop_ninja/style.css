@@ -1,0 +1,50 @@
+body {
+    padding: 0;
+    margin: 0;
+}
+.fullscreen {
+    width: 100% !important;
+    height: 100% !important;
+}
+#player {
+    padding: 0;
+    margin: 0;
+}
+#overlay {
+    position:absolute;
+    top: 0;
+    left: 0;
+    width: 1px;
+    height: 1px;
+    overflow: hidden;
+}
+#drop-region {
+    position:absolute;
+    top: 0;
+    left: 0;
+    width: 1px;
+    height: 1px;
+    overflow: hidden;
+}
+.hline {
+    border: 0;
+    border-top: 1px solid black;
+    padding: 0;
+    margin: 0;
+    height: 95px;
+    width: 100%;
+}
+.vline {
+    border: 0;
+    border-right: 1px solid black;
+    padding: 0;
+    margin: 0;
+    height: 100%;
+    width: 95px;
+    float:left;
+}
+.element-image img {
+    width: 96px;
+    height: 96px;
+    border-radius: 50%;
+}
