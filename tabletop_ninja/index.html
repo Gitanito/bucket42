@@ -60,9 +60,10 @@
             return (match&&match[7].length==11)? match[7] : false;
         }
 
-
         function onPlayerReady(event) {
             event.target.playVideo();
+            $('#player').addClass('fullscreen');
+            $('#overlay').addClass('fullscreen');
         }
         function onPlayerStateChange(event) {
 
@@ -86,6 +87,6 @@
 <input id="vidurl" type="text" value="" placeholder="YOUTUBE or Image URL"><br>
 <button onClick="openTable();">Open</button>
 <div id="player"></div>
-
+<div id="overlay"></div>
 </body>
 </html>
