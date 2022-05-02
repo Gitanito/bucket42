@@ -15,7 +15,7 @@
 		playerVars: {
 			modestbranding: 0,
 			autoplay: 1,
-			controls: 0,
+			controls: 1,
 			showinfo: 0,
 			wmode: 'transparent',
 			branding: 0,
