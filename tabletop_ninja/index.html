@@ -23,6 +23,7 @@
     </style>
     <script>
         let player;
+        let vid = "";
 
         function openTable() {
             let vid = youtube_parser($('#vidurl').val());
@@ -31,10 +32,9 @@
             tag.src = "https://www.youtube.com/iframe_api";
             var firstScriptTag = document.getElementsByTagName('script')[0];
             firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
-
         }
 
-        function onYouTubeIframeAPIReady(vid) {
+        function onYouTubeIframeAPIReady() {
             player = new YT.Player('player', {
                 videoId: vid,
                 playerVars: {
