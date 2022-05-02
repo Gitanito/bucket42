@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Tabletop Ninja</title>
+    <script src="jquery.js"></script>
+    <style>
+        body {
+            padding: 0;
+            margin: 0;
+        }
+        .fullscreen {
+            position:absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+        }
+        #player {
+            padding: 0;
+            margin: 0;
+        }
+    </style>
+    <script>
+
+        function openTable() {
+            let vid = youtube_parser($('#vidurl').val());
+            console.log(vid);
+            var tag = document.createElement('script');
+            tag.src = "https://www.youtube.com/iframe_api";
+            var firstScriptTag = document.getElementsByTagName('script')[0];
+            firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+
+            var player;
+            function onYouTubeIframeAPIReady(vid) {
+                player = new YT.Player('player', {
+                    videoId: vid,
+                    playerVars: {
+                        modestbranding: 0,
+                        autoplay: 1,
+                        controls: 1,
+                        showinfo: 0,
+                        wmode: 'transparent',
+                        branding: 0,
+                        rel: 0,
+                        autohide: 0,
+                        origin: window.location.origin
+                    },
+                    events: {
+                        'onReady': onPlayerReady,
+                        'onStateChange': onPlayerStateChange
+                    }
+                });
+            }
+        }
+
+        function youtube_parser(url){
+            var regExp = /^.*((youtu.be\/)|(v\/)|(\/u\/\w\/)|(embed\/)|(watch\?))\??v?=?([^#&?]*).*/;
+            var match = url.match(regExp);
+            return (match&&match[7].length==11)? match[7] : false;
+        }
+
+
+        function onPlayerReady(event) {
+            event.target.playVideo();
+        }
+        function onPlayerStateChange(event) {
+
+            var YTP=event.target;
+            if(event.data===1){
+                var remains=YTP.getDuration() - YTP.getCurrentTime();
+                if(this.rewindTO)
+                    clearTimeout(this.rewindTO);
+                this.rewindTO=setTimeout(function(){
+                    YTP.seekTo(0);
+                },(remains-0.1)*1000);
+            }
+            /*
+                    if (event.data === YT.PlayerState.ENDED) {
+                        player.playVideo();
+                    }*/
+        }
+    </script>
+</head>
+<body>
+<input id="vidurl" type="text" value="" placeholder="YOUTUBE or Image URL"><br>
+<button onClick="openTable();">Open</button>
+<div id="player"></div>
+
+</body>
+</html>
