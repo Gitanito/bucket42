@@ -1,5 +1,6 @@
 # This are Battlemaps made by me
 
+<style>.ytp-show-cards-title {display:none;visibility:none;}</style>
 <div id="player"></div>
 <script>
   var tag = document.createElement('script');
