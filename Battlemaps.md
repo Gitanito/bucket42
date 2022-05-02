@@ -1,3 +1,40 @@
 # This are Battlemaps made by me
 
-<iframe allowFullScreen="allowFullScreen" src="https://www.youtube.com/embed/HQc6iW6bMU8?ecver=1&amp;autoplay=1&amp;iv_load_policy=3&amp;loop=1&amp;rel=0&amp;showinfo=0&amp;yt:stretch=16:9&amp;autohide=1&amp;color=red&amp;width=560&amp;width=560" width="560" height="315" allowtransparency="true" frameborder="0"><div style="text-align: center; margin: auto"><div><a  id="Bif4W6rZ" href="https://compareboilercover.co.uk">UK emergency boiler insurance comparison</a></div><div><a  id="Bif4W6rZ" href="https://discountcodes.org.uk/currys.co.uk">View all Currys Discount Codes here</a></div></div><script type="text/javascript">function execute_YTvideo(){return youtube.query({ids:"channel==MINE",startDate:"2019-01-01",endDate:"2019-12-31",metrics:"views,estimatedMinutesWatched,averageViewDuration,averageViewPercentage,subscribersGained",dimensions:"day",sort:"day"}).then(function(e){},function(e){console.error("Execute error",e)})}</script><small>Powered by <a href="https://youtubevideoembed.com/ ">Embed YouTube Video</a></small></iframe>
+<div id="player"></div>
+                    <script>
+                      var tag = document.createElement('script');
+                      tag.src = "https://www.youtube.com/iframe_api";
+                      var firstScriptTag = document.getElementsByTagName('script')[0];
+                      firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+
+                      var player;
+                      function onYouTubeIframeAPIReady() {
+                        player = new YT.Player('player', {
+                            videoId: 'HQc6iW6bMU8',
+                            playerVars: {
+                                modestbranding: 0,
+                                autoplay: 1,
+                                controls: 0,
+                                showinfo: 0,
+                                wmode: 'transparent',
+                                branding: 0,
+                                rel: 0,
+                                autohide: 0,
+                                origin: window.location.origin
+                            },
+                            events: {
+                                'onReady': onPlayerReady,
+                                'onStateChange': onPlayerStateChange
+                            }
+                          });
+                        }
+                        function onPlayerReady(event) {
+                            event.target.playVideo();
+                        }
+                        function onPlayerStateChange(event) {
+                            if (event.data === YT.PlayerState.ENDED) {
+                                player.playVideo(); 
+                            }
+                        }
+                    </script>
+
