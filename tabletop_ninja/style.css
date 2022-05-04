@@ -30,24 +30,71 @@ body {
     overflow: hidden;
 }
 .hline {
+    position: absolute;
+    top: 0;
+    left: 0;
     border: 0;
     border-top: 1px solid black;
     padding: 0;
     margin: 0;
-    height: 95px;
+    height: 1px;
     width: 100%;
 }
 .vline {
+    position: absolute;
+    top: 0;
+    left: 0;
     border: 0;
-    border-right: 1px solid black;
+    border-left: 1px solid black;
     padding: 0;
     margin: 0;
     height: 100%;
-    width: 95px;
-    float:left;
+    width: 1px;
 }
 .element-image img {
-    width: 86px;
-    height: 86px;
+    width: 96px;
+    height: 96px;
     border-radius: 50%;
+}
+
+#contextMenu {
+     position: absolute;
+     display: none;
+    z-index: 9999;
+ }
+
+#chat {
+    height: 80%;
+    width: 200px;
+    position: absolute;
+    right: 0;
+    bottom: 30px;
+    display:none;
+    vertical-align: bottom;
+}
+
+#diceline {
+    height: 30px;
+    width: 250px;
+    position: absolute;
+    right: 200px;
+    bottom: 0;
+    display:none;
+    text-align: right;
+    color: white;
+}
+#diceline span{
+    cursor: pointer;
+}
+#chatinput {
+    height: 30px;
+    width: 200px;
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    display:none;
+    vertical-align: bottom;
+}
+#chatinput input {
+    width: 100%;
 }
