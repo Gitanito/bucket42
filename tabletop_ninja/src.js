@@ -473,7 +473,7 @@ function openTable() {
         setupHost();
 
         localconfig.vid = youtube_parser($('#vidurl').val());
-        globalconfig.background = vid;
+        globalconfig.background = localconfig.vid;
         localStorage.setItem(localstorage_prefix + '.globalconfig', JSON.stringify(globalconfig));
         localStorage.setItem(localstorage_prefix + '.localconfig', JSON.stringify(localconfig));
         openSpace();
