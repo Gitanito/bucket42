@@ -273,7 +273,7 @@ function makeImageSpace(id, myhostid, posx, posy, size, mycolor, visible)
 function s(address, msg)
 {
     //console.log(initedPlayers);
-    console.log(localconfig.chatserver + localconfig.tableroom  + '-' + address + localconfig.inout[1] + " " + JSON.stringify(msg));
+    //console.log(localconfig.chatserver + localconfig.tableroom  + '-' + address + localconfig.inout[1] + " " + JSON.stringify(msg));
     if (localconfig.myrole == "player" || $.inArray(address, localconfig.initedPlayers) !== -1) {
         $.post(localconfig.chatserver + localconfig.tableroom + '-' + address + localconfig.inout[1], JSON.stringify(msg), function (data) {
             //console.log(data);
