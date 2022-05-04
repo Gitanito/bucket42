@@ -354,6 +354,8 @@ async function receiveLoop(i) {
                     localStorage.setItem(localstorage_prefix + '.globalconfig', JSON.stringify(globalconfig));
                     let intFrameWidth = window.innerWidth;
                     localconfig.grid_x = Math.floor(intFrameWidth / globalconfig.boxcount_x);
+                    localconfig.vid = globalconfig.background;
+                    localStorage.setItem(localstorage_prefix + '.localconfig', JSON.stringify(localconfig));
                     openSpace();
                     break;
                 case "elements":
