@@ -63,7 +63,7 @@ globalconfig.elm.size = [];
 
 function onYouTubeIframeAPIReady() {
     player = new YT.Player('player', {
-        videoId: vid,
+        videoId: localconfig.vid,
         playerVars: {
             modestbranding: 0,
             autoplay: 1,
