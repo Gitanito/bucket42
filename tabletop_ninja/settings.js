@@ -1,0 +1,67 @@
+let colors = [
+    "#067BC2", // blue
+    "#F37748", // orange
+    "#9D8DF1", // lila
+    "#ECC30B", // yellow
+    "#1CFEBA", // green
+    "#613F75", // purple
+    "#84BCDA", // lightblue
+    "#D56062", // red
+    "#0B6E4F", // hunter
+    "#FA9F42", // sun
+    "#49111C", // darkred
+    "#A9927D", // wood
+    "#EF798A", // flesh
+    "#482728" // brown
+];
+
+let fantasy_names = ["Nichye","Ealdrert","Pharder","Olhean","Agnorht","Thelmund","Wulfa","Grewill","Grichye","Arnulf","Wilfre",
+    "Ealdwulf","Aerert","Wulfa","Andes","Anthol","Here","Duca","Rarder","Hany","Nichye","Wulfa","Aecthert","Bryany",
+    "Hunfre","Ered","Thury","Walda","Aldwith"];
+
+let loadlocalconfig = false;
+
+let localconfig = {};
+localconfig.grid_x = 96;
+localconfig.grid_y = 1.0;
+localconfig.inout = ['in','out'];
+localconfig.chatsalt = "/ttninja";
+localconfig.chatserver = "https://ppng.io"+localconfig.chatsalt;
+localconfig.chatrooms = [];
+localconfig.initedPlayers = [];
+localconfig.tableroom = 0;
+localconfig.myrole = 'none';
+localconfig.hostid = '';
+localconfig.activeelement = -1;
+localconfig.myplayerid = -1;
+localconfig.dicecount = {};
+localconfig.diceadd = 0;
+
+
+let dropRegion = null;
+let imagePreviewRegion = null;
+let localstorage_prefix = "vttninja";
+let tablestarted = false;
+
+let globalconfig = {};
+globalconfig.background = "";
+globalconfig.tableconfig = {};
+globalconfig.tableconfig.jitsiserver = "meet.jit.si";
+globalconfig.tableconfig.jitsiroomprefix = "vttninja";
+globalconfig.tableconfig.boxcount_x = 15.0;
+globalconfig.tableconfig.gridpos_x = 0.5;
+globalconfig.tableconfig.gridpos_y = 0.5;
+globalconfig.tableconfig.video_aspect_ratio = .5625;
+globalconfig.tableconfig.activatevideochat = false;
+globalconfig.chatmessages = [];
+globalconfig.elm = {};
+globalconfig.elm.id = [];
+globalconfig.elm.name = [];
+globalconfig.elm.imgsrc = [];
+globalconfig.elm.color = [];
+globalconfig.elm.pos = [];
+globalconfig.elm.isplayer = [];
+globalconfig.elm.visible = [];
+globalconfig.elm.size = [];
+
+let jitsiapi = null;

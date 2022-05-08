@@ -1,6 +1,7 @@
 body {
     padding: 0;
     margin: 0;
+    overflow:hidden;
 }
 .fullscreen {
     position:absolute;
@@ -9,9 +10,26 @@ body {
     width: 100% !important;
     height: 100% !important;
 }
+.fullwidth {
+    position:absolute;
+    top: 0;
+    left: 0;
+}
 #player {
+    position:absolute;
+    top: 0;
+    left: 0;
     padding: 0;
     margin: 0;
+}
+#blackbackground {
+    position:fixed;
+    top: 0;
+    left: 0;
+    width: 1px;
+    height: 1px;
+    overflow: hidden;
+    background: black;
 }
 #overlay {
     position:absolute;
@@ -55,11 +73,16 @@ body {
     width: 96px;
     height: 96px;
     border-radius: 50%;
+    display: block;
+
+    /* This rule is very important, please don't ignore this */
+    max-width: 100%;
 }
 
 #contextMenu {
-     position: absolute;
-     display: none;
+    position: absolute;
+    display: none;
+    padding: 8px;
     z-index: 9999;
  }
 
@@ -73,9 +96,19 @@ body {
     vertical-align: bottom;
 }
 
+#diceout{
+    height: 30px;
+    width: 350px;
+    position: absolute;
+    right: 200px;
+    bottom: 30px;
+    display:none;
+    text-align: center;
+    color: white;
+}
 #diceline {
     height: 30px;
-    width: 250px;
+    width: 350px;
     position: absolute;
     right: 200px;
     bottom: 0;
@@ -87,7 +120,7 @@ body {
     cursor: pointer;
 }
 #chatinput {
-    height: 30px;
+    height: 40px;
     width: 200px;
     position: absolute;
     right: 0;
@@ -97,4 +130,42 @@ body {
 }
 #chatinput input {
     width: 100%;
+}
+.colorswitch {
+    cursor:pointer;
+    width:20px;
+    border-radius: 50%;
+}
+#headmenu {
+    position: absolute;
+    top: 0;
+    right: 0;
+    height: 25px;
+    z-index: 99999;
+    display:none;
+}
+#jitsimeet {
+    position: absolute;
+    top: 26px;
+    right: 0;
+    width: 300px;
+    height: 400px;
+    z-index: 99999;
+    display:none;
+}
+
+#cropper {
+    z-index:99999;
+}
+#cropper-container {
+    margin: 20px auto;
+    max-width: 640px;
+}
+#cropper-container img {
+    width: 100%;
+}
+
+.cropper-view-box,
+.cropper-face {
+    border-radius: 50%;
 }
