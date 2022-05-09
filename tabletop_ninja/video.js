@@ -42,33 +42,3 @@ function onPlayerStateChange(event) {
         },(remains-0.1)*1000);
     }
 }
-
-function openVideoChat() {
-    $('#jitsimeet').show();
-    jitsiapi = new JitsiMeetExternalAPI(globalconfig.tableconfig.jitsiserver,
-        {
-            roomName: globalconfig.tableconfig.jitsiroomprefix + '-' + localconfig.tableroom,
-            width: 400,
-            height: 400,
-            parentNode: document.querySelector('#jitsimeet'),
-            setTileView: true
-        }
-    );
-    if (localconfig.myrole === "host") {
-        globalconfig.tableconfig.activatevideochat = true;
-        send('all', 'videochat', true);
-    }
-}
-function toggleVideoChat() {
-    globalconfig.tableconfig.activatevideochat = !globalconfig.tableconfig.activatevideochat;
-    if (globalconfig.tableconfig.activatevideochat) {
-        openVideoChat();
-    } else {
-        if (jitsiapi != null) {
-            jitsiapi.executeCommand('hangup');
-            jitsiapi = null;
-        }
-        $('#jitsimeet').hide();
-        $('#jitsimeet iframe').remove();
-    }
-}

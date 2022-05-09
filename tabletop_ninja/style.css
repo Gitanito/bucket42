@@ -141,12 +141,6 @@ ul {
     border-radius: 50%;
 }
 
-#jitsimeet {
-    width: 100%;
-    height: 400px;
-    display:none;
-}
-
 #cropper {
     z-index:99999;
 }
