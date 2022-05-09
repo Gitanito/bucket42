@@ -129,25 +129,6 @@ body {
     width: 100%;
 }
 
-#droplet_dice {
-    width: 100%;
-}
-#diceout{
-    height: 30px;
-    width: 350px;
-    text-align: center;
-    color: white;
-}
-#diceline {
-    height: 30px;
-    width: 350px;
-    text-align: right;
-    color: white;
-}
-#diceline span{
-    cursor: pointer;
-}
-
 ul {
     list-style-type: none;
     margin: 0;
