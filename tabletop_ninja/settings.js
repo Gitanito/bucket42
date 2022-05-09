@@ -34,8 +34,6 @@ localconfig.myrole = 'none';
 localconfig.hostid = '';
 localconfig.activeelement = -1;
 localconfig.myplayerid = -1;
-localconfig.dicecount = {};
-localconfig.diceadd = 0;
 
 
 let dropRegion = null;
@@ -63,5 +61,7 @@ globalconfig.elm.pos = [];
 globalconfig.elm.isplayer = [];
 globalconfig.elm.visible = [];
 globalconfig.elm.size = [];
+globalconfig.gitcdnurl = "https://cdn.jsdelivr.net/gh/";
+globalconfig.plugins = ['Gitanito/bucket42/tabletop_ninja/plugin/dice'];
 
 let jitsiapi = null;

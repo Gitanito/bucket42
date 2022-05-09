@@ -8,9 +8,6 @@ localconfig.tableroom = generateUniqueId();
 function closeInvitationModal() {
     $('#invitationmodal').modal('hide');
 }
-function closeDiceModal() {
-    $('#dicemodal').modal('hide');
-}
 
 
 $(document).ready(function() {
@@ -107,7 +104,7 @@ $(document).ready(function() {
 
     $('#elementname_edit input').keypress(function(event){
         var keycode = (event.keyCode ? event.keyCode : event.which);
-        if(keycode == '13'){
+        if(keycode === '13'){
             globalconfig.elm.name[localconfig.myplayerid] = $('#elementname_edit input').val();
             send('all', 'elementnames', globalconfig.elm.name);
         }
@@ -115,36 +112,10 @@ $(document).ready(function() {
 
     $('#chatinput input').keypress(function(event){
         var keycode = (event.keyCode ? event.keyCode : event.which);
-        if(keycode == '13'){
-            chatMessage($('#chatinput input').val());
+        if(keycode === '13'){
+            chatMessage('all', $('#chatinput input').val());
 
         }
-    });
-    $('#diceline span').on('click', function(){
-        let line = "";
-        let ostr = "";
-        let dd = $(this).data("d");
-        if (dd === 'go') {
-            throwdice();
-        } else {
-            if (dd === 'plus') {
-                localconfig.diceadd++;
-            } else if (dd === 'minus') {
-                localconfig.diceadd--;
-            } else {
-                localconfig.dicecount[dd] = (localconfig.dicecount[dd] || 0) + 1;
-            }
-            for (const [key, value] of Object.entries(localconfig.dicecount)) {
-                if (ostr != "") ostr = ostr + '+';
-                ostr = ostr + `${value}D${key}`;
-            }
-            if (localconfig.diceadd !== 0) {
-                line = '' + (localconfig.diceadd > 0?'+':'') + localconfig.diceadd;
-            }
-
-            $('#diceout').html(ostr + line);
-        }
-        //localconfig.dicelast = dd;
     });
 
     window.addEventListener('resize', function(event) {
@@ -190,6 +161,13 @@ $(document).ready(function() {
             send('all', 'tableconfig', globalconfig.tableconfig);
         });
     }
+
+
+    // Load Plugins
+    for (let p = 0; p < globalconfig.plugins.length; p++) {
+        $("body").append('<link rel="stylesheet" href="' + globalconfig.gitcdnurl + globalconfig.plugins[p] + '/style.css">');
+        $("body").append('<script src="' + globalconfig.gitcdnurl + globalconfig.plugins[p] + '/script.js"></script>');
+    }
 });
 
 function restoreLastSession() {
@@ -202,8 +180,6 @@ function restoreLastSession() {
     openSpace();
     $('#chat').show();
     $('#chatinput').show();
-    $('#diceline').show();
-    $('#diceout').show();
     $('#headmenu').show();
 
 }
@@ -214,38 +190,12 @@ function switchColor(s) {
     send('all', 'colors', globalconfig.elm.color);
 }
 
-function throwdice() {
-    //debugger;
-    let log = "";
-    let count = 0;
-    for (const [key, value] of Object.entries(localconfig.dicecount)) {
-        log = log + value + 'D' + key + ' [';
-        for(let r = 0; r < value; r++) {
-            if (r > 0) log = log + ',';
-            let w = Math.floor(Math.random()*key) + 1;
-            count += w
-            log = log + "<b>"+w+"</b>";
-        }
-        log = log + ']<br>';
-    }
-
-    if (localconfig.diceadd !== 0) {
-        log = log + "<b>"+(localconfig.diceadd > 0 ?'+':'') + localconfig.diceadd + '</b><br>';
-        count = count + localconfig.diceadd;
-    }
-
-    $('#diceout').html("");
-
-    $('#dicemodaltext').html(log + "<h1>"+ count + "</h1>");
-    $('#dicemodal').modal('show');
-    chatMessage(log + "<h1>"+ count + "</h1>");
-    localconfig.dicecount = {}
-    localconfig.diceadd = 0;
-}
-function chatMessage(message) {
-    send('all', 'message', {playerid: localconfig.myplayerid, message: message});
+function chatMessage(audience, message) {
+    send(audience, 'message', {playerid: localconfig.myplayerid, message: message});
     let mybg = "background-color: " +globalconfig.elm.color[localconfig.myplayerid]+ ";";
     let col = "color: "+getContrastYIQ(globalconfig.elm.color[localconfig.myplayerid])+";";
-    $('#chatline').append('<div class="alert alert-secondary" role="alert" style="width:100%;'+col+mybg+'"><b>me: </b>'+message+'</div>');
+    $('#chatline').append('<div class="alert alert-secondary newmessage" role="alert" style="display:none;width:100%;'+col+mybg+'"><b>me: </b>'+message+'</div>');
     $('#chatinput input').val("");
+    $('.newmessage').show('slide', { direction: "right" }, 500);
+    $('.newmessage').removeClass('newmessage');
 }

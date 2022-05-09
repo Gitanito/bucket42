@@ -149,38 +149,51 @@
             </li>
             <li id="colors" alt="Click to change"></li>
             <li><a tabindex="-1" href="javascript:$('#contextMenu').hide();"> Close Menu </a></li>
-
         </ul>
     </div>
-    <table id="chat">
+
+
+    <table id="rightlane">
+        <tr >
+            <td style="vertical-align: top;overflow:auto;">
+                <ul id="rightlane_droparea_top" class="connectedSortable">
+
+                    <li id="droplet_jitsi">
+                        <button type="button" class="btn btn-warning" onClick="toggleVideoChat();">Meet</button>
+                        <div id="jitsimeet"></div>
+                    </li>
+
+                </ul>
+            </td>
+        </tr>
         <tr>
-            <td style="vertical-align: bottom;" id="chatline"></td>
+            <td style="vertical-align: bottom;overflow:auto;">
+                <ul id="rightlane_droparea_bottom" class="connectedSortable">
+                    <li id="droplet_chat">
+                        <div id="chat" style="">
+                            <table>
+                                <tr>
+                                    <td style="vertical-align: bottom;" id="chatline"></td>
+                                </tr>
+                            </table>
+                        </div>
+                        <div id="chatinput"><input class="form-control" type="text" value="" placeholder="Type here"></div>
+                    </li>
+
+
+
+                </ul>
+            </td>
         </tr>
     </table>
-    <div id="chatinput"><input class="form-control" type="text" value="" placeholder="Type here"></div>
-    <div id="diceout"></div>
-    <div id="diceline">
-        <span data-d="4"> 4 </span>|
-        <span data-d="6"> 6 </span>|
-        <span data-d="8"> 8 </span>|
-        <span data-d="10"> 10 </span>|
-        <span data-d="12"> 12 </span>|
-        <span data-d="20"> 20 </span>|
-        <span data-d="100"> 100 </span>|
-        <span data-d="plus"> +1 </span>|
-        <span data-d="minus"> -1 </span>|
-        <span data-d="go"> GO </span>
-    </div>
+
+
+
 </div>
 
 <div id="cropper-container">
     <img src="" class="cropper-hidden">
 </div>
-
-<div id="headmenu">
-    <button type="button" class="btn btn-warning" onClick="toggleVideoChat();">Meet</button>
-</div>
-<div id="jitsimeet"></div>
 
 <div class="modal" tabindex="-1" id="invitationmodal">
     <div class="modal-dialog">
@@ -195,23 +208,6 @@
             <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" onClick="closeInvitationModal();" data-bs-dismiss="invitationmodal">Dismiss</button>
                 <button type="button" class="btn btn-primary" onClick="closeInvitationModal();openTable();">Yes, GO ON!</button>
-            </div>
-        </div>
-    </div>
-</div>
-
-<div class="modal" tabindex="-1" id="dicemodal">
-    <div class="modal-dialog">
-        <div class="modal-content">
-            <div class="modal-header">
-                <h5 class="modal-title">You rolled</h5>
-                <button type="button" class="btn-close" data-bs-dismiss="modal" onClick="closeDiceModal();" aria-label="Close"></button>
-            </div>
-            <div class="modal-body">
-                <p id="dicemodaltext"></p>
-            </div>
-            <div class="modal-footer">
-                <button type="button" class="btn btn-primary" onClick="closeDiceModal();">Thanks</button>
             </div>
         </div>
     </div>

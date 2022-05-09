@@ -48,7 +48,7 @@ function openVideoChat() {
     jitsiapi = new JitsiMeetExternalAPI(globalconfig.tableconfig.jitsiserver,
         {
             roomName: globalconfig.tableconfig.jitsiroomprefix + '-' + localconfig.tableroom,
-            width: 300,
+            width: 400,
             height: 400,
             parentNode: document.querySelector('#jitsimeet'),
             setTileView: true

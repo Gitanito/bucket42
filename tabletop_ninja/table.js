@@ -58,7 +58,9 @@ async function receiveLoop(i) {
                         nnn = '<b>'+globalconfig.elm.name[answer.msg.playerid]+':</b> ';
                     }
 
-                    $('#chatline').append('<div class="alert alert-secondary" role="alert" style="width:100%;'+col+mybg+'">'+nnn+answer.msg.message+'</div>');
+                    $('#chatline').append('<div class="alert alert-secondary newmessage" role="alert" style="width:100%;'+col+mybg+'">'+nnn+answer.msg.message+'</div>');
+                    $('.newmessage').show();
+                    $('.newmessage').removeClass('newmessage');
                     break;
                 case "init":
                     globalconfig = answer.msg;
@@ -248,10 +250,16 @@ function openTable() {
         localStorage.setItem(localstorage_prefix + '.localconfig', JSON.stringify(localconfig));
         openSpace();
     }
-    $('#chat').show();
-    $('#chatinput').show();
-    $('#diceline').show();
-    $('#diceout').show();
+    window.scrollTo(0,0);
+    $('body').css('overflow', 'hidden');
+    $('#rightlane').show();
+
+
+    $( "#rightlane_droparea_top, #rightlane_droparea_bottom" ).sortable({
+        connectWith: ".connectedSortable"
+    }).disableSelection();
+
+
     $('#headmenu').show();
     tablestarted = true;
 }
