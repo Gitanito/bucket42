@@ -28,3 +28,49 @@ function preventDefault(e) {
     e.preventDefault();
     e.stopPropagation();
 }
+
+async function getMeta(url) {
+    return new Promise((resolve, reject) => {
+        let img = new Image();
+        img.onload = () => resolve(img);
+        img.onerror = reject;
+        img.src = url;
+    });
+}
+
+function isValidHttpUrl(string) {
+    let url;
+
+    try {
+        url = new URL(string);
+    } catch (_) {
+        return false;
+    }
+
+    return url.protocol === "http:" || url.protocol === "https:";
+}
+
+function getFullPlayer(myid) {
+    return {
+        index: myid,
+        id: globalconfig.elm.id[myid],
+        name: globalconfig.elm.name[myid],
+        color: globalconfig.elm.color[myid],
+        pos: globalconfig.elm.pos[myid],
+        isplayer: globalconfig.elm.isplayer[myid],
+        visible: globalconfig.elm.visible[myid],
+        size: globalconfig.elm.size[myid],
+        values: globalconfig.elm.values[myid]
+    };
+}
+
+function setFullPlayer(myelement) {
+    globalconfig.elm.id[myelement.index] = myelement.id;
+    globalconfig.elm.name[myelement.index] = myelement.name;
+    globalconfig.elm.color[myelement.index] = myelement.color;
+    globalconfig.elm.pos[myelement.index] = myelement.pos;
+    globalconfig.elm.isplayer[myelement.index] = myelement.isplayer;
+    globalconfig.elm.visible[myelement.index] = myelement.visible;
+    globalconfig.elm.size[myelement.index] = myelement.size;
+    globalconfig.elm.values[myelement.index] = myelement.values;
+}

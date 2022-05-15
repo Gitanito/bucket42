@@ -8,14 +8,11 @@
     <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="cropper.css">
     <script src="jquery-ui.js"></script>
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.4.1/dist/css/bootstrap.min.css"
-          integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
-    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.12.9/dist/umd/popper.min.js"
-            integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q"
-            crossorigin="anonymous"></script>
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/js/bootstrap.min.js"
-            integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl"
-            crossorigin="anonymous"></script>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css" integrity="sha512-KfkfwYDsLkIlwQp6LFnl8zNdLGxu9YAA1QvwINks4PhcElQSvqcyVLLD9aMhXd13uQjoXtEKNosOWaZqXgel0g==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/js/all.min.js" integrity="sha512-6PM0qYu5KExuNcKt5bURAoT6KCThUmHRewN3zUFNaoI6Di7XJPTMoT6K0nsagZKk2OB4L7E3q1uQKHNHd4stIQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
     <script src="settings.js"></script>
     <script src="video.js"></script>
     <script src="buttons.js"></script>
@@ -24,6 +21,7 @@
     <script src="tools.js"></script>
     <script src="src.js"></script>
     <script src="cropper.js"></script>
+    <link rel="stylesheet" href="theme_1652607986883.css">
 
     <!-- Required meta tags -->
 
@@ -61,9 +59,6 @@
                 <div class="col-6 col-md-6" style="margin-top:30px;">
                     <div class="row align-items-center d-flex text-md-center text-lg-start">
                         <div class="col-12 col-sm-3 col-md-3 text-center px-0">
-                            <div class="icon-wrap text-primary my-3">
-                                <i class="icon p-4 border-primary bg-light text-primary   rounded  far fa-gem fa-lg"></i>
-                            </div>
                         </div>
                         <div class="col-12 col-md-9 mt-3 mt-lg-0">
                             <p class="  sm-font-size text-dark-gray mb-0">
@@ -76,9 +71,6 @@
                     <br><br>
                     <div class="row align-items-center d-flex text-md-center text-lg-start">
                         <div class="col-12 col-sm-3 col-md-3 text-center px-0">
-                            <div class="icon-wrap text-primary my-3">
-                                <i class="icon p-4 border-primary bg-light text-primary   rounded  fa fa-desktop fa-lg"></i>
-                            </div>
                         </div>
                         <div class="col-12 col-md-9 mt-3 mt-lg-0">
                             <p class="  sm-font-size text-dark-gray mb-0">
@@ -91,14 +83,12 @@
                 <div class="col-6 col-md-6" style="margin-top:30px;">
                     <div class="row align-items-center d-flex text-md-center text-lg-start">
                         <div class="col-12 col-sm-3 col-md-3 text-center px-0">
-                            <div class="icon-wrap text-primary my-3">
-                                <i class="icon p-4 border-primary bg-light text-primary   rounded  far fa-gem fa-lg"></i>
-                            </div>
+
                         </div>
                         <div class="col-12 col-md-9 mt-3 mt-lg-0">
                             <p class="  sm-font-size text-dark-gray mb-0">
-                                <h3>Start a new Table</h3>
-                                <input class="form-control form-control-lg" id="vidurl" type="text" value="https://www.youtube.com/watch?v=IZGPR4y-wdM" placeholder="YOUTUBE or Image URL"><br>
+                                <h3>Start a new Table</h3>https://www.youtube.com/watch?v=IZGPR4y-wdM
+                                <input class="form-control form-control-lg" id="vidurl" type="text" value="" placeholder="YOUTUBE or Image URL"><br>
                                 <button class="btn btn-primary btn-lg" onClick="openTable();">Start Table</button>
                             </p>
                         </div>
@@ -107,9 +97,6 @@
                     <br><br>
                     <div class="row align-items-center d-flex text-md-center text-lg-start">
                         <div class="col-12 col-sm-3 col-md-3 text-center px-0">
-                            <div class="icon-wrap text-primary my-3">
-                                <i class="icon p-4 border-primary bg-light text-primary rounded fa fa-tint fa-lg"></i>
-                            </div>
                         </div>
                         <div class="col-12 col-md-9 mt-3 mt-lg-0">
                             <p class="  sm-font-size text-dark-gray mb-0">
@@ -125,29 +112,88 @@
     </div>
 
     <div id="blackbackground"></div>
-    <div id="player"></div>
+    <div id="playercontainer">
+        <div id="player"></div>
+    </div>
     <div id="overlay">
     </div>
     <div id="drop-region"></div>
 
-    <div id="contextMenu" class="dropdown clearfix">
-        <ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu"
-            style="display:block;position:static;margin-bottom:5px;">
-            <li id="elementname_edit"><input type="text" value=""></li>
-            <li id="makeplayer"><a tabindex="-1" href="javascript:makePlayer();">This is a Player</a></li>
-            <li id="copyurl" alt="Click to copy"></li>
-            <li id="copyinvite" alt="Click to copy"></li>
-            <li id="togglevisibility"><a tabindex="-1" href="javascript:toggleVisibility();">Toggle
-                visibility</a></li>
-            <li id="cropimage" alt="Crop this image"><a tabindex="-1" href="javascript:cropThis();">Crop this image</a></li>
-            <li id="basesize">Size <a tabindex="-1" href="javascript:makeSize(1);"> 1 </a>|
-                <a tabindex="-1" href="javascript:makeSize(2);"> 2 </a>|
-                <a tabindex="-1" href="javascript:makeSize(3);"> 3 </a>|
-                <a tabindex="-1" href="javascript:makeSize(4);"> 4 </a>|
-                <a tabindex="-1" href="javascript:makeSize(5);"> 5 </a></li>
-            </li>
-            <li id="colors" alt="Click to change"></li>
-            <li><a tabindex="-1" href="javascript:$('#contextMenu').hide();"> Close Menu </a></li>
+    <div id="contextMenu" class="card border-primary">
+        <div class="row menuelement menuitem">
+            <div class="col" id="elementname_show"></div>
+        </div>
+        <div class="row menuelement menuhost menuplayer">
+            <div class="col" id="elementname_edit"><input type="text" value=""></div>
+        </div>
+        <div class="row menuelement menuhost menuplayer" id="values_input">
+            <div class="col"><h2><input type="text" id="elementval_str_edit" value=""></h2><h6>STR</h6></div>
+            <div class="col"><h2><input type="text" id="elementval_dex_edit" value=""></h2><h6>DEX</h6></div>
+            <div class="col"><h2><input type="text" id="elementval_con_edit" value=""></h2><h6>CON</h6></div>
+            <div class="col"><h2><input type="text" id="elementval_int_edit" value=""></h2><h6>INT</h6></div>
+            <div class="col"><h2><input type="text" id="elementval_wis_edit" value=""></h2><h6>WIS</h6></div>
+            <div class="col"><h2><input type="text" id="elementval_cha_edit" value=""></h2><h6>CHA</h6></div>
+            <div class="col"><h2><input type="text" id="elementval_div_edit" value=""></h2><h6>DIV</h6></div>
+            <div class="col"><h2><input type="text" id="elementval_san_edit" value=""></h2><h6>SAN</h6></div>
+        </div>
+        <div class="row menuelement menunpc" id="values_output">
+            <div class="col"><h2 id="elementval_str_show"></h2><h6>STR</h6></div>
+            <div class="col"><h2 id="elementval_dex_show"></h2><h6>DEX</h6></div>
+            <div class="col"><h2 id="elementval_con_show"></h2><h6>CON</h6></div>
+            <div class="col"><h2 id="elementval_int_show"></h2><h6>INT</h6></div>
+            <div class="col"><h2 id="elementval_wis_show"></h2><h6>WIS</h6></div>
+            <div class="col"><h2 id="elementval_cha_show"></h2><h6>CHA</h6></div>
+            <div class="col"><h2 id="elementval_div_show"></h2><h6>DIV</h6></div>
+            <div class="col"><h2 id="elementval_san_show"></h2><h6>SAN</h6></div>
+        </div>
+        <div class="row menuelement menuhost">
+            <div class="col">
+                <div class="btn-group" role="group">
+                    <button onClick="makeItAnItem();" type="button" data-bs-toggle="tooltip" data-bs-placement="top" title="Handle this as an Item" class="menuitemtype menuitemtypeitem btn btn-outline-primary">Item</button>
+                    <button onClick="makeItANpc();" type="button" data-bs-toggle="tooltip" data-bs-placement="top" title="Handle this as a Non-Player-Character" class="menuitemtype menuitemtypenpc btn btn-outline-primary active">NPC</button>
+                    <button onClick="makeItAPlayer();" type="button" data-bs-toggle="tooltip" data-bs-placement="top" title="Handle this as a Player" class="menuitemtype menuitemtypeplayer btn btn-outline-primary">Player</button>
+                </div>
+            </div>
+        </div>
+        <div class="row menuelement menuifplayer">
+            <div class="col">
+                <div id="copyurl"></div><br>
+                <div id="copyinvite"></div>
+            </div>
+        </div>
+
+        <div class="row menuelement menuhost form-check form-switch">
+            <div class="col">
+                <input class="form-check-input" type="checkbox" id="togglevisibility" onChange="toggleVisibility()" >
+                <label class="form-check-label" for="togglevisibility">Toggle visibility ON/OFF</label>
+            </div>
+        </div>
+        <div class="row menuelement menuhost menuifplayer">
+            <div class="col">
+                <div id="cropimage" alt="Crop this image"><a tabindex="-1" href="javascript:cropThis();">Crop this image</a></div>
+            </div>
+        </div>
+        <div class="row menuelement menuhost menuifplayer">
+            <div class="col">
+                <div id="colors" alt="Click to change"></div>
+            </div>
+        </div>
+        <div class="row menuelement menuhost menuifplayer">
+            <div class="col">
+                <div id="basesize" class="nav-item">Size <a tabindex="-1" href="javascript:makeSize(1);"> 1 </a>|
+                    <a tabindex="-1" href="javascript:makeSize(2);"> 2 </a>|
+                    <a tabindex="-1" href="javascript:makeSize(3);"> 3 </a>|
+                    <a tabindex="-1" href="javascript:makeSize(4);"> 4 </a>|
+                    <a tabindex="-1" href="javascript:makeSize(5);"> 5 </a>
+                </div>
+            </div>
+        </div>
+
+        <ul class="" role="menu" aria-labelledby="dropdownMenu"
+            style="display:block;position:static;">
+
+            <li id="makeplayer" class="nav-item"><a tabindex="-1" href="javascript:makePlayer();">This is a Player</a></li>
+
         </ul>
     </div>
 
@@ -156,7 +202,11 @@
         <tr >
             <td style="vertical-align: top;overflow:auto;">
                 <ul id="rightlane_droparea_top" class="connectedSortable">
-
+                    <li id="droplet_controls">
+                        <button type="button" class="btn btn-warning host only" onClick="toggleGrid();">Toggle Grid</button>
+                        <button type="button" class="btn btn-warning host only" onClick="toggleGridBW();">Toggle B/W</button>
+                        <button type="button" class="btn btn-warning host only" onClick="changeBG();">Change Playground</button>
+                    </li>
                 </ul>
             </td>
         </tr>
@@ -194,7 +244,7 @@
         <div class="modal-content">
             <div class="modal-header">
                 <h5 class="modal-title">Join Session</h5>
-                <button type="button" class="btn-close" data-bs-dismiss="modal" onClick="closeInvitationModal();" aria-label="Close"></button>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" onClick="closeInvitationModal();" aria-label="Close">x</button>
             </div>
             <div class="modal-body">
                 <p>You have been invited to a session?</p>
@@ -207,15 +257,33 @@
     </div>
 </div>
 
+<div class="modal" tabindex="-1" id="changebgmodal">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title">Change Playground</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" onClick="closeChangeBgModal();" aria-label="Close">x</button>
+            </div>
+            <div class="modal-body">
+                <p>Add a valid Youtube- or Picture-URL to the Field</p>
+                <p><input type="text" class="form-control" id="newbackgroundurl" value=""></p>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" onClick="closeChangeBgModal();" data-bs-dismiss="changebgmodal">Dismiss</button>
+                <button type="button" class="btn btn-primary" onClick="closeChangeBgModal();changeBackground();">OK, let's change the Playground!</button>
+            </div>
+        </div>
+    </div>
+</div>
 
 <!-- Modal -->
-<div class="modal fade" id="cropper" tabindex="-1" role="dialog" aria-labelledby="modalLabel" aria-hidden="true">
+<div class="modal" id="cropper" tabindex="-1" role="dialog" aria-labelledby="modalLabel" aria-hidden="true">
     <div class="modal-dialog" role="document">
         <div class="modal-content">
             <div class="modal-header">
                 <h5 class="modal-title" id="modalLabel">Crop the image</h5>
-                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                    <span aria-hidden="true">&times;</span>
+                <button type="button" class="close" aria-label="Close">
+                    <span aria-hidden="true" onclick="closeCropper()">&times;</span>
                 </button>
             </div>
             <div class="modal-body">
@@ -224,11 +292,10 @@
                 </div>
             </div>
             <div class="modal-footer">
-                <button type="button" class="btn btn-primary" data-dismiss="modal">Okay</button>
+                <button type="button" class="btn btn-primary"  onclick="closeCropper()">Okay</button>
             </div>
         </div>
     </div>
-</div>
 </div>
 
 </body>

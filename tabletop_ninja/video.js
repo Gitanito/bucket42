@@ -1,7 +1,7 @@
 
 function onYouTubeIframeAPIReady() {
     player = new YT.Player('player', {
-        videoId: localconfig.vid,
+        videoId: globalconfig.background,
         playerVars: {
             modestbranding: 0,
             autoplay: 1,
@@ -22,7 +22,7 @@ function onYouTubeIframeAPIReady() {
 function youtube_parser(url) {
     var regExp = /^.*((youtu.be\/)|(v\/)|(\/u\/\w\/)|(embed\/)|(watch\?))\??v?=?([^#&?]*).*/;
     var match = url.match(regExp);
-    return (match&&match[7].length==11)? match[7] : false;
+    return (match&&match[7].length===11)? match[7] : false;
 }
 
 function onPlayerReady(event) {
@@ -41,4 +41,33 @@ function onPlayerStateChange(event) {
             YTP.seekTo(0);
         },(remains-0.1)*1000);
     }
+}
+function setupBackground(myurl) {
+
+    let yturl = youtube_parser(myurl);
+
+    if (yturl) {
+        $.get({
+            url: "https://www.youtube.com/oembed?format=json&url=" + encodeURI("https://www.youtube.com/watch?v=" + globalconfig.background),
+            success: function (data) {
+                //console.log(data);
+                globalconfig.video_aspect_ratio = data.height / data.width;
+                //console.log(globalconfig.video_aspect_ratio);
+            }
+        });
+        globalconfig.bg_is_video = true;
+        globalconfig.background = yturl;
+    } else {
+        globalconfig.bg_is_video = false;
+        globalconfig.background = myurl;
+
+    }
+}
+
+function createBackground() {
+    var tag = document.createElement('script');
+    tag.src = "https://www.youtube.com/iframe_api";
+    tag.id = "ytifa";
+    var firstScriptTag = document.getElementsByTagName('script')[0];
+    firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
 }

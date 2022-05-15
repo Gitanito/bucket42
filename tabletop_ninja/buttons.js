@@ -1,5 +1,6 @@
 
 function handleDrop(e) {
+
     var dt = e.dataTransfer,
         files = dt.files;
     if (files.length) {
@@ -62,7 +63,7 @@ function previewAnduploadImage(image) {
     if (localconfig.myrole === "host") {
         let pcount = $('.element-image img').length;
         let randcol = '#' + generateUniqueId();
-        let img = makeImageSpace(pcount, '', 1, 1, 1, randcol, 1);
+        let img = makeImageSpace(pcount, '', 1, 1, 1, randcol, 0);
         // read the image...
         var reader = new FileReader();
         reader.onload = function (e) {
@@ -79,8 +80,10 @@ function previewAnduploadImage(image) {
                 globalconfig.elm.imgsrc.push(e.target.result);
                 globalconfig.elm.color.push(randcol);
                 globalconfig.elm.isplayer.push(0);
-                globalconfig.elm.visible.push(1);
+                globalconfig.elm.visible.push(0);
                 globalconfig.elm.size.push(1);
+                // Strength, dexterity, constitution, intelligence, wisdom, charisma, divine sense, sanity
+                globalconfig.elm.values.push({str: 0, dex: 0, con: 0, int: 0, wis: 0, cha: 0, div: 0, san: 0});
                 send('all', 'elements', globalconfig.elm);
                 localStorage.setItem(localstorage_prefix + '.globalconfig', JSON.stringify(globalconfig));
             }
@@ -111,8 +114,11 @@ function makeImageSpace(id, myhostid, posx, posy, size, mycolor, visible) {
     var imgView = document.createElement("div");
     imgView.id = 'player_'+id;
     imgView.className = "element-image";
-    imgView.style = "position: absolute; top: "+(((localconfig.grid_x*localconfig.grid_y) * posy) + (globalconfig.tableconfig.gridpos_y * (localconfig.grid_x*localconfig.grid_y)))+"px; left: "+((localconfig.grid_x * posx) + (globalconfig.tableconfig.gridpos_x * localconfig.grid_x))+"px;" + (visible?"":(localconfig.myrole=='host'?"opacity:.2;":"display:none;"));
+    imgView.style = "position: absolute; top: "+(((localconfig.grid_x*localconfig.grid_y) * posy) + (globalconfig.tableconfig.gridpos_y * (localconfig.grid_x*localconfig.grid_y)))+"px; left: "+((localconfig.grid_x * posx) + (globalconfig.tableconfig.gridpos_x * localconfig.grid_x))+"px;" + (visible?"":(localconfig.myrole=='host'?"opacity:.5;":"display:none;"));
     imagePreviewRegion.appendChild(imgView);
+    var img = document.createElement("img");
+    img.style = "background:transparent;border: 5px solid " + mycolor + "; width: " + (size * localconfig.grid_x) + "px; height: " + (size * Math.floor(localconfig.grid_x*localconfig.grid_y)) + "px;";
+    imgView.appendChild(img);
 
     if (localconfig.myrole === 'host' || myhostid === localconfig.hostid ) {
         $(imgView).draggable({grid: [localconfig.grid_x, Math.floor(localconfig.grid_x*localconfig.grid_y)], stop: function(){
@@ -125,9 +131,6 @@ function makeImageSpace(id, myhostid, posx, posy, size, mycolor, visible) {
             }});
     }
     localStorage.setItem(localstorage_prefix + '.globalconfig', JSON.stringify(globalconfig));
-    var img = document.createElement("img");
-    img.style = "border: 5px solid " + mycolor + "; width: " + (size * localconfig.grid_x) + "px; height: " + (size * Math.floor(localconfig.grid_x*localconfig.grid_y)) + "px;";
-    imgView.appendChild(img);
     return img;
 }
 
@@ -190,35 +193,39 @@ function makeImageSpace(id, myhostid, posx, posy, size, mycolor, visible) {
 })(jQuery);
 
 $("html").pasteImageReader(function(results) {
-    let foundownimage = false;
-    for(let i = 0; i < globalconfig.elm.imgsrc.length; i++) if (globalconfig.elm.imgsrc[i] === results.dataURL) foundownimage = true;
+    if (tablestarted) {
+        let foundownimage = false;
+        for (let i = 0; i < globalconfig.elm.imgsrc.length; i++) if (globalconfig.elm.imgsrc[i] === results.dataURL) foundownimage = true;
 
-    if (!foundownimage) {
+        if (!foundownimage) {
 
-        if (localconfig.myrole === "host") {
-            let pcount = $('.element-image img').length;
-            let randcol = '#' + generateUniqueId();
-            let img = makeImageSpace(pcount, '', 1, 1, 1, randcol, 1);
-            img.src = results.dataURL;
-            let playerid = generateUniqueId();
+            if (localconfig.myrole === "host") {
+                let pcount = $('.element-image img').length;
+                let randcol = '#' + generateUniqueId();
+                let img = makeImageSpace(pcount, '', 1, 1, 1, randcol, 0);
+                img.src = results.dataURL;
+                let playerid = generateUniqueId();
 
-            globalconfig.elm.id.push(playerid);
-            globalconfig.elm.name.push(fantasy_names[Math.floor(Math.random() * fantasy_names.length)]);
-            globalconfig.elm.pos.push({x: 1, y: 1});
-            globalconfig.elm.imgsrc.push(img.src);
-            globalconfig.elm.color.push(randcol);
-            globalconfig.elm.isplayer.push(0);
-            globalconfig.elm.visible.push(1);
-            globalconfig.elm.size.push(1);
-            send('all', 'elements', globalconfig.elm);
-            localStorage.setItem(localstorage_prefix + '.globalconfig', JSON.stringify(globalconfig));
-        } else {
-            if (localconfig.myplayerid > -1) {
-                let img = $('#player_' + localconfig.myplayerid + ' img');
-                img.attr('src', results.dataURL);
-                globalconfig.elm.imgsrc[localconfig.myplayerid] = results.dataURL;
-                send('all', 'elementimages', globalconfig.elm.imgsrc);
+                globalconfig.elm.id.push(playerid);
+                globalconfig.elm.name.push(fantasy_names[Math.floor(Math.random() * fantasy_names.length)]);
+                globalconfig.elm.pos.push({x: 1, y: 1});
+                globalconfig.elm.imgsrc.push(img.src);
+                globalconfig.elm.color.push(randcol);
+                globalconfig.elm.isplayer.push(0);
+                globalconfig.elm.visible.push(0);
+                globalconfig.elm.size.push(1);
+                // Strength, dexterity, constitution, intelligence, wisdom, charisma, divine sense, sanity
+                globalconfig.elm.values.push({str: 0, dex: 0, con: 0, int: 0, wis: 0, cha: 0, div: 0, san: 0});
+                send('all', 'elements', globalconfig.elm);
                 localStorage.setItem(localstorage_prefix + '.globalconfig', JSON.stringify(globalconfig));
+            } else {
+                if (localconfig.myplayerid > -1) {
+                    let img = $('#player_' + localconfig.myplayerid + ' img');
+                    img.attr('src', results.dataURL);
+                    globalconfig.elm.imgsrc[localconfig.myplayerid] = results.dataURL;
+                    send('all', 'elementimages', globalconfig.elm.imgsrc);
+                    localStorage.setItem(localstorage_prefix + '.globalconfig', JSON.stringify(globalconfig));
+                }
             }
         }
     }

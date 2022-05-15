@@ -1,4 +1,5 @@
 let colors = [
+    "transparent", // transparent
     "#067BC2", // blue
     "#F37748", // orange
     "#9D8DF1", // lila
@@ -18,8 +19,12 @@ let colors = [
 let fantasy_names = ["Nichye","Ealdrert","Pharder","Olhean","Agnorht","Thelmund","Wulfa","Grewill","Grichye","Arnulf","Wilfre",
     "Ealdwulf","Aerert","Wulfa","Andes","Anthol","Here","Duca","Rarder","Hany","Nichye","Wulfa","Aecthert","Bryany",
     "Hunfre","Ered","Thury","Walda","Aldwith"];
-
 let loadlocalconfig = false;
+let dropRegion = null;
+let imagePreviewRegion = null;
+let localstorage_prefix = "vttninja";
+let tablestarted = false;
+let jitsiapi = null;
 
 let localconfig = {};
 localconfig.grid_x = 96;
@@ -35,20 +40,15 @@ localconfig.hostid = '';
 localconfig.activeelement = -1;
 localconfig.myplayerid = -1;
 
-
-let dropRegion = null;
-let imagePreviewRegion = null;
-let localstorage_prefix = "vttninja";
-let tablestarted = false;
-
 let globalconfig = {};
+globalconfig.bg_is_video = false;
 globalconfig.background = "";
 globalconfig.tableconfig = {};
-globalconfig.tableconfig.jitsiserver = "meet.jit.si";
-globalconfig.tableconfig.jitsiroomprefix = "vttninja";
 globalconfig.tableconfig.boxcount_x = 15.0;
 globalconfig.tableconfig.gridpos_x = 0.5;
 globalconfig.tableconfig.gridpos_y = 0.5;
+globalconfig.tableconfig.grid_visible = true;
+globalconfig.tableconfig.grid_black = true;
 globalconfig.tableconfig.video_aspect_ratio = .5625;
 globalconfig.tableconfig.activatevideochat = false;
 globalconfig.chatmessages = [];
@@ -61,7 +61,16 @@ globalconfig.elm.pos = [];
 globalconfig.elm.isplayer = [];
 globalconfig.elm.visible = [];
 globalconfig.elm.size = [];
-globalconfig.gitcdnurl = "https://cdn.jsdelivr.net/gh/";
-globalconfig.plugins = ['Gitanito/bucket42/tabletop_ninja/plugin/dice'];
+globalconfig.elm.values = [];
+globalconfig.pluginlisteners = {};
+//globalconfig.gitcdnurl = "https://cdn.jsdelivr.net/gh/";
+//globalconfig.plugins = [
+//    'Gitanito/bucket42/tabletop_ninja/plugin/dice',
+//    'Gitanito/bucket42/tabletop_ninja/plugin/jitsi'
+//];
 
-let jitsiapi = null;
+globalconfig.gitcdnurl = "http://localhost/";
+globalconfig.plugins = [
+    'bucket42/tabletop_ninja/plugin/dice',
+    'bucket42/tabletop_ninja/plugin/jitsi'
+];

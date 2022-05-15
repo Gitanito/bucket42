@@ -1,4 +1,7 @@
 
+globalconfig.tableconfig.jitsiserver = "meet.jit.si";
+globalconfig.tableconfig.jitsiroomprefix = "vttninja";
+
 function openVideoChat() {
     $('#jitsimeet').show();
     jitsiapi = new JitsiMeetExternalAPI(globalconfig.tableconfig.jitsiserver,
@@ -15,6 +18,7 @@ function openVideoChat() {
         send('all', 'videochat', true);
     }
 }
+
 function toggleVideoChat() {
     globalconfig.tableconfig.activatevideochat = !globalconfig.tableconfig.activatevideochat;
     if (globalconfig.tableconfig.activatevideochat) {
@@ -28,7 +32,6 @@ function toggleVideoChat() {
         $('#jitsimeet iframe').remove();
     }
 }
-
 
 $(document).ready(function(){
     $('body').append("<script src='https://meet.jit.si/external_api.js'></script>");
