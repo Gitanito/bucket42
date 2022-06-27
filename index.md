@@ -83,7 +83,7 @@ So have fun and lot of incredible hours playing!!!
 - [Roll For Your Party](https://rollforyour.party/)
 - [Roll Dice With Friends](https://rolldicewithfriends.com/)
 - [Google Hangouts](https://hangouts.google.com/)
-- [Free Video Conferencing Software for Web Mobile | Jitsi](https://jitsi.org/)
+- [Free Video Conferencing Software for Web Mobile Jitsi](https://jitsi.org/)
 - [StreamYard](https://streamyard.com/)
 - [Mythic Table Mythic Table](https://www.mythictable.com/)
 - [Theoretically Online](https://theoretically.online/home)
