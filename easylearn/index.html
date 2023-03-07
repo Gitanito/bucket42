@@ -1,0 +1,159 @@
+<html>
+  <title>2D Lernwörter</title>
+	<script>
+		let text_title = "Test";
+		let config_csv = "https://docs.google.com/spreadsheets/d/1i_1T4xwrgO6Fmjgt8m6UwFidqRs7SXshg-d3BtY___Q/export?format=csv&sheet=1"; 
+	</script>
+	
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Saira+Condensed:wght@500&display=swap" rel="stylesheet">
+<script src="jquery.js"></script>
+<script src="papaparse.min.js"></script>
+<style>
+	body {
+		background-color: #ccc;
+		padding:0px;
+		margin:0px;
+		
+  -webkit-touch-callout: none; /* iOS Safari */
+    -webkit-user-select: none; /* Safari */
+     -khtml-user-select: none; /* Konqueror HTML */
+       -moz-user-select: none; /* Old versions of Firefox */
+        -ms-user-select: none; /* Internet Explorer/Edge */
+            user-select: none; /* Non-prefixed version, currently
+                                  supported by Chrome, Edge, Opera and Firefox */
+	}
+	
+	#container {
+		position: absolute;
+		top: 0px;
+		left: 0px;
+		width: 1280px;
+		height: 720px;
+	}
+	#container2 {
+		position: absolute;
+		top: 0px;
+		left: 0px;
+		width: 1280px;
+		height: 720px;
+	}
+	
+	#img {
+		transition: transform 120s; /* Animation */
+		width: 100%;
+		height: 100%;
+	}
+	
+	#subscribe {
+		width: 20%;
+		position: absolute;
+		right: 10%;
+		bottom: 25px;
+		text-shadow: 5px 5px 10px white;
+	}
+	#bigtext {
+		text-align: center;
+		width: 100%;
+		margin-top: 0;
+		font-size: 200px;
+		color: black;
+		text-stroke: 1px black;
+		text-shadow: 5px 5px 10px black;
+		font-family: 'Saira Condensed', sans-serif;
+	}
+	#subtext {
+		text-align: center;
+		width: 100%;
+		margin-top: -50px;
+		font-size: 100px;
+		color: white;
+		text-stroke: 1px black;
+		text-shadow: 5px 5px 10px black;
+		font-family: 'Saira Condensed', sans-serif;
+	}
+	#smalltext {
+		position: absolute;
+		left: 10%;
+		bottom: 2px;
+		text-align: left;
+		width: 70%;
+		font-size: 30px;
+		color: white;
+		text-shadow: 1px 1px 2px black;
+		font-family: 'Saira Condensed', sans-serif;
+	}
+</style>
+<script>
+	
+	let wordstack = [];
+	let wordstack_newest = [];
+	
+	function newText() {
+        let rnd = 0;
+        let mystack = wordstack;
+        if ($('#lol').is(':checked')) {
+          mystack = wordstack_newest;
+        }
+	      for( let i = 0; i < 100; i++) {
+          rnd = Math.floor(Math.random() * mystack.length);
+          if (mystack[rnd].trim().length > 1) break;
+				}
+				$('#bigtext').html(mystack[rnd].replace('-','<br>'));
+	}
+	
+	
+	$(document).ready(function(){
+		Papa.parse(config_csv, { 
+			delimiter: "",	// auto-detect
+			newline: "",	// auto-detect
+			quoteChar: '"',
+			escapeChar: '"',
+			header: false,
+			transformHeader: undefined,
+			dynamicTyping: false,
+			preview: 0,
+			encoding: "",
+			worker: false,
+			comments: false,
+			step: undefined,
+			complete: function(results, file) {
+				results.data.shift();
+				
+				console.log(results.data);
+				wordstack = [];
+				for (let a = 0; a < results.data.length; a++) {
+            if (results.data[a][0].trim().length > 1) {
+              wordstack.push(results.data[a][0].trim());
+              if (results.data[a][1].trim().length > 0) {
+                wordstack_newest.push(results.data[a][0].trim());               
+              } 
+            }
+				}
+				
+				newText();
+        
+			},
+			error: undefined,
+			download: true,
+			downloadRequestHeaders: undefined,
+			downloadRequestBody: undefined,
+			skipEmptyLines: false,
+			chunk: undefined,
+			chunkSize: undefined,
+			fastMode: undefined,
+			beforeFirstChunk: undefined,
+			withCredentials: undefined,
+			transform: undefined,
+			delimitersToGuess: [',', '\t', '|', ';', Papa.RECORD_SEP, Papa.UNIT_SEP]
+		});
+	
+		
+	});
+</script>
+<body onMouseDown="newText();">
+  <h2><input type="checkbox" id="lol"><label for="lol"> Nur Neuste</label></h2>
+  <h1 id="bigtext"></h1>
+</body>
+</html>

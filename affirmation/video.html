@@ -1,0 +1,302 @@
+<html>
+<head>
+    <script src="https://aframe.io/releases/1.4.1/aframe.min.js"></script>
+    <script type="text/javascript" src="jquery.min.js"></script>
+    <script>
+
+/*
+    Ich bin wertvoll und geliebt.
+Ich verdiene Glück und Erfolg.
+Ich bin stark und mutig.
+Ich bin in der Lage, Herausforderungen zu bewältigen.
+Ich bin dankbar für alles, was ich habe.
+Ich bin einzigartig und besonders.
+Ich vertraue auf meine Fähigkeiten und meinen Instinkt.
+Ich bin fähig, meine Ziele zu erreichen.
+Ich bin dankbar für jeden Tag und jede Erfahrung, die ich machen darf.
+Ich bin in Frieden mit mir selbst und den Menschen um mich herum.
+Ich bin offen für neue Möglichkeiten und Abenteuer.
+Ich bin fähig, Veränderungen positiv zu sehen und zu nutzen.
+Ich bin voller Energie und Leidenschaft für das Leben.
+Ich bin dankbar für die Fähigkeit, zu lernen und zu wachsen.
+Ich bin gesegnet mit einer wunderbaren Familie und Freunden.
+Ich bin dankbar für die Schönheit und Vielfalt der Natur.
+Ich bin bereit, Risiken einzugehen und aus meiner Komfortzone herauszutreten.
+Ich bin voller Freude und Lebenslust.
+Ich bin dankbar für jede Chance, anderen zu helfen und einen Unterschied zu machen.
+Ich vertraue darauf, dass alles im Leben aus gutem Grund geschieht und dass ich auf meinem Weg weiter wachsen werde.
+
+
+Selbstliebe
+Selbstvertrauen
+Zufriedenheit
+Dankbarkeit
+Glück
+Gesundheit
+Erfolg
+Fokussierung
+Kreativität
+Motivation
+Energie
+Klarheit
+Mut
+Gelassenheit
+innere Stärke
+positive Einstellung
+Wohlstand
+Freude
+Frieden
+Abenteuerlust
+  */
+        let images = [
+            {"src": "img/3053969.jpg", "type": "img", "text": "Ich wachaaaaaeäääääßßßß auf!äüö", "duration": 100},
+            {"src": "img/Weg87529.mp4", "type": "vid", "text": "Die Sonne scheint fuer MICH!", "duration": 100},
+            {"src": "img/5250691.jpg", "type": "img", "text": "Mein Zuhause schenkt mir\nGeborgenheit", "duration": 100},
+            {"src": "img/Blasen85220.mp4", "type": "vid", "text": "Meine Gedanken steigen\nzum Himmel", "duration": 100},
+            {"src": "img/259929.jpg", "type": "img", "text": "... und erschaffen\nmeine Wirklichkeit", "duration": 100},
+            {"src": "img/Verehrung43838.mp4", "type": "vid", "text": "Mein inneres Licht\nerleuchtet die Welt", "duration": 100},
+            {"src": "img/259735.jpg", "type": "img", "text": "... und fuehrt mich an\ndie schoensten Orte", "duration": 100},
+            {"src": "img/Haus67774.mp4", "type": "vid", "text": "Ob auf dem Land ...", "duration": 100},
+            {"src": "img/Surfer38451.mp4", "type": "vid", "text": "... oder am Wasser", "duration": 100},
+            {"src": "img/inspiration-ge68dca3f4_1920.jpg", "type": "img", "text": "Mein Leben ist schoener als\nich es jeh erwartet hatte!", "duration": 100},
+            {"src": "img/heart-g11c2ae39d_1920.jpg", "type": "img", "text": "Meine allumfassende Liebe\nheilt jeden Aspekt der Welt", "duration": 100},
+            {"src": "img/thanks-g411edba99_1920.jpg", "type": "img", "text": "Ich schliesse jetzt meine Augen\nund beende mit einem lauten\nAMEN.", "duration": 100}
+        ];
+
+
+
+
+        let recording = false;
+        let speed = 1;
+        let distance = 10;
+        let duration = 300;
+        let cameradistance = 3;
+        let started = false;
+        let framecount = 0;
+
+        if (recording) {
+            speed = speed * 10;
+            window.setInterval(
+                function () {
+                    if (started) {
+                        let img = document.querySelector('a-scene').components.screenshot.getCanvas('equirectangular');
+                        //console.log(img.width + " - " + img.height);
+                        //var c = document.getElementById("vvv");
+                        //c.src = img.toDataURL();
+
+                        image = img.toDataURL("image/png", 1.0).replace("image/png", "image/octet-stream");
+                        var link = document.createElement('a');
+                        link.download = "my-image-" + (framecount++) + ".png";
+                        link.href = image;
+                        link.click();
+                    }
+                },
+                40 * speed
+            );
+        }
+
+        $(document).ready(function(){
+            document.querySelector('a-scene').addEventListener('loaded', function() {
+                let startposition = (distance * -1) + cameradistance;
+                //document.querySelector('#rig').setAttribute("animation","property: rotation; to: 0 360 0; loop: false; dur: " + (10000 * speed));
+                for (let i = 0; i < images.length; i++ ) {
+                    //appendObject("id"+i, images[i].src, "0 0 " + startposition, "0 "+images[i].rotationx+" 0");
+                    appendObject(i, images[i].src, images[i].type, images[i].text, "0 1 " + startposition, "-1 0 " + (startposition-3));
+                    startposition -= distance;
+                }
+            });
+        });
+        function appendObject(id, file, type, text, position = "0 0 0", textposition = "0 0 0", rotation = "0 0 0", scale = "-1 1 1") {
+            let assets = document.querySelector('a-assets');
+
+            if (type === "vid") {
+                let video = document.createElement('video');
+                video.setAttribute("id", "asset" + id);
+                video.setAttribute("crossorigin", "anonymous");
+                video.setAttribute("loop", "true");
+                video.setAttribute("autoplay", "true");
+                video.setAttribute("width", "1280");
+                video.setAttribute("height", "720");
+                video.setAttribute("playsinline", "");
+                video.setAttribute("webkit-playsinline","");
+                video.setAttribute("src", file);
+                assets.appendChild(video);
+            } else {
+                let img = document.createElement('img');
+                img.setAttribute("id", "asset" + id);
+                img.setAttribute("crossorigin", "anonymous");
+                img.setAttribute("src", file);
+                assets.appendChild(img);
+
+            }
+
+            let sceneEl = document.querySelector('#film');
+            let entityEl = document.createElement('a-entity');
+
+            entityEl.setAttribute("id", "id" + id);
+            entityEl.setAttribute("position", position);
+            entityEl.setAttribute("scale", scale);
+            entityEl.setAttribute("rotation", rotation);
+            entityEl.setAttribute("glow", "side: back; scale: 1.3; color: #FF00FF; c: 0.3; p: 3;");
+            entityEl.setAttribute("transparent", "true");
+            entityEl.setAttribute("opacity", "1");
+            entityEl.setAttribute("material", "shader: flat; side: double; src: #asset" + id);
+            entityEl.setAttribute("geometry", "primitive: cylinder; radius: " + (cameradistance * 1.1) + "; height: 3; open-ended: true; theta-start: 142; theta-length: 74;");
+            console.log(position + ' ' + id);
+            sceneEl.appendChild(entityEl);
+
+
+            let entityElt = document.createElement('a-text');
+
+            entityElt.setAttribute("id", "text" + id);
+            entityElt.setAttribute("value", text);
+            entityElt.setAttribute("scale", ".6 .6 .2");
+            entityElt.setAttribute("shader", "msdf");
+            entityElt.setAttribute("font", "https://raw.githubusercontent.com/etiennepinchon/aframe-fonts/master/fonts/roboto/Roboto-Regular.json");
+            entityElt.setAttribute("fontImage", "https://raw.githubusercontent.com/etiennepinchon/aframe-fonts/master/fonts/roboto/Roboto-Regular.png");
+            entityElt.setAttribute("rotation", "-45 0 0");
+            entityElt.setAttribute("position", textposition);
+            sceneEl.appendChild(entityElt);
+
+        }
+
+        function startNow() {
+            if (!started) {
+                started = true;
+                window.setTimeout(function () {
+                    document.querySelector('#infotext').setAttribute('value', "Starting in 10");
+                }, 10);
+                window.setTimeout(function () {
+                    document.querySelector('#infotext').setAttribute('value', "Starting in 9");
+                }, 1000);
+                window.setTimeout(function () {
+                    document.querySelector('#infotext').setAttribute('value', "Starting in 8");
+                }, 2000);
+                window.setTimeout(function () {
+                    document.querySelector('#infotext').setAttribute('value', "Starting in 7");
+                }, 3000);
+                window.setTimeout(function () {
+                    document.querySelector('#infotext').setAttribute('value', "Starting in 6");
+                }, 4000);
+
+                window.setTimeout(function () {
+                    document.querySelector('#infotext').setAttribute('value', "Starting in 5");
+                }, 5000);
+                window.setTimeout(function () {
+                    document.querySelector('#infotext').setAttribute('value', "Starting in 4");
+                }, 6000);
+                window.setTimeout(function () {
+                    document.querySelector('#infotext').setAttribute('value', "Starting in 3");
+                }, 7000);
+                window.setTimeout(function () {
+                    document.querySelector('#infotext').setAttribute('value', "Starting in 2");
+                }, 8000);
+                window.setTimeout(function () {
+                    document.querySelector('#infotext').setAttribute('value', "Starting in 1");
+                }, 9000);
+
+
+
+                window.setTimeout(
+                    function () {
+                        let newp = document.querySelector('a-camera').getAttribute('rotation');
+                        document.querySelector('#rig2').setAttribute('animation', "property: rotation; to: " + (newp.x * -1) + " " + (newp.y * -1) + " 0; loop: false; dur: 2000");
+
+                        let starttime = 0;
+                        let mydistance = cameradistance;
+                        //document.querySelector('#rig').setAttribute("animation","property: rotation; to: 0 360 0; loop: false; dur: " + (10000 * speed));
+                        for (let i = 0; i < images.length; i++) {
+                            let myduration = images[i].duration * 100 * speed;
+
+                            let a1 = "property: position; to: 0 0 -" + (mydistance + (distance / 1.1) - cameradistance) + "; loop: false; dur: " + (myduration / 3);
+                            window.setTimeout(function () {
+                                document.querySelector('#rig').setAttribute(
+                                    "animation", a1)
+                            }, starttime);
+
+                            if (i != images.length - 1) {
+                                let a2 = "property: position; to: 0 0 -" + (mydistance + distance - cameradistance) + "; loop: false; dur: " + (myduration / 3);
+                                window.setTimeout(function () {
+                                    document.querySelector('#rig').setAttribute(
+                                        "animation", a2)
+                                }, starttime + (myduration / 1.5));
+
+                                console.log(starttime + a1);
+                                console.log((starttime + (myduration / 1.5)) + a2);
+                            }
+
+                            if (images[i].type === "vid") {
+                                window.setTimeout(function () {
+                                    document.querySelector('#asset' + i).play();
+                                }, starttime);
+                            }
+
+
+                            //window.setTimeout(function(){document.querySelector('#rig2').setAttribute(
+                            //    "animation", "property: rotation; to: 0 " + images[i].rotationx + " 0; loop: false; dur: " + (duration))}, starttime);
+
+                            // second: rotate to image
+                            //window.setTimeout(function(){document.querySelector('#rig2').setAttribute(
+                            //    "animation", "property: position; to: 0 0 -" + ((distance*(i+1)) + (distance/2)) + "; loop: false; dur: " + (duration/1.5))}, starttime + (duration/3));
+
+                            mydistance += distance;
+                            starttime += myduration;
+
+                            if (i != images.length - 1) {
+                                window.setTimeout(function () {
+                                    document.querySelector('#id' + i).setAttribute("visible", "false");
+                                    document.querySelector('#text' + i).setAttribute("visible", "false");
+                                }, starttime);
+                            }
+
+                            console.log(i + " set on " + starttime);
+
+                        }
+                    },
+                    10000
+                );
+            }
+        }
+
+        $(document).ready(function(){
+            $('body').on('mousedown', function() {
+                console.log("click");
+                startNow();
+            });
+            $('body').on('keydown', function() {
+                console.log("key");
+                startNow();
+            });
+            $('body').on('touch', function() {
+                console.log("touch");
+                startNow();
+            });
+        });
+    </script>
+</head>
+<body bgcolor="black">
+<a-scene id="film" >
+    <a-assets>
+         <!--<img id="image1" src="https://cdn.pixabay.com/photo/2016/01/05/08/33/foggy-1122136_960_720.jpg"/> -->
+    </a-assets>
+    <a-entity glow></entity>
+    <!--<a-entity obj-model="obj: #myModelObj; mtl: #myModelMtl" position="0 -30 0"></a-entity>-->
+    <!--<a-entity id="bgchange" cursor-changesky  geometry="primitive: cylinder; radius: 2; height: .1; open-ended: false;" material="color: blue;" position="0 -20 -30" rotation="90 0 0"></a-entity>-->
+
+    <!--<a-entity id="id0" position="0 1.5 10" material="shader: flat; side: double; src: #image1" geometry="primitive: cylinder; radius: 35; height: 25; open-ended: true; theta-start: 142.8247; theta-length: 74.3507;" rotation="0 0 0" scale="-1 1 1"></a-entity>-->
+
+    <a-text id="infotext" value="Tap or Click\nthe Surface\nto start" position="-1 1.5 -2" rotation="0 0 0"></a-text>
+
+
+    <a-entity id="rig" position="0 0 0">
+        <a-entity id="rig2" position="0 0 0">
+            <a-camera position="0 1 0">
+
+            </a-camera>
+        </a-entity>
+    </a-entity>
+</a-scene>
+
+<img id="vvv" style="border: 2px solid red; z-index: 99999; position: absolute; top:0; left: 0;"></img>
+</body>
+</html>

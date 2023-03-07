@@ -1,0 +1,337 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <script type='text/javascript' src='script2.js'></script>
+    <meta charset="utf-8">
+    <meta http-equiv="expires" content="-3600">
+    <meta http-equiv="content-language" content="de-de">
+    <meta http-equiv="ScreenOrientation" content="autoRotate:disabled">
+    <meta name="theme-color" content="#ffffff">
+    <link rel="manifest" href="/vrs/manifest.json">
+    <script src="https://code.jquery.com/jquery-3.6.1.min.js"
+            integrity="sha256-o88AwQnZB+VDvE9tvIXrMQaPlFFSUTR+nldQm1LuPXQ=" crossorigin="anonymous"></script>
+    <script src="https://aframe.io/releases/1.4.1/aframe.min.js"></script>
+
+    <script>
+        if (!location.hash || location.hash == "#null") {
+            let c = prompt("Enter your Code : ", "");
+            if (c === "") window.location.reload();
+            else location.hash = c;
+            //location.hash = Math.floor(Math.random() * 0xFFFFFF).toString(16);
+        }
+        //alert("Switch to landscape-Mode");
+        const roomHash = location.hash.substring(1);
+        console.log("defining drone");
+        // TODO: Replace with your own channel ID
+        const drone = new ScaleDrone('yiS12Ts5RdNhebyM');
+
+        // Room name needs to be prefixed with 'observable-'
+        const roomName = 'observable-' + roomHash;
+        const configuration = {
+            iceServers: [{
+                urls: 'stun:stun.l.google.com:19302'
+            }]
+        };
+        let room;
+        let pc;
+
+        function onSuccess() {
+        };
+
+        function onError(error) {
+            console.error(error);
+            startRoom();
+        };
+
+        // Send signaling data via Scaledrone
+        function sendMessage(message) {
+            drone.publish({
+                room: roomName,
+                message
+            });
+        }
+
+        function startRoom() {
+            room = drone.subscribe(roomName);
+            room.on('open', error => {
+                if (error) {
+                    onError(error);
+                }
+            });
+            // We're connected to the room and received an array of 'members'
+            // connected to the room (including us). Signaling server is ready.
+            room.on('members', members => {
+                console.log('MEMBERS', members);
+                // If we are the second user to connect to the room we will be creating the offer
+                const isOfferer = true; //members.length >= 2;
+                startWebRTC(isOfferer);
+            });
+        }
+
+        drone.on('open', error => startRoom());
+
+        function tryit(pc) {
+            if (typeof pc !== undefined) {
+                try {
+                    const streamx = pc.getRemoteStreams()[0];
+                    if (typeof streamx !== "undefined") {
+                        let video = document.querySelector('video');
+                        window.streamx = streamx; // make variable available to browser console
+                        video.srcObject = streamx;
+                        video.play();
+                    }
+                } catch (e) {
+                }
+            }
+        }
+
+        function startWebRTC(isOfferer) {
+            pc = new RTCPeerConnection(configuration);
+            pc.addTransceiver('video', {
+                direction: 'recvonly'
+            });
+            pc.addTransceiver('audio', {
+                direction: 'recvonly'
+            });
+            // 'onicecandidate' notifies us whenever an ICE agent needs to deliver a
+            // message to the other peer through the signaling server
+            pc.onicecandidate = event => {
+                if (event.candidate) {
+                    sendMessage({
+                        'candidate': event.candidate
+                    });
+                }
+            };
+            pc.ontrack = event => {
+                const streamx = event.streams[0];
+                console.log(event);
+                //if ($('#remoteVideo').attr('src') == "") {
+                let video = document.querySelector('video');
+                window.streamx = streamx; // make variable available to browser console
+                video.srcObject = streamx;
+                video.play();
+                //}
+            };
+            // If user is offerer let the 'negotiationneeded' event create the offer
+            pc.onnegotiationneeded = () => {
+                pc.createOffer().then(localDescCreated);
+            }
+            // Listen to signaling data from Scaledrone
+            room.on('data', (message, client) => {
+                // Message was sent by us
+                if (client.id === drone.clientId) {
+                    return;
+                }
+                if (message.sdp) {
+                    //console.log(message.sdp);
+                    // This is called after receiving an offer or answer from another peer
+                    pc.setRemoteDescription(new RTCSessionDescription(message.sdp), () => {
+                        // When receiving an offer lets answer it
+                        if (pc.remoteDescription.type === 'offer') {
+                            pc.createAnswer().then(localDescCreated);
+                        }
+                    }, onError);
+                } else if (message.candidate) {
+                    //console.log(message.candidate);
+                    // Add the new ICE candidate to our connections remote description
+                    pc.addIceCandidate(
+                        new RTCIceCandidate(message.candidate), onSuccess, onError
+                    );
+                    tryit(pc);
+                }
+            });
+        }
+
+        let to = null;
+        let done = false;
+
+        function localDescCreated(desc) {
+            pc.setLocalDescription(
+                desc,
+                () => sendMessage({
+                    'sdp': pc.localDescription
+                }),
+                onError
+            );
+        }
+
+        let viewstatus = -1;
+        let filters = "";
+        let dpi_x = 96;
+        let scalepercent = 1;
+        let eyealignl = "left:0;right:auto;";
+        let eyealignr = "left:auto;right:0;";
+
+        function startNow() {
+            let textelement = document.querySelector('a-text');
+            textelement.setAttribute('visible', false);
+            let video = document.querySelector('video');
+            video.play();
+        }
+
+        $(document).ready(function () {
+            $('body').on('mousedown', function () {
+                console.log("click");
+                startNow();
+            });
+            $('body').on('keydown', function () {
+                console.log("key");
+                startNow();
+            });
+            $('body').on('touch', function () {
+                console.log("touch");
+                startNow();
+            });
+        });
+
+        AFRAME.registerComponent('cursor-fixy', {
+            init: function () {
+                this.el.addEventListener('click', function (evt) {
+                    let newy = document.querySelector('a-camera').getAttribute('rotation').y;
+                    document.querySelector('#rig').setAttribute('rotation', {y: newy * -1});
+
+                });
+            }
+        });
+
+        AFRAME.registerComponent('cursor-fixxup', {
+            init: function () {
+                this.el.addEventListener('click', function (evt) {
+                    /*
+                    let old = document.querySelector('a-camera').getAttribute('rotation');
+                    let rig = document.querySelector('#rig').getAttribute('rotation');
+                    //document.querySelector('#rig').setAttribute('rotation', {x: newx * -1});
+                    document.querySelector('#rig').setAttribute('rotation', {x: (old.x * -1) - 1, y: rig.y, z: rig.z});
+                     */
+                });
+            }
+        });
+
+        AFRAME.registerComponent('cursor-fixxdn', {
+            init: function () {
+                this.el.addEventListener('click', function (evt) {
+                    /*
+                    let old = document.querySelector('a-camera').getAttribute('rotation');
+                    let rig = document.querySelector('#rig').getAttribute('rotation');
+                    //document.querySelector('#rig').setAttribute('rotation', {x: newx * -1});
+                    document.querySelector('#rig').setAttribute('rotation', {x: (old.x * -1) + 1, y: rig.y, z: rig.z});
+                    */
+                });
+            }
+        });
+
+        AFRAME.registerComponent('cursor-changesky', {
+            init: function () {
+                var IMAGES = [
+                    'xxx',
+                    'lake.jpg',
+                    'rooma.jpeg',
+                    'roomb.jpeg',
+                    'roomc.jpeg',
+                    'snow.jpg',
+                    'sydney.jpg',
+                    'car.jpeg',
+                    'tafelberg.jpg',
+                    'sunflares.jpg'
+                ];
+                var ROTATE = [
+                    0,
+                    90,
+                    90,
+                    90,
+                    90,
+                    110,
+                    -150,
+                    0,
+                    90,
+                    -90
+                ];
+                var lastIndex = IMAGES.length - 1;
+                if (localStorage.getItem("lastIndex") !== null) {
+                    lastIndex = localStorage.getItem("lastIndex");
+                }
+                let r = document.querySelector('a-sky');
+                r.setAttribute('src', 'img/' + IMAGES[lastIndex]);
+                r.setAttribute('rotation', {y: ROTATE[lastIndex]});
+                window.localStorage.setItem("lastIndex", lastIndex);
+
+
+                this.el.addEventListener('click', function (evt) {
+                    lastIndex = (lastIndex + 1) % IMAGES.length;
+                    let r = document.querySelector('a-sky');
+                    r.setAttribute('src', 'img/' + IMAGES[lastIndex]);
+                    r.setAttribute('rotation', {y: ROTATE[lastIndex]});
+                    window.localStorage.setItem("lastIndex", lastIndex);
+                });
+            }
+        });
+
+        let screenmode = 0;
+
+        AFRAME.registerComponent('cursor-changemode', {
+            init: function () {
+                this.el.addEventListener('click', function (evt) {
+                    let r = document.querySelector('#videodisplay');
+                    if (screenmode) {
+                        screenmode = 0;
+                        r.setAttribute("geometry", "primitive: cylinder; radius: 35; height: 25; open-ended: true; theta-start: 142.8247; theta-length: 74.3507;");
+                    } else {
+                        screenmode = 1;
+                        r.setAttribute("geometry", "primitive: cylinder; radius: 25; height: 25; open-ended: true; theta-start: 130; theta-length: 100;");
+                        //r.setAttribute("geometry", "primitive: cylinder; radius: 35; height: 25; open-ended: true; theta-start: 142.8247; theta-length: 74.3507;");
+                    }
+                });
+            }
+        });
+    </script>
+</head>
+<body>
+<h1>Entering Page</h1>
+<div id="myEmbeddedScene">
+    <a-scene id="scene" embedded>
+        <a-assets>
+            <video id="remoteVideo" autoplay src="" autoplay="true" loop="true" crossorigin="anonymous" playsinline=""
+                   webkit-playsinline=""></video>
+            <img id="sky" src="xxx">
+        </a-assets>
+
+        <a-entity id="videodisplay"
+                  material="shader: flat; side: double; src: #remoteVideo"
+                  geometry="primitive: cylinder; radius: 35; height: 25; open-ended: true; theta-start: 142.8247; theta-length: 74.3507;"
+                  position="0 1.5 10" rotation="0 0 0" scale="-1 1 1"></a-entity>
+
+        <a-text id="infotext" value="Tap or Click the Surface" geometry="primitive:plane" position="-1 1.5 -2"
+                rotation="0 0 0"></a-text>
+        <a-entity cursor-fixy material="color: #cccccc; transparent: true; opacity: 0.2"
+                  geometry="primitive: cylinder; radius: 40; height: .1; open-ended: false;" position="0 -31 0"
+                  rotation="0 0 0"></a-entity>
+        <a-entity id="bgchange" cursor-changesky hide-on-enter-ar
+                  geometry="primitive: cylinder; radius: 2; height: .1; open-ended: false;"
+                  material="color: #cccccc; transparent: true; opacity: 0.2" position="0 35 -30"
+                  rotation="-45 0 0"></a-entity>
+        <a-entity id="modechange" cursor-changemode
+                  geometry="primitive: cylinder; radius: 2; height: .1; open-ended: false;"
+                  material="color: #cccccc; transparent: true; opacity: 0.2" position="-5 35 -30"
+                  rotation="-45 0 0"></a-entity>
+
+        <!-- <a-entity cursor-fixxup  geometry="primitive: triangle;" material="color: #cccccc; transparent: true; opacity: 0.2" scale="6 6 6" position="0 -20 -30" rotation="0 0 0"></a-entity>
+        <a-entity cursor-fixxdn  geometry="primitive: triangle;" material="color: #cccccc; transparent: true; opacity: 0.2" scale="6 6 6" position="4 -20 -30" rotation="0 0 180"></a-entity> -->
+
+
+        <a-sky src="#sky" rotation="0 -90 0" hide-on-enter-ar></a-sky>
+        <a-entity id="rig" position="0 0 0">
+            <a-camera position="0 0 0">
+                <a-entity
+                        animation__click="property: scale; startEvents: click; easing: easeInCubic; dur: 150; from: 0.1 0.1 0.1; to: 1 1 1"
+                        animation__fusing="property: scale; startEvents: fusing; easing: easeInCubic; dur: 1500; from: 1 1 1; to: 0.1 0.1 0.1"
+                        animation__mouseleave="property: scale; startEvents: mouseleave; easing: easeInCubic; dur: 500; to: 1 1 1"
+                        cursor="fuse: true;"
+                        material="color: orange; shader: flat"
+                        position="0 0 -30"
+                        geometry="primitive: ring"></a-entity>
+            </a-camera>
+        </a-entity>
+    </a-scene>
+</div>
+</body>
+</html>

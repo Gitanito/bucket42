@@ -1,0 +1,14 @@
+---
+---
+
+@import 'jekyll-theme-hacker';
+
+section#downloads {display:none !important;}
+
+header h1 {
+  font-size: 4em;
+}
+header {
+  background: url(/assets/img/logo.webp) no-repeat right top;
+  background-size: auto 90%;
+}

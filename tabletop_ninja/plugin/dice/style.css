@@ -1,0 +1,52 @@
+
+#droplet_dice {
+    width: 100%;
+}
+#diceout{
+    height: 30px;
+    width: 350px;
+    text-align: center;
+    color: white;
+}
+#diceline {
+    height: 30px;
+    width: 350px;
+    text-align: right;
+    color: white;
+}
+#diceline span{
+    cursor: pointer;
+}
+
+.dice4, .dice6, .dice8, .dice10, .dice12, .dice20, .dice100, .diceplus, .diceminus, .dicego {
+    width: 30px;
+    background: center center no-repeat;
+    background-size: cover;
+    float:left;
+    text-align: center;
+    vertical-align: middle;
+    color: white;
+    text-shadow: 0 0 4px #000000;
+    cursor:pointer;
+}
+.dice4 {
+    background-image: url(Dice4.png);
+}
+.dice6 {
+    background-image: url(Dice6.png);
+}
+.dice8 {
+    background-image: url(Dice8.png);
+}
+.dice10 {
+    background-image: url(Dice10.png);
+}
+.dice12 {
+    background-image: url(Dice12.png);
+}
+.dice20 {
+    background-image: url(Dice20.png);
+}
+.dice100 {
+    background-image: url(Dice100.png);
+}

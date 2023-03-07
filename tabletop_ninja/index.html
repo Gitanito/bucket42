@@ -1,0 +1,302 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>Tabletop Ninja</title>
+    <script src="jquery.js"></script>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="cropper.css">
+    <script src="jquery-ui.js"></script>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css" integrity="sha512-KfkfwYDsLkIlwQp6LFnl8zNdLGxu9YAA1QvwINks4PhcElQSvqcyVLLD9aMhXd13uQjoXtEKNosOWaZqXgel0g==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/js/all.min.js" integrity="sha512-6PM0qYu5KExuNcKt5bURAoT6KCThUmHRewN3zUFNaoI6Di7XJPTMoT6K0nsagZKk2OB4L7E3q1uQKHNHd4stIQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script src="settings.js"></script>
+    <script src="video.js"></script>
+    <script src="buttons.js"></script>
+    <script src="table.js"></script>
+    <script src="connect.js"></script>
+    <script src="tools.js"></script>
+    <script src="src.js"></script>
+    <script src="cropper.js"></script>
+    <link rel="stylesheet" href="theme_1652607986883.css">
+
+    <!-- Required meta tags -->
+
+    <!-- Bootstrap CSS -->
+
+</head>
+<body id="body">
+<div class="container themed-container">
+
+    <div class="row align-items-center justify-content-center  text-center">
+        <div class="col-12 col-md-8 p-0 p-md-3 ">
+            <h1 class="display-3 mb-2 mt-5 zindex-1  "><strong>TableTop NINJA</strong></h1>
+            <p class="lead mb-5" contenteditable="" spellcheck="" data-medium-editor-element="" role=""
+               aria-multiline="" data-medium-editor-editor-index="" medium-editor-index="" data-placeholder=""
+               data-medium-focused="">
+                The ultra-simple one-page fully-in-your-browser drag-n-drop self-hostable fully-free<br>
+                <b>Virtual Table-Top Software</b>
+            </p>
+
+            <i class="fa fa-angle-down fa-3x   mt-5 mb-3"></i>
+        </div>
+    </div>
+
+
+    <div class="row align-items-center justify-content-around">
+        <div class="col-12 col-md-5 mb-4 mb-md-0">
+            <img alt="image" class="img-fluid img-center d-none d-md-block mr-auto ml-auto"
+                 src=" https://dummyimage.com/400/5fa9f8/efefef">
+        </div>
+        <div class="col-md-7">
+            <div class="row align-items-center justify-content-center">
+                <div class="col-md-12">
+                    <h2>Start now </h2>
+                </div>
+                <div class="col-6 col-md-6" style="margin-top:30px;">
+                    <div class="row align-items-center d-flex text-md-center text-lg-start">
+                        <div class="col-12 col-sm-3 col-md-3 text-center px-0">
+                        </div>
+                        <div class="col-12 col-md-9 mt-3 mt-lg-0">
+                            <p class="  sm-font-size text-dark-gray mb-0">
+                            <h3>Invitation ID</h3>
+                                <input class="form-control form-control-lg" id="invid" type="text" value="" placeholder="Put your invitation ID here"><br>
+                                <button class="btn btn-primary btn-lg" onClick="openTable();">Join Session</button>
+                            </p>
+                        </div>
+                    </div>
+                    <br><br>
+                    <div class="row align-items-center d-flex text-md-center text-lg-start">
+                        <div class="col-12 col-sm-3 col-md-3 text-center px-0">
+                        </div>
+                        <div class="col-12 col-md-9 mt-3 mt-lg-0">
+                            <p class="  sm-font-size text-dark-gray mb-0">
+                            <h3>Reload your latest Session</h3>
+                                <button class="btn btn-primary btn-lg" onClick="restoreLastSession();">Restore Now</button>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-6 col-md-6" style="margin-top:30px;">
+                    <div class="row align-items-center d-flex text-md-center text-lg-start">
+                        <div class="col-12 col-sm-3 col-md-3 text-center px-0">
+
+                        </div>
+                        <div class="col-12 col-md-9 mt-3 mt-lg-0">
+                            <p class="  sm-font-size text-dark-gray mb-0">
+                                <h3>Start a new Table</h3>https://www.youtube.com/watch?v=IZGPR4y-wdM
+                                <input class="form-control form-control-lg" id="vidurl" type="text" value="" placeholder="YOUTUBE or Image URL"><br>
+                                <button class="btn btn-primary btn-lg" onClick="openTable();">Start Table</button>
+                            </p>
+                        </div>
+                    </div>
+
+                    <br><br>
+                    <div class="row align-items-center d-flex text-md-center text-lg-start">
+                        <div class="col-12 col-sm-3 col-md-3 text-center px-0">
+                        </div>
+                        <div class="col-12 col-md-9 mt-3 mt-lg-0">
+                            <p class="  sm-font-size text-dark-gray mb-0">
+                                <h3>Import a setup from a file</h3>
+                                <button class="btn btn-primary btn-lg" onClick="openTable();">Import Setup</button>
+                            </p>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div id="blackbackground"></div>
+    <div id="playercontainer">
+        <div id="player"></div>
+    </div>
+    <div id="overlay">
+    </div>
+    <div id="drop-region"></div>
+
+    <div id="contextMenu" class="card border-primary">
+        <div class="row menuelement menuitem">
+            <div class="col" id="elementname_show"></div>
+        </div>
+        <div class="row menuelement menuhost menuplayer">
+            <div class="col" id="elementname_edit"><input type="text" value=""></div>
+        </div>
+        <div class="row menuelement menuhost menuplayer" id="values_input">
+            <div class="col"><h2><input type="text" id="elementval_str_edit" value=""></h2><h6>STR</h6></div>
+            <div class="col"><h2><input type="text" id="elementval_dex_edit" value=""></h2><h6>DEX</h6></div>
+            <div class="col"><h2><input type="text" id="elementval_con_edit" value=""></h2><h6>CON</h6></div>
+            <div class="col"><h2><input type="text" id="elementval_int_edit" value=""></h2><h6>INT</h6></div>
+            <div class="col"><h2><input type="text" id="elementval_wis_edit" value=""></h2><h6>WIS</h6></div>
+            <div class="col"><h2><input type="text" id="elementval_cha_edit" value=""></h2><h6>CHA</h6></div>
+            <div class="col"><h2><input type="text" id="elementval_div_edit" value=""></h2><h6>DIV</h6></div>
+            <div class="col"><h2><input type="text" id="elementval_san_edit" value=""></h2><h6>SAN</h6></div>
+        </div>
+        <div class="row menuelement menunpc" id="values_output">
+            <div class="col"><h2 id="elementval_str_show"></h2><h6>STR</h6></div>
+            <div class="col"><h2 id="elementval_dex_show"></h2><h6>DEX</h6></div>
+            <div class="col"><h2 id="elementval_con_show"></h2><h6>CON</h6></div>
+            <div class="col"><h2 id="elementval_int_show"></h2><h6>INT</h6></div>
+            <div class="col"><h2 id="elementval_wis_show"></h2><h6>WIS</h6></div>
+            <div class="col"><h2 id="elementval_cha_show"></h2><h6>CHA</h6></div>
+            <div class="col"><h2 id="elementval_div_show"></h2><h6>DIV</h6></div>
+            <div class="col"><h2 id="elementval_san_show"></h2><h6>SAN</h6></div>
+        </div>
+        <div class="row menuelement menuhost">
+            <div class="col">
+                <div class="btn-group" role="group">
+                    <button onClick="makeItAnItem();" id="makeItAnItem" type="button" data-bs-toggle="tooltip" data-bs-placement="top" title="Handle this as an Item" class="menuitemtype menuitemtypeitem btn btn-outline-primary">Item</button>
+                    <button onClick="makeItANpc();" id="makeItANpc" type="button" data-bs-toggle="tooltip" data-bs-placement="top" title="Handle this as a Non-Player-Character" class="menuitemtype menuitemtypenpc btn btn-outline-primary active">NPC</button>
+                    <button onClick="makeItAPlayer();" id="makeItAPlayer" type="button" data-bs-toggle="tooltip" data-bs-placement="top" title="Handle this as a Player" class="menuitemtype menuitemtypeplayer btn btn-outline-primary">Player</button>
+                </div>
+            </div>
+        </div>
+        <div class="row menuelement menuifplayer">
+            <div class="col">
+                <div id="copyurl"></div><br>
+                <div id="copyinvite"></div>
+            </div>
+        </div>
+
+        <div class="row menuelement menuhost form-check form-switch">
+            <div class="col">
+                <input class="form-check-input" type="checkbox" id="togglevisibility" onChange="toggleVisibility()" >
+                <label class="form-check-label" for="togglevisibility">Toggle visibility ON/OFF</label>
+            </div>
+        </div>
+        <div class="row menuelement menuhost menuifplayer">
+            <div class="col">
+                <div id="cropimage" alt="Crop this image"><a tabindex="-1" href="javascript:cropThis();">Crop this image</a></div>
+            </div>
+        </div>
+        <div class="row menuelement menuhost menuifplayer">
+            <div class="col">
+                <div id="colors" alt="Click to change"></div>
+            </div>
+        </div>
+        <div class="row menuelement menuhost menuifplayer">
+            <div class="col">
+                <div id="basesize" class="nav-item">Size <a tabindex="-1" href="javascript:makeSize(1);"> 1 </a>|
+                    <a tabindex="-1" href="javascript:makeSize(2);"> 2 </a>|
+                    <a tabindex="-1" href="javascript:makeSize(3);"> 3 </a>|
+                    <a tabindex="-1" href="javascript:makeSize(4);"> 4 </a>|
+                    <a tabindex="-1" href="javascript:makeSize(5);"> 5 </a>
+                </div>
+            </div>
+        </div>
+
+        <ul class="" role="menu" aria-labelledby="dropdownMenu"
+            style="display:block;position:static;">
+
+            <li id="makeplayer" class="nav-item"><a tabindex="-1" href="javascript:makePlayer();">This is a Player</a></li>
+
+        </ul>
+    </div>
+
+
+    <table id="rightlane">
+        <tr >
+            <td style="vertical-align: top;overflow:auto;">
+                <ul id="rightlane_droparea_top" class="connectedSortable">
+                    <li id="droplet_controls">
+                        <button type="button" class="btn btn-warning host only" onClick="toggleGrid();">Toggle Grid</button>
+                        <button type="button" class="btn btn-warning host only" onClick="toggleGridBW();">Toggle B/W</button>
+                        <button type="button" class="btn btn-warning host only" onClick="changeBG();">Change Playground</button>
+                    </li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
+            <td style="vertical-align: bottom;overflow:auto;">
+                <ul id="rightlane_droparea_bottom" class="connectedSortable">
+                    <li id="droplet_chat">
+                        <div id="chat" style="">
+                            <table>
+                                <tr>
+                                    <td style="vertical-align: bottom;" id="chatline"></td>
+                                </tr>
+                            </table>
+                        </div>
+                        <div id="chatinput"><input class="form-control" type="text" value="" placeholder="Type here"></div>
+                    </li>
+
+
+
+                </ul>
+            </td>
+        </tr>
+    </table>
+
+
+
+</div>
+
+<div id="cropper-container">
+    <img src="" class="cropper-hidden">
+</div>
+
+<div class="modal" tabindex="-1" id="invitationmodal">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title">Join Session</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" onClick="closeInvitationModal();" aria-label="Close">x</button>
+            </div>
+            <div class="modal-body">
+                <p>You have been invited to a session?</p>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" onClick="closeInvitationModal();" data-bs-dismiss="invitationmodal">Dismiss</button>
+                <button type="button" class="btn btn-primary" onClick="closeInvitationModal();openTable();">Yes, GO ON!</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="modal" tabindex="-1" id="changebgmodal">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title">Change Playground</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" onClick="closeChangeBgModal();" aria-label="Close">x</button>
+            </div>
+            <div class="modal-body">
+                <p>Add a valid Youtube- or Picture-URL to the Field</p>
+                <p><input type="text" class="form-control" id="newbackgroundurl" value=""></p>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" onClick="closeChangeBgModal();" data-bs-dismiss="changebgmodal">Dismiss</button>
+                <button type="button" class="btn btn-primary" onClick="closeChangeBgModal();changeBackground();">OK, let's change the Playground!</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Modal -->
+<div class="modal" id="cropper" tabindex="-1" role="dialog" aria-labelledby="modalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="modalLabel">Crop the image</h5>
+                <button type="button" class="close" aria-label="Close">
+                    <span aria-hidden="true" onclick="closeCropper()">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <div class="img-container">
+                    <img id="cropperimage" src="" alt="Picture">
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-primary"  onclick="closeCropper()">Okay</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+</body>
+</html>

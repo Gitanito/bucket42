@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <script type='text/javascript' src='script2.js'></script>
+  <meta http-equiv="expires" content="-3600">
+  <meta http-equiv="content-language" content="en-en">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0"/>
+  <script type="text/javascript" src="jquery.min.js"></script>
+  <script type="text/javascript" src="qrcode.min.js"></script>
+  <style>
+    body {
+      height: 100vh;
+      margin: 0;
+    }
+    video {
+      max-width: calc(50% - 100px);
+      margin: 0 50px;
+      box-sizing: border-box;
+      border-radius: 2px;
+      padding: 0;
+      box-shadow: rgba(156, 172, 172, 0.2) 0 2px 2px, rgba(156, 172, 172, 0.2) 0 4px 4px, rgba(156, 172, 172, 0.2) 0 8px 8px, rgba(156, 172, 172, 0.2) 0 16px 16px, rgba(156, 172, 172, 0.2) 0 32px 32px, rgba(156, 172, 172, 0.2) 0 64px 64px;
+    }
+    #copy {
+      position: relative;
+      top: 10px;
+      left: 50%;
+      transform: translateX(-50%);
+      font-size: 16px;
+      color: rgba(0, 0, 0, 0.5);
+    }
+    #go {
+      padding: 20px;
+      font-size: 30px;
+      width: 50%;
+    }
+    select {
+      padding: 10px;
+
+    }
+  </style>
+</head>
+<body>
+<center>
+  <h2>Settings</h2>
+  <b>Only change it if you know what they do</b>
+  <h2>Format</h2>
+  <select id="format">
+    <option value="640x480">640 x 480</option>
+    <option value="800x600">800 x 600</option>
+    <option value="1024x768">1024 x 768</option>
+    <option value="1280x720" selected="selected">1280 x 720</option>
+    <option value="1920x1080">1920 x 1080</option>
+    <option value="2560x1440">2560 x 1440</option>
+    <option value="2048x1080">2048 x 1080</option>
+    <option value="3840x2160">3840 x 2160</option>
+    <option value="7680x4320">7680 x 4320</option>
+  </select>
+  <br>
+  <h2>Framerate</h2>
+  <select id="framerate">
+    <option value="15">15</option>
+    <option value="25">25</option>
+    <option value="30" selected="selected">30</option>
+    <option value="60">60</option>
+    <option value="120">120</option>
+  </select>
+  <br>
+  <h2>Codec</h2>
+  <select id="codec">
+    <option value="none" selected="selected">Automatic</option>
+    <option value="H264">H264</option>
+    <option value="VP8">VP8</option>
+    <option value="VP9">VP9</option>
+  </select>
+  <br><br>
+  <button id="go" onclick="startnow()">Start stream now</button>
+  <div id="copy" hidden="">Open this Code with your phone<h1 id="qrcodecode" ></h1><h4 id="qrcodetext" ></h4></div>
+
+  <br><br><h4>Normal Mode</h4>
+  <div id="qrcode" style="width:300px; height:300px; margin-top:15px;"></div>
+  <br><br><h4>VR-Mode</h4>
+  <div id="qrcode2" style="width:300px; height:300px; margin-top:15px;"></div><br><br><br><br>
+</center>
+  <script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,602 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <title>Frequency Generator - Übersinnliche Erfahrungen hautnah</title>
+    <meta charset="UTF-8">
+    <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
+    <meta http-equiv="Pragma" content="no-cache" />
+    <meta http-equiv="Expires" content="0" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="jquery.min.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css" integrity="sha512-SzlrxWUlpfuzQ+pcUCosxcglQRNAq/DZjVsC0lE40xsADsfeQoEypE+enwcOiGjk/bSuGGKHEyjSoQ1zVisanQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/js/all.min.js" integrity="sha512-2bMhOkE/ACz21dJT8zBOMgMecNxx0d37NND803ExktKiKdSzdwn+L7i9fdccw/3V06gM/DBWKbYmQvKMdAA9Nw==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+    <script>
+
+        let list = [
+            {"group": "Solfeggio Frequenzen", "freq": 174, "col": "#222","name": "174 Hz", "desc": "Erdenergie (Schmerzlinderung)", "tags": "1 2 3", "img": "img/nature-gf527aac49_640.jpg"},
+            {"group": "Solfeggio Frequenzen", "freq": 285, "col": "#333", "name": "285 Hz", "desc": "Energetisierend, Wundheilung, Narbenheilung", "tags": "1 2 3", "img": "img/hand-g507065235_640.jpg"},
+            {"group": "Solfeggio Frequenzen", "freq": 396, "col": "#e33235", "name": "369 Hz", "desc": "Auflösung negativer Glaubenssätze und Ängste (Wurzelchakra) (AUM)", "tags": "1 2 3", "img": "img/lotus-g4284cce54_640.jpg"},
+            {"group": "Solfeggio Frequenzen", "freq": 417, "col": "#f7b352", "name": "417 Hz", "desc": "Resonanz und Veränderung (Sakralchakra)", "tags": "1 2 3", "img": "img/dandelions-g3b04e8636_640.jpg"},
+            {"group": "Solfeggio Frequenzen", "freq": 528, "col": "#fede33", "name": "528 Hz", "desc": "Liebe, Transformation, Herzenergie, DNA-Reparatur (Solarplexus)", "tags": "1 2 3", "img": "img/infant-g57184ba03_640.jpg"},
+            {"group": "Solfeggio Frequenzen", "freq": 639, "col": "#5ab048", "name": "639 Hz", "desc": "Harmonische Beziehungen, Kommunikation (Herzchakra)", "tags": "1 2 3", "img": "img/conversation-g36eb3ddfe_640.jpg"},
+            {"group": "Solfeggio Frequenzen", "freq": 741, "col": "#2ab2e4", "name": "741 Hz", "desc": "Intuition, Lösungen finden (Halschakra)", "tags": "1 2 3", "img": "img/light-gc12a26841_640.jpg"},
+            {"group": "Solfeggio Frequenzen", "freq": 852, "col": "#6f6aaa", "name": "852 Hz", "desc": "Verbindung mit der Energie des Universellen (Drittes Auge)", "tags": "1 2 3", "img": "img/galaxy-g22304fabb_640.jpg"},
+            {"group": "Solfeggio Frequenzen", "freq": 963, "col": "#8b4a8a", "name": "963 Hz", "desc": "Göttliche spirituelle Energie (Kronenchakra)", "tags": "1 2 3", "img": "img/heaven-g7a51feb35_640.jpg"},
+            {"group": "Hilfe", "freq": 144, "col": "#a8afc0", "name": "144 Hz", "desc": "Hilfe bei Kopfschmerzen", "tags": "1 2 3", "img": "img/man-gd6adb4c93_640.jpg"},
+            {"group": "Hilfe", "freq": 664, "col": "#b1e55b", "name": "664 Hz", "desc": "Mehr Wachheit und Vitalität", "tags": "1 2 3", "img": "img/boarding-gbb481ed70_640.jpg"},
+            {"group": "Hilfe", "freq": 965, "col": "#795be5", "name": "965 Hz", "desc": "Muskelentspannung", "tags": "1 2 3", "img": "img/connective-tissue-ga6d7e598b_640.jpg"},
+            {"group": "Hilfe", "freq": 802, "col": "#e9e9ec", "name": "802 Hz", "desc": "Behandlung von Schnupfen und Erkältungen", "tags": "1 2 3", "img": "img/ginger-g0c1145b24_640.jpg"},
+            {"group": "Hilfe", "freq": 304, "col": "#d78a5a", "name": "304 Hz", "desc": "Gut bei Kopfschmerzen, Sedierung, Schmerzlinderung, Blutdruck, Muskelkater", "tags": "1 2 3", "img": "img/yoga-gea58ede33_640.jpg"},
+            {"group": "Hilfe", "freq": 330, "col": "#9f3195", "name": "330 Hz", "desc": "Allergie Vorbeugung und Behandlung", "tags": "1 2 3", "img": "img/flower-g686369a58_640.jpg"},
+            {"group": "Unterstützung", "freq": 40, "col": "#512396", "name": "40 Hz", "desc": "Konzentration und Fokus", "tags": "1 2 3", "img": "img/adult-ge16ab3c40_640.jpg"},
+            {"group": "Unterstützung", "freq": 432, "col": "#06183f", "name": "432 Hz", "desc": "Tiefe Entspannung und Verbundenheit", "tags": "1 2 3", "img": "img/fox-g273081c1e_640.jpg"},
+            {"group": "Unterstützung", "freq": 8.3, "col": "#334976", "name": "8.3 Hz", "desc": "Hellsehen, visuelle Objekte", "tags": "1 2 3", "img": "img/whale-g9b2a1dedb_640.jpg"},
+            {"group": "Unterstützung", "freq": 90, "col": "#ada167", "name": "90 Hz", "desc": "Gute Gefühle, Sicherheit, Wohlbefinden, Ausgleich", "tags": "1 2 3", "img": "img/silhouette-g31411df0b_640.jpg"},
+            {"group": "Unterstützung", "freq": 108, "col": "#542507", "name": "108 Hz", "desc": "Integrales Wissen", "tags": "1 2 3", "img": "img/books-g545e686c6_640.jpg"},
+            {"group": "Unterstützung", "freq": 420.82, "col": "#c3eeec", "name": "420.82 Hz", "desc": "Liebe, Einfühlungsvermögen, Kreativität, Weiblichkeit, Anima", "tags": "1 2 3", "img": "img/woman-gffb1fd51d_640.jpg"},
+            {"group": "Unterstützung", "freq": 20.215, "col": "#c3eeec", "name": "20.215 Hz", "desc": "Höhenflüge und LSD-ähnliche Zustände", "tags": "1 2 3", "img": "img/forest-g8888c2f62_640.jpg"},
+            {"group": "Unterstützung", "freq": 4.5, "col": "#c3eeec", "name": "4.5 Hz", "desc": "Schamanische Zustände", "tags": "1 2 3", "img": "img/tribal-g6fb1667ac_640.jpg"},
+/*
+            {"group": "Körperliche Entsprechungen", "freq": 4.11, "col": "#334976", "name": "4.11 Hz", "desc": "Nieren", "tags": "1 2 3", "img": "img/planet-gd76ab1f98_640.jpg"},
+            {"group": "Körperliche Entsprechungen", "freq": 4.6, "col": "#334976", "name": "4.6 Hz", "desc": "Milz und Blut (emotionaler Impuls)", "tags": "1 2 3", "img": "img/planet-gd76ab1f98_640.jpg"},
+            {"group": "Körperliche Entsprechungen", "freq": 5.14, "col": "#334976", "name": "5.14 Hz", "desc": "Magen (emotionale Akzeptanz)", "tags": "1 2 3", "img": "img/planet-gd76ab1f98_640.jpg"},
+            {"group": "Körperliche Entsprechungen", "freq": 5.35, "col": "#334976", "name": "5.35 Hz", "desc": "Lunge (Sauerstoff, Wärme)", "tags": "1 2 3", "img": "img/planet-gd76ab1f98_640.jpg"},
+            {"group": "Körperliche Entsprechungen", "freq": 6.15, "col": "#334976", "name": "6.15 Hz", "desc": "Herz (Liebe, Wärme)", "tags": "1 2 3", "img": "img/planet-gd76ab1f98_640.jpg"},
+            {"group": "Körperliche Entsprechungen", "freq": 6.88, "col": "#334976", "name": "6.88 Hz", "desc": "Schlüsselbein (Vitalität, Ausgewogenheit, Stabilität)", "tags": "1 2 3", "img": "img/planet-gd76ab1f98_640.jpg"},
+            {"group": "Körperliche Entsprechungen", "freq": 7.69, "col": "#334976", "name": "7.69 Hz", "desc": "Schultern (starke Arme, Ausdehnung, Unterricht)", "tags": "1 2 3", "img": "img/planet-gd76ab1f98_640.jpg"},
+            {"group": "Körperliche Entsprechungen", "freq": 8.22, "col": "#334976", "name": "8.22 Hz", "desc": "Mund (Sprache, Kreativität)", "tags": "1 2 3", "img": "img/planet-gd76ab1f98_640.jpg"},
+            {"group": "Körperliche Entsprechungen", "freq": 9.19, "col": "#334976", "name": "9.19 Hz", "desc": "Oberlippe (Emotionen, Konfliktlösung)", "tags": "1 2 3", "img": "img/planet-gd76ab1f98_640.jpg"},
+            {"group": "Körperliche Entsprechungen", "freq": 9.4, "col": "#334976", "name": "9.4 Hz", "desc": "Prostata", "tags": "1 2 3", "img": "img/planet-gd76ab1f98_640.jpg"},
+            {"group": "Körperliche Entsprechungen", "freq": 10.3, "col": "#334976", "name": "10.3 Hz", "desc": "Nase (Atmung, Geschmackssinn)", "tags": "1 2 3", "img": "img/planet-gd76ab1f98_640.jpg"},
+            {"group": "Körperliche Entsprechungen", "freq": 10.7, "col": "#334976", "name": "10.7 Hz", "desc": "Ohren (Gehör, formale Konzepte)", "tags": "1 2 3", "img": "img/planet-gd76ab1f98_640.jpg"},
+            {"group": "Körperliche Entsprechungen", "freq": 12.3, "col": "#334976", "name": "12.3 Hz", "desc": "Augen (Visualisierung)", "tags": "1 2 3", "img": "img/planet-gd76ab1f98_640.jpg"},
+            {"group": "Körperliche Entsprechungen", "freq": 13.8, "col": "#334976", "name": "13.8 Hz", "desc": "Frontallappen (siebter Sinn, endgültige Entscheidungen)", "tags": "1 2 3", "img": "img/planet-gd76ab1f98_640.jpg"},
+            {"group": "Körperliche Entsprechungen", "freq": 13.8, "col": "#334976", "name": "13.8 Hz", "desc": "Frontallappen (siebter Sinn, endgültige Entscheidungen)", "tags": "1 2 3", "img": "img/planet-gd76ab1f98_640.jpg"},
+*/
+            {"group": "Körperliche Entsprechungen", "freq": 295.8, "col": "#334976", "name": "295.8 Hz", "desc": "Fettzellen", "tags": "1 2 3", "img": "img/slimming-gd616c88f2_640.jpg"},
+
+            {"group": "Experimentell", "freq": 7.83, "col": "#334976", "name": "7.83 Hz", "desc": "Schumann-Frequenz", "tags": "1 2 3", "img": "img/planet-gd76ab1f98_640.jpg"},
+            {"group": "Experimentell", "freq": 126.22, "col": "#a4954b", "name": "126.22 Hz", "desc": "Sonnen-Frequenz", "tags": "1 2 3", "img": "img/dandelion-g0d325b257_640.jpg"},
+            {"group": "Experimentell", "freq": 585.9375, "col": "#e7d637", "name": "585.9375 Hz", "desc": "Heil-Frequenz (150Mhz/256)", "tags": "1 2 3", "img": "img/meadow-ga6a0d7d67_640.jpg"},
+        ];
+
+        let oscillator1 = null;
+        let oscillator2 = null;
+        let oscillator3 = null;
+        let gainNode1 = null;
+        let gainNode2 = null;
+        let gainNode3 = null;
+        let fullvolume = null;
+        let duration = 10;
+        let startsec = 0;
+        let endsec = 0;
+        let running = false;
+        let runningfreq = 0;
+        let mentalboost = 0;
+
+        let minutesControl = null;
+        let volumeControl = null;
+        let mbControl = null;
+        let soloControl = null;
+        let solo = false;
+        let startvolume = [.8,.4,.3];
+
+        $(document).ready(function () {
+            minutesControl = document.querySelector("#minutes");
+            volumeControl = document.querySelector("#volume");
+            mbControl = document.querySelector("#boost");
+            soloControl = document.querySelector("#solo");
+            
+            let lastgroup = "";
+            for (let i = 0; i < list.length; i++) {
+                if (lastgroup != list[i].group) {
+                    $('#freq').append('<div class="w-100"><h2><br>' + list[i].group + '</h2></div>');
+                }
+                lastgroup = list[i].group;
+
+                $('#freq').append(
+                    '<div class="col ' + list[i].tags + '">\n' +
+    '                        <div data-f="' + list[i].freq + '" class="box card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg" style="border: 5px solid ' + list[i].col + ';background-size: cover; background-position-x: center; background-position-y: center; background-image: url(' + list[i].img + ');">\n' +
+                    '                            <img class="playbutton" src="img/play.png">' +
+                    '                            <img class="stopbutton" src="img/stop.png">' +
+                    '            <div class="balken" style="background-color: ' + list[i].col + '"></div>' +
+                    '            <div class="d-flex flex-column h-100 p-2 pb-3 text-white text-shadow-3">\n' +
+    '                                <h2 class="pt-5 mt-5 mb-4 display-6 lh-1 fw-bold text-white text-shadow text-decoration-none">\n' +
+    '                                    ' + list[i].name + '</h2><h5 class="text-shadow"> ' + list[i].desc + '</h5>\n' +
+    '                            </div>\n' +
+    '                        </div>\n' +
+    '                </div>'
+
+                );
+            }
+
+            function changeFreq(freq)
+            {
+                //console.log(freq);
+
+                if (freq < 10) {
+                    freq = freq * 32;
+                }
+                if (freq < 40) {
+                    freq = freq * 16;
+                }
+
+                if (mbControl.value === "1" && runningfreq > 80) {
+                    if (oscillator1.frequency.value === freq) {
+                        switch (Math.floor(Math.random() * 10)) {
+                            case 0:
+                                freq = freq - (freq / 300);
+                                break;
+                            case 1:
+                                freq = freq + (freq / 300);
+                                break;
+                            case 3:
+                                freq = freq + (freq / 300);
+                                break;
+                            case 4:
+                                freq = freq - (freq / 300);
+                                break;
+                            case 6:
+                                freq = freq + (freq / 300);
+                                break;
+                            case 8:
+                                freq = freq - (freq / 300);
+                                break;
+                        }
+                    }
+                }
+
+                if (oscillator1.frequency.value !== freq) {
+                    oscillator1.frequency.value = freq;
+                    oscillator2.frequency.value = freq / 2;
+                    if (oscillator1.frequency.value < 530) {
+                        oscillator3.frequency.value = freq * 2;
+                    } else {
+                        oscillator3.frequency.value = freq / 4;
+                    }
+                }
+            }
+
+            $('.box').on('click', function () {
+                stop();
+                if (running) {
+                    running = false;
+                    return;
+                }
+
+                if (!confirm("WARNUNG!\nVerwenden Sie diese Funktion NICHT während Sie ein Fahrzeug bewegen, oder in anderer Weise Ihre volle Aufmerksamkeit gefordert ist. Diese Frequenzen KÖNNEN direkt auf Ihr Wohlbefinden wirken. Nehmen Sie eine entspannte Position im Sitzen oder Liegen ein bevor Sie starten.")) {
+                    return;
+                }
+                running = true;
+                let x = $(this);
+                x.find('.balken').addClass('activebalken');
+                x.find('.playbutton').hide();
+                x.find('.stopbutton').show();
+                $('#freq div.col').addClass('transparent');
+                x.parent('.col').removeClass("transparent");
+
+                audioCtx = new (window.AudioContext || window.webkitAudioContext)();
+                oscillator1 = audioCtx.createOscillator();
+                oscillator2 = audioCtx.createOscillator();
+                oscillator3 = audioCtx.createOscillator();
+                gainNode1 = audioCtx.createGain();
+                gainNode2 = audioCtx.createGain();
+                gainNode3 = audioCtx.createGain();
+                fullvolume = audioCtx.createGain();
+                fullvolume.gain.value = 0;
+
+                for (let r = 0; r < volumeControl.value; r+=.001) {
+                    window.setTimeout(function(){
+                        fullvolume.gain.value = r;
+                    }, (r * 2000));
+                }
+
+                oscillator1.connect(gainNode1);
+                oscillator2.connect(gainNode2);
+                oscillator3.connect(gainNode3);
+                gainNode1.connect(fullvolume);
+                gainNode2.connect(fullvolume);
+                gainNode3.connect(fullvolume);
+                fullvolume.connect(audioCtx.destination);
+                oscillator1.type = 'sine';
+                oscillator2.type = 'sine';
+                oscillator3.type = 'sine';
+
+                let volume = .8;//(1000/f) * v;
+                gainNode1.gain.value = startvolume[0];
+                gainNode2.gain.value = startvolume[1];
+                gainNode3.gain.value = startvolume[2];
+                if (solo) {
+                    volume = 1;
+                    gainNode1.gain.value = volume;
+                    gainNode2.gain.value = 0;
+                    gainNode3.gain.value = 0;
+                }
+
+
+                runningfreq = x.data("f");
+
+                changeFreq(runningfreq);
+
+                oscillator1.start();
+                oscillator2.start();
+                oscillator3.start();
+
+                startsec = Date.now();
+                duration = minutesControl.value;
+                endsec = startsec + (duration * 60000);
+
+            });
+
+            function stop() {
+                if (running) {
+                    $('.activebalken').css('width', '0%');
+                    $('.activebalken').removeClass('activebalken');
+                    $('.stopbutton').hide();
+                    $('.playbutton').show();
+                    $('.transparent').removeClass('transparent');
+                    try {
+
+                        for (let r = volumeControl.value; r > 0; r -= .001) {
+                            window.setTimeout(function () {
+                                fullvolume.gain.value = r;
+                            }, 1000 - (r * 1000));
+                        }
+                        window.setTimeout(function () {
+                            oscillator1.stop();
+                            oscillator2.stop();
+                            oscillator3.stop();
+                        }, 1000);
+                    } catch (e) {
+                    }
+                }
+            }
+
+            volumeControl.addEventListener(
+                "input",
+                () => {
+                    try {
+                        $('#volumeshow').text(Math.floor(volumeControl.value * 100));
+                        fullvolume.gain.value = volumeControl.value;
+                    } catch (e){}
+                },
+                false
+            );
+
+            minutesControl.addEventListener(
+                "input",
+                () => {
+                    try {
+                        $('#minutesshow').text(minutesControl.value);
+                        duration = minutesControl.value;
+                        endsec = startsec + (duration * 60000);
+                    } catch (e){}
+                },
+                false
+            );
+
+            mbControl.addEventListener(
+                "input",
+                () => {
+                    try {
+                        if (mbControl.value === "1") {
+                            $('#boostshow').text("An");
+                        } else {
+                            $('#boostshow').text("Aus");
+                            changeFreq(runningfreq);
+                        }
+                    } catch (e){}
+                },
+                false
+            );
+
+            soloControl.addEventListener(
+                "input",
+                () => {
+                    try {
+                        if (soloControl.value === "1") {
+                            $('#soloshow').text("An");
+                            solo = false;
+                            gainNode1.gain.value = startvolume[0];
+                            gainNode2.gain.value = startvolume[1];
+                            gainNode3.gain.value = startvolume[2];
+                        } else {
+                            $('#soloshow').text("Aus");
+                            solo = true;
+                            gainNode1.gain.value = 1;
+                            gainNode2.gain.value = 0;
+                            gainNode3.gain.value = 0;
+                        }
+                    } catch (e){}
+                },
+                false
+            );
+            window.setInterval(function () {
+                if (endsec > Date.now()) {
+                    let newwidth = ((Date.now() - startsec) / ((endsec - startsec) / 100));
+                    $('.activebalken').css('width', newwidth + '%');
+                    if (newwidth >= 99.9) {
+                        stop();
+                        running = false;
+                    }
+
+                    if (running) {
+                        changeFreq(runningfreq);
+                    }
+                }
+            }, 250);
+
+        });
+
+    </script>
+    <style>
+        .box {
+            border: #444 solid 1px;
+            width: 95%;
+            cursor: pointer;
+            padding: 10px;
+            position: relative;
+            color: white;
+        }
+
+        .balken {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 0%;
+            height: 100%;
+            background: #cccccc;
+            opacity: 0.5;
+            z-index: 1;
+        }
+        body {
+            background: #1e2125;
+            color: white;
+        }
+        .text-shadow {
+            text-shadow: 2px 2px #000000;
+        }
+        #ex1Slider .slider-selection {
+            background: #BABABA;
+        }
+        .stopbutton {
+            display: none;
+            position: absolute;
+            top: 5px;
+            right: 5px;
+            width: 20%;
+        }
+        .playbutton {
+            position: absolute;
+            top: 5px;
+            right: 5px;
+            width: 20%;
+        }
+        input {
+            width: 60%;
+        }
+        .transparent {
+            opacity: .3;
+        }
+    </style>
+</head>
+<body>
+<div class="container">
+
+
+    <section class="">
+        <nav class="navbar navbar-light bg-white  navbar-expand-md ">
+            <div class="container">
+                <div class="col-2 pl-md-0 text-left">
+                    <a href="#">
+                        <img src="https://yt3.googleusercontent.com/7o59pE-TsXpV2CSj4ZVoMp7UUesaQpj1fOgE2EQNm4sSSqyMSFKdTQsyGueWhtUztpqKheN2uA=s88-c-k-c0x00ffffff-no-rj" height="30" alt="image">
+                    </a>
+                </div>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav4" aria-controls="navbarNav4" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse justify-content-center col-md-8" id="navbarNav4">
+                    <ul class="navbar-nav justify-content-center">
+                        <li class="nav-item active">
+                            <a class="nav-link" href="index.html">Startseite <!--<span class="sr-only">(current)</span>--></a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="3dcourse.html">VR/3D-Kurse</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="tools.html">Schwingungen</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="podcasts.html">Podcasts</a>
+                        </li>
+                    </ul>
+                </div>
+                <ul class="navbar-nav col-2 justify-content-end d-none d-md-flex">
+                    <!--
+                    <li class="nav-item">
+                      <a class="nav-link" href="#"><i class="fab fa-facebook"></i></a>
+                    </li>
+                    <li class="nav-item">
+                      <a class="nav-link" href="#"><i class="fab fa-twitter"></i></a>
+                    </li>
+                    <li class="nav-item">
+                      <a class="nav-link" href="#"><i class="fab fa-github"></i></a>
+                    </li>
+                    -->
+                    <li class="nav-item">
+                        <a class="nav-link" target="_blank" href="https://www.youtube.com/@ubersinnliche_erfahrungen"><i class="fab fa-youtube"></i></a>
+                    </li>
+                </ul>
+            </div>
+        </nav>
+    </section>
+
+
+    <section class="pt-5 pb-5 mt-0 align-items-center d-flex bg-dark cover ov-hidden" style="background-size: cover; min-height: 15vh;  background-position-x: center; background-position-y: center;  background-image: url(img/jonathan-borba-3eC5n6gHwe8-unsplash.jpg);">
+        <div class="container-fluid zindex-1">
+            <div class="row align-items-center justify-content-center  text-center text-shadow">
+                <div class="col-12 col-md-6  ">
+                    <h1 class=" text-light   mb-2 mt-5"><strong>Frequenzgenerator
+                    </strong> </h1>
+                    <p class="lead  text-light mb-5">Verändere dich selbst und Andere mit diesen Frequenzen
+                    </p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+
+    <section class="pt-5 pb-1">
+        <div class="container pb-1">
+            <h3>Sitzungslänge<br><input type="range" id="minutes" min="5" max="100" value="10" step="5" />&nbsp;&nbsp;<span id="minutesshow">10</span>&nbsp;Min.</h3>
+            <h3>Lautstärke<br><input type="range" id="volume" min="0" max="1" value=".8" step="0.01" />&nbsp;&nbsp;<span id="volumeshow">80</span>%</h3>
+            <h3>Nebenfrequenzen<br><input type="range" id="solo" min="0" max="1" value="1" step="1" />&nbsp;&nbsp;<span id="soloshow">An</span></h3>Die Nebenfrequenzen erleichtern das Zuhören und die Ausgabe auf verschiedenen Lautsprechern.<br><br>
+            <h3>Mentalboost (experimentell)<br><input type="range" id="boost" min="0" max="1" value="0" step="1" />&nbsp;&nbsp;<span id="boostshow">Aus</span></h3>Dieser Schalter veranlasst, dass die Hauptfrequenz zufällig um bis zu 0.3% variiert wird. Das bewirkt, dass ein "Abschalten" des Gehirns erschwert wird und der Effekt intensiver wahrgenommen wird. Das "Eiern" kann aber auch unangenehm wirken. Bitte finden Sie ihre eigene optimale Einstellung!
+        </div>
+    </section>
+
+    <section class="pt-5 pb-1">
+        <div class="container pb-1">
+            <div class="row row-cols-1 row-cols-lg-3 align-items-stretch g-4 py-5" id="freq">
+
+            </div>
+        </div>
+    </section>
+
+    <section class="pt-5 pb-5">
+        <div class="container">
+            <div class="row d-flex">
+                <div class="col-md-12">
+                    <div class="card shadow-sm">
+                        <div class="card-body text-center p-5">
+                            <h3 class="pb-2 h3 mt-1 display-5 fw-bold text-uppercase text-primary">
+                                WARNUNG</h3>
+                            <p class="lead fw-bold text-black">Die Verwendung von solchen Frequenzmustern KANN Ihren Gleichgewichtssinn stören und Übelkeit hervorrufen!</p>
+                            <p class="text-black">Hören Sie diese Frequenzen niemals während Sie ein Fahrzeug steuern oder Ihre Aufmerksamkeit in anderer Weise gefordert ist!
+                                Sollten Sie unangenehme oder unerwünschte Effekte wahrnehmen, beenden Sie die Anwendung SOFORT! Sollten diese Effekte länger ahalten, kontaktieren Sie einen Arzt.
+                            Wir übernehmen keine Haftung/Verantwortung für jede Art von Schädigung.</p>
+                            <div class="btn   btn-lg btn-danger btn-rised   mt-md-4">Sorgen Sie unbedingt für eine stabile Position im Sitzen oder Liegen, bevor Sie ein Frequenz-Sitzung starten!</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+
+
+
+    <section style="display: block;" class="pro">
+        <div class="container">
+            <div class="row">
+                <div class="col-12 col-md-12 col-lg-12 col-xl-12">
+                    <h2 class="text-center mt-3 mb-3">
+                        Wie funktioniert es?
+                    </h2>
+                </div>
+                <div class="col-6 col-md-6 col-lg-6 col-xl-6 margin-top-20">
+                    <p>Elektro-magnetische Frequenzen umgeben uns in jeder Sekunde unseres Tages. Sie haben in verschiedenster Weise Einfluss auf unsere Befindlichkeit und Stimmungen. Am einfachsten wird das verständlich, wenn wir an Musik denken. Verschiedene Musikstile und Genres unterstützen unsere aktuelle Stimmung oder verändern unsere Stimmung in gewisser Weise.
+                        Ein trauriger, langsamer Song kann uns schnell in eine schwere Stimmung bringen, so wie ein beschwingtes Trompetensolo unsere Innenwelt zum Hüpfen bringen kann.</p>
+                </div>
+                <div class="col-6 col-md-6 col-lg-6 col-xl-6 margin-top-20">
+                    <p>Bestimmte isolierte Schwingungsmuster können diese Stimmungen gezielt erzeugen, verstärken oder auflösen.
+                        Wenn wir annehmen, dass jeder Teil unseres Körpers - und eventuell auch die Schwingungsfelder außerhalb unseres Körpers - eine eigene Stimmung haben, können wir mit isolierten Frequenzen auch auf diese Bereiche einwirken.
+                        <br><br>
+                        Jeder wird selbst seine Erfahrungen damit machen müssen - darum probieren Sie es aus!
+                    </p>
+                </div>
+            </div>
+            <hr>
+            <div class="row">
+                <div class="col-8 col-md-8 col-lg-8 col-xl-7">
+                    <img class="img-fluid" src="img/wave-g3268afc0d_1280.jpg" alt="">
+                </div>
+                <div class="col-12 col-md-12 col-lg-12 col-xl-5">
+                    <h4 class="text-danger">
+                        Starten
+                    </h4>
+                    <p class="margin-top-20">Starten Sie eine Frequenz durch Klick auf eine der Bilder-Kacheln. Vorher können Sie über die Regler am Anfang der Seite die Sitzungsdauer (automatische Abschaltung) und die Lautstärke einstellen. Eine Sitzung ist auf 10 Minuten vor-eingestellt. Das erleichtert Neulingen den Einstieg ohne zu überfordern. Fortgeschrittene können die Sitzung auf bis zu 100 Minuten verlängern. Längere Anwendung kann die Effekte durchaus verstärken, aber auch zu Überforderung führen.<br>Bitte handeln Sie verantwortungsvoll und umsichtig!</p>
+                    <h4 class="text-danger margin-top-20">Kopfhörer oder Lautsprecher</h4>
+                    <p class="margin-top-20">Verwenden Sie geeignete, gut funktionierende Kopfhörer oder Lautsprecher mit festem Stand. Ein knirschendes oder flirrendes Nebengeräusch kann die Erfahrung massiv verschlechtern. Verwenden Sie - wenn möglich - Lautsprecher oder Kopfhörer mit großen "Treibern". In der Regel können diese die Frequenzen deutlicher abbilden ohne Frequenzteile zu unterschlagen und damit den Effekt zu mindern.
+                        </p>
+                    <h4 class="text-danger margin-top-20">Anwendung</h4>
+                    <p class="margin-top-20">Es ist nicht nötig die Frequenzen über die Ohren zu konsumieren. Nach unserer Erfahrung ist es sinnvoller, die betroffenen Bereiche direkt zu beschallen. So z.B. ist es hilfreich bei schmerzenden Knien, den Kopfhörer direkt auf das Knie anzulegen.
+                    </p>
+                    <h4 class="text-danger margin-top-20">Frequenzen</h4>
+                    <p class="margin-top-20">
+                        Unser Programm erzeugt zu jeder Hauptfrequenz zwei Nebenfrequenzen, um das Hörgefühl angenehmer zu machen und den bestmöglichen Effekt auf allen Lautsprechern zu gewährleisten.
+                        <br>
+                        Die Nebenfrequenzen sind:<br>
+                        <b>Unter 530 Hz: 1 Oktave tiefer + 1 Oktave höher<br>
+                        Über 530 Hz: 1 Oktave tiefer + 2 Oktaven tiefer</b>
+                    </p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+
+
+
+    <footer class="pt-5 pb-5  bg-dark text-light">
+        <div class="container">
+            <div class="row align-items-top text-center text-md-start">
+                <div class="col-12 col-sm-6 col-md-4">
+                    <h3><strong>Country A</strong></h3>
+                    <p>Street Address
+                        <br>Contact Name
+                    </p>
+                    <p>+44 800 400 0000</p>
+                    <p>
+                        <a href="#">infob@bootstraptor.com</a>
+                    </p>
+                </div>
+                <div class="col-12 col-sm-6 col-md-4 mt-4 mt-sm-0">
+                    <h3><strong>Country B</strong></h3>
+                    <p>Street Address 100
+                        <br>Contact Name
+                    </p>
+                    <p>+13 800 312 0000</p>
+                    <p>
+                        <a href="#">infob@bootstraptor.com</a>
+                    </p>
+                </div>
+                <div class="col-12 col-md-4 mt-5 mt-md-0 text-md-start">
+                    <h3><strong>About Us</strong></h3>
+                    <p>Bootstraptor provides high quality assets for your business. We
+                        help entrepreneurs with great ideas achieving their goals
+                        faster.</p>
+                    <p class="text-h3">
+                        <a href="#">
+                            <i class="fab fa-twitter" aria-hidden="true"></i>
+                        </a>&nbsp;&nbsp;
+                        <a href="#">
+                            <i class="fab fa-facebook" aria-hidden="true"></i>
+                        </a>&nbsp;&nbsp;
+                        <a href="#">
+                            <i class="fab fa-instagram" aria-hidden="true"></i>
+                        </a>&nbsp;&nbsp;
+                        <a href="#">
+                            <i class="fab fa-pinterest" aria-hidden="true"></i>
+                        </a>&nbsp;&nbsp;
+                        <a href="#">
+                            <i class="fab fa-google" aria-hidden="true"></i>
+                        </a>
+                    </p>
+                </div>
+            </div>
+            <div class="row mt-5">
+                <div class="col text-center">
+                    © 2021 Bootstraptor. All Rights Reserved
+                </div>
+            </div>
+        </div>
+    </footer>
+</div>
+</body>
+</html>

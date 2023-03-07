@@ -1,0 +1,96 @@
+{
+  "main": {
+    "id": "8b9b437038fd059b",
+    "type": "split",
+    "children": [
+      {
+        "id": "65f5b031bb4548f6",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Battlemaps.md",
+            "mode": "source",
+            "source": true
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bc46b97b162bc59a",
+    "type": "split",
+    "children": [
+      {
+        "id": "fb8719c30d1823cc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f62c0af8be601ed0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "451d0f9a84c52bb5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c4506d909d4fdb29",
+    "type": "split",
+    "children": [
+      {
+        "id": "95e8075c76922bab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d81428c2b029c557",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Battlemaps.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "65f5b031bb4548f6",
+  "lastOpenFiles": [
+    "Battlemaps.md",
+    "index.md",
+    "readme.md"
+  ]
+}

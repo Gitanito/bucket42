@@ -1,0 +1,231 @@
+
+      li {
+        font-size: smaller;
+        list-style-type: none;
+        white-space: pre;
+        color: white;
+        cursor: pointer;
+        font-stretch: 80%;
+      }
+      .tophr {
+        border-top: 1px solid black;
+        font-size: small;
+      }
+      .bold {
+        font-weight: bold;
+      }
+      .bigger {
+        font-size: x-large;
+      }
+      .smaller {
+        font-size: x-small;
+      }
+      .center {
+        text-align: center;
+      }
+      .print {
+        width: 297mm;
+        height: 210mm;
+        padding: .1cm;
+      }
+      li:before {
+        content: "\f096"; /* FontAwesome Unicode f0c8 */
+        font-family: FontAwesome;
+        display: inline-block;
+        margin-left: -1.3em; /* same as padding-left set on li */
+        width: 1em; /* same as padding-left set on li */
+      }
+      .li-active:before {
+        content: "\f0c8"; /* FontAwesome Unicode f0c8 */
+        font-family: FontAwesome;
+        display: inline-block;
+        margin-left: -1.3em; /* same as padding-left set on li */
+        width: 1em; /* same as padding-left set on li */
+      }
+      .skull {
+        line-height: .2em;
+        padding: 0;
+        margin: 0;
+      }
+      .skull:before {
+        content: "\f29a";
+        font-family: FontAwesome;
+        display: inline-block;
+        margin-left: -1.3em; /* same as padding-left set on li */
+        width: 1.3em; /* same as padding-left set on li */
+      }
+      i {
+        font-style: normal;
+        font-size: smaller;
+      }
+      h1 {
+        font-size: 3em;
+        z-index: 9000;
+      }
+      ol, ul {
+          padding-left: .5rem;
+      }
+      .card {
+        border-radius: 1rem;
+        margin-bottom: .2rem;
+      }
+      .card-body {
+        padding: .5rem;
+        
+        padding-top: .2rem;
+        padding-bottom: .2rem;
+      }
+      .big_str:before {
+        content: "\f0e7"; //"\f24e"; /* FontAwesome Unicode */
+        font-size: 4rem;
+        font-family: FontAwesome;
+        display: inline;
+        margin-left: -.4em; /* same as padding-left set on li */
+        width: 1em; /* same as padding-left set on li */
+        color:white;
+        position: absolute;
+      }
+      .big_dex:before {
+        content: "\f1b0"; 
+        font-size: 4rem;
+        font-family: FontAwesome;
+        display: inline;
+        margin-left: -.4em; /* same as padding-left set on li */
+        width: 1em; /* same as padding-left set on li */
+        color:white;
+        position: absolute;
+      }
+      .big_con:before {
+        content: "\f21e"; 
+        font-size: 4rem;
+        font-family: FontAwesome;
+        display: inline;
+        margin-left: -.4em; /* same as padding-left set on li */
+        width: 1em; /* same as padding-left set on li */
+        color:white;
+        position: absolute;
+      }
+      .big_int:before {
+        content: "\f212"; 
+        font-size: 4rem;
+        font-family: FontAwesome;
+        display: inline;
+        margin-left: -.5em; /* same as padding-left set on li */
+        width: 1em; /* same as padding-left set on li */
+        color:white;
+        position: absolute;
+      }
+      .big_wiz:before {
+        content: "\f24e"; 
+        font-size: 4rem;
+        font-family: FontAwesome;
+        display: inline;
+        margin-top: -.15em;
+        margin-left: -.6em; /* same as padding-left set on li */
+        width: 1em; /* same as padding-left set on li */
+        color:white;
+        position: absolute;
+      }
+      .big_cha:before {
+        content: "\f0fc"; 
+        font-size: 4rem;
+        font-family: FontAwesome;
+        display: inline;
+        margin-left: -.4em; /* same as padding-left set on li */
+        width: 1em; /* same as padding-left set on li */
+        color:white;
+        position: absolute;
+      }
+      .sml_sld:before {
+        content: "\f132"; 
+        font-family: FontAwesome;
+        display: inline-block;
+        margin-left: -1em; /* same as padding-left set on li */
+        width: 1.5em; /* same as padding-left set on li */
+      }
+      .sml_ini:before {
+        content: "\f062"; 
+        font-family: FontAwesome;
+        display: inline-block;
+        margin-left: -1em; /* same as padding-left set on li */
+        width: 1.5em; /* same as padding-left set on li */
+      }
+      
+      .sml_bwr:before {
+        content: "\f0e4"; 
+        font-family: FontAwesome;
+        display: inline-block;
+        margin-left: -1em; /* same as padding-left set on li */
+        width: 1.5em; /* same as padding-left set on li */
+      }
+      .sml_tp:before {
+        content: "\f219"; 
+        font-family: FontAwesome;
+        display: inline-block;
+        margin-left: -1em; /* same as padding-left set on li   fa-trophy [&#xf091;]*/  
+        width: 1.5em; /* same as padding-left set on li */
+      }
+      .trophy:before {
+        content: "\f091"; 
+        font-family: FontAwesome;
+        display: inline-block;
+        margin-left: -1em; /* same as padding-left set on li */  
+        width: 1.5em; /* same as padding-left set on li */
+      }
+      .passw:before {
+        content: "\f2a8"; 
+        font-family: FontAwesome;
+        display: inline-block;
+        margin-left: -1em; /* same as padding-left set on li */  
+        width: 1.5em; /* same as padding-left set on li */
+      }
+      
+      .wand:before {
+        content: "\f0d0"; 
+        font-family: FontAwesome;
+        display: inline-block;
+        margin-left: -1em; /* same as padding-left set on li */  
+        width: 1.5em; /* same as padding-left set on li */
+      }
+      input {
+         width: 100%;
+         font-family: inherit;
+         font-weight: bold;
+         border: none;
+         background: transparent;
+         padding: 0;
+         margin: 0;
+          z-index: 9000;
+          color:inherit;
+      }
+      h2 {
+        z-index: 9000;
+      }
+      .bonus:after {
+        content: "\f132"; 
+        font-size: 2rem;
+        font-family: FontAwesome;
+        display: inline-block;
+        margin-left: 2.5em; /* same as padding-left set on li */  
+        width: 1em; /* same as padding-left set on li */
+        position: absolute;
+      }
+      img {
+        height: 190mm;
+        max-width: 100%;
+        max-height: 100%;
+        margin: auto;
+        -webkit-filter: drop-shadow(0px 2px 20px #fff);
+        filter: drop-shadow(0px 2px 20px #fff);
+      }
+      .white {
+        color: white;
+      }
+      @media print {
+         .noprint {
+            visibility: hidden;
+         }
+         .print {
+            overflow: hidden;
+         }
+      }

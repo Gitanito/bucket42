@@ -1,0 +1,12 @@
+{
+  "theme_color": "#000000",
+  "background_color": "#000000",
+  "display": "standalone",
+  "scope": ".",
+  "start_url": "/r.html",
+  "name": "VR-Test",
+  "short_name": "VR Test",
+  "description": "VR Test",
+  "id": "/r.html",
+  "icons": []
+}

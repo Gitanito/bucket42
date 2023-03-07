@@ -1,0 +1,186 @@
+body {
+    padding: 0;
+    margin: 0;
+}
+.fullscreen {
+    position:absolute;
+    top: 0;
+    left: 0;
+    width: 100% !important;
+    height: 100% !important;
+}
+.fullwidth {
+    position:absolute;
+    top: 0;
+    left: 0;
+}
+#player {
+    position:absolute;
+    top: 0;
+    left: 0;
+    padding: 0;
+    margin: 0;
+}
+#playercontainer {
+    position:absolute;
+    top: 0;
+    left: 0;
+    padding: 0;
+    margin: 0;
+}
+#blackbackground {
+    position:fixed;
+    top: 0;
+    left: 0;
+    width: 1px;
+    height: 1px;
+    overflow: hidden;
+    background: black;
+}
+#overlay {
+    position:absolute;
+    top: 0;
+    left: 0;
+    width: 1px;
+    height: 1px;
+    overflow: hidden;
+}
+#drop-region {
+    position:absolute;
+    top: 0;
+    left: 0;
+    width: 1px;
+    height: 1px;
+    overflow: hidden;
+}
+.hline {
+    position: absolute;
+    top: 0;
+    left: 0;
+    border: 0;
+    border-top: 1px solid black;
+    padding: 0;
+    margin: 0;
+    height: 1px;
+    width: 100%;
+}
+.vline {
+    position: absolute;
+    top: 0;
+    left: 0;
+    border: 0;
+    border-left: 1px solid black;
+    padding: 0;
+    margin: 0;
+    height: 100%;
+    width: 1px;
+}
+.element-image img {
+    width: 96px;
+    height: 96px;
+    border-radius: 50%;
+    display: block;
+
+    /* This rule is very important, please don't ignore this */
+    max-width: 100%;
+}
+
+#contextMenu {
+    position: absolute;
+    display: none;
+    padding: 10px;
+    z-index: 9999;
+ }
+
+#rightlane {
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 300px;
+    height: 100%;
+    min-height: 100%;
+    max-height: 100%;
+    overflow: hidden;
+    display: none;
+}
+.connectedSortable {
+}
+
+#droplet_chat {
+    width: 100%;
+}
+#chat {
+    position: relative;
+    overflow: hidden;
+    height: 500px;
+    max-height: 500px;
+    width: 100%;
+    vertical-align: bottom !important;
+}
+#chat table {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
+#chatline {
+    vertical-align: bottom !important;
+}
+#chatinput {
+    height: 40px;
+    width: 100%;
+    vertical-align: bottom;
+}
+#chatinput input {
+    width: 100%;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.colorswitch {
+    cursor:pointer;
+    width:20px;
+    border-radius: 50%;
+}
+
+#cropper {
+    z-index:99999;
+}
+#cropper-container {
+    margin: 20px auto;
+    max-width: 640px;
+}
+#cropper-container img {
+    width: 100%;
+}
+
+.cropper-view-box,
+.cropper-face {
+    border-radius: 50%;
+}
+.alert {
+    margin-bottom: 4px !important;
+}
+
+
+
+
+.ui-sortable-placeholder {
+    border: 1px solid rgb(12,194,170);
+    visibility:visible !important;
+}
+
+#values_input input {
+    width: 40px;
+    text-align: center;
+    border-radius: 20%;
+}
+
+#values_input {
+    text-align: center;
+}

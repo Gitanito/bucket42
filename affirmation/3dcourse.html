@@ -1,0 +1,766 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <title>VR 3D Affirmations - Übersinnliche Erfahrungen hautnah</title>
+    <meta charset="UTF-8">
+    <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
+    <meta http-equiv="Pragma" content="no-cache" />
+    <meta http-equiv="Expires" content="0" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <script src="https://aframe.io/releases/1.4.1/aframe.min.js"></script>
+    <script type="text/javascript" src="jquery.min.js"></script>
+    <script type="text/javascript" src="papaparse.min.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css" integrity="sha512-SzlrxWUlpfuzQ+pcUCosxcglQRNAq/DZjVsC0lE40xsADsfeQoEypE+enwcOiGjk/bSuGGKHEyjSoQ1zVisanQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/js/all.min.js" integrity="sha512-2bMhOkE/ACz21dJT8zBOMgMecNxx0d37NND803ExktKiKdSzdwn+L7i9fdccw/3V06gM/DBWKbYmQvKMdAA9Nw==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+
+    <style>
+        a-scene {
+            height: 550px;
+            width: 100%;
+        }
+
+        .text-shadow {
+            text-shadow: 2px 2px #000000;
+        }
+    </style>
+    <script>
+
+        if (localStorage.getItem("speed") === null) {
+            localStorage.setItem("speed", "1");
+        }
+        let speed = parseFloat(localStorage.getItem("speed"));
+
+
+        function shuffle(array) {
+            var copy = [], n = array.length, i;
+            while (n) {
+                i = Math.floor(Math.random() * array.length);
+                if (i in array) {
+                    copy.push(array[i]);
+                    delete array[i];
+                    n--;
+                }
+            }
+            return copy;
+        }
+
+        function initLobby () {
+            $('audio')[0].pause();
+            document.querySelector('#whiteboard').setAttribute("visible", "false");
+            document.querySelector('#lobby').setAttribute("visible", "true");
+            started = false;
+        }
+
+
+        AFRAME.registerComponent('cursor-fixy', {
+            init: function () {
+                this.el.addEventListener('click', function (evt) {
+                    let newp = document.querySelector('a-camera').getAttribute('rotation');
+                    console.log(newp);
+                    document.querySelector('#rig').setAttribute('rotation', {y: newp.y * -1});
+                    //document.querySelector('#rig').setAttribute('animation', "property: rotation; to: " + (newp.x * -1) + " " + (newp.y * -1) + " 0; loop: false; dur: 2000");
+                    //document.querySelector('#rig2').setAttribute('animation', "property: rotation; to: 0 0 0; loop: false; dur: 2000");
+
+                });
+            }
+        });
+
+        AFRAME.registerComponent('door', {
+            init: function () {
+                this.el.addEventListener('click', function (evt) {
+                    if (!started) {
+                        document.querySelector('#lobby').setAttribute('visible', false);
+                        startNow($(this).data("keyword"));
+                        document.querySelector('#whiteboard').setAttribute('visible', true);
+                    }
+                });
+            }
+        });
+
+        AFRAME.registerComponent('soundcontrols', {
+            init: function () {
+                this.el.addEventListener('click', function (evt) {
+                    if (localStorage.getItem("soundon") === null || localStorage.getItem("soundon") === '1') {
+                        document.querySelector('#soundtext').setAttribute('value', "Music is OFF");
+                        document.querySelector('#soundbutton').setAttribute('src', "#soundoff");
+                        localStorage.setItem("soundon", "0");
+                    } else {
+
+                        document.querySelector('#soundtext').setAttribute('value', "Music is ON");
+                        document.querySelector('#soundbutton').setAttribute('src', "#sound");
+                        localStorage.setItem("soundon", "1");
+                    }
+                });
+            }
+        });
+
+        AFRAME.registerComponent('speedcontrols', {
+            init: function () {
+                this.el.addEventListener('click', function (evt) {
+                    console.log(speed);
+                    switch (speed) {
+                        case 1:
+                            speed = 1.5;
+                            break;
+                        case 1.5:
+                            speed = 2;
+                            break;
+                        case 2:
+                            speed = 3;
+                            break;
+                        case 3:
+                            speed = 0.1;
+                            break;
+                        case 0.1:
+                            speed = 0.5;
+                            break;
+                        case 0.5:
+                            speed = 1;
+                            break;
+                        default:
+                            speed = 1;
+                    }
+                    console.log(speed);
+                    document.querySelector('#speedtext').setAttribute('value', speed + "x");
+                    localStorage.setItem("speed", ""+speed);
+                });
+            }
+        });
+
+
+        let API_KEY = '616352-880ec209cc4e8b262c33dd643';
+        let config_csv = "https://docs.google.com/spreadsheets/d/1GJHxiqOYxOEF-1JgcnjeZ-n48vnizRij6hNG32TBxMw/gviz/tq?tqx=out:csv&sheet="; // "streams.csv"; //
+
+        let images = [[
+            /*
+            {"src": "search:sonnenuntergang meer", "type": "img", "text": "Ich wache auf!", "duration": 600},
+            {"src": "img/Weg87529.mp4", "type": "vid", "text": "Die Sonne scheint fuer MICH!", "duration": 600},
+            {"src": "img/5250691.jpg", "type": "img", "text": "Mein Zuhause schenkt mir\nGeborgenheit", "duration": 600},
+            {"src": "img/Blasen85220.mp4", "type": "vid", "text": "Meine Gedanken steigen\nzum Himmel", "duration": 600},
+            {"src": "img/259929.jpg", "type": "img", "text": "... und erschaffen\nmeine Wirklichkeit", "duration": 600},
+            {"src": "img/Verehrung43838.mp4", "type": "vid", "text": "Mein inneres Licht\nerleuchtet die Welt", "duration": 600},
+            {"src": "img/259735.jpg", "type": "img", "text": "... und fuehrt mich an\ndie schoensten Orte", "duration": 600},
+            {"src": "img/Haus67774.mp4", "type": "vid", "text": "Ob auf dem Land ...", "duration": 600},
+            {"src": "img/Surfer38451.mp4", "type": "vid", "text": "... oder am Wasser", "duration": 600},
+            {"src": "img/inspiration-ge68dca3f4_1920.jpg", "type": "img", "text": "Mein Leben ist schoener als\nich es jeh erwartet hatte!", "duration": 600},
+            {"src": "img/heart-g11c2ae39d_1920.jpg", "type": "img", "text": "Meine allumfassende Liebe\nheilt jeden Aspekt der Welt", "duration": 600}, */
+            {"src": "img/thanks-g411edba99_1920.jpg", "type": "img", "text": "AMEN.", "duration": 300}
+        ]];
+
+
+        /*
+Ich bin zurück an meiner magischen Schule.
+Mein Lehrer möchte mit der Klasse ein Theaterstück aufführen!
+Für die Hauptrolle findet ein Vorsprechen statt.
+Ich will diese Rolle unbedingt, und gebe darum mein Bestes!
+Um die beste Vorstellung zu liefern, gehe ich tief in die Rolle hinein.
+Ich spiele einen wichtigen Geschäftsmann mit sehr viel Geld im Hintergrund, der allen Geschäftspartnern einen großen Vorteil bringt.
+Die äußere Erscheinung zeugt von großer Kraft, klarem Fokus und großem Edelmut.
+Allein durch seine Erscheinung beeindruckt er sein Gegenüber.
+Das Skript gibt vor, dass der Geschäftsmann einen Geschäftspartner für einen Termin persönlich begrüßt.
+Sie reichen sich die Hände, sehen sich in die Augen und tauschen freundschaftliche Worte aus, welche von tiefer Wertschätzung zeugen.
+Ich stelle mir diese Person und die Situation ganz plastisch vor, damit ich sie beim Vorsprechen perfekt verkörpere.
+Das Vorsprechen beginnt!
+Die Jury sitzt gespannt vor mir und verfolgt gebannt meine Darbietung.
+Ich schreite auf die Bühne und sehe den imaginären Geschäftspartner plastisch vor mir.
+Ich gebe ihm die Hand und führe die Gesten aus, die ich schon vorher geübt habe.
+Die Jury ist noch nicht ganz überzeugt und möchte, dass ich mein Schauspiel noch einmal bei völliger Dunkelheit darbiete.
+Ich sehe weder die Bühne, noch die Jury, doch das macht mir nichts aus.
+In völliger Dunkelheit gehe ich im Geiste auf meinen Geschäftspartner zu, der mir jetzt noch lebhafter erscheint.
+Ich erfasse seine Hand, spüre wie kräftig sie ist, sehe seine Augen und erkenne wie viel Wertschätzung darin zum Ausdruck kommt.
+Es wirkt, als wäre es absolute Realität!
+Das Gefühl der Wertschätzung und Kraft durchfährt mich und ich spüre, wie meine Schultern breit und meine Brust entspannt wird.
+Die Jury möchte, dass ich noch eine Minute in dieser Pose stehen bleibe.
+Ich freue mich, dass mein Schauspiel offensichtlich so gut angenommen wird.
+Die Stimmung in der Jury ist äußerst positiv! Und ich höre Worte wie "beeindruckend", "Auf den Punkt" und "fantastisch"!
+Man ruft mir zu: "Danke!".
+Nun kann ich aus meiner Rolle aussteigen.
+Die Lichter gehen wieder an.
+Meine Klassenkameraden laufen auf mich zu und beglückwünschen mich zu meiner Leistung!
+Sie klopfen mir auf die Schultern und ermutigen mich, genau so und noch besser auf der Bühne zu spielen.
+Eine Jurorin schreitet langsam auf mich zu, drückt meine Hand, bedankt sich für diese außergewöhnliche Leistung und beglückwünscht mich, die Hauptrolle verkörpern zu dürfen.
+Da die Besetzung nun feststeht, werden alle weiteren Teilnehmer auf die anderen Rollen verteilt.
+Diese Ehre bringt mein Herz zum Hüpfen und ich weiß, dass ich beim nächsten Mal auf der Bühne noch viel überzeugender sein werde.
+
+
+         */
+
+
+
+
+        let recording = false;
+        let distance = 10;
+        let duration = 300;
+        let cameradistance = 3;
+        let started = false;
+        let framecount = 0;
+
+        function appendAssets(id, file, type) {
+            let assets = document.querySelector('a-assets');
+
+            if (type === "aud") {
+                let audio = document.createElement('audio');
+                audio.setAttribute("id", "asset" + id);
+                audio.setAttribute("crossorigin", "anonymous");
+                audio.setAttribute("preload", "none");
+                audio.setAttribute("loop", false);
+                audio.setAttribute("autoplay", false);
+                audio.setAttribute("autostart", false);
+                audio.setAttribute("playsinline", "");
+                audio.setAttribute("webkit-playsinline", "");
+                audio.setAttribute("src", file);
+                audio.loop = false;
+                audio.autoplay = false;
+                audio.autostart = false;
+                assets.appendChild(audio);
+            } else if (type === "vid") {
+                let video = document.createElement('video');
+                video.setAttribute("id", "asset" + id);
+                video.setAttribute("crossorigin", "anonymous");
+                video.setAttribute("preload", "none");
+                video.setAttribute("loop", true);
+                video.setAttribute("autoplay", false);
+                video.setAttribute("autostart", false);
+                video.setAttribute("width", "1280");
+                video.setAttribute("height", "720");
+                video.setAttribute("playsinline", "");
+                video.setAttribute("webkit-playsinline", "");
+                video.setAttribute("src", file);
+                video.loop = true;
+                video.autoplay = false;
+                video.autostart = false;
+                assets.appendChild(video);
+            } else if (type === "img") {
+
+                if (file.substring(0, 7) !== "search:") {
+                    let img = document.createElement('img');
+                    img.setAttribute("id", "asset" + id);
+                    img.setAttribute("crossorigin", "anonymous");
+                    img.setAttribute("src", file);
+                    assets.appendChild(img);
+                } else {
+
+                    let URL = "https://pixabay.com/api/?key=" + API_KEY + "&orientation=horizontal&order=relevant&per_page=10&image_type=photo&pretty=false&q=" + encodeURIComponent(file.substring(7));
+                    $.getJSON(URL, function (data) {
+                        if (parseInt(data.totalHits) > 0) {
+                            data.hits = shuffle(data.hits);
+                            document.querySelector("#id" + id).setAttribute("material", "shader: flat; side: double; src: " + data.hits[0].largeImageURL);
+                        } else
+                            console.log('No hits');
+                    });
+                }
+            }
+        }
+
+        function appendObject(id, file, type, text, position = "0 0 0", textposition = "0 0 0", rotation = "0 0 0", scale = "-1 1 1") {
+
+            let sceneEl = document.querySelector('#whiteboard');
+
+            if (type === "elm") {
+                let entityEl = document.createElement('a-image');
+
+                entityEl.setAttribute("id", "button" + id);
+                entityEl.setAttribute("position", textposition);
+                entityEl.setAttribute("scale", "2 2 .2");
+                entityEl.setAttribute("rotation", "0 0 0");
+                entityEl.setAttribute("src", "#backbutton");
+                entityEl.setAttribute("visible", "false");
+                entityEl.setAttribute("material", "transparent: true");
+                console.log(position + ' ' + id);
+                sceneEl.appendChild(entityEl);
+                entityEl.addEventListener('click', function(){console.log("click"); initLobby();});
+
+            } else {
+                let entityEl = document.createElement('a-entity');
+
+                entityEl.setAttribute("id", "id" + id);
+                entityEl.setAttribute("position", position);
+                entityEl.setAttribute("scale", scale);
+                entityEl.setAttribute("rotation", rotation);
+                entityEl.setAttribute("transparent", "true");
+                entityEl.setAttribute("opacity", "1");
+                entityEl.setAttribute("material", "shader: flat; side: double; src: #asset" + id);
+                entityEl.setAttribute("geometry", "primitive: cylinder; radius: " + (cameradistance * 1) + "; height: 3; open-ended: true; theta-start: 130; theta-length: 100;");
+                console.log(position + ' ' + id);
+                sceneEl.appendChild(entityEl);
+
+                let entityElt = document.createElement('a-text');
+
+                entityElt.setAttribute("id", "text" + id);
+                entityElt.setAttribute("value", text);
+                entityElt.setAttribute("scale", ".3 .3 .2");
+                entityElt.setAttribute("shader", "msdf");
+                entityElt.setAttribute("font", "https://raw.githubusercontent.com/etiennepinchon/aframe-fonts/master/fonts/roboto/Roboto-Regular.json");
+                entityElt.setAttribute("fontImage", "https://raw.githubusercontent.com/etiennepinchon/aframe-fonts/master/fonts/roboto/Roboto-Regular.png");
+                entityElt.setAttribute("rotation", "0 20 0");
+                entityElt.setAttribute("position", textposition);
+                sceneEl.appendChild(entityElt);
+            }
+
+        }
+
+        function startNow(id) {
+            if (!started) {
+
+                started = true;
+
+                Papa.parse(config_csv + id, {
+                    delimiter: "",	// auto-detect
+                    newline: "",	// auto-detect
+                    quoteChar: '"',
+                    escapeChar: '"',
+                    header: false,
+                    transformHeader: undefined,
+                    dynamicTyping: false,
+                    preview: 0,
+                    encoding: "",
+                    worker: false,
+                    comments: false,
+                    step: undefined,
+                    complete: function(results, file) {
+                        //results.data.shift();
+                        //console.log(results.data);
+
+                        //results.data = shuffle(results.data);
+
+                        /*
+                        let aud = 'https://stream.mubert.com/b2b/v2?playlist=3.0.2&intensity=low&pat=bXViZXJ0Zm9yc3RyZWFtZXJzLjEzMjQwNjA1LjAzZTgxNTg5NzJmMWMzM2IxM2Y2ZDVlOWQ2ZWI3MTdkYTNkOTM3NTcuMS4z.7b3bab34fb6d1981f5fef41a7c6468d783e773ff18d361fa5f16d1dc39d7fe1f';
+                        console.log(aud);
+                        */
+                        if (localStorage.getItem("soundon") === '1') {
+                            let aud = Math.floor(Math.random() * 1);
+                            $('#myaudio').attr('src', 'img/meditation' + aud + '.mp3');
+                            $('audio')[0].play();
+                        }
+
+                        //document.querySelector('#cursortext').setAttribute("visible", "false");
+                        document.querySelector('#cursorpointer').setAttribute("visible", "false");
+
+                        const myNode = document.querySelector('#whiteboard');
+                        myNode.setAttribute("position", "0 1.6 0");
+                        while (myNode.firstChild) {
+                            myNode.removeChild(myNode.lastChild);
+                        }
+
+                        let startposition = (distance * -1) + cameradistance;
+                        for (let i = 0; i < results.data.length; i++ ) {
+                            appendObject(id + "" + i, results.data[i][2], results.data[i][1], results.data[i][0], "0 0 " + startposition, "-1 0 " + (startposition-2.5));
+                            appendAssets(id + "" + i, results.data[i][2], results.data[i][1]);
+                            if (results.data[i][4] !== "") {
+                                appendAssets(id + "aud" + i, "mp3/" + results.data[i][4], "aud");
+                            }
+                            startposition -= distance;
+                        }
+                        appendObject("endcard", "", "elm", "zur Lobby", "0 1 " + (startposition-1), "-1 -2 " + (startposition));
+
+                        window.setTimeout(
+                            function () {
+                                //let newp = document.querySelector('a-camera').getAttribute('rotation');
+                                //document.querySelector('#rig2').setAttribute('animation', "property: rotation; to: " + (newp.x * -1) + " " + (newp.y * -1) + " 0; loop: false; dur: 2000");
+
+                                let starttime = 0;
+                                let mydistance = cameradistance;
+                                //document.querySelector('#rig').setAttribute("animation","property: rotation; to: 0 360 0; loop: false; dur: " + (10000 * speed));
+                                for (let i = 0; i < results.data.length; i++) {
+                                    let myduration = results.data[i][3] * 1000 * (1/speed);
+
+                                    let a1 = "property: position; to: 0 1.6 " + (mydistance + (distance / 1.1) - cameradistance) + "; loop: false; dur: " + (myduration / 6);
+                                    window.setTimeout(function () {
+                                        document.querySelector('#whiteboard').setAttribute(
+                                            "animation", a1)
+                                    }, starttime);
+
+                                    let a2 = "property: position; to: 0 1.6 " + (mydistance + distance - cameradistance) + "; loop: false; dur: " + (myduration / 6);
+                                    window.setTimeout(function () {
+                                        document.querySelector('#whiteboard').setAttribute(
+                                            "animation", a2)
+                                    }, starttime + (myduration / 1.3));
+
+                                    window.setTimeout(function () {
+                                        document.querySelector("#id" + id + ""  + i).setAttribute("visible", "false");
+                                        document.querySelector("#text" + id + ""  + i).setAttribute("visible", "false");
+                                    }, starttime + (myduration / 1.1));
+
+                                    console.log(starttime + a1);
+                                    console.log((starttime + (myduration / 1.5)) + a2);
+
+                                    if (results.data[i][1] === "vid") {
+                                        window.setTimeout(function () {
+                                            document.querySelector('#asset' + id + "" + i).play();
+                                        }, starttime);
+                                        window.setTimeout(function () {
+                                            document.querySelector('#asset' + id + "" + i).pause();
+                                        }, starttime + myduration);
+                                    }
+                                    if (results.data[i][4] !== "") {
+                                        console.log(starttime + " ----------------------------- " + Math.floor(myduration/3))
+                                        window.setTimeout(function () {
+                                            let myaud = document.querySelector('#asset' + id + "aud" + i);
+                                            myaud.loop = false;
+                                            myaud.play();
+                                        }, starttime + Math.floor(myduration/6));
+                                    }
+                                    mydistance += distance;
+                                    starttime += myduration;
+
+
+                                    if (i === results.data.length - 1)  {
+                                        window.setTimeout(function () {
+                                            //document.querySelector('#cursortext').setAttribute("visible", "true");
+                                            document.querySelector('#cursorpointer').setAttribute("visible", "true");
+                                            document.querySelector('#buttonendcard').setAttribute("visible", "true");
+                                        }, starttime);
+                                    }
+                                    console.log(i + " set on " + starttime);
+                                }
+                                window.setTimeout(function () {
+                                    initLobby();
+                                }, starttime + 2000);
+                            },
+                            1000
+                        );
+                    },
+                    error: undefined,
+                    download: true,
+                    downloadRequestHeaders: undefined,
+                    downloadRequestBody: undefined,
+                    skipEmptyLines: false,
+                    chunk: undefined,
+                    chunkSize: undefined,
+                    fastMode: undefined,
+                    beforeFirstChunk: undefined,
+                    withCredentials: undefined,
+                    transform: undefined,
+                    delimitersToGuess: [',', '\t', '|', ';', Papa.RECORD_SEP, Papa.UNIT_SEP]
+                });
+            }
+        }
+
+        $(document).ready(function(){
+            if (localStorage.getItem("soundon") === null || localStorage.getItem("soundon") === '1') {
+                document.querySelector('#soundtext').setAttribute('value', "Music is ON");
+                document.querySelector('#soundbutton').setAttribute('src', "#sound");
+                localStorage.setItem("soundon", "1");
+            } else {
+
+                document.querySelector('#soundtext').setAttribute('value', "Music is OFF");
+                document.querySelector('#soundbutton').setAttribute('src', "#soundoff");
+                localStorage.setItem("soundon", "0");
+            }
+            document.querySelector('#speedtext').setAttribute('value', speed + "x");
+        });
+    </script>
+</head>
+<body>
+
+<div class="container">
+
+
+    <section class="">
+        <nav class="navbar navbar-light bg-white  navbar-expand-md ">
+            <div class="container">
+                <div class="col-2 pl-md-0 text-left">
+                    <a href="#">
+                        <img src="https://yt3.googleusercontent.com/7o59pE-TsXpV2CSj4ZVoMp7UUesaQpj1fOgE2EQNm4sSSqyMSFKdTQsyGueWhtUztpqKheN2uA=s88-c-k-c0x00ffffff-no-rj" height="30" alt="image">
+                    </a>
+                </div>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav4" aria-controls="navbarNav4" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse justify-content-center col-md-8" id="navbarNav4">
+                    <ul class="navbar-nav justify-content-center">
+                        <li class="nav-item active">
+                            <a class="nav-link" href="index.html">Startseite <!--<span class="sr-only">(current)</span>--></a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="3dcourse.html">VR/3D-Kurse</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="tools.html">Schwingungen</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="podcasts.html">Podcasts</a>
+                        </li>
+                    </ul>
+                </div>
+                <ul class="navbar-nav col-2 justify-content-end d-none d-md-flex">
+                    <!--
+                    <li class="nav-item">
+                      <a class="nav-link" href="#"><i class="fab fa-facebook"></i></a>
+                    </li>
+                    <li class="nav-item">
+                      <a class="nav-link" href="#"><i class="fab fa-twitter"></i></a>
+                    </li>
+                    <li class="nav-item">
+                      <a class="nav-link" href="#"><i class="fab fa-github"></i></a>
+                    </li>
+                    -->
+                    <li class="nav-item">
+                        <a class="nav-link" target="_blank" href="https://www.youtube.com/@ubersinnliche_erfahrungen"><i class="fab fa-youtube"></i></a>
+                    </li>
+                </ul>
+            </div>
+        </nav>
+    </section>
+
+    <section class="pt-5 pb-5 mt-0 align-items-center d-flex bg-dark cover ov-hidden" style="background-size: cover;  background-position-x: center; background-position-y: center; min-height: 15vh; background-image: url(img/jonathan-borba-3eC5n6gHwe8-unsplash.jpg);">
+        <div class="container-fluid zindex-1">
+            <div class="row align-items-center justify-content-center  text-center text-shadow">
+                <div class="col-12 col-md-6  ">
+                    <h1 class=" text-light   mb-2 mt-5"><strong>VR Trainings
+                    </strong> </h1>
+                    <p class="lead  text-light mb-5">Trainiere deinen Geist mit Virtueller Realität
+                    </p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="pt-5 pb-5">
+        <div class="container">
+            <div class="row align-items-center justify-content-around">
+                <div class="col-12 col-md-6   ">
+                    <h1>3D Trainings für VR-Brillen</h1>
+                    <p class="text-h3 mt-4 pb-4">Erlebe ein intensives Affirmations-Training durch moderne 3D-Technik.</p>
+                    <h2>So funktionierts</h2>
+                    <div class="media mt-4 d-flex">
+                        <i class="fa-solid fa-mobile-screen" style="font-size:75px;padding-right:20px;"></i>
+                        <div class="media-body">
+                            <h5 class="mt-0">VR-Brille für Handys</h5>
+                            Lade diese Seite auf deinem Handy und tippe dann auf den VR-Button im rechten Bild. Damit startet der virtuelle Modus und du kannst das Handy in deine VR-Brille einlegen.
+                        </div>
+                    </div>
+                    <div class="media mt-4 d-flex">
+                        <i class="fa-solid fa-vr-cardboard" style="font-size:45px;padding-right:20px;"></i>
+                        <div class="media-body">
+                            <h5 class="mt-0">Integrierte VR-Brille</h5>
+                            Öffne diese Seite in dem Browser deiner 3D-Brille und klicke dann auf das VR-Symbol im rechten Bild.
+                        </div>
+                    </div>
+                    <br><br>
+                    <h2>Bedienung</h2>
+                    <div class="media mt-4 d-flex">
+                        <i class="fa-solid fa-gauge" style="font-size:55px;padding-right:20px;"></i>
+                        <div class="media-body">
+                            <h5 class="mt-0">Geschwindigkeit</h5>
+                            Jedes Affirmations-Bild/-Video wird dir etwa 1 Minute lang angezeigt und gibt dir Zeit, dich tief ins Gefühl zu begeben.
+                            Möchtest du den Ablauf beschleunigen oder verlangsamen, bringe den orangenen Kreis auf die Zahl über der Aufschrift "Speed".
+                            Damit kannst du verschiedene Geschwindigkeiten durchwechseln.
+                        </div>
+                    </div>
+                    <div class="media mt-4 d-flex">
+                        <i class="fa-solid fa-volume-low" style="font-size:60px;padding-right:20px;"></i>
+                        <div class="media-body">
+                            <h5 class="mt-0">Musik An/Aus</h5>
+                            Beim Start eines Trainings startet auch eine von 3 verschiedenen Relax-Musikstücken.
+                            Bringe den orangenen Kreis auf das Noten-Symbol um die Musik zu aktivieren oder deaktivieren.
+                        </div>
+                    </div>
+                    <div class="media mt-4 d-flex">
+                        <i class="fa-solid fa-arrows-to-circle" style="font-size:40px;padding-right:20px;"></i>
+                        <div class="media-body">
+                            <h5 class="mt-0">Zentieren des Sichtfelds</h5>
+                            Wenn dein Sichtfeld verdreht ist oder du die Position anpassen möchtest, sieh nach unten und bringe den orangen Kreis in den grauen Bereich.
+                            Dein Sichtfeld wird nach dem "Klick" neu ausgerichtet.
+                        </div>
+                    </div>
+                </div>
+                <div class="col-12 col-md-5   mt-4 mt-md-0">
+                    <div id="myEmbeddedScene">
+                        <a-scene id="scene" embedded>
+                            <a-assets>
+                                <img id="background"  src="img/cy120l19-360-panorama-sunset-in-the-dark.jpeg"/>
+                                <img id="backbutton"  src="img/homebutton.png"/>
+                                <img id="sound"  src="img/sound.png"/>
+                                <img id="soundoff"  src="img/soundoff.png"/>
+                                <img id="teaser11"  src="img/gesund.jpg"/>
+                                <img id="teaser12"  src="img/glueck.jpg"/>
+                                <img id="teaser13"  src="img/selbstliebe.jpg"/>
+                                <img id="teaser21"  src="img/freude.jpg"/>
+                                <img id="teaser22"  src="img/wohlstand.jpg"/>
+                                <img id="teaser23"  src="img/kreativ.jpg"/>
+                            </a-assets>
+
+
+                            <a-entity coursex id="whiteboard" position="0 1.6 0">
+                            </a-entity>
+
+                            <a-entity lobby id="lobby" position="0 0 0" visible="true">
+
+                                <a-entity door position="-3 3.6 -8" rotation="0 30 0" data-keyword="Freude">
+                                    <a-box material="color: #cccccc; transparent: true; opacity: 0.5" depth=".1" height="3" width="3"></a-box>
+                                    <a-text value="Freude" position="-1 -.8 .3" rotation="0 0 0" scale="2 2 .1"></a-text>
+                                    <a-image src="#teaser21" position="0 0 .2" rotation="0 0 0" height="2" width="2.6"></a-image>
+                                </a-entity>
+
+                                <a-entity door position="0 3.6 -9" rotation="0 0 0" data-keyword="Wohlstand">
+                                    <a-box material="color: #cccccc; transparent: true; opacity: 0.5" depth=".1" height="3" width="3"></a-box>
+                                    <a-text value="Wohlstand" position="-1 -.8 .3" rotation="0 0 0" scale="2 2 .1"></a-text>
+                                    <a-image src="#teaser22" position="0 0 .2" rotation="0 0 0" height="2" width="2.6"></a-image>
+                                </a-entity>
+
+                                <a-entity door position="3 3.6 -8" rotation="0 -30 0" data-keyword="Kreativitaet">
+                                    <a-box material="color: #cccccc; transparent: true; opacity: 0.5" depth=".1" height="3" width="3"></a-box>
+                                    <a-text value="Kreativitaet" position="-1 -.8 .3" rotation="0 0 0" scale="2 2 .1"></a-text>
+                                    <a-image src="#teaser23" position="0 0 .2" rotation="0 0 0" height="2" width="2.6"></a-image>
+                                </a-entity>
+
+
+                                <a-entity door position="-3 -.4 -8" rotation="0 30 0" data-keyword="Gesundheit">
+                                    <a-box material="color: #cccccc; transparent: true; opacity: 0.5" depth=".1" height="3" width="3"></a-box>
+                                    <a-text value="Gesundheit" position="-1 -.8 .3" rotation="0 0 0" scale="2 2 .1"></a-text>
+                                    <a-image src="#teaser11" position="0 0 .2" rotation="0 0 0" height="2" width="2.6"></a-image>
+                                </a-entity>
+
+                                <a-entity door position="0 -.4 -9" rotation="0 0 0" data-keyword="Glueck">
+                                    <a-box material="color: #cccccc; transparent: true; opacity: 0.5" depth=".1" height="3" width="3"></a-box>
+                                    <a-text value="Glueck" position="-1 -.8 .3" rotation="0 0 0" scale="2 2 .1"></a-text>
+                                    <a-image src="#teaser12" position="0 0 .2" rotation="0 0 0" height="2" width="2.6"></a-image>
+                                </a-entity>
+
+                                <a-entity door position="3 -.4 -8" rotation="0 -30 0" data-keyword="Selbstliebe">
+                                    <a-box material="color: #cccccc; transparent: true; opacity: 0.5" depth=".1" height="3" width="3"></a-box>
+                                    <a-text value="Selbstliebe" position="-1 -.8 .3" rotation="0 0 0" scale="2 2 .1"></a-text>
+                                    <a-image src="#teaser13" position="0 0 .2" rotation="0 0 0" height="2" width="2.6"></a-image>
+                                </a-entity>
+
+                                <a-entity position="-6 -.4 -8" rotation="0 50 0">
+                                    <a-text speedcontrols id="speedtext" value="1x" position="-.70 1.8 .2" rotation="0 0 0" scale="4 4 1"></a-text>
+                                    <a-text value="Speed" position="0 1.2 .2" rotation="0 0 0"></a-text>
+                                    <a-text id="soundtext" value="Music is OFF" position="-.70 -.8 .2" rotation="0 0 0"></a-text>
+                                    <a-image soundcontrols id="soundbutton" src="#soundoff" material="transparent: true;" position="0 0 .2" rotation="0 0 0" height="1" width="1.3"></a-image>
+                                </a-entity>
+                            </a-entity>
+
+                            <a-sky src="#background" rotation="0 -90 0" hide-on-enter-ar></a-sky>
+                            <a-entity cursor-fixy material="color: #cccccc; transparent: true; opacity: 0.2" geometry="primitive: cylinder; radius: 40; height: .1; open-ended: false;" position="0 -31 0" rotation="0 0 0"></a-entity>
+                            <a-entity id="rig" position="0 0 0">
+                                <a-camera position="0 1.6 0">
+                                    <a-entity cursorpointer id="cursorpointer"
+                                              animation__click="property: scale; startEvents: click; easing: easeInCubic; dur: 150; from: 0.01 0.01 0.01; to: .1 .1 .1"
+                                              animation__fusing="property: scale; startEvents: fusing; easing: easeInCubic; dur: 1500; from: .1 .1 .1; to: 0.01 0.01 0.01"
+                                              animation__mouseleave="property: scale; startEvents: mouseleave; easing: easeInCubic; dur: 500; to: .1 .1 .1"
+                                              cursor="fuse: true;"
+                                              material="color: orange; shader: flat"
+                                              position="0 0 -2.5"
+                                              geometry="primitive: ring"></a-entity>
+                                    <!--<a-text cursortext id="cursortext" value="Center View" position="0 -.3 -3" rotation="0 0 0"></a-text>-->
+
+                                </a-camera>
+                            </a-entity>
+                        </a-scene>
+                        <audio id="myaudio" src=""></audio>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="pt-5 pb-5">
+        <div class="container">
+            <div class="row d-flex">
+                <div class="col-md-12">
+                    <div class="card shadow-sm">
+                        <div class="card-body text-center p-5">
+                            <h3 class="pb-2 h3 mt-1 display-5 fw-bold text-uppercase text-primary">
+                                WARNUNG</h3>
+                            <p class="lead fw-bold">Die Verwendung einer 3D-/VR-Brille kann ihren Gleichgewichtssinn stören und Übelkeit hervorrufen!</p>
+                            <p>Unsere Kurse sind bewusst sehr angenehm gestaltet, dennoch können unangenheme Erfahrungen nicht ausgeschlossen werden.</p>
+                            <div class="btn   btn-lg btn-danger btn-rised   mt-md-4">Sorgen Sie unbedingt für eine stabile Position im Sitzen oder Liegen, bevor Sie eine 3D-Brille verwenden!</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="pt-5 pb-5 bg-light">
+        <div class="container">
+            <div class="row d-flex">
+                <div class="col-md-12">
+                    <div class="card border-0 bg-light ">
+                        <div class="card-body p-4">
+                            <div class="row d-flex equal align-items-center">
+                                <div class="col-md-12 text-center">
+                                    <h4 class="pb-2 h3 mb-1 mt-1">Dir hat die VR-Erfahrung gefallen?</h4>
+                                    <p class=" ">Wir erstellen auch individuelle 3D-/VR-Trainings nach deinen Vorgaben! Nutze modernste Technologie für deine Kunden und Klienten.
+                                    </p>
+                                </div>
+                                <div class="col-md-12  text-center">
+                                    <a href="mailto:sharethetruth.nde@gmail.com" class="btn btn-xs btn-round   btn-primary btn-rised  "> Sende uns ein Email </a>
+                                </div>
+                                <br><br><br><br><br>
+                                <div class="col-md-12  text-center">
+                                    <a href="index.html" class="btn btn-xs btn-round   btn-dark btn-rised  "> Zurück zur Übersicht </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+    <footer class="pt-5 pb-5  bg-dark text-light">
+        <div class="container">
+            <div class="row align-items-top text-center text-md-start">
+                <div class="col-12 col-sm-6 col-md-4">
+                    <h3><strong>Country A</strong></h3>
+                    <p>Street Address
+                        <br>Contact Name
+                    </p>
+                    <p>+44 800 400 0000</p>
+                    <p>
+                        <a href="#">infob@bootstraptor.com</a>
+                    </p>
+                </div>
+                <div class="col-12 col-sm-6 col-md-4 mt-4 mt-sm-0">
+                    <h3><strong>Country B</strong></h3>
+                    <p>Street Address 100
+                        <br>Contact Name
+                    </p>
+                    <p>+13 800 312 0000</p>
+                    <p>
+                        <a href="#">infob@bootstraptor.com</a>
+                    </p>
+                </div>
+                <div class="col-12 col-md-4 mt-5 mt-md-0 text-md-start">
+                    <h3><strong>About Us</strong></h3>
+                    <p>Bootstraptor provides high quality assets for your business. We
+                        help entrepreneurs with great ideas achieving their goals
+                        faster.</p>
+                    <p class="text-h3">
+                        <a href="#">
+                            <i class="fab fa-twitter" aria-hidden="true"></i>
+                        </a>&nbsp;&nbsp;
+                        <a href="#">
+                            <i class="fab fa-facebook" aria-hidden="true"></i>
+                        </a>&nbsp;&nbsp;
+                        <a href="#">
+                            <i class="fab fa-instagram" aria-hidden="true"></i>
+                        </a>&nbsp;&nbsp;
+                        <a href="#">
+                            <i class="fab fa-pinterest" aria-hidden="true"></i>
+                        </a>&nbsp;&nbsp;
+                        <a href="#">
+                            <i class="fab fa-google" aria-hidden="true"></i>
+                        </a>
+                    </p>
+                </div>
+            </div>
+            <div class="row mt-5">
+                <div class="col text-center">
+                    © 2021 Bootstraptor. All Rights Reserved
+                </div>
+            </div>
+        </div>
+    </footer>
+
+</div>
+
+</body>
+</html>
