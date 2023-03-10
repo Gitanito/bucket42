@@ -19,63 +19,20 @@
     <script>
 
         let list = [
-            {"group": "Solfeggio Frequenzen", "freq": [174, 285, 396, 417, 528], "vol": [.5,.5,.5,.5,.5], "pan": [0,0,0,0,0], "col": "#222","name": "174+285+396+417+528Hz", "desc": "Untere 5 Solfeggio", "tags": "1 2 3", "img": "img/nature-gf527aac49_640.jpg"},
-            {"group": "Solfeggio Frequenzen", "freq": [285, 396, 417, 528, 639], "vol": [.5,.5,.5,.5,.5], "pan": [0,0,0,0,0], "col": "#222","name": "285+396+417+528+639Hz", "desc": "Untere 5 Solfeggio", "tags": "1 2 3", "img": "img/nature-gf527aac49_640.jpg"},
-            {"group": "Solfeggio Frequenzen", "freq": [396, 417, 528, 639, 741], "vol": [.5,.5,.5,.5,.5], "pan": [0,0,0,0,0], "col": "#222","name": "396+417+528+639+741Hz", "desc": "Untere 5 Solfeggio", "tags": "1 2 3", "img": "img/nature-gf527aac49_640.jpg"},
-            {"group": "Solfeggio Frequenzen", "freq": [417, 528, 639, 741, 852], "vol": [.5,.5,.5,.5,.5], "pan": [0,0,0,0,0], "col": "#222","name": "417+528+639+741+852Hz", "desc": "Untere 5 Solfeggio", "tags": "1 2 3", "img": "img/nature-gf527aac49_640.jpg"},
-            {"group": "Solfeggio Frequenzen", "freq": [528, 639, 741, 852, 963], "vol": [.5,.5,.5,.5,.5], "pan": [0,0,0,0,0], "col": "#222","name": "528+639+741+852+963Hz", "desc": "Untere 5 Solfeggio", "tags": "1 2 3", "img": "img/nature-gf527aac49_640.jpg"},
+            {"group": "5er Set", "freq": [174, 285, 396, 417, 528], "vol": [.4,.4,.4,.4,.4], "pan": [0,0,0,0,0], "col": "#222","name": "174-528 Hz", "desc": "Untere Körperhälfte", "tags": "1 2 3", "img": "img/nature-gf527aac49_640.jpg"},
+            {"group": "5er Set", "freq": [285, 396, 417, 528, 639], "vol": [.4,.4,.4,.4,.4], "pan": [0,0,0,0,0], "col": "#222","name": "285-639 Hz", "desc": "Unten bis Mitte", "tags": "1 2 3", "img": "img/nature-gf527aac49_640.jpg"},
+            {"group": "5er Set", "freq": [396, 417, 528, 639, 741], "vol": [.4,.4,.4,.4,.4], "pan": [0,0,0,0,0], "col": "#222","name": "396-741Hz", "desc": "Körpermitte", "tags": "1 2 3", "img": "img/nature-gf527aac49_640.jpg"},
+            {"group": "5er Set", "freq": [417, 528, 639, 741, 852], "vol": [.4,.4,.4,.4,.4], "pan": [0,0,0,0,0], "col": "#222","name": "417-852Hz", "desc": "Oben bis Mitte", "tags": "1 2 3", "img": "img/nature-gf527aac49_640.jpg"},
+            {"group": "5er Set", "freq": [528, 639, 741, 852, 963], "vol": [.4,.4,.4,.4,.4], "pan": [0,0,0,0,0], "col": "#222","name": "528-963Hz", "desc": "Obere Körperhälfte", "tags": "1 2 3", "img": "img/nature-gf527aac49_640.jpg"},
+            {"group": "5er Set", "freq": [174, 396, 528, 741, 963], "vol": [.4,.4,.4,.4,.4], "pan": [0,0,0,0,0], "col": "#222","name": "5/9", "desc": "Jede zweite Frequenz", "tags": "1 2 3", "img": "img/nature-gf527aac49_640.jpg"},
         ];
 
     </script>
     <script src="vibrations.js"></script>
+    <link rel="stylesheet" href="vibrations.css">
     <style>
-        .box {
-            border: #444 solid 1px;
-            width: 95%;
-            cursor: pointer;
-            padding: 10px;
-            position: relative;
-            color: white;
-        }
-
-        .balken {
-            position: absolute;
-            top: 0;
-            left: 0;
-            width: 0%;
-            height: 100%;
-            background: #cccccc;
-            opacity: 0.5;
-            z-index: 1;
-        }
         body {
-            background: #1e2125;
-            color: white;
-        }
-        .text-shadow {
-            text-shadow: 2px 2px #000000;
-        }
-        #ex1Slider .slider-selection {
-            background: #BABABA;
-        }
-        .stopbutton {
-            display: none;
-            position: absolute;
-            top: 5px;
-            right: 5px;
-            width: 20%;
-        }
-        .playbutton {
-            position: absolute;
-            top: 5px;
-            right: 5px;
-            width: 20%;
-        }
-        input {
-            width: 60%;
-        }
-        .transparent {
-            opacity: .3;
+            background: #1d3f06;
         }
     </style>
 </head>
