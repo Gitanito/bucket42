@@ -1,0 +1,301 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <title>Frequency Generator - Übersinnliche Erfahrungen hautnah</title>
+    <meta charset="UTF-8">
+    <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
+    <meta http-equiv="Pragma" content="no-cache" />
+    <meta http-equiv="Expires" content="0" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <script src="jquery.min.js"></script>
+
+    <link rel="stylesheet" href="bootstrap/css/bootstrap.min.css">
+    <script src="bootstrap/js/bootstrap.bundle.min.js"></script>
+
+    <link rel="stylesheet" href="fontawesome/css/all.min.css">
+    <script src="fontawesome/js/all.min.js"></script>
+
+    <script>
+
+        let list = [
+            {"group": "Solfeggio Frequenzen", "freq": [174, 285, 396, 417, 528], "vol": [.5,.5,.5,.5,.5], "pan": [0,0,0,0,0], "col": "#222","name": "174+285+396+417+528Hz", "desc": "Untere 5 Solfeggio", "tags": "1 2 3", "img": "img/nature-gf527aac49_640.jpg"},
+            {"group": "Solfeggio Frequenzen", "freq": [285, 396, 417, 528, 639], "vol": [.5,.5,.5,.5,.5], "pan": [0,0,0,0,0], "col": "#222","name": "285+396+417+528+639Hz", "desc": "Untere 5 Solfeggio", "tags": "1 2 3", "img": "img/nature-gf527aac49_640.jpg"},
+            {"group": "Solfeggio Frequenzen", "freq": [396, 417, 528, 639, 741], "vol": [.5,.5,.5,.5,.5], "pan": [0,0,0,0,0], "col": "#222","name": "396+417+528+639+741Hz", "desc": "Untere 5 Solfeggio", "tags": "1 2 3", "img": "img/nature-gf527aac49_640.jpg"},
+            {"group": "Solfeggio Frequenzen", "freq": [417, 528, 639, 741, 852], "vol": [.5,.5,.5,.5,.5], "pan": [0,0,0,0,0], "col": "#222","name": "417+528+639+741+852Hz", "desc": "Untere 5 Solfeggio", "tags": "1 2 3", "img": "img/nature-gf527aac49_640.jpg"},
+            {"group": "Solfeggio Frequenzen", "freq": [528, 639, 741, 852, 963], "vol": [.5,.5,.5,.5,.5], "pan": [0,0,0,0,0], "col": "#222","name": "528+639+741+852+963Hz", "desc": "Untere 5 Solfeggio", "tags": "1 2 3", "img": "img/nature-gf527aac49_640.jpg"},
+        ];
+
+    </script>
+    <script src="vibrations.js"></script>
+    <style>
+        .box {
+            border: #444 solid 1px;
+            width: 95%;
+            cursor: pointer;
+            padding: 10px;
+            position: relative;
+            color: white;
+        }
+
+        .balken {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 0%;
+            height: 100%;
+            background: #cccccc;
+            opacity: 0.5;
+            z-index: 1;
+        }
+        body {
+            background: #1e2125;
+            color: white;
+        }
+        .text-shadow {
+            text-shadow: 2px 2px #000000;
+        }
+        #ex1Slider .slider-selection {
+            background: #BABABA;
+        }
+        .stopbutton {
+            display: none;
+            position: absolute;
+            top: 5px;
+            right: 5px;
+            width: 20%;
+        }
+        .playbutton {
+            position: absolute;
+            top: 5px;
+            right: 5px;
+            width: 20%;
+        }
+        input {
+            width: 60%;
+        }
+        .transparent {
+            opacity: .3;
+        }
+    </style>
+</head>
+<body>
+<div class="container">
+
+
+    <section class="">
+        <nav class="navbar navbar-light bg-white  navbar-expand-md ">
+            <div class="container">
+                <div class="col-2 pl-md-0 text-left">
+                    <a href="#">
+                        <img src="https://yt3.googleusercontent.com/7o59pE-TsXpV2CSj4ZVoMp7UUesaQpj1fOgE2EQNm4sSSqyMSFKdTQsyGueWhtUztpqKheN2uA=s88-c-k-c0x00ffffff-no-rj" height="30" alt="image">
+                    </a>
+                </div>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav4" aria-controls="navbarNav4" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse justify-content-center col-md-8" id="navbarNav4">
+                    <ul class="navbar-nav justify-content-center">
+                        <li class="nav-item active">
+                            <a class="nav-link" href="index.html">Startseite <!--<span class="sr-only">(current)</span>--></a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="3dcourse.html">VR/3D-Kurse</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="tools.html">Schwingungen</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="podcasts.html">Podcasts</a>
+                        </li>
+                    </ul>
+                </div>
+                <ul class="navbar-nav col-2 justify-content-end d-none d-md-flex">
+                    <!--
+                    <li class="nav-item">
+                      <a class="nav-link" href="#"><i class="fab fa-facebook"></i></a>
+                    </li>
+                    <li class="nav-item">
+                      <a class="nav-link" href="#"><i class="fab fa-twitter"></i></a>
+                    </li>
+                    <li class="nav-item">
+                      <a class="nav-link" href="#"><i class="fab fa-github"></i></a>
+                    </li>
+                    -->
+                    <li class="nav-item">
+                        <a class="nav-link" target="_blank" href="https://www.youtube.com/@ubersinnliche_erfahrungen"><i class="fab fa-youtube"></i></a>
+                    </li>
+                </ul>
+            </div>
+        </nav>
+    </section>
+
+
+    <section class="pt-5 pb-5 mt-0 align-items-center d-flex bg-dark cover ov-hidden" style="background-size: cover; min-height: 15vh;  background-position-x: center; background-position-y: center;  background-image: url(img/jonathan-borba-3eC5n6gHwe8-unsplash.jpg);">
+        <div class="container-fluid zindex-1">
+            <div class="row align-items-center justify-content-center  text-center text-shadow">
+                <div class="col-12 col-md-6  ">
+                    <h1 class=" text-light   mb-2 mt-5"><strong>Frequenzgenerator
+                    </strong> </h1>
+                    <p class="lead  text-light mb-5">Verändere dich selbst und Andere mit diesen Frequenzen
+                    </p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+
+    <section class="pt-5 pb-1">
+        <div class="container pb-1">
+            <h3>Sitzungslänge<br><input type="range" id="minutes" min="5" max="100" value="10" step="5" />&nbsp;&nbsp;<span id="minutesshow">10</span>&nbsp;Min.</h3>
+            <h3>Lautstärke<br><input type="range" id="volume" min="0" max="1" value=".8" step="0.01" />&nbsp;&nbsp;<span id="volumeshow">80</span>%</h3>
+            <h3>Nebenfrequenzen<br><input type="range" id="solo" min="0" max="1" value="1" step="1" />&nbsp;&nbsp;<span id="soloshow">An</span></h3>Die Nebenfrequenzen erleichtern das Zuhören und die Ausgabe auf verschiedenen Lautsprechern.<br><br>
+
+            <input type="hidden" id="boost" value="0"/>
+            <!--<h3>Mentalboost (experimentell)<br><input type="range" id="boost" min="0" max="1" value="0" step="1" />&nbsp;&nbsp;<span id="boostshow">Aus</span></h3>Dieser Schalter veranlasst, dass die Hauptfrequenz zufällig um bis zu 0.3% variiert wird. Das bewirkt, dass ein "Abschalten" des Gehirns erschwert wird und der Effekt intensiver wahrgenommen wird. Das "Eiern" kann aber auch unangenehm wirken. Bitte finden Sie ihre eigene optimale Einstellung! -->
+        </div>
+    </section>
+
+    <section class="pt-5 pb-1">
+        <div class="container pb-1">
+            <div class="row row-cols-1 row-cols-lg-3 align-items-stretch g-4 py-5" id="freq">
+
+            </div>
+        </div>
+    </section>
+
+    <section class="pt-5 pb-5">
+        <div class="container">
+            <div class="row d-flex">
+                <div class="col-md-12">
+                    <div class="card shadow-sm">
+                        <div class="card-body text-center p-5">
+                            <h3 class="pb-2 h3 mt-1 display-5 fw-bold text-uppercase text-primary">
+                                WARNUNG</h3>
+                            <p class="lead fw-bold text-black">Die Verwendung von solchen Frequenzmustern KANN Ihren Gleichgewichtssinn stören und Übelkeit hervorrufen!</p>
+                            <p class="text-black">Hören Sie diese Frequenzen niemals während Sie ein Fahrzeug steuern oder Ihre Aufmerksamkeit in anderer Weise gefordert ist!
+                                Sollten Sie unangenehme oder unerwünschte Effekte wahrnehmen, beenden Sie die Anwendung SOFORT! Sollten diese Effekte länger ahalten, kontaktieren Sie einen Arzt.
+                            Wir übernehmen keine Haftung/Verantwortung für jede Art von Schädigung.</p>
+                            <div class="btn   btn-lg btn-danger btn-rised   mt-md-4">Sorgen Sie unbedingt für eine stabile Position im Sitzen oder Liegen, bevor Sie ein Frequenz-Sitzung starten!</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+
+
+
+    <section style="display: block;" class="pro">
+        <div class="container">
+            <div class="row">
+                <div class="col-12 col-md-12 col-lg-12 col-xl-12">
+                    <h2 class="text-center mt-3 mb-3">
+                        Wie funktioniert es?
+                    </h2>
+                </div>
+                <div class="col-6 col-md-6 col-lg-6 col-xl-6 margin-top-20">
+                    <p>Elektro-magnetische Frequenzen umgeben uns in jeder Sekunde unseres Tages. Sie haben in verschiedenster Weise Einfluss auf unsere Befindlichkeit und Stimmungen. Am einfachsten wird das verständlich, wenn wir an Musik denken. Verschiedene Musikstile und Genres unterstützen unsere aktuelle Stimmung oder verändern unsere Stimmung in gewisser Weise.
+                        Ein trauriger, langsamer Song kann uns schnell in eine schwere Stimmung bringen, so wie ein beschwingtes Trompetensolo unsere Innenwelt zum Hüpfen bringen kann.</p>
+                </div>
+                <div class="col-6 col-md-6 col-lg-6 col-xl-6 margin-top-20">
+                    <p>Bestimmte isolierte Schwingungsmuster können diese Stimmungen gezielt erzeugen, verstärken oder auflösen.
+                        Wenn wir annehmen, dass jeder Teil unseres Körpers - und eventuell auch die Schwingungsfelder außerhalb unseres Körpers - eine eigene Stimmung haben, können wir mit isolierten Frequenzen auch auf diese Bereiche einwirken.
+                        <br><br>
+                        Jeder wird selbst seine Erfahrungen damit machen müssen - darum probieren Sie es aus!
+                    </p>
+                </div>
+            </div>
+            <hr>
+            <div class="row">
+                <div class="col-8 col-md-8 col-lg-8 col-xl-7">
+                    <img class="img-fluid" src="img/wave-g3268afc0d_1280.jpg" alt="">
+                </div>
+                <div class="col-12 col-md-12 col-lg-12 col-xl-5">
+                    <h4 class="text-danger">
+                        Starten
+                    </h4>
+                    <p class="margin-top-20">Starten Sie eine Frequenz durch Klick auf eine der Bilder-Kacheln. Vorher können Sie über die Regler am Anfang der Seite die Sitzungsdauer (automatische Abschaltung) und die Lautstärke einstellen. Eine Sitzung ist auf 10 Minuten vor-eingestellt. Das erleichtert Neulingen den Einstieg ohne zu überfordern. Fortgeschrittene können die Sitzung auf bis zu 100 Minuten verlängern. Längere Anwendung kann die Effekte durchaus verstärken, aber auch zu Überforderung führen.<br>Bitte handeln Sie verantwortungsvoll und umsichtig!</p>
+                    <h4 class="text-danger margin-top-20">Kopfhörer oder Lautsprecher</h4>
+                    <p class="margin-top-20">Verwenden Sie geeignete, gut funktionierende Kopfhörer oder Lautsprecher mit festem Stand. Ein knirschendes oder flirrendes Nebengeräusch kann die Erfahrung massiv verschlechtern. Verwenden Sie - wenn möglich - Lautsprecher oder Kopfhörer mit großen "Treibern". In der Regel können diese die Frequenzen deutlicher abbilden ohne Frequenzteile zu unterschlagen und damit den Effekt zu mindern.
+                        </p>
+                    <h4 class="text-danger margin-top-20">Anwendung</h4>
+                    <p class="margin-top-20">Es ist nicht nötig die Frequenzen über die Ohren zu konsumieren. Nach unserer Erfahrung ist es sinnvoller, die betroffenen Bereiche direkt zu beschallen. So z.B. ist es hilfreich bei schmerzenden Knien, den Kopfhörer direkt auf das Knie anzulegen.
+                    </p>
+                    <h4 class="text-danger margin-top-20">Frequenzen</h4>
+                    <p class="margin-top-20">
+                        Unser Programm erzeugt zu jeder Hauptfrequenz zwei Nebenfrequenzen, um das Hörgefühl angenehmer zu machen und den bestmöglichen Effekt auf allen Lautsprechern zu gewährleisten.
+                        <br>
+                        Die Nebenfrequenzen sind:<br>
+                        <b>Unter 530 Hz: 1 Oktave tiefer + 1 Oktave höher<br>
+                        Über 530 Hz: 1 Oktave tiefer + 2 Oktaven tiefer</b>
+                    </p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+
+
+
+    <footer class="pt-5 pb-5  bg-dark text-light">
+        <div class="container">
+            <div class="row align-items-top text-center text-md-start">
+                <div class="col-12 col-sm-6 col-md-4">
+                    <h3><strong>Country A</strong></h3>
+                    <p>Street Address
+                        <br>Contact Name
+                    </p>
+                    <p>+44 800 400 0000</p>
+                    <p>
+                        <a href="#">infob@bootstraptor.com</a>
+                    </p>
+                </div>
+                <div class="col-12 col-sm-6 col-md-4 mt-4 mt-sm-0">
+                    <h3><strong>Country B</strong></h3>
+                    <p>Street Address 100
+                        <br>Contact Name
+                    </p>
+                    <p>+13 800 312 0000</p>
+                    <p>
+                        <a href="#">infob@bootstraptor.com</a>
+                    </p>
+                </div>
+                <div class="col-12 col-md-4 mt-5 mt-md-0 text-md-start">
+                    <h3><strong>About Us</strong></h3>
+                    <p>Bootstraptor provides high quality assets for your business. We
+                        help entrepreneurs with great ideas achieving their goals
+                        faster.</p>
+                    <p class="text-h3">
+                        <a href="#">
+                            <i class="fab fa-twitter" aria-hidden="true"></i>
+                        </a>&nbsp;&nbsp;
+                        <a href="#">
+                            <i class="fab fa-facebook" aria-hidden="true"></i>
+                        </a>&nbsp;&nbsp;
+                        <a href="#">
+                            <i class="fab fa-instagram" aria-hidden="true"></i>
+                        </a>&nbsp;&nbsp;
+                        <a href="#">
+                            <i class="fab fa-pinterest" aria-hidden="true"></i>
+                        </a>&nbsp;&nbsp;
+                        <a href="#">
+                            <i class="fab fa-google" aria-hidden="true"></i>
+                        </a>
+                    </p>
+                </div>
+            </div>
+            <div class="row mt-5">
+                <div class="col text-center">
+                    © 2021 Bootstraptor. All Rights Reserved
+                </div>
+            </div>
+        </div>
+    </footer>
+</div>
+</body>
+</html>
