@@ -7,215 +7,56 @@
   <meta http-equiv="Pragma" content="no-cache" />
   <meta http-equiv="Expires" content="0" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
   <script src="jquery.min.js"></script>
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css" integrity="sha512-SzlrxWUlpfuzQ+pcUCosxcglQRNAq/DZjVsC0lE40xsADsfeQoEypE+enwcOiGjk/bSuGGKHEyjSoQ1zVisanQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/js/all.min.js" integrity="sha512-2bMhOkE/ACz21dJT8zBOMgMecNxx0d37NND803ExktKiKdSzdwn+L7i9fdccw/3V06gM/DBWKbYmQvKMdAA9Nw==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
-  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
-  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+
+  <link rel="stylesheet" href="bootstrap/css/bootstrap.min.css">
+  <script src="bootstrap/js/bootstrap.bundle.min.js"></script>
+
+  <link rel="stylesheet" href="fontawesome/css/all.min.css">
+  <script src="fontawesome/js/all.min.js"></script>
+
   <script>
 
     let list = [
-      {"group": "Verschiedenes", "freq": 3.5, "col": "#e09a4d","name": "3.5 Hz", "desc": "Theta-Bereich - beschleunigte Speicherung der Sprache", "tags": "1 2 3", "img": "img/lion-g89034e545_640.jpg"},
-      {"group": "Verschiedenes", "freq": 5.5, "col": "#333", "name": "5.5 Hz", "desc": "Visionen über notwendige Wachstumsprozesse", "tags": "1 2 3", "img": "img/filter-g5e7f24ab4_640.jpg"},
-      {"group": "Verschiedenes", "freq": 6.3, "col": "#e33235", "name": "6.3 Hz", "desc": "Beschleunigtes Lernen, verbesserte Gedächtnisleistung, mentale und astrale Projektionen", "tags": "1 2 3", "img": "img/abacus-g4f6c2fe99_640.jpg"},
-      {"group": "Verschiedenes", "freq": 7, "col": "#f7b352", "name": "7 Hz", "desc": "Beschleunigtes Lernen, verbesserte Gedächtnisleistung", "tags": "1 2 3", "img": "img/paper-g84892f294_640.jpg"},
-      {"group": "Verschiedenes", "freq": 7.5, "col": "#fede33", "name": "7.5 Hz", "desc": "Geführte Meditationen, Kreativität in Kunst/Erfindungen/Musik, Kontakt zu geistigen Bewusstseinsformen", "tags": "1 2 3", "img": "img/colorful-gf04857371_640.jpg"},
-      {"group": "Verschiedenes", "freq": 7.83, "col": "#486cb0", "name": "7.83 Hz", "desc": "Elementare Schumann Resonanz", "tags": "1 2 3", "img": "img/frequency-g5def81d85_640.jpg"},
-      {"group": "Verschiedenes", "freq": 8, "col": "#2ab2e4", "name": "8 Hz", "desc": "Alpha-Bereich - Regression in frühere Lebensphasen", "tags": "1 2 3", "img": "img/night-view-g7f6fe0e4e_640.jpg"},
-      {"group": "Verschiedenes", "freq": 8.3, "col": "#6f6aaa", "name": "8.3 Hz", "desc": "Visualisierung mentaler Objekte", "tags": "1 2 3", "img": "img/maple-leaf-g038a1e4f1_640.jpg"},
-      {"group": "Verschiedenes", "freq": 9, "col": "#8b4a8a", "name": "9 Hz", "desc": "Gewahrsein über die Ursachen körperlicher Unausgeglichenheiten", "tags": "1 2 3", "img": "img/hands-gc41d68a32_640.jpg"},
-      {"group": "Verschiedenes", "freq": 10.5, "col": "#334976", "name": "10.5 Hz", "desc": "Selbstheilung des Körpers", "tags": "1 2 3", "img": "img/gemstone-g28de21b17_640.jpg"},
-      {"group": "Verschiedenes", "freq": 12, "col": "#a4954b", "name": "12 Hz", "desc": "Zentrierung", "tags": "1 2 3", "img": "img/harmony-g46ec50c30_640.jpg"},
-      {"group": "Verschiedenes", "freq": 33, "col": "#512396", "name": "33 Hz", "desc": "Gamma-Bereich - Vibrationsgefühl, physische Aufgewühltheit", "tags": "1 2 3", "img": "img/swirl-geda463af3_640.jpg"},
-      {"group": "Verschiedenes", "freq": 35, "col": "#31549f", "name": "35 Hz", "desc": "Balance der Chakren", "tags": "1 2 3", "img": "img/droplet-gf9fbdcf52_640.jpg"},
+      {"group": "Verschiedenes", "freq": [432, 432 + 3.5], "vol": [1,1], "pan": [1,-1],"col": "#e09a4d","name": "3.5 Hz", "desc": "Theta-Bereich - beschleunigte Speicherung der Sprache", "tags": "1 2 3", "img": "img/lion-g89034e545_640.jpg"},
+      {"group": "Verschiedenes", "freq": [432, 432 + 5.5], "vol": [1,1], "pan": [1,-1], "col": "#333", "name": "5.5 Hz", "desc": "Visionen über notwendige Wachstumsprozesse", "tags": "1 2 3", "img": "img/filter-g5e7f24ab4_640.jpg"},
+      {"group": "Verschiedenes", "freq": [432, 432 + 6.3], "vol": [1,1], "pan": [1,-1], "col": "#e33235", "name": "6.3 Hz", "desc": "Beschleunigtes Lernen, verbesserte Gedächtnisleistung, mentale und astrale Projektionen", "tags": "1 2 3", "img": "img/abacus-g4f6c2fe99_640.jpg"},
+      {"group": "Verschiedenes", "freq": [432, 432 + 7], "vol": [1,1], "pan": [1,-1], "col": "#f7b352", "name": "7 Hz", "desc": "Beschleunigtes Lernen, verbesserte Gedächtnisleistung", "tags": "1 2 3", "img": "img/paper-g84892f294_640.jpg"},
+      {"group": "Verschiedenes", "freq": [432, 432 + 7.5], "vol": [1,1], "pan": [1,-1], "col": "#fede33", "name": "7.5 Hz", "desc": "Geführte Meditationen, Kreativität in Kunst/Erfindungen/Musik, Kontakt zu geistigen Bewusstseinsformen", "tags": "1 2 3", "img": "img/colorful-gf04857371_640.jpg"},
+      {"group": "Verschiedenes", "freq": [432, 432 + 7.83], "vol": [1,1], "pan": [1,-1], "col": "#486cb0", "name": "7.83 Hz", "desc": "Elementare Schumann Resonanz", "tags": "1 2 3", "img": "img/frequency-g5def81d85_640.jpg"},
+      {"group": "Verschiedenes", "freq": [432, 432 + 8], "vol": [1,1], "pan": [1,-1], "col": "#2ab2e4", "name": "8 Hz", "desc": "Alpha-Bereich - Regression in frühere Lebensphasen", "tags": "1 2 3", "img": "img/night-view-g7f6fe0e4e_640.jpg"},
+      {"group": "Verschiedenes", "freq": [432, 432 + 8.3], "vol": [1,1], "pan": [1,-1], "col": "#6f6aaa", "name": "8.3 Hz", "desc": "Visualisierung mentaler Objekte", "tags": "1 2 3", "img": "img/maple-leaf-g038a1e4f1_640.jpg"},
+      {"group": "Verschiedenes", "freq": [432, 432 + 9], "vol": [1,1], "pan": [1,-1], "col": "#8b4a8a", "name": "9 Hz", "desc": "Gewahrsein über die Ursachen körperlicher Unausgeglichenheiten", "tags": "1 2 3", "img": "img/hands-gc41d68a32_640.jpg"},
+      {"group": "Verschiedenes", "freq": [432, 432 + 10.5], "vol": [1,1], "pan": [1,-1], "col": "#334976", "name": "10.5 Hz", "desc": "Selbstheilung des Körpers", "tags": "1 2 3", "img": "img/gemstone-g28de21b17_640.jpg"},
+      {"group": "Verschiedenes", "freq": [432, 432 + 12], "vol": [1,1], "pan": [1,-1], "col": "#a4954b", "name": "12 Hz", "desc": "Zentrierung", "tags": "1 2 3", "img": "img/harmony-g46ec50c30_640.jpg"},
+      {"group": "Verschiedenes", "freq": [432, 432 + 33], "vol": [1,1], "pan": [1,-1], "col": "#512396", "name": "33 Hz", "desc": "Gamma-Bereich - Vibrationsgefühl, physische Aufgewühltheit", "tags": "1 2 3", "img": "img/swirl-geda463af3_640.jpg"},
+      {"group": "Verschiedenes", "freq": [432, 432 + 35], "vol": [1,1], "pan": [1,-1], "col": "#31549f", "name": "35 Hz", "desc": "Balance der Chakren", "tags": "1 2 3", "img": "img/droplet-gf9fbdcf52_640.jpg"},
 
 
-      {"group": "Verschiedenes", "freq": 55, "col": "#e9e9ec", "name": "55 Hz", "desc": "Tantrischer Yoga, Stimulation der Kundalini-Kraft", "tags": "1 2 3", "img": "img/saint-ga85fbbdfc_640.jpg"},
-      {"group": "Verschiedenes", "freq": 62, "col": "#f8c67c", "name": "62 Hz", "desc": "Gefühl physischer Kraft", "tags": "1 2 3", "img": "img/man-g43f96aba3_640.jpg"},
-      {"group": "Verschiedenes", "freq": 63, "col": "#a8afc0", "name": "63 Hz", "desc": "Astrale Projektionen", "tags": "1 2 3", "img": "img/black-hole-g00cc7c7dd_640.jpg"},
-      {"group": "Verschiedenes", "freq": 70, "col": "#e3cc5e", "name": "70 Hz", "desc": "Mentale und astrale Projektionen", "tags": "1 2 3", "img": "img/lamp-ga434e4fc3_640.jpg"},
-      {"group": "Verschiedenes", "freq": 80, "col": "#06183f", "name": "80 Hz", "desc": "Bindung von Raum und Zeit, Orientierung", "tags": "1 2 3", "img": "img/compass-gb5b3731da_640.jpg"},
-      {"group": "Verschiedenes", "freq": 83, "col": "#a4954b", "name": "83 Hz", "desc": "Öffnung des 3.Auges", "tags": "1 2 3", "img": "img/eye-gd05c61b68_640.jpg"},
-      {"group": "Verschiedenes", "freq": 90, "col": "#adadad", "name": "90 Hz", "desc": "Wohlgefühl, Sicherheit, Ausgeglichenheit", "tags": "1 2 3", "img": "img/animal-g6e29370ee_640.jpg"},
-      {"group": "Verschiedenes", "freq": 105, "col": "#b1e55b", "name": "105 Hz", "desc": "Überblick über komplexe Situationen", "tags": "1 2 3", "img": "img/fractal-g2eed7d16c_640.jpg"},
-      {"group": "Verschiedenes", "freq": 108, "col": "#e38b53", "name": "108 Hz", "desc": "Totales Wissen", "tags": "1 2 3", "img": "img/books-g89d0d5e37_640.jpg"},
-      {"group": "Verschiedenes", "freq": 196, "col": "#654b3b", "name": "196 Hz", "desc": "Gefühl grosser Beruhigung", "tags": "1 2 3", "img": "img/tealights-geb8741839_640.jpg"},
-      {"group": "Verschiedenes", "freq": 247, "col": "#e3d383", "name": "247 Hz", "desc": "Gefühl des Friedens", "tags": "1 2 3", "img": "img/meadow-ga6a0d7d67_640.jpg"},
-      {"group": "Verschiedenes", "freq": 333, "col": "#865e36", "name": "333 Hz", "desc": "Inspiration bis Ekstase", "tags": "1 2 3", "img": "img/hiking-gd967dfc21_640.jpg"},
-      {"group": "Verschiedenes", "freq": 348, "col": "#0c6410", "name": "348 Hz", "desc": "Gefühl der Liebe", "tags": "1 2 3", "img": "img/heart-g9a27ca01c_640.jpg"},
-      {"group": "Verschiedenes", "freq": 440, "col": "#e52f6e", "name": "440 Hz", "desc": "Verständnis", "tags": "1 2 3", "img": "img/background-ge4989a578_640.jpg"},
-      {"group": "Verschiedenes", "freq": 494, "col": "#a4954b", "name": "494 Hz", "desc": "Geistiges Erwachen", "tags": "1 2 3", "img": "img/daisy-gae05a0139_640.jpg"},
-      {"group": "Verschiedenes", "freq": 698, "col": "#e81414", "name": "698 Hz", "desc": "Starkes Liebesgefühl", "tags": "1 2 3", "img": "img/happy-mothers-day-gbdb1f8275_640.jpg"},
-      {"group": "Verschiedenes", "freq": 794, "col": "#334976", "name": "794 Hz", "desc": "Starker Wille", "tags": "1 2 3", "img": "img/pointing-gd2ad379fc_640.jpg"},
-      {"group": "Verschiedenes", "freq": 880, "col": "#b1e55b", "name": "880 Hz", "desc": "Unbegrenzte Vorstellungskraft", "tags": "1 2 3", "img": "img/wildlife-g82dff3606_640.jpg"},
-      {"group": "Verschiedenes", "freq": 988, "col": "#829cce", "name": "988 Hz", "desc": "Vergeistigung", "tags": "1 2 3", "img": "img/hands-gf96359ece_640.jpg"},
-      {"group": "Verschiedenes", "freq": 1925, "col": "#1f9624", "name": "1925 Hz", "desc": "Gefühl der Erleuchtung, auch Euphorie", "tags": "1 2 3", "img": "img/woman-g0e390c31b_640.jpg"},
-
+      {"group": "Verschiedenes", "freq": [432, 432 + 55], "vol": [1,1], "pan": [1,-1], "col": "#e9e9ec", "name": "55 Hz", "desc": "Tantrischer Yoga, Stimulation der Kundalini-Kraft", "tags": "1 2 3", "img": "img/saint-ga85fbbdfc_640.jpg"},
+      {"group": "Verschiedenes", "freq": [432, 432 + 62], "vol": [1,1], "pan": [1,-1], "col": "#f8c67c", "name": "62 Hz", "desc": "Gefühl physischer Kraft", "tags": "1 2 3", "img": "img/man-g43f96aba3_640.jpg"},
+      {"group": "Verschiedenes", "freq": [432, 432 + 63], "vol": [1,1], "pan": [1,-1], "col": "#a8afc0", "name": "63 Hz", "desc": "Astrale Projektionen", "tags": "1 2 3", "img": "img/black-hole-g00cc7c7dd_640.jpg"},
+      {"group": "Verschiedenes", "freq": [432, 432 + 70], "vol": [1,1], "pan": [1,-1], "col": "#e3cc5e", "name": "70 Hz", "desc": "Mentale und astrale Projektionen", "tags": "1 2 3", "img": "img/lamp-ga434e4fc3_640.jpg"},
+      {"group": "Verschiedenes", "freq": [432, 432 + 80], "vol": [1,1], "pan": [1,-1], "col": "#06183f", "name": "80 Hz", "desc": "Bindung von Raum und Zeit, Orientierung", "tags": "1 2 3", "img": "img/compass-gb5b3731da_640.jpg"},
+      {"group": "Verschiedenes", "freq": [432, 432 + 83], "vol": [1,1], "pan": [1,-1], "col": "#a4954b", "name": "83 Hz", "desc": "Öffnung des 3.Auges", "tags": "1 2 3", "img": "img/eye-gd05c61b68_640.jpg"},
+      {"group": "Verschiedenes", "freq": [432, 432 + 90], "vol": [1,1], "pan": [1,-1], "col": "#adadad", "name": "90 Hz", "desc": "Wohlgefühl, Sicherheit, Ausgeglichenheit", "tags": "1 2 3", "img": "img/animal-g6e29370ee_640.jpg"},
+      {"group": "Verschiedenes", "freq": [432, 432 + 105], "vol": [1,1], "pan": [1,-1], "col": "#b1e55b", "name": "105 Hz", "desc": "Überblick über komplexe Situationen", "tags": "1 2 3", "img": "img/fractal-g2eed7d16c_640.jpg"},
+      {"group": "Verschiedenes", "freq": [432, 432 + 108], "vol": [1,1], "pan": [1,-1], "col": "#e38b53", "name": "108 Hz", "desc": "Totales Wissen", "tags": "1 2 3", "img": "img/books-g89d0d5e37_640.jpg"},
+      {"group": "Verschiedenes", "freq": [432, 432 + 196], "vol": [1,1], "pan": [1,-1], "col": "#654b3b", "name": "196 Hz", "desc": "Gefühl grosser Beruhigung", "tags": "1 2 3", "img": "img/tealights-geb8741839_640.jpg"},
+      {"group": "Verschiedenes", "freq": [432, 432 + 247], "vol": [1,1], "pan": [1,-1], "col": "#e3d383", "name": "247 Hz", "desc": "Gefühl des Friedens", "tags": "1 2 3", "img": "img/meadow-ga6a0d7d67_640.jpg"},
+      {"group": "Verschiedenes", "freq": [432, 432 + 333], "vol": [1,1], "pan": [1,-1], "col": "#865e36", "name": "333 Hz", "desc": "Inspiration bis Ekstase", "tags": "1 2 3", "img": "img/hiking-gd967dfc21_640.jpg"},
+      {"group": "Verschiedenes", "freq": [432, 432 + 348], "vol": [1,1], "pan": [1,-1], "col": "#0c6410", "name": "348 Hz", "desc": "Gefühl der Liebe", "tags": "1 2 3", "img": "img/heart-g9a27ca01c_640.jpg"},
+      {"group": "Verschiedenes", "freq": [432, 432 + 440], "vol": [1,1], "pan": [1,-1], "col": "#e52f6e", "name": "440 Hz", "desc": "Verständnis", "tags": "1 2 3", "img": "img/background-ge4989a578_640.jpg"},
+      {"group": "Verschiedenes", "freq": [432, 432 + 494], "vol": [1,1], "pan": [1,-1], "col": "#a4954b", "name": "494 Hz", "desc": "Geistiges Erwachen", "tags": "1 2 3", "img": "img/daisy-gae05a0139_640.jpg"},
+      {"group": "Verschiedenes", "freq": [432, 432 + 698], "vol": [1,1], "pan": [1,-1], "col": "#e81414", "name": "698 Hz", "desc": "Starkes Liebesgefühl", "tags": "1 2 3", "img": "img/happy-mothers-day-gbdb1f8275_640.jpg"},
+      {"group": "Verschiedenes", "freq": [432, 432 + 794], "vol": [1,1], "pan": [1,-1], "col": "#334976", "name": "794 Hz", "desc": "Starker Wille", "tags": "1 2 3", "img": "img/pointing-gd2ad379fc_640.jpg"},
+      {"group": "Verschiedenes", "freq": [432, 432 + 880], "vol": [1,1], "pan": [1,-1], "col": "#b1e55b", "name": "880 Hz", "desc": "Unbegrenzte Vorstellungskraft", "tags": "1 2 3", "img": "img/wildlife-g82dff3606_640.jpg"},
+      {"group": "Verschiedenes", "freq": [432, 432 + 988], "vol": [1,1], "pan": [1,-1], "col": "#829cce", "name": "988 Hz", "desc": "Vergeistigung", "tags": "1 2 3", "img": "img/hands-gf96359ece_640.jpg"},
+      {"group": "Verschiedenes", "freq": [432, 432 + 1925], "vol": [1,1], "pan": [1,-1], "col": "#1f9624", "name": "1925 Hz", "desc": "Gefühl der Erleuchtung, auch Euphorie", "tags": "1 2 3", "img": "img/woman-g0e390c31b_640.jpg"},
     ];
-
-    let oscillator1 = null;
-    let oscillator2 = null;
-    let gainNode1 = null;
-    let gainNode2 = null;
-    let panNode1 = null;
-    let panNode2 = null;
-    let duration = 10;
-    let startsec = 0;
-    let endsec = 0;
-    let running = false;
-
-    let minutesControl = null;
-    let volumeControl = null;
-
-    $(document).ready(function () {
-      minutesControl = document.querySelector("#minutes");
-      volumeControl = document.querySelector("#volume");
-      let lastgroup = "";
-      for (let i = 0; i < list.length; i++) {
-        if (lastgroup != list[i].group) {
-          $('#freq').append('<div class="w-100"><h2><br>' + list[i].group + '</h2></div>');
-        }
-        lastgroup = list[i].group;
-                
-        $('#freq').append(
-
-                '<div class="col ' + list[i].tags + '">\n' +
-                '                        <div data-f="' + list[i].freq + '" class="box card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg" style="border: 5px solid ' + list[i].col + ';background-size: cover; background-position-x: center; background-position-y: center; background-image: url(' + list[i].img + ');">\n' +
-                '                            <img class="playbutton" src="img/play.png">' +
-                '                            <img class="stopbutton" src="img/stop.png">' +
-                '            <div class="balken" style="background-color: ' + list[i].col + '"></div>' +
-                '            <div class="d-flex flex-column h-100 p-2 pb-3 text-white text-shadow-3">\n' +
-                '                                <h2 class="pt-5 mt-5 mb-4 display-6 lh-1 fw-bold text-white text-shadow text-decoration-none">\n' +
-                '                                    ' + list[i].name + '</h2><h5 class="text-shadow"> ' + list[i].desc + '</h5>\n' +
-                '                            </div>\n' +
-                '                        </div>\n' +
-                '                </div>'
-
-        );
-      }
-
-      $('.box').on('click', function () {
-        stop();
-        if (running) {
-          running = false;
-          return;
-        }
-
-        if (!confirm("WARNUNG!\nVerwenden Sie diese Funktion NICHT während Sie ein Fahrzeug bewegen, oder in anderer Weise Ihre volle Aufmerksamkeit gefordert ist. Diese Frequenzen KÖNNEN direkt auf Ihr Wohlbefinden wirken. Nehmen Sie eine entspannte Position im Sitzen oder Liegen ein bevor Sie starten.")) {
-          return;
-        }
-        running = true;
-        let x = $(this);
-        x.find('.balken').addClass('activebalken');
-        x.find('.playbutton').hide();
-        x.find('.stopbutton').show();
-        $('#freq div.col').addClass('transparent');
-        x.parent('.col').removeClass("transparent");
-
-        audioCtx = new (window.AudioContext || window.webkitAudioContext)();
-        oscillator1 = audioCtx.createOscillator();
-        oscillator2 = audioCtx.createOscillator();
-        gainNode1 = audioCtx.createGain();
-        gainNode2 = audioCtx.createGain();
-        fullvolume = audioCtx.createGain();
-        fullvolume.gain.value = 0;
-
-        for (let r = 0; r < volumeControl.value; r+=.001) {
-          window.setTimeout(function(){
-            fullvolume.gain.value = r;
-          }, (r * 2000));
-        }
-
-        oscillator1.connect(gainNode1);
-        oscillator2.connect(gainNode2);
-        panNode1 = new StereoPannerNode(audioCtx);
-        panNode2 = new StereoPannerNode(audioCtx);
-        panNode1.pan.value = -1;
-        panNode2.pan.value = 1;
-        gainNode1.connect(panNode1);
-        gainNode2.connect(panNode2);
-        panNode1.connect(fullvolume);
-        panNode2.connect(fullvolume);
-
-        fullvolume.connect(audioCtx.destination);
-
-        oscillator1.type = 'sine';
-        oscillator2.type = 'sine';
-
-
-
-        let volume = 1;//(1000/f) * v;
-        console.log(volume);
-
-        gainNode1.gain.value = volume;
-        gainNode2.gain.value = volume;
-        oscillator1.frequency.value = 432; //x.data("f");
-        oscillator2.frequency.value = 432 + x.data("f");
-        oscillator1.start();
-        oscillator2.start();
-        startsec = Date.now();
-        duration = minutesControl.value;
-        endsec = startsec + (duration * 60000);
-
-      });
-
-      function stop() {
-        if (running) {
-          $('.activebalken').css('width', '0%');
-          $('.activebalken').removeClass('activebalken');
-          $('.stopbutton').hide();
-          $('.playbutton').show();
-          $('.transparent').removeClass('transparent');
-          try {
-            for (let r = volumeControl.value; r > 0; r -= .001) {
-              window.setTimeout(function () {
-                fullvolume.gain.value = r;
-              }, 1000 - (r * 1000));
-            }
-            window.setTimeout(function () {
-              oscillator1.stop();
-              oscillator2.stop();
-            }, 1000);
-          } catch (e) {
-          }
-        }
-      }
-
-      volumeControl.addEventListener(
-              "input",
-              () => {
-                try {
-                  $('#volumeshow').text(Math.floor(volumeControl.value * 100));
-                  fullvolume.gain.value = volumeControl.value;
-                } catch (e){}
-              },
-              false
-      );
-
-      minutesControl.addEventListener(
-              "input",
-              () => {
-                try {
-                  $('#minutesshow').text(minutesControl.value);
-                  duration = minutesControl.value;
-                  endsec = startsec + (duration * 60000);
-                } catch (e){}
-              },
-              false
-      );
-      window.setInterval(function () {
-        if (endsec > Date.now()) {
-          let newwidth = ( (Date.now() - startsec) / ((endsec - startsec) / 100));
-          $('.activebalken').css('width', newwidth + '%');
-          if (newwidth >= 99.9) {
-            stop();
-            running = false;
-          }
-        }
-      }, 500);
-    });
-
   </script>
+  <script src="vibrations.js"></script>
   <style>
     .box {
       border: #444 solid 1px;
@@ -358,6 +199,8 @@
     <div class="container pb-1">
       <h3>Sitzungslänge<br><input type="range" id="minutes" min="5" max="100" value="10" step="5" />&nbsp;&nbsp;<span id="minutesshow">10</span>&nbsp;Min.</h3>
       <h3>Lautstärke<br><input type="range" id="volume" min="0" max="1" value=".5" step="0.01" />&nbsp;&nbsp;<span id="volumeshow">50</span>%</h3>
+      <input type="hidden" id="solo" value="1"/>
+      <input type="hidden" id="boost" value="0"/>
     </div>
   </section>
 
