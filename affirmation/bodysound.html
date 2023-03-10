@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="de">
 <head>
-    <title>Secret of five - Übersinnliche Erfahrungen hautnah</title>
+    <title>Chakra Energizer - Übersinnliche Erfahrungen hautnah</title>
     <meta charset="UTF-8">
     <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
     <meta http-equiv="Pragma" content="no-cache" />
@@ -17,22 +17,63 @@
     <script src="fontawesome/js/all.min.js"></script>
 
     <script>
-
-        let list = [
-            {"group": "5er Set", "freq": [174, 285, 396, 417, 528], "vol": [.4,.4,.4,.4,.4], "pan": [0,0,0,0,0], "col": "#222","name": "174-528 Hz", "desc": "Untere Körperhälfte", "tags": "1 2 3", "img": "img/nature-gf527aac49_640.jpg"},
-            {"group": "5er Set", "freq": [285, 396, 417, 528, 639], "vol": [.4,.4,.4,.4,.4], "pan": [0,0,0,0,0], "col": "#222","name": "285-639 Hz", "desc": "Unten bis Mitte", "tags": "1 2 3", "img": "img/nature-gf527aac49_640.jpg"},
-            {"group": "5er Set", "freq": [396, 417, 528, 639, 741], "vol": [.4,.4,.4,.4,.4], "pan": [0,0,0,0,0], "col": "#222","name": "396-741Hz", "desc": "Körpermitte", "tags": "1 2 3", "img": "img/nature-gf527aac49_640.jpg"},
-            {"group": "5er Set", "freq": [417, 528, 639, 741, 852], "vol": [.4,.4,.4,.4,.4], "pan": [0,0,0,0,0], "col": "#222","name": "417-852Hz", "desc": "Oben bis Mitte", "tags": "1 2 3", "img": "img/nature-gf527aac49_640.jpg"},
-            {"group": "5er Set", "freq": [528, 639, 741, 852, 963], "vol": [.4,.4,.4,.4,.4], "pan": [0,0,0,0,0], "col": "#222","name": "528-963Hz", "desc": "Obere Körperhälfte", "tags": "1 2 3", "img": "img/nature-gf527aac49_640.jpg"},
-            {"group": "5er Set", "freq": [174, 396, 528, 741, 963], "vol": [.4,.4,.4,.4,.4], "pan": [0,0,0,0,0], "col": "#222","name": "5/9", "desc": "Jede zweite Frequenz", "tags": "1 2 3", "img": "img/nature-gf527aac49_640.jpg"},
+        let frequencies = [
+            {"freq": 174, "name": "Solfeggio 1", "desc": "Erdenergie, Schmerzlinderung", "tags": "1 2 3", "img": "img/mandala-1.jpg"},
+            {"freq": 285, "name": "Solfeggio 2", "desc": "Energetisierend, Wundheilung, Narbenheilung", "tags": "1 2 3", "img": "img/mandala-2.jpg"},
+            {"freq": 396, "name": "Solfeggio 3", "desc": "Wurzel / Urvertrauen", "tags": "1 2 3", "img": "img/chakra-rot.jpg"},
+            {"freq": 417, "name": "Solfeggio 4", "desc": "Sakral / Sexualität, Kreativität", "tags": "1 2 3", "img": "img/chakra-orange.jpg"},
+            {"freq": 528, "name": "Solfeggio 5", "desc": "Solar / Weisheit, Macht", "tags": "1 2 3", "img": "img/chakra-gelb.jpg"},
+            {"freq": 639, "name": "Solfeggio 6", "desc": "Herz / Liebe, Heilung", "tags": "1 2 3", "img": "img/chakra-gruen.jpg"},
+            {"freq": 741, "name": "Solfeggio 7", "desc": "Kehle / Kommunikation", "tags": "1 2 3", "img": "img/chakra-blau.jpg"},
+            {"freq": 852, "name": "Solfeggio 8", "desc": "Drittes Auge / Wahrnehmung", "tags": "1 2 3", "img": "img/chakra-flieder.jpg"},
+            {"freq": 963, "name": "Solfeggio 9", "desc": "Kronenchackra / Spritiualität", "tags": "1 2 3", "img": "img/chakra-lila.jpg"},
         ];
+        let hzpercm = 5;
+        let height = 175;
+        let list = [];
+        let heightControl = null;
 
+        function calcpositions () {
+            list = [];
+            let thirdeyeheight = height - 10;
+            for (let o = 0; o < frequencies.length; o++) {
+                let percent = (frequencies[o].freq / 5); // (/10*2)
+                //console.log(percent * hzpercm * (thirdeyeheight/165));
+
+                let newheight = Math.round((percent * hzpercm * (thirdeyeheight/165)) * 100) / 100;
+                list.push({"group": "Frequenzen", "freq": [newheight, newheight / 2, (newheight>530?newheight/4:newheight * 2)], "vol": [.8,.4,.3], "pan": [1,1,1], "col": "#222","name": newheight+" Hz", "desc": frequencies[o].desc, "tags": "1 2 3", "img": frequencies[o].img});
+            }
+            //console.log(list);
+        }
+        $(document).ready(function () {
+            calcpositions();
+            heightControl = document.querySelector("#height");
+            heightControl.addEventListener(
+                "input",
+                () => {
+                    try {
+                        height = heightControl.value;
+                        $('#heightshow').text(height);
+                        if (!running) {
+                            calcpositions();
+                            $('#freq').empty();
+                            drawTiles();
+                            $('.box').on('click', function () {
+                                activelement = $(this);
+                                start()
+                            });
+                        }
+                    } catch (e){}
+                },
+                false
+            );
+        })
     </script>
     <script src="vibrations.js"></script>
     <link rel="stylesheet" href="vibrations.css">
     <style>
         body {
-            background: #1d3f06;
+            background: #9f3195;
         }
     </style>
 </head>
@@ -92,9 +133,9 @@
         <div class="container-fluid zindex-1">
             <div class="row align-items-center justify-content-center  text-center text-shadow">
                 <div class="col-12 col-md-6  ">
-                    <h1 class=" text-light   mb-2 mt-5"><strong>Secret of five Generator
+                    <h1 class=" text-light   mb-2 mt-5"><strong>Chakra Energizer
                     </strong> </h1>
-                    <p class="lead  text-light mb-5">Nutze jeweils 5 Frequenzen gleichzeitig
+                    <p class="lead  text-light mb-5">Energetisiere Deine Chakren gezielt nach Deiner Körpergröße
                     </p>
                 </div>
             </div>
@@ -107,10 +148,12 @@
         <div class="container pb-1">
             <h3>Sitzungslänge<br><input type="range" id="minutes" min="5" max="100" value="10" step="5" />&nbsp;&nbsp;<span id="minutesshow">10</span>&nbsp;Min.</h3>
             <h3>Lautstärke<br><input type="range" id="volume" min="0" max="1" value=".8" step="0.01" />&nbsp;&nbsp;<span id="volumeshow">80</span>%</h3>
-            <h3>Nebenfrequenzen<br><input type="range" id="solo" min="0" max="1" value="1" step="1" />&nbsp;&nbsp;<span id="soloshow">An</span></h3>Die Nebenfrequenzen erleichtern das Zuhören und die Ausgabe auf verschiedenen Lautsprechern.<br><br>
+            <h3>Körpergröße<br><input type="range" id="height" min="100" max="220" value="175" step="1" />&nbsp;&nbsp;<span id="heightshow">175</span>cm</h3>
 
+            <input type="hidden" id="solo" value="1"/>
             <input type="hidden" id="boost" value="0"/>
-            <!--<h3>Mentalboost (experimentell)<br><input type="range" id="boost" min="0" max="1" value="0" step="1" />&nbsp;&nbsp;<span id="boostshow">Aus</span></h3>Dieser Schalter veranlasst, dass die Hauptfrequenz zufällig um bis zu 0.3% variiert wird. Das bewirkt, dass ein "Abschalten" des Gehirns erschwert wird und der Effekt intensiver wahrgenommen wird. Das "Eiern" kann aber auch unangenehm wirken. Bitte finden Sie ihre eigene optimale Einstellung! -->
+            <!--<h3>Nebenfrequenzen<br><input type="range" id="solo" min="0" max="1" value="1" step="1" />&nbsp;&nbsp;<span id="soloshow">An</span></h3>Die Nebenfrequenzen erleichtern das Zuhören und die Ausgabe auf verschiedenen Lautsprechern.<br><br>
+            <h3>Mentalboost (experimentell)<br><input type="range" id="boost" min="0" max="1" value="0" step="1" />&nbsp;&nbsp;<span id="boostshow">Aus</span></h3>Dieser Schalter veranlasst, dass die Hauptfrequenz zufällig um bis zu 0.3% variiert wird. Das bewirkt, dass ein "Abschalten" des Gehirns erschwert wird und der Effekt intensiver wahrgenommen wird. Das "Eiern" kann aber auch unangenehm wirken. Bitte finden Sie ihre eigene optimale Einstellung! -->
         </div>
     </section>
 

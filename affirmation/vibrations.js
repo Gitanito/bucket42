@@ -2,7 +2,7 @@
 let oscillators = [];
 let gains = [];
 let pans = [];
-let freqcount = list[0].freq.length;
+let freqcount = 1;
 let fullvolume = null;
 let duration = 10;
 let startsec = 0;
@@ -15,13 +15,10 @@ let volumeControl = null;
 let mbControl = null;
 let soloControl = null;
 let solo = false;
+let activelement = null;
 
-$(document).ready(function () {
-    minutesControl = document.querySelector("#minutes");
-    volumeControl = document.querySelector("#volume");
-    mbControl = document.querySelector("#boost");
-    soloControl = document.querySelector("#solo");
 
+function drawTiles () {
     let lastgroup = "";
     for (let i = 0; i < list.length; i++) {
         if (lastgroup != list[i].group) {
@@ -44,120 +41,134 @@ $(document).ready(function () {
 
         );
     }
-
-    function changeFreq(set)
-    {
-        //console.log(freq);
-
-        let freq = set.freq;
-/*
-        if (mbControl.value === "1" && freq[0] > 80) {
-            switch (Math.floor(Math.random() * 6)) {
-                case 0:
-                    for (let o = 0; o < freq.length; o++) {
-                        freq[o] = freq[o] * 1.03;
-                    }
-                    break;
-                case 1:
-                    for (let o = 0; o < freq.length; o++) {
-                        freq[o] = freq[o] * 0.97;
-                    }
-                    break;
-            }
-        }
-*/
-        if (oscillators[0].frequency.value !== freq[0]) {
-            for (let o = 0; o < freqcount; o++) {
-                oscillators[o].frequency.value = freq[o];
-            }
-        }
-
+}
+function start () {
+    stop();
+    if (running) {
+        running = false;
+        return;
     }
 
-    $('.box').on('click', function () {
-        stop();
-        if (running) {
-            running = false;
-            return;
+    if (!confirm("WARNUNG!\nVerwenden Sie diese Funktion NICHT während Sie ein Fahrzeug bewegen, oder in anderer Weise Ihre volle Aufmerksamkeit gefordert ist. Diese Frequenzen KÖNNEN direkt auf Ihr Wohlbefinden wirken. Nehmen Sie eine entspannte Position im Sitzen oder Liegen ein bevor Sie starten.")) {
+        return;
+    }
+    running = true;
+    let set = list[activelement.data("f")];
+    activelement.find('.balken').addClass('activebalken');
+    activelement.find('.playbutton').hide();
+    activelement.find('.stopbutton').show();
+    $('#freq div.col').addClass('transparent');
+    activelement.parent('.col').removeClass("transparent");
+
+    oscillators = [];
+    gains = [];
+    pans = [];
+
+    audioCtx = new (window.AudioContext || window.webkitAudioContext)();
+    for (let o = 0; o < freqcount; o++) {
+        oscillators.push(audioCtx.createOscillator());
+        gains.push(audioCtx.createGain());
+        pans.push(new StereoPannerNode(audioCtx));
+    }
+
+    fullvolume = audioCtx.createGain();
+    fullvolume.gain.value = 0.0001;
+    fullvolume.connect(audioCtx.destination);
+
+    for (let o = 0; o < freqcount; o++) {
+        oscillators[o].connect(gains[o]);
+        oscillators[o].type = 'sine';
+        pans[o].connect(fullvolume);
+        gains[o].connect(pans[o]);
+        if (solo) {
+            gains[o].gain.value = (!o?1:0.0001);
+        } else {
+            gains[o].gain.value = set.vol[o];
         }
+        pans[o].pan.value = set.pan[o];
+    }
 
-        if (!confirm("WARNUNG!\nVerwenden Sie diese Funktion NICHT während Sie ein Fahrzeug bewegen, oder in anderer Weise Ihre volle Aufmerksamkeit gefordert ist. Diese Frequenzen KÖNNEN direkt auf Ihr Wohlbefinden wirken. Nehmen Sie eine entspannte Position im Sitzen oder Liegen ein bevor Sie starten.")) {
-            return;
-        }
-        running = true;
-        let x = $(this);
-        let set = list[x.data("f")];
-        x.find('.balken').addClass('activebalken');
-        x.find('.playbutton').hide();
-        x.find('.stopbutton').show();
-        $('#freq div.col').addClass('transparent');
-        x.parent('.col').removeClass("transparent");
+    runningfreq = set;
+    changeFreq(runningfreq);
 
-        oscillators = [];
-        gains = [];
-        pans = [];
+    for (let o = 0; o < freqcount; o++) {
+        oscillators[o].start();
+    }
 
-        audioCtx = new (window.AudioContext || window.webkitAudioContext)();
-        for (let o = 0; o < freqcount; o++) {
-            oscillators.push(audioCtx.createOscillator());
-            gains.push(audioCtx.createGain());
-            pans.push(new StereoPannerNode(audioCtx));
-        }
+    fullvolume.gain.setValueAtTime(0.0001, audioCtx.currentTime);
+    fullvolume.gain.exponentialRampToValueAtTime(volumeControl.value, audioCtx.currentTime + 2);
 
-        fullvolume = audioCtx.createGain();
-        fullvolume.gain.value = 0.0001;
-        fullvolume.connect(audioCtx.destination);
+    startsec = Date.now();
+    duration = minutesControl.value;
+    endsec = startsec + (duration * 60000);
 
-        for (let o = 0; o < freqcount; o++) {
-            oscillators[o].connect(gains[o]);
-            oscillators[o].type = 'sine';
-            pans[o].connect(fullvolume);
-            gains[o].connect(pans[o]);
-            if (solo) {
-                gains[o].gain.value = (!o?1:0.0001);
-            } else {
-                gains[o].gain.value = set.vol[o];
+}
+
+
+function changeFreq(set)
+{
+    //console.log(freq);
+
+    let freq = set.freq;
+    /*
+            if (mbControl.value === "1" && freq[0] > 80) {
+                switch (Math.floor(Math.random() * 6)) {
+                    case 0:
+                        for (let o = 0; o < freq.length; o++) {
+                            freq[o] = freq[o] * 1.03;
+                        }
+                        break;
+                    case 1:
+                        for (let o = 0; o < freq.length; o++) {
+                            freq[o] = freq[o] * 0.97;
+                        }
+                        break;
+                }
             }
-            pans[o].pan.value = set.pan[o];
-        }
-
-        runningfreq = set;
-        changeFreq(runningfreq);
-
+    */
+    if (oscillators[0].frequency.value !== freq[0]) {
         for (let o = 0; o < freqcount; o++) {
-            oscillators[o].start();
-        }
-
-        fullvolume.gain.setValueAtTime(0.0001, audioCtx.currentTime);
-        fullvolume.gain.exponentialRampToValueAtTime(volumeControl.value, audioCtx.currentTime + 2);
-
-        startsec = Date.now();
-        duration = minutesControl.value;
-        endsec = startsec + (duration * 60000);
-
-    });
-
-    function stop() {
-        if (running) {
-            $('.activebalken').css('width', '0%');
-            $('.activebalken').removeClass('activebalken');
-            $('.stopbutton').hide();
-            $('.playbutton').show();
-            $('.transparent').removeClass('transparent');
-            try {
-
-                fullvolume.gain.setValueAtTime(fullvolume.gain.value, audioCtx.currentTime);
-                fullvolume.gain.exponentialRampToValueAtTime(0.0001, audioCtx.currentTime + .01);
-
-                window.setTimeout(function () {
-                    for (let o = 0; o < freqcount; o++) {
-                        oscillators[o].stop();
-                    }
-                }, 10);
-            } catch (e) {
-            }
+            oscillators[o].frequency.value = freq[o];
         }
     }
+
+}
+
+function stop() {
+    if (running) {
+        $('.activebalken').css('width', '0%');
+        $('.activebalken').removeClass('activebalken');
+        $('.stopbutton').hide();
+        $('.playbutton').show();
+        $('.transparent').removeClass('transparent');
+        try {
+
+            fullvolume.gain.setValueAtTime(fullvolume.gain.value, audioCtx.currentTime);
+            fullvolume.gain.exponentialRampToValueAtTime(0.0001, audioCtx.currentTime + .01);
+
+            window.setTimeout(function () {
+                for (let o = 0; o < freqcount; o++) {
+                    oscillators[o].stop();
+                }
+            }, 10);
+        } catch (e) {
+        }
+    }
+}
+
+$(document).ready(function () {
+    freqcount = list[0].freq.length;
+    minutesControl = document.querySelector("#minutes");
+    volumeControl = document.querySelector("#volume");
+    mbControl = document.querySelector("#boost");
+    soloControl = document.querySelector("#solo");
+
+
+    drawTiles ();
+
+
+    $('.box').on('click', function(){ activelement = $(this); start()});
+
 
     volumeControl.addEventListener(
         "input",
