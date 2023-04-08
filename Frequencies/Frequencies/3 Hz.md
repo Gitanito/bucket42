@@ -1,0 +1,1 @@
+Erhöhte Reaktionszeit; kann Muskelverspannungskopfschmerzen lindern.
