@@ -1,0 +1,7 @@
+> Der Begriff **Persönlichkeit** (abgeleitet von Person) hat die Individualität jedes einzelnen Menschen zum Gegenstand und bezeichnet meist einen lebenserfahrenen, reifen Menschen mit ausgeprägten Charaktereigenschaften. Dabei geht es um die Frage, hinsichtlich welcher psychischen Eigenschaften sich Menschen als Individuen oder in Gruppen voneinander unterscheiden. „Temperament“ und „Charakter“ sind ältere Fachbezeichnungen und nicht als Synonym zu verwenden, da sie zum Teil eine andere Bedeutung haben. Es werden zahlreiche Persönlichkeitseigenschaften unterschieden.
+>
+> Die normale menschliche Variation von Persönlichkeitsmerkmalen steht dabei ebenso im Interesse der Forschung wie die Identifikation von Persönlichkeitsstörungen. Kernfragen sind beispielsweise die Stabilität oder Veränderung von Persönlichkeitsmerkmalen, ihre dispositionelle Funktion (Bedeutung für zukünftiges Verhalten) oder die Art ihrer Repräsentation und Manifestation (Konstrukte oder Rekonstrukte).
+>
+> In der Philosophie werden eher die Begriffe Personalität und Person verwendet (vgl. Philosophische Anthropologie).
+>
+> [Wikipedia](https://de.wikipedia.org/wiki/Pers%C3%B6nlichkeit)

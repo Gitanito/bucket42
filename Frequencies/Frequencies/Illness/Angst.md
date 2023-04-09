@@ -1,0 +1,5 @@
+> **Angst** ist ein Grundgefühl, das sich in als bedrohlich empfundenen Situationen als Besorgnis und unlustbetonte Erregung äußert. Auslöser können dabei erwartete oder unerwartete Bedrohungen, etwa der körperlichen Unversehrtheit, der Selbstachtung oder des Selbstbildes sein.
+>
+> Krankhaft übersteigerte oder nicht rational begründbare Angst wird als Angststörung bezeichnet.
+>
+> [Wikipedia](https://de.wikipedia.org/wiki/Angst)

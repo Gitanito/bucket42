@@ -1,0 +1,5 @@
+> **Müdigkeit** (veraltet auch Defatigation) ist ein physiologischer und psychologischer Zustand verminderter Aufmerksamkeit sowie von Kraft- und Antriebslosigkeit. Die Anzeichen der Müdigkeit treten vor dem Schlaf, unter ungünstigen schlafhygienischen Bedingungen sowie bei bestimmten gesundheitlichen Störungen aber auch als Tagesmüdigkeit auf. Die nach dem Geschlechtsverkehr und insbesondere nach dem männlichen Orgasmus auftretende Müdigkeit wird als postkoitale Müdigkeit bezeichnet.
+>
+> Die physiologische Müdigkeit entsteht aus qualitativem oder quantitativem Mangel an Schlaf (Hyposomnie/Insomnie) und wird als ein unüberwindbares, anhaltendes Gefühl der Erschöpfung, einhergehend mit einer verminderten Kapazität der physischen und mentalen Betätigung empfunden.
+>
+> [Wikipedia](https://de.wikipedia.org/wiki/M%C3%BCdigkeit)

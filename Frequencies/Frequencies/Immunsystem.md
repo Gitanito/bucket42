@@ -1,0 +1,3 @@
+> **Immunsystem** (von lateinisch immunis  ‚unberührt, frei, rein‘ und altgriechisch sýstēma) bezeichnet in der Immunologie alle Moleküle und Zellen, die in einem Lebewesen an der Abwehr potenziell schädlicher Moleküle und Zellen (Immunreaktion) beteiligt sind. Das Immunsystem ist ein komplexes Netzwerk bei höher entwickelten Lebewesen, in dem verschiedene Organe, Zelltypen und Moleküle interagieren. Es verhindert bei Tieren und Pflanzen Gewebeschädigungen durch Pathogene (Krankheitserreger) und entfernt diese und auch körperfremde Substanzen aus deren Organismus; außerdem kann das Immunsystem krankhafte oder entartete Zellen wie z. B. Krebszellen zerstören.
+>
+> [Wikipedia](https://de.wikipedia.org/wiki/Immunsystem)

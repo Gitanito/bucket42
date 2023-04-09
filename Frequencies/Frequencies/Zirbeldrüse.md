@@ -1,0 +1,5 @@
+> Die **Zirbeldrüse** oder lateinisch Glandula pinealis, kurz Pinealis oder Pinea – nach der Form der Zapfen der Zirbelkiefer (Pinus cembra) bezeichnet –, anatomisch auch Epiphysis cerebri oder kurz Epiphyse genannt (weitere synonyme Fachausdrücke siehe unten), ist eine kleine, häufig kegelförmige endokrine Drüse auf der Rückseite des Mittelhirns im Epithalamus (einem Teil des Zwischenhirns).
+>
+> In der Zirbeldrüse produzieren organtypische neurosekretorische Zellen, die Pinealozyten, das Hormon Melatonin. Dieses Neurohormon wird bei Dunkelheit gebildet und in Blut und Liquor freigesetzt, so überwiegend nachts. Melatonin beeinflusst den Schlaf-Wach-Rhythmus und andere zeitabhängige Rhythmen des Körpers. Eine Fehlfunktion der pinealen Sekretion kann – neben einem gestörten Tagesrhythmus – sexuelle Frühreife oder Verzögerung bzw. Hemmung der Geschlechtsentwicklung bewirken.
+>
+> [Wikipedia](https://de.wikipedia.org/wiki/Zirbeldr%C3%BCse)

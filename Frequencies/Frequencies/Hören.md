@@ -1,0 +1,3 @@
+> Als auditive, aurale oder akustische Wahrnehmung oder **Hören** bezeichnet man die Sinneswahrnehmung von Schall durch Lebewesen, genauer z. B. die Hörereignisse, die bei bestimmten Schallereignissen entstehen. Zur Wahrnehmung des Schalls dienen Sinnesorgane, die durch Schwingungen aus der Umgebung des Lebewesens stimuliert werden. Die Schwingungen können über das Umgebungsmedium (Luft, Wasser) oder über den Untergrund (Vibrationen) übertragen werden. Der Hörsinn ist nicht immer an Ohren gebunden; insbesondere Vibrationen können auch durch Sinnesorgane an entsprechenden Körperteilen wahrgenommen bzw. empfunden werden. Die Fähigkeit auf akustische Reize zu reagieren, nennt man Phonotaxis.
+>
+> [Wikipedia](https://de.wikipedia.org/wiki/Auditive%20Wahrnehmung)

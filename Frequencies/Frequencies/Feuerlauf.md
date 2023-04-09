@@ -1,0 +1,9 @@
+> Beim **Feuerlauf** (auch Pyrovasie) laufen Teilnehmer (Feuerläufer) barfuß über einen Laufsteg aus glühenden Holzkohlestücken (gemessen wurden ca. 240 bis 450 °C) oder heißen Steinen (mit geringer Wärmekapazität). In Vorbereitung auf den Lauf versetzen sich rituelle Feuerläufer oft in einen Trancezustand. Feuerläufe werden heute vielfach auch im Rahmen von (kommerziellen) Motivations- und Selbsterfahrungslehrgängen durchgeführt.
+>
+> Für das Jahr 2001 verzeichnet das Guinness-Buch der Rekorde einen Feuerlauf, bei dem 22 Menschen im Alter von 7 bis 80 Jahren einen Glutteppich von 111 Metern unversehrt überwanden. Dieser Weltrekord soll am 13. März 2003 in La Balmondière, in der Nähe von Mâcon (Frankreich), auf 222 Meter verbessert worden sein. Die 16 Teilnehmer sollen keine größeren Blessuren davongetragen haben.  Auch dieser Weltrekord wurde am 22. März 2003 in St. Lorenzen / Wechsel (Österreich) auf 250 Meter verbessert.
+>
+> Trotz dieser Rekorde empfehlen erfahrene Feuerläufer jedoch, nicht länger als sieben Sekunden auf dem Kohlenbett zu verbringen. Die Füße sollten hierfür gut durchblutet, also bereits vor dem Feuerlauf möglichst warm sein. Ob die Füße vor einem Feuerlauf trockengerieben werden sollen, ist umstritten.
+>
+> Auf der Fidschi-Insel Beqa (Mbengga) leiten sogenannte Feuerpriester dieses Ritual, an dem teilzunehmen Auszeichnung und Bewährungsprobe für die Auserwählten ist. Auch in Bereichen des orthodoxen Christentums, besonders auf dem südlichen Balkan (in Südostbulgarien und in Nordostgriechenland) ist das Feuerlaufritual seit alter Zeit bekannt. Heute wird es aber nur noch im Südosten Bulgariens in der Region Strandscha unter dem Namen Nestinarstwo vollzogen.
+>
+> [Wikipedia](https://de.wikipedia.org/wiki/Feuerlauf)
