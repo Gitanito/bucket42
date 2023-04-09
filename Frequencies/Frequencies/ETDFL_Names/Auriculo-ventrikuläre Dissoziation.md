@@ -1,0 +1,12 @@
+Auriculo-ventrikuläre Dissoziation
+
+[[70 Hz (E)]]
+[[220 Hz (E)]]
+[[700 Hz (E)]]
+[[2750 Hz (E)]]
+[[7250 Hz (E)]]
+[[50000 Hz (E)]]
+[[67500 Hz (E)]]
+[[115700 Hz (E)]]
+[[356720 Hz (E)]]
+[[475520 Hz (E)]]

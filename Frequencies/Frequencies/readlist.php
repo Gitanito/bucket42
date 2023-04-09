@@ -11,16 +11,18 @@ foreach($lines as $line) {
         for ($i = 1; $i < sizeof($tokens); $i++) {
             if (trim($tokens[$i]) != "") {
                 $myfreq = floatval(str_replace(",", ".", trim($tokens[$i]))) * 1000;
-                $myname = trim($myfreq) . " Hz (E)";
-                $content = "";
-                if (is_file("ETDFL_Freqs/" . $myname . ".md")) {
-                    $content = file_get_contents("ETDFL_Freqs/" . $myname . ".md");
-                } else {
-                    $content = $myname.PHP_EOL;
+                if ($myfreq != 0) {
+                    $myname = trim($myfreq) . " Hz (E)";
+                    $content = "";
+                    if (is_file("ETDFL_Freqs/" . $myname . ".md")) {
+                        $content = file_get_contents("ETDFL_Freqs/" . $myname . ".md");
+                    } else {
+                        $content = $myname . PHP_EOL;
+                    }
+                    $content .= PHP_EOL . "[[" . trim($nname) . "]]";
+                    $names_content .= PHP_EOL . "[[" . $myname . "]]";
+                    file_put_contents("ETDFL_Freqs/" . $myname . ".md", $content);
                 }
-                $content .= PHP_EOL . "[[" . trim($nname) . "]]";
-                $names_content .= PHP_EOL . "[[" . $myname . "]]";
-                file_put_contents("ETDFL_Freqs/". $myname . ".md", $content);
             }
         }
 
@@ -32,5 +34,5 @@ foreach($lines as $line) {
         $ncontent .= $names_content;
         file_put_contents("ETDFL_Names/".trim($nname).".md", $ncontent);
     }
-    $pos++;
+    #$pos++;
 }

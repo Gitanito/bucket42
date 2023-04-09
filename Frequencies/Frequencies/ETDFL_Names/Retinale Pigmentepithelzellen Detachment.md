@@ -1,0 +1,12 @@
+Retinale Pigmentepithelzellen Detachment
+
+[[80 Hz (E)]]
+[[460 Hz (E)]]
+[[1000 Hz (E)]]
+[[7500 Hz (E)]]
+[[217500 Hz (E)]]
+[[327500 Hz (E)]]
+[[452500 Hz (E)]]
+[[665750 Hz (E)]]
+[[796500 Hz (E)]]
+[[834250 Hz (E)]]
