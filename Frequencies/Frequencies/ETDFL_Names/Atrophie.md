@@ -1,3 +1,7 @@
+> Die **Atrophie** oder Atrophia (zu altgriechisch ἀτροφία, neugriechisch ατροφία, neulateinisch atrophia „Abmagerung“, „Auszehrung“, „Nahrungsmangel“, „Verkümmerung“) beschreibt als Verkümmerung eine Verkleinerung eines Gewebes, eines Organs oder einer einzelnen Zelle, mit der eine Minderung der Funktion einhergeht. Die Atrophie ist im Gegensatz zur angeborenen Hypoplasie (verkleinerte Anlage eines Organs) erworben.
+>
+> [Wikipedia](https://de.wikipedia.org/wiki/Atrophie)
+
 Atrophie
 
 [[190 Hz (E)]]

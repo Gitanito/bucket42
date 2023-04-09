@@ -1,3 +1,9 @@
+> **Anisakiasis** ist eine Krankheit, die durch Fadenwürmer verursacht wird. Es sind drei Arten von Fadenwürmern in Fischen bekannt. Die Art Anisakis simplex gab der Krankheit ihren Namen.
+>
+> Der Fadenwurm kann in rohem Fisch, beispielsweise Sushi oder Matjes, vorkommen. Die Prävalenz bei Heringen liegt bei rund 70 %.
+>
+> [Wikipedia](https://de.wikipedia.org/wiki/Anisakiasis)
+
 Anisakiasis
 
 [[40 Hz (E)]]

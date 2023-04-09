@@ -1,3 +1,15 @@
+> Die **Arthritis** (griechisch ἀρθρῖτις arthrítis, Plural Arthritiden; von arthron „Gelenk, Glied“ und Endung -itis zur Bezeichnung einer Entzündung) ist eine entzündliche Gelenk­erkrankung, also eine Gelenkentzündung.
+>
+> Eine Arthritis kann jedes Gelenk betreffen. Der Begriff sagt nichts über die Ursache aus, die am häufigsten infektiös (durch Bakterien, Viren oder Pilze), rheumatisch (z. B. bei einer chronischen Polyarthritis), reaktiv, traumatisch oder mechanisch induziert sein kann. Die infektiöse Arthritis wird auch als septische Arthritis bezeichnet, oder bei Vorliegen von Eiter im Gelenk als Pyarthros. Ist nur ein Gelenk betroffen, handelt es sich um eine Monarthritis, bei mehreren Gelenken um eine Oligarthritis, und bei vielen Gelenken um eine Polyarthritis. Die spezifisch rheumatische Entzündung der Gelenkkapsel, die auch mit einem Gelenkerguss einhergeht, ist die Synovitis.
+>
+> Bei einer Arthritis jedweder Genese liegen die klassischen Entzündungszeichen mehr oder weniger ausgeprägt vor: Röte, Schwellung, Überwärmung, Schmerzen und eingeschränkte Funktion sowie ein Gelenkerguss als typisches Entzündungszeichen eines Gelenkes. Hingegen liegt bei einer Arthralgie ein Schmerzzustand des Gelenkes ohne Entzündung vor, wie bei einigen rheumatischen Erkrankungen, v. a. Kollagenosen, oder reaktiv postviral ("Muskel- und Gliederschmerzen").
+>
+> Abzugrenzen ist die Arthrose, der Gelenkverschleiß, der entzündungs- und schmerzfrei ist, aber sich in eine mechanisch induzierte Arthritis wandeln kann, die dann als "aktivierte Arthrose" symptomatisch und schmerzhaft ist. Der englische Begriff osteoarthritis bezeichnet die Arthrose und ist keine Arthritis.
+>
+> Eine Entzündung der ein Gelenk umgebenden Teile wird unspezifisch manchmal als Periarthritis (früher auch periartikuläre Fibrositis und Fibrositis der Gelenkhüllen) bezeichnet, oder spezifischer nach der tatsächlichen Entzündungslokalisation, wie Tendinitis, Sehnenscheidenentzündung, Enthesiopathie, Bursitis o.a.
+>
+> [Wikipedia](https://de.wikipedia.org/wiki/Arthritis)
+
 Arthritis
 
 [[60 Hz (E)]]

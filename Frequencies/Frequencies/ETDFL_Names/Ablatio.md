@@ -1,3 +1,15 @@
+> **Ablatio** (von lateinisch ablatio, „Entfernung“) steht für:
+>
+> 
+>
+> Ablation (Medizin), das Entfernen von Körpergewebe
+>
+> Ablatio retinae, die Netzhautablösung
+>
+> Auslassung eines Lautes oder einer Silbe am Wortanfang, siehe Aphärese
+>
+> [Wikipedia](https://de.wikipedia.org/wiki/Ablatio)
+
 Ablatio
 
 [[80 Hz (E)]]

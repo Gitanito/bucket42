@@ -1,3 +1,15 @@
+> **Augenkrebs** steht für:
+>
+> 
+>
+> Retinoblastom, ein bösartiger Tumor der Netzhaut des Auges
+>
+> Aderhautmelanom, eine Krebserkrankung der Iris, des Strahlenkörpers oder der Aderhaut des Auges
+>
+> Im Netzjargon steht Augenkrebs verursachend für visuelle Medien, die durch ihren Aufbau, ihre Farbwahl oder ihre Bildfolge ein Betrachten auf Dauer anstrengend machen.
+>
+> [Wikipedia](https://de.wikipedia.org/wiki/Augenkrebs)
+
 Augenkrebs
 
 [[60 Hz (E)]]

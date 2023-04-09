@@ -1,3 +1,7 @@
+> Die α-Mannosidose ist eine sehr seltene autosomal-rezessiv vererbte lysosomale Speicherkrankheit.
+>
+> [Wikipedia](https://de.wikipedia.org/wiki/%CE%91-Mannosidose)
+
 Alpha-Mannosidose
 
 [[750 Hz (E)]]

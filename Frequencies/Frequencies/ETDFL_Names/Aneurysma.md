@@ -1,3 +1,7 @@
+> Das **Aneurysma** (; von altgriechisch ἀνεύρυσμα aneúrysma ‚Aufweitung, Erweiterung‘; Mehrzahl Aneurysmata oder Aneurysmen), auch Arterienerweiterung oder umgangssprachlich arterielle Aussackung genannt, ist eine spindel- oder sackförmige, örtlich begrenzte, permanente Erweiterung des Querschnitts von Schlagadern (selten von Venen) infolge angeborener oder erworbener Wandveränderungen. Durch diese unterscheidet sich das Aneurysma etwa von der Ektasie, einer permanenten Erweiterung von Blutgefäßen (und Hohlorganen), welche sich trotz Intaktheit aller beteiligten Wandschichten ausgebildet hat.
+>
+> [Wikipedia](https://de.wikipedia.org/wiki/Aneurysma)
+
 Aneurysma
 
 [[80 Hz (E)]]

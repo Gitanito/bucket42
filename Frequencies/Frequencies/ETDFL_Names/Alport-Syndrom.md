@@ -1,3 +1,7 @@
+> Das **Alport-Syndrom**, auch hereditäre Nephritis („erbliche Nierenentzündung“) oder progressive hereditäre Nephritis genannt, ist eine vererbte Krankheit mit fehlgebildeten Kollagenfasern des Typ IV. Es wurde erstmals 1927 von Arthur Cecil Alport bei einer britischen Familie beschrieben.
+>
+> [Wikipedia](https://de.wikipedia.org/wiki/Alport-Syndrom)
+
 Alport-Syndrom
 
 [[30 Hz (E)]]

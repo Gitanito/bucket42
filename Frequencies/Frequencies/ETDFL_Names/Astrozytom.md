@@ -1,3 +1,7 @@
+> **Astrozytom**e gehören zu den häufigsten Tumoren des Gehirns und treten vorwiegend im mittleren Lebensalter auf. Sie haben ihren Ursprung in den Astrozyten, die zum Stützgewebe (Gliazellen) des Zentralnervensystems gehören, und werden deshalb den Gliomen zugeordnet. Der Grad der Bösartigkeit wird nach einer Gewebeprobe mikroskopisch anhand feststehender Kriterien bestimmt.
+>
+> [Wikipedia](https://de.wikipedia.org/wiki/Astrozytom)
+
 Astrozytom
 
 [[20 Hz (E)]]

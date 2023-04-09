@@ -1,3 +1,7 @@
+> Ein Schwimmkörper oder **Auftriebskörper** ist ein Gegenstand, der aufgrund seines Auftriebs durch Verdrängung nach dem archimedischen Prinzip selbständig schwimmfähig ist. Obwohl Schiffe streng genommen auch unter diese Definition fallen, wird der Begriff eher für kleinere Gegenstände wie Schwimmwesten, Bojen, Schlepptäuschkörper oder Schwimmerschalter verwendet. Schwimmkörper, die nicht aus einem von sich aus schwimmfähigen Material (wie Holz oder Kork) bestehen, sind hohl und oft mit Luft oder mit einem leichten Feststoff, meist einem möglichst geschlossenporigen Kunststoffschaum gefüllt.
+>
+> [Wikipedia](https://de.wikipedia.org/wiki/Schwimmk%C3%B6rper)
+
 Auftriebskörper
 
 [[130 Hz (E)]]

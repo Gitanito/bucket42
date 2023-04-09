@@ -1,3 +1,11 @@
+> Ein **Adenom** (von altgriechisch ἀδήν adēn „Drüse“ und -ωμα -ōma als Wortteil mit der Bedeutung von „Geschwulst“, „Erguss“) ist eine gutartige Geschwulst aus Schleimhaut oder Drüsengewebe und kann generell jedes Organ betreffen.
+>
+> Am häufigsten kommt das Adenom jedoch im Magen-Darm-Trakt als Polyp vor. Weitere häufige Formen betreffen die Schilddrüse, die Nebennieren und die Eierstöcke. In der weiblichen Brust beziehungsweise Milchdrüse tritt es meist als Fibroadenom unter Beteiligung von Drüsen- und Bindegewebe auf.
+>
+> Bei Auftreten mehrerer Adenome spricht man von Adenomatose.
+>
+> [Wikipedia](https://de.wikipedia.org/wiki/Adenom)
+
 Adenom
 
 [[40 Hz (E)]]

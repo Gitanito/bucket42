@@ -1,3 +1,7 @@
+> Als eine **Asphyxie** oder Asphyxia (von altgriechisch ἀσφυξία asphyxía „kein Puls“) wird allgemein ein Zustand mit Atemdepression bis -stillstand bezeichnet, der mit Sauerstoffmangel (Hypoxie) und Hyperkapnie einhergeht.
+>
+> [Wikipedia](https://de.wikipedia.org/wiki/Asphyxie)
+
 Asphyxie
 
 [[30 Hz (E)]]
