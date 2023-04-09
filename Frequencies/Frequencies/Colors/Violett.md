@@ -1,0 +1,5 @@
+> **Violett**, alltagssprachlich auch Lila, ist ein Farbreiz und eine Spektralfarbe, die vom kurzwelligen Ende des sichtbaren Lichtes, der Grenze zum Ultraviolett (ca. 380 nm), bis etwa 425 nm bzw. 430 nm, der Grenze zum Farbton Indigo reicht.
+>
+> Licht mit dieser Eigenschaft kann auch als Körperfarbe remittiert sein. Im normalen Sprachgebrauch werden die Farbnamen Violett und Lila zwar überdeckend für Farbtöne zwischen Rot und Blau genutzt, Violett ist jedoch häufig der „reine“ kurzwellige Farbreiz, während Lila häufig eine gebrochene Farbe im Rotblau beschreibt. Die Komplementärfarbe nach der subtraktiven Farbmischung ist Gelb, nach additiver Farbmischung ist es Grün (wobei dort die exakte Mischung aus dem jeweiligen primären Rot- und Blauton (Sekundärfarbe) eher als Magenta bezeichnet wird; Violett ist somit eine Tertiärfarbe, die sich aus Magenta und Blau ergibt und zu Gelbgrün komplementär ist).
+>
+> [Wikipedia](https://de.wikipedia.org/wiki/Violett)

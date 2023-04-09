@@ -1,0 +1,9 @@
+> **Indigo** (von altgriechisch ἰνδικόν indikón, deutsch ‚das Indische‘; nach dem Herkunftsgebiet Ostindien) ist eine tiefblaue, kristalline organisch-chemische Verbindung. Er ist ein organisches Pigment mit hoher Farbstärke und schwer löslich in Wasser. Indigo ist der Namensgeber für die Gruppe der Indigoiden Farbstoffe, deren chemische Struktur eng mit der des Indigo verwandt ist.
+>
+> Der gleichnamige Farbton Indigo ist ebenfalls nach ihm benannt. Am ehesten lässt er sich als der letzte erkennbare Blauton, bevor es in ein bläuliches Violett übergeht, umschreiben. Indigo ist im Colour Index als Pigment unter der Bezeichnung C.I. Pigment Blue 66 und als Küpenfarbstoff unter C.I. Vat Blue 1 geführt.
+>
+> Indigo ist eines der ältesten und bekanntesten Pigmente und wurde schon in prähistorischer Zeit zum Einfärben von Textilien verwendet. Früher wurde der Indigo aus pflanzlichen Quellen wie den Blättern des Färberwaids oder aus der Indigopflanze gewonnen. Ab 1865 führte Adolf von Baeyer eine Reihe von Studien durch, in denen er verschiedene Synthesewege für Indigo entwickelte und seine chemische Struktur bestimmte. Für seine Arbeiten zur Farbstoffchemie erhielt er 1905 den Nobelpreis für Chemie. Indigo spielte eine wichtige Rolle für die Weiterentwicklung der Organischen Chemie, besonders die Beziehung zwischen der Farbe und der Struktur des Moleküls und seiner Derivate wurde intensiv untersucht und trug so zur Entstehung einer allgemeinen Farbstofftheorie bei.
+>
+> Mit der Entwicklung von industriellen Syntheseverfahren gegen Ende des 19. Jahrhunderts begann die großtechnische und damit kostengünstige Produktion von Indigo, worauf der Markt für natürliches Indigo zusammenbrach. Heutzutage werden mehrere zehntausend Tonnen Indigo pro Jahr synthetisch produziert, wobei er überwiegend zum Färben von Denim-Baumwollstoffen für die Herstellung von Blue Jeans verwendet wird.
+>
+> [Wikipedia](https://de.wikipedia.org/wiki/Indigo)
