@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Feelings/Zusammenhänge.md",
+                "file": "ETDFL_Names/Adiposis Dolorosa.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Feelings/Zusammenhänge.md",
+                "file": "ETDFL_Names/Adiposis Dolorosa.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Feelings/Zusammenhänge.md",
+                "file": "ETDFL_Names/Adiposis Dolorosa.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Feelings/Zusammenhänge.md"
+                "file": "ETDFL_Names/Adiposis Dolorosa.md"
               }
             }
           }
@@ -146,34 +146,34 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "78b3be083240fb99",
+  "active": "46a266e39bba2eee",
   "lastOpenFiles": [
-    "Stones/Zitrin.md",
-    "Feelings/zirkadiane.md",
-    "Illness/Zerstreutheit.md",
-    "Chakra/Zentrum Chakra.md",
-    "Zentrum.md",
-    "Feelings/Zellregeneration.md",
-    "Feelings/Zeit.md",
-    "Bodypart/Zellen.md",
-    "Feelings/Yoga.md",
-    "Wurzel-Chakra.md",
-    "Chakra/Wurzel Chakra.md",
-    "Frequencies/700 Hz.md",
-    "Wurzel.md",
-    "Feelings/Wissen.md",
-    "Colors/Weiß.md",
-    "Toxics/Wasser.md",
-    "Feelings/Wärme.md",
-    "Feelings/Wachsamkeit.md",
-    "Feelings/Wachsam.md",
-    "Feelings/vitalisierend.md",
-    "Feelings/Vitalität.md",
-    "Feelings/visuell.md",
-    "Feelings/Visualisierung.md",
-    "Feelings/Vision.md",
-    "Vishuddha.md",
-    "Chakra/Vishudda Chakra.md",
+    "ETDFL_Names/Adnexitis.md",
+    "ETDFL_Freqs/932000 Hz (E).md",
+    "ETDFL_Names/Adrenalhyperplasie Congl..md",
+    "ETDFL_Freqs/509020 Hz (E).md",
+    "ETDFL_Names/Adiposis Dolorosa.md",
+    "ETDFL_Names/Adie-Syndrom.md",
+    "ETDFL_Names/Adiadochokinesis.md",
+    "ETDFL_Names/Adhesive Capsulitis.md",
+    "ETDFL_Names/Adhäsionen.md",
+    "ETDFL_Names/Adenovirus-Infektionen.md",
+    "ETDFL_Names/Adenoviridae-Infektionen.md",
+    "ETDFL_Names/Adenomyose.md",
+    "ETDFL_Names/Adenomatöse Polyposis Coli.md",
+    "ETDFL_Names/Adenom.md",
+    "ETDFL_Names/Adenohypophyseal Hyposecretion.md",
+    "ETDFL_Names/Adenohypophyseal Diseases.md",
+    "ETDFL_Names/Adenitis.md",
+    "ETDFL_Names/Addison-Anämie.md",
+    "ETDFL_Names/Addison Disease.md",
+    "ETDFL_Names/ADD mit Hyperaktivität.md",
+    "ETDFL_Names/Acromegalie.md",
+    "ETDFL_Names/Acrocephalosyndactylia.md",
+    "ETDFL_Names/Ablatio.md",
+    "ETDFL_Freqs/80 Hz (E).md",
+    "ETDFL_Freqs/70 Hz (E).md",
+    "ETDFL_Freqs/60 Hz (E).md",
     "Planets",
     "Toxics",
     "Chakra",
