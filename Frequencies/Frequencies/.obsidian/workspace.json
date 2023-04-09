@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "e956edec3d44a738",
+        "id": "b788c72f59a32435",
         "type": "tabs",
         "children": [
           {
-            "id": "f97dbe22fd2984e7",
+            "id": "46a266e39bba2eee",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Frequencies/6,8 Hz.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Frequencies/6,8 Hz.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Frequencies/6,8 Hz.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,15 +124,16 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Frequencies/6,8 Hz.md"
+              }
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -139,34 +146,34 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "f97dbe22fd2984e7",
+  "active": "46a266e39bba2eee",
   "lastOpenFiles": [
-    "ETDFL_Freqs/369500 Hz (E).md",
-    "ETDFL_Names/Martin-Bell-Syndrom.md",
-    "ETDFL_Names/Marsh Fever.md",
-    "ETDFL_Names/Marmorknochenkrankheit.md",
-    "ETDFL_Freqs/855820 Hz (E).md",
-    "ETDFL_Names/Markschwammniere.md",
-    "ETDFL_Freqs/155650 Hz (E).md",
-    "ETDFL_Freqs/38100 Hz (E).md",
-    "ETDFL_Names/Marie-Struempell Krankheit.md",
-    "ETDFL_Names/Marginal Ulcer.md",
-    "ETDFL_Freqs/975540 Hz (E).md",
-    "ETDFL_Freqs/625350 Hz (E).md",
-    "ETDFL_Freqs/105670 Hz (E).md",
-    "ETDFL_Freqs/43390 Hz (E).md",
-    "ETDFL_Freqs/9930 Hz (E).md",
-    "ETDFL_Names/Marfan-Syndrom.md",
-    "ETDFL_Freqs/211090 Hz (E).md",
-    "ETDFL_Freqs/36290 Hz (E).md",
-    "ETDFL_Names/Marcus-Gunn Schüler.md",
-    "ETDFL_Names/Mannosidose.md",
-    "ETDFL_Names/Männlichen Genitalkrankheiten.md",
-    "ETDFL_Freqs/581280 Hz (E).md",
-    "ETDFL_Freqs/304420 Hz (E).md",
-    "ETDFL_Freqs/143500 Hz (E).md",
-    "ETDFL_Freqs/85650 Hz (E).md",
-    "ETDFL_Names/Manisch-Depressive Psychose.md",
+    "Telepathie.md",
+    "Frequencies/4 Hz.md",
+    "Unterbewusst.md",
+    "Luzid.md",
+    "Magen.md",
+    "Mental.md",
+    "Regeneration.md",
+    "Frequencies/7,5 Hz.md",
+    "Frequencies/7 Hz.md",
+    "Frequencies/6,88 Hz.md",
+    "Frequencies/6,5 Hz.md",
+    "Theta.md",
+    "Stirnlappen.md",
+    "Knochen.md",
+    "Reaktionszeit.md",
+    "Chirurgie.md",
+    "psychisch.md",
+    "Objekt.md",
+    "Biegen.md",
+    "Stabilität.md",
+    "Ausgewogenheit.md",
+    "Schlüsselbein.md",
+    "Frequencies/6,15 Hz.md",
+    "Frequencies/6,8 Hz.md",
+    "Frequencies/6,3 Hz.md",
+    "Frequencies/6 Hz.md",
     "readlist.php~",
     "ETDFL_Freqs",
     "ETDFL_Names",

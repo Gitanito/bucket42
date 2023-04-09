@@ -1,1 +1,1 @@
-Stimulation des Langzeitgedächtnisses; (reduziert) Arbeitsunwilligkeit.
+Stimulation des [[Langzeitgedächtnis]]ses; (reduziert) [[Arbeitsunwilligkeit]].
