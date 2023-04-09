@@ -1,0 +1,3 @@
+> **Melatonin** ist ein Hormon, das von den Pinealozyten in der Zirbeldrüse (Epiphyse) – einem Teil des Zwischenhirns – aus Serotonin produziert wird und den Tag-Nacht-Rhythmus des menschlichen Körpers steuert und schlaffördernd wirkt. Es handelt sich um eine chemische Verbindung aus der Stoffgruppe der Tryptamine mit 5-Methoxyindol als Strukturelement.
+>
+> [Wikipedia](https://de.wikipedia.org/wiki/Melatonin)

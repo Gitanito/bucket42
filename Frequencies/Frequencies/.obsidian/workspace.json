@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Frequencies/6,8 Hz.md",
+                "file": "Erdmagnetfeld.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 467.5
+    "width": 262.5086555480957
   },
   "right": {
     "id": "3eb8f42d2f9006c4",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Frequencies/6,8 Hz.md",
+                "file": "Erdmagnetfeld.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Frequencies/6,8 Hz.md",
+                "file": "Erdmagnetfeld.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Frequencies/6,8 Hz.md"
+                "file": "Erdmagnetfeld.md"
               }
             }
           }
@@ -148,32 +148,32 @@
   },
   "active": "46a266e39bba2eee",
   "lastOpenFiles": [
-    "Telepathie.md",
-    "Frequencies/4 Hz.md",
+    "Frequencies/9,6 Hz.md",
+    "Frequencies/9,14 Hz.md",
+    "Frequencies/9,19 Hz.md",
+    "Frequencies/10 Hz.md",
+    "Emotionen.md",
+    "Oberlippe.md",
+    "Klarheit.md",
+    "Serotonin.md",
+    "Endorphine.md",
+    "Spirituelle Weisheit.md",
+    "Illness/Kopfschmerzen.md",
+    "Gallenblase.md",
+    "Leber.md",
+    "Solar Plexus.md",
+    "Manipura.md",
+    "Chakra.md",
+    "Noradrenalin.md",
+    "Melatonin.md",
     "Unterbewusst.md",
-    "Luzid.md",
-    "Magen.md",
-    "Mental.md",
-    "Regeneration.md",
-    "Frequencies/7,5 Hz.md",
-    "Frequencies/7 Hz.md",
-    "Frequencies/6,88 Hz.md",
-    "Frequencies/6,5 Hz.md",
-    "Theta.md",
-    "Stirnlappen.md",
-    "Knochen.md",
-    "Reaktionszeit.md",
-    "Chirurgie.md",
-    "psychisch.md",
-    "Objekt.md",
-    "Biegen.md",
-    "Stabilität.md",
-    "Ausgewogenheit.md",
-    "Schlüsselbein.md",
-    "Frequencies/6,15 Hz.md",
-    "Frequencies/6,8 Hz.md",
-    "Frequencies/6,3 Hz.md",
-    "Frequencies/6 Hz.md",
+    "Nieren.md",
+    "zirkadiane.md",
+    "antikonvulsiv.md",
+    "Alpha.md",
+    "Nikotin.md",
+    "Meg Patterson.md",
+    "Jetlag.md",
     "readlist.php~",
     "ETDFL_Freqs",
     "ETDFL_Names",
