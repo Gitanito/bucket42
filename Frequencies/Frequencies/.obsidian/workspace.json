@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "8e69857cf1fb83b3",
+        "id": "e956edec3d44a738",
         "type": "tabs",
         "children": [
           {
-            "id": "21f0f9e52df58ce4",
+            "id": "f97dbe22fd2984e7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "110 Hz.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -49,7 +45,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "110 Hz.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "110 Hz.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "110 Hz.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -144,39 +136,46 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obisidian-note-linker:Note Linker": false,
-      "obsidian-textgenerator-plugin:Generate Text!": false,
-      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
+      "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "21f0f9e52df58ce4",
+  "active": "f97dbe22fd2984e7",
   "lastOpenFiles": [
-    "108 Hz.md",
-    "105 Hz.md",
-    "42800 Hz.md",
-    "10000 Hz.md",
-    "5000 Hz.md",
-    "4400 Hz.md",
-    "4168 Hz.md",
-    "3040 Hz.md",
-    "2675 Hz.md",
-    "2025 Hz.md",
-    "1600 Hz.md",
-    "1552 Hz.md",
-    "1500 Hz.md",
-    "1052 Hz.md",
-    "1000 Hz.md",
-    "984 Hz.md",
-    "965 Hz.md",
-    "952 Hz.md",
-    "880 Hz.md",
-    "832 Hz.md",
-    "820 Hz.md",
-    "1550 Hz.md",
-    "800 Hz.md",
-    "787 Hz.md",
-    "784 Hz.md",
-    "728 Hz.md",
-    "Numbers"
+    "ETDFL_Names/Amputation.md",
+    "ETDFL_Freqs/70 Hz ETDFL.md",
+    "ETDFL_Names/Amphibienerkrankungen.md",
+    "ETDFL_Freqs/10830 Hz ETDFL.md",
+    "ETDFL_Names/Amyloidose.md",
+    "ETDFL_Freqs/689410 Hz ETDFL.md",
+    "ETDFL_Freqs/712000 Hz ETDFL.md",
+    "ETDFL_Freqs/519680 Hz ETDFL.md",
+    "ETDFL_Freqs/60 Hz ETDFL.md",
+    "ETDFL_Names/Alopezie.md",
+    "ETDFL_Freqs/5070 Hz ETDFL.md",
+    "ETDFL_Names/Amblyopia.md",
+    "ETDFL_Freqs/924370 Hz ETDFL.md",
+    "ETDFL_Names/Adenomyose.md",
+    "ETDFL_Freqs/3720 Hz ETDFL.md",
+    "ETDFL_Freqs/70 Hz.md",
+    "ETDFL_Names/Amyotonia Congenita.md",
+    "ETDFL_Freqs/657710 Hz ETDFL.md",
+    "ETDFL_Freqs/551220 Hz ETDFL.md",
+    "ETDFL_Freqs/472500 Hz ETDFL.md",
+    "ETDFL_Freqs/342120 Hz ETDFL.md",
+    "ETDFL_Freqs/234250 Hz ETDFL.md",
+    "ETDFL_Freqs/115780 Hz ETDFL.md",
+    "ETDFL_Freqs/52250 Hz ETDFL.md",
+    "ETDFL_Freqs/6790 Hz ETDFL.md",
+    "ETDFL_Names/Amyoplasie Congenita.md",
+    "readlist.php~",
+    "ETDFL_Freqs",
+    "ETDFL_Names",
+    "readlist.php",
+    "Feelings",
+    "Bodypart",
+    "Illness",
+    "Stones",
+    "Metals",
+    "Tones"
   ]
 }

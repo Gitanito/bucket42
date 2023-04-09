@@ -1,1 +1,0 @@
-Gefühl des Wohlbefindens, hypophysäre Stimulation zur Ausschüttung von Wachstumshormonen; Überblick über Zusammenhänge; Harmonie und Ausgeglichenheit.
