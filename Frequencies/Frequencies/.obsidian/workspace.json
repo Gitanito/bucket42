@@ -8,415 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "96377c147404b1d7",
+            "id": "21f0f9e52df58ce4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "176 Hz.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4bd389547190aec9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "183,58 Hz.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "552f1d3c7637beeb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "185 Hz.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3a7d9d98ff264d56",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "187,61 Hz.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a7d0b2d91aaa3508",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "194,18 Hz.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "95327698cdfb2287",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "194,71 Hz.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a513160284493484",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "197 Hz.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5bd4e93468924381",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "197,71 Hz.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "53af03f07ac415ec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "207,36 Hz.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "76257f0b066fac7d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "210,42 Hz.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7028e3824475d798",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "211,44 Hz.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e5d027989154f5e4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "220 Hz.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3e7eb068256cfb2f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "221,23 Hz.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "278a8052e971918a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "227,43 Hz.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "59c3cb908b00930c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "229,22 Hz.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7ce5aa162553f45f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "234,16 Hz.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8a98a0f8aa764d78",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "241,56 Hz.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bb135231e9eeb6ea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "246,04 Hz.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5ae034851f3dabcd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "250 Hz.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f031ac695c08707f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "254,57.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5d77a3b6480c8ab2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "256 Hz.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "310f266bac67ec73",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "263 Hz.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "02b339d55470e00f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "264 Hz.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ca07b26787bfa8db",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "272 Hz.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fb7364336349a090",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "272,2 Hz.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c9481fd66b8ec8c6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "273 Hz.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2e8c8a07e0f3445d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "280,5 Hz.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "44b5bcbdb486f0f9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "281 Hz.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "42db66be65b31ad2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "281,6 Hz.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0056832b2937b853",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "282,4 Hz.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "712a89d5cbb56e81",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "288 Hz.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9653917d995dcb9f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "289,4 Hz.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bcea7c4b13eda45f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "293 Hz.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "20b0353e7354c008",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "294 Hz.md",
+                "file": "110 Hz.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 33
+        ]
       }
     ],
     "direction": "vertical"
@@ -482,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "294 Hz.md",
+                "file": "110 Hz.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -499,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "294 Hz.md",
+                "file": "110 Hz.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -522,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "294 Hz.md"
+                "file": "110 Hz.md"
               }
             }
           }
@@ -540,37 +143,40 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obisidian-note-linker:Note Linker": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "20b0353e7354c008",
+  "active": "21f0f9e52df58ce4",
   "lastOpenFiles": [
-    "293 Hz.md",
-    "294 Hz.md",
-    "289,4 Hz.md",
-    "288 Hz.md",
-    "282,4 Hz.md",
-    "281,6 Hz.md",
-    "281 Hz.md",
-    "280,5 Hz.md",
-    "273 Hz.md",
-    "272,2 Hz.md",
-    "272 Hz.md",
-    "264 Hz.md",
-    "263 Hz.md",
-    "256 Hz.md",
-    "254,57.md",
-    "250 Hz.md",
-    "246,04 Hz.md",
-    "241,56 Hz.md",
-    "234,16 Hz.md",
-    "229,22 Hz.md",
-    "227,43 Hz.md",
-    "221,23 Hz.md",
-    "220 Hz.md",
-    "211,44 Hz.md",
-    "210,42 Hz.md",
-    "207,36 Hz.md",
+    "108 Hz.md",
+    "105 Hz.md",
+    "42800 Hz.md",
+    "10000 Hz.md",
+    "5000 Hz.md",
+    "4400 Hz.md",
+    "4168 Hz.md",
+    "3040 Hz.md",
+    "2675 Hz.md",
+    "2025 Hz.md",
+    "1600 Hz.md",
+    "1552 Hz.md",
+    "1500 Hz.md",
+    "1052 Hz.md",
+    "1000 Hz.md",
+    "984 Hz.md",
+    "965 Hz.md",
+    "952 Hz.md",
+    "880 Hz.md",
+    "832 Hz.md",
+    "820 Hz.md",
+    "1550 Hz.md",
+    "800 Hz.md",
+    "787 Hz.md",
+    "784 Hz.md",
+    "728 Hz.md",
     "Numbers"
   ]
 }
