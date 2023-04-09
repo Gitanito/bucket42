@@ -1,0 +1,3 @@
+> **drittes Auge** (auch geistiges Auge, inneres Auge, Auge der Erleuchtung, Auge des Bewusstseins (Urna), Ajna chakra, Brow Chakra, Shiva’s Eye genannt und teilweise gleichgesetzt) ist ein spekulatives unsichtbares Auge, das auf der Stirn, etwa zwischen den Augenbrauen lokalisiert, dargestellt wird. Teilweise wird auch das bei einigen Tieren vorkommende Scheitelauge so genannt.
+>
+> [Wikipedia](https://de.wikipedia.org/wiki/Drittes%20Auge)

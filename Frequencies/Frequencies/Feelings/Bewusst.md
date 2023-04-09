@@ -1,0 +1,3 @@
+> **Bewusst**sein (abgeleitet von dem mittelhochdeutschen Wort bewissen im Sinne von „Wissen über etwas habend“, lateinisch conscientia „Mitwissen“ und altgriechisch συνείδησις syneídēsis „Miterscheinung“, „Mitbild“, „Mitwissen“, συναίσθησις synaísthēsis „Mitwahrnehmung“, „Mitempfindung“ und φρόνησις phrónēsis von φρονεῖν phroneín „bei Sinnen sein, denken“) ist im weitesten Sinne das Erleben mentaler Zustände und Prozesse. Eine allgemein gültige Definition des Begriffes ist aufgrund seines unterschiedlichen Gebrauchs mit verschiedenen Bedeutungen schwer möglich. Die naturwissenschaftliche Forschung beschäftigt sich mit definierbaren Eigenschaften bewussten Erlebens.
+>
+> [Wikipedia](https://de.wikipedia.org/wiki/Bewusstsein)

@@ -1,0 +1,3 @@
+> Der **Tod** (wie englisch to die und death von germanisch dauþus ‚Tod‘, von und *dau bzw. dawjan, ‚sterben‘) ist das Ende des Lebens bzw. (als biologischer Tod bei einem Lebewesen) das endgültige Versagen aller lebenserhaltenden Funktionsabläufe. Die aktive Beendigung von Leben wird als Tötung bezeichnet. Der Übergang vom Leben zum Tod wird Sterben genannt, der eingetretene Tod auch lateinisch Exitus letalis, kurz auch Exitus (lateinisch  für „Ausgang“ oder „Ende“ im Sinne von „schlimmer Ausgang“ oder „Verderben“). Die griechische Bezeichnung lautet thánatos (θάνατος), die lateinische mors. Ereignisse und Einwirkungen vor dem Tod werden als prämortal, solche nach dem Tod als postmortal oder post mortem bezeichnet.
+>
+> [Wikipedia](https://de.wikipedia.org/wiki/Tod)

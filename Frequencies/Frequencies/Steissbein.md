@@ -1,0 +1,3 @@
+> Das Steißbein, Schweifbein, Schwanzbein, Os caudae (zu lat. cauda), Kuckucksbein/-knochen, Os cuculi (zu lat. cuculus), Os coccygis, Os coccygeum oder Kokzyx (zu lat. coccyx, zu griech. kokkyx) des Menschen ist der kaudale („zum Schwanz hin gerichtete“) beziehungsweise untere Abschnitt der Wirbelsäule und folgt auf das Kreuzbein (Os sacrum). Es dient verschiedenen Bändern und Muskeln des Beckens, insbesondere des Beckenbodens und der Hüftgelenke, als Ansatzpunkt. Typischerweise durch einen Sturz auf das Gesäß oder einen kräftigen Tritt kann das Steißbein luxieren oder brechen. Beide Verletzungen sind sehr schmerzhaft.
+>
+> [Wikipedia](https://de.wikipedia.org/wiki/Stei%C3%9Fbein)

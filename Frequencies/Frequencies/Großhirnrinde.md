@@ -1,0 +1,7 @@
+> Die **Großhirnrinde** (lateinisch Cortex cerebri, kurz: Cortex) ist die äußere, an Nervenzellen (Neuronen) reiche Schicht des Großhirns (Telencephalon).
+>
+> Obwohl das lateinische Wort cortex übersetzt schlicht ‚Rinde‘ bedeutet und Cortex (oder Kortex) eigentlich die gesamte Hirnrinde bezeichnet, wird Cortex in der Fachsprache auch einschränkend für die Großhirnrinde verwendet. Entsprechend bedeutet das Adjektiv cortical (oder kortikal) eigentlich „die gesamte Hirnrinde betreffend“, wird aber oft im engeren Sinne von „die Großhirnrinde betreffend“ verwendet.
+>
+> Die Großhirnrinde ist je nach Region nur 2 bis 5 Millimeter dick und ein Teil der grauen Substanz (Substantia grisea) des Großhirns. Die Nervenfasern der Neuronen der Großhirnrinde verlaufen unterhalb der Hirnrinde und sind Teil der weißen Substanz (Substantia alba) des Großhirns, die hier auch als Marklager bezeichnet wird. Großhirnrinde und Marklager bilden zusammen den Großhirnmantel (Pallium cerebri). Unterhalb der Großhirnrinde, subkortikal, befinden sich weitere Abschnitte grauer Substanz des Großhirns als subkortikale Kerngebiete (Basalganglien, Claustrum und Corpus amygdaloideum).
+>
+> [Wikipedia](https://de.wikipedia.org/wiki/Gro%C3%9Fhirnrinde)
