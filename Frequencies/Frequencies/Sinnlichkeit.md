@@ -1,0 +1,7 @@
+> **Sinnlichkeit** bezeichnet umgangssprachlich die Hingabe an das (angenehme) Erleben durch die Sinne. Oft wird Sinnlichkeit auch als eine Form von Erotik gesehen, ist darauf aber nicht beschränkt. Durch die geöffneten Sinne kann man das Schöne und Anregende dieser Welt erfahren. Sinnlichkeit hat dabei einen freien Charakter, während Begierde ein Besitzenwollen impliziert.
+>
+> Wissenschaftlich wird das Sinnliche vom Geistigen oder auch vom Seelischen unterschieden. Sinnlichkeit bezeichnet dann die Empfänglichkeit für die verschiedenen Sinnesempfindungen – besonders aber für solche psychischen Ereignisse, welche sich zunächst an Sinnesempfindungen anschließen. Dies umfasst also einerseits die Auffassung der uns umgebenden Erscheinungswelt nach Stoff und Form, die Wahrnehmung und Unterscheidung der außer uns befindlichen Dinge, ihrer Eigenschaften und Veränderungen. Andererseits zählt dazu die Gesamtheit derjenigen inneren Triebe, Begierden und Leidenschaften, welche entweder direkt begründet sind in den Bedürfnissen des leiblichen Organismus (wie der Nahrungs- und Geschlechtstrieb) oder in dem Gefühl der Lust und Unlust, das gewisse sinnliche Empfindungen in uns erregen.
+>
+> Der Sinnlichkeit im letzteren Sinn entgegengesetzt ist die reine Intellektualität sowie die Spiritualität (Vergeistigung).
+>
+> [Wikipedia](https://de.wikipedia.org/wiki/Sinnlichkeit)

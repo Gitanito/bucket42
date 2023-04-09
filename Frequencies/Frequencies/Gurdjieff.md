@@ -1,0 +1,3 @@
+> Georges I. **Gurdjieff** (russisch Георгий Иванович Гюрджиев, Transkription Georgi Iwanowitsch Gjurdschijew, wiss. Transliteration Georgij Ivanovič Gjurdžiev; vermutlich * 1866 in Alexandropol, Russisches Kaiserreich; † 29. Oktober 1949 in Paris) war ein griechisch-armenischer Esoteriker, Schriftsteller, Choreograph und Komponist, der zunächst in Russland und später in Frankreich wirkte. Bekannt wurde er als Lehrer des sog. Vierten Weges und Begründer einer weltweiten und verzweigten Anhängerschaft.
+>
+> [Wikipedia](https://de.wikipedia.org/wiki/Georges%20I.%20Gurdjieff)

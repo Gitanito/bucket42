@@ -1,0 +1,13 @@
+> Die olfaktorische Wahrnehmung oder Riechwahrnehmung, auch Geruchssinn oder olfaktorischer Sinn (von lateinisch olfacere  ‚**Riechen**‘) genannt, ist die Wahrnehmung von Gerüchen. Die Zusammenhänge des komplexen Geruchssinns erforscht die Osmologie oder Osphresiologie.
+>
+> 
+>
+> Bei Menschen scheint der Geruchssinn oft eine geringere Rolle zu spielen als das Sehen, Hören oder Tasten. Seine Leistungen fallen aber dann auf, wenn die olfaktorische Wahrnehmung verloren geht, beispielsweise bei einem Schnupfen.
+>
+> Für viele wild lebende Tierarten wäre solch ein Zustand lebensbedrohlich, da sie in mehrfacher Hinsicht auf ihren Geruchssinn angewiesen sind. Denn die erst hiermit wahrnehmbaren Riech- oder Duftstoffe dienen zur Identifizierung von Nahrung, von Verdorbenem (Fäulnis) oder von Verwestem (Aasgeruch), zur Unterscheidung des eigenen Körpergeruchs von dem der vertrauten Gruppenmitglieder (Stallgeruch) und von dem fremder Artgenossen sowie von dem anderer Arten, der Warnung vor Feinden (Prädator) beziehungsweise der Vermutung von Beute (Beutetier).
+>
+> Die olfaktorische Wahrnehmung ist also nicht allein für die Nahrungsaufnahme wichtig, sondern spielt darüber hinaus eine wesentliche Rolle beim Sozialverhalten wie für das Paarungsverhalten. So wird die Geschlechtsreife von weiblichen Tieren den männlichen Artgenossen durch Pheromone signalisiert (Sexuallockstoffe). Daneben dienen Duftstoffe auch der räumlichen Orientierung. Viele Tiere setzen Duftmarken, um ein Revier abzugrenzen, oder folgen, wie Ameisen, der Duftspur von Vorgängern. Darüber hinaus können chemische Signalstoffe auch der Kommunikation zwischen verschiedenen Arten dienen. Zum Beispiel emittieren die Blüten vieler Pflanzen duftende Stoffe, welche Insekten anlocken, die sie nur bestäuben (Allomon) oder nur Nektar sammeln (Kairomon) oder beides vollführen (Synomon). Bei der Schädlingsbekämpfung im Obstbau macht man sich die Wirkung von Pheromonen nutzbar, um beispielsweise die Paarung von Pflaumenwicklern einzuschränken.
+>
+> An der olfaktorischen Wahrnehmung können verschiedene sensorische Systeme beteiligt sein: neben dem eigentlichen olfaktorischen System (Geruchsreize) auch das nasal-trigeminale System (taktile und chemische Reize) sowie Einflüsse des gustatorischen Systems (Geschmacksreize). Der Geruchssinn ist der komplexeste chemische Sinn. Die Sinneszellen des Geruchs sind mit spezifischen Geruchsrezeptoren ausgestattet und bei Wirbeltieren in der Regel in der Nase lokalisiert. Manche Gerüche werden nicht bewusst wahrgenommen (siehe auch Jacobson-Organ).
+>
+> [Wikipedia](https://de.wikipedia.org/wiki/Olfaktorische%20Wahrnehmung)

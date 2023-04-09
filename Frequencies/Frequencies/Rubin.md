@@ -1,0 +1,3 @@
+> Als **Rubin** (lateinisch Rubinus) bezeichnet man die rote Varietät des Minerals Korund (Al2O3). Die rote Verfärbung ist auf geringe Beimengungen von Chrom zurückzuführen. Nur die roten Korunde heißen Rubine, wobei der Farbton zwischen Blassrot und Dunkelrot variieren kann. Rosafarbene Korunde werden, ebenso wie blaue und alle anderen Farbvarietäten, unter der Bezeichnung Saphir zusammengefasst.
+>
+> [Wikipedia](https://de.wikipedia.org/wiki/Rubin)

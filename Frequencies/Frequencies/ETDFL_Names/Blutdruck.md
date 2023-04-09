@@ -1,4 +1,6 @@
-Blutdruck
+> Der **Blutdruck** ist der Druck (Kraft pro Fläche) des Blutes in einem Blutgefäß. Er ist direkt abhängig vom Herzzeitvolumen und vom Gefäßwiderstand. Er ist in der Aorta am größten und sinkt auf dem Weg des Blutes durch den Blutkreislauf über Arterien, Kapillaren und Venen immer weiter ab, bis wieder das Herz erreicht ist. Üblicherweise ist mit „dem Blutdruck“ der Druck in den größeren Arterien gemeint. In einem gesunden Körper regelt sich der Blutdruck von selbst. Erhöhter Blutdruck wirkt sich nachteilig auf Gesundheit und Lebenserwartung aus, wird aber oft subjektiv nicht wahrgenommen. Der Blutdruck sollte daher von Zeit zu Zeit gemessen werden. Der Blutdruck wird meist in mmHg (Millimeter Quecksilbersäule) angegeben; innerhalb der EU ist dies auch die gesetzliche Maßeinheit.
+>
+> [Wikipedia](https://de.wikipedia.org/wiki/Blutdruck)
 
 [[30 Hz (E)]]
 [[400 Hz (E)]]

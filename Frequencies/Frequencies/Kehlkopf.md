@@ -1,0 +1,5 @@
+> Der **Kehlkopf** – in der medizinischen Fachsprache auch Larynx [ˈlaːrʏŋks] (von altgriechisch λάρυγξ lárynx, deutsch ‚Kehle‘) – bildet als Teil des Atemtrakts den Übergang vom Rachen zur Luftröhre im vorderen Halsbereich. Von außen sieht man beim Menschen in der Mitte des Halses den Adamsapfel, der dem mittigen Vorsprung des Schildknorpels entspricht. Embryonal entsteht er aus dem vierten bis sechsten Kiemenbogen. Die Erkrankungen des Kehlkopfs sind Gegenstand der Laryngologie, einem Teilgebiet der Hals-Nasen-Ohren-Heilkunde, der entsprechende Spezialist heißt Laryngologe.
+>
+> Der Kehlkopf hat zwei Funktionen. Zum einen schützt er die Luftröhre vor Speisestücken, indem beim Schlucken der Kehlkopf nach vorne oben gezogen und damit mit dem Kehldeckel verschlossen wird. Zum anderen regulieren die Stimmlippen bei Säugetieren den Strom der Atemluft und erzeugen durch ihre Schwingungen Töne bzw. die menschliche Stimme. Vögel besitzen zwar ebenfalls einen Kehlkopf, aber ohne Stimmlippen und Kehldeckel. Für die Stimmbildung ist bei Vögeln die Syrinx, auch als „unterer Kehlkopf“ bezeichnet, zuständig.
+>
+> [Wikipedia](https://de.wikipedia.org/wiki/Kehlkopf)

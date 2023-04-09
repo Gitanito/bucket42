@@ -1,0 +1,3 @@
+> Der Plexus cardiacus (lateinisch für „**Herzgeflecht**“) ist ein Geflecht aus Nervenfasern an der Herzbasis außerhalb des Herzbeutels zur vegetativen Steuerung des Herzens. Es enthält mehrere Nervenzellknoten (Ganglia cardiaca), von denen der größte, das Wrisberg-Ganglion, in der Höhlung des Aortenbogens nahe dem Ligamentum arteriosum liegt.
+>
+> [Wikipedia](https://de.wikipedia.org/wiki/Plexus%20cardiacus)
