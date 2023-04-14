@@ -4,5 +4,6 @@
   "defaultViewMode": "preview",
   "newFileLocation": "folder",
   "newLinkFormat": "shortest",
-  "newFileFolderPath": "__New"
+  "newFileFolderPath": "__New",
+  "attachmentFolderPath": "ETDFL_Names"
 }

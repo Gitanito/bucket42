@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programme/Fistel-Warze.md",
+                "file": "ETDFL_Names/F/Fabry-Krankheit.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,12 +78,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 1030.5
+    "width": 343.5
   },
   "right": {
     "id": "3eb8f42d2f9006c4",
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programme/Fistel-Warze.md",
+                "file": "ETDFL_Names/F/Fabry-Krankheit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programme/Fistel-Warze.md",
+                "file": "ETDFL_Names/F/Fabry-Krankheit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programme/Fistel-Warze.md"
+                "file": "ETDFL_Names/F/Fabry-Krankheit.md"
               }
             }
           },
@@ -169,43 +168,43 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "fc54787aa5159c7a",
+  "active": "78b3be083240fb99",
   "lastOpenFiles": [
-    "ETDFL_Names/Pilonidalfistel.md",
+    "ETDFL_Names/E/Eaton-Lambert-Syndrom.md",
+    "ETDFL_Names/F",
+    "ETDFL_Names/D/DÃ©jerine-Thomas-Syndrom.md",
+    "ETDFL_Names/E",
+    "ETDFL_Names/C/Cytomegalus Inclusion Disease.md",
+    "ETDFL_Names/D",
+    "ETDFL_Names/C/Cafe-au-lait-Flecke.md",
+    "ETDFL_Names/B/B-Zell-Lymphom.md",
+    "ETDFL_Names/C",
+    "ETDFL_Names/A/Ablatio.md",
+    "ETDFL_Names/B",
     "Programme/Fistel-Warze.md",
+    "ETDFL_Names/A",
+    "ETDFL_Names/Pilonidalfistel.md",
     "Programme",
     "ETDFL_Freqs/570 Hz (E).md",
-    "ETDFL_Names/Fußdeformitäten.md",
-    "ETDFL_Names/Fuß des Athleten.md",
-    "ETDFL_Names/Fusobacterium Infections.md",
-    "ETDFL_Names/Furunkulose.md",
-    "ETDFL_Names/Furunkel.md",
-    "ETDFL_Names/Fumarylacetoacetase Deficiency.md",
-    "ETDFL_Names/Fuge.md",
-    "ETDFL_Names/Fucosidose.md",
-    "ETDFL_Names/Fucosidase Deficiency Disease.md",
-    "ETDFL_Names/Frostbeulen.md",
-    "ETDFL_Names/Frontotemporal Lobar Degen..md",
-    "ETDFL_Names/Frontal Region Trauma.md",
-    "ETDFL_Names/Frontal Enzephalozele.md",
-    "ETDFL_Names/Frigidität.md",
-    "ETDFL_Names/Friedreich-Ataxie.md",
-    "ETDFL_Names/Friedreich- Disease.md",
-    "ETDFL_Names/Freiberg-Krankheit.md",
-    "ETDFL_Names/Freeman-Sheldon-Syndrom.md",
-    "ETDFL_Names/FRAXA Syndrom.md",
-    "ETDFL_Names/Frambösie.md",
-    "ETDFL_Names/Fragilitas ossium.md",
-    "ETDFL_Names/Fragiles X-Syndrom.md",
-    "ETDFL_Names/Fournier Gangrän.md",
+    "ETDFL_Names/F/Fußdeformitäten.md",
+    "ETDFL_Names/F/Fuß des Athleten.md",
+    "ETDFL_Names/F/Fusobacterium Infections.md",
+    "ETDFL_Names/F/Furunkulose.md",
+    "ETDFL_Names/F/Furunkel.md",
+    "ETDFL_Names/F/Fumarylacetoacetase Deficiency.md",
+    "ETDFL_Names/F/Fuge.md",
+    "ETDFL_Names/F/Fucosidose.md",
+    "ETDFL_Names/F/Fucosidase Deficiency Disease.md",
+    "ETDFL_Names/F/Frostbeulen.md",
+    "ETDFL_Names/F/Frontotemporal Lobar Degen..md",
+    "ETDFL_Names/F/Frontal Region Trauma.md",
+    "ETDFL_Names/F/Frontal Enzephalozele.md",
+    "ETDFL_Names/F/Frigidität.md",
+    "ETDFL_Names/F/Friedreich-Ataxie.md",
+    "ETDFL_Names/F/Friedreich- Disease.md",
+    "ETDFL_Names/F/Freiberg-Krankheit.md",
     "Bachblüten",
     "Düfte",
-    "Effekte",
-    "__New",
-    "Plants",
-    "Planeten",
-    "Substanzen",
-    "Chakra",
-    "Farben"
+    "Effekte"
   ]
 }
