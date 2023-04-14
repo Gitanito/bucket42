@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Frequencies/523 Hz.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "79a7ffe3aebd5f66",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ETDFL_Names/Cytomegalus Inclusion Disease.md",
+                "file": "Düfte/Angelikawurzel.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Frequencies/149,74 Hz.md",
+                "file": "Frequenzen/149,74 Hz.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -73,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Chakra/Sakral",
+                "query": "warze",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -110,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ETDFL_Names/Cytomegalus Inclusion Disease.md",
+                "file": "Düfte/Angelikawurzel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ETDFL_Names/Cytomegalus Inclusion Disease.md",
+                "file": "Düfte/Angelikawurzel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ETDFL_Names/Cytomegalus Inclusion Disease.md"
+                "file": "Düfte/Angelikawurzel.md"
               }
             }
           },
@@ -179,41 +166,41 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "79a7ffe3aebd5f66",
+  "active": "46a266e39bba2eee",
   "lastOpenFiles": [
-    "ETDFL_Names/Cytomegalovirus-Infektionen.md",
-    "ETDFL_Names/Cystitis.md",
-    "ETDFL_Names/Cystinurie.md",
-    "ETDFL_Names/Cystinosis.md",
-    "ETDFL_Names/Cysticercose.md",
-    "ETDFL_Names/Cystathionine Mangelkrankheit.md",
-    "ETDFL_Names/Cystic Fibrosis.md",
-    "ETDFL_Names/Cysten.md",
-    "ETDFL_Names/Cyclosporiasis.md",
-    "ETDFL_Names/Cutis Elastica.md",
-    "ETDFL_Names/Cushing-Syndrom.md",
-    "ETDFL_Names/Currarino Syndrom.md",
-    "ETDFL_Names/Curling-Ulkus.md",
-    "ETDFL_Names/Cuada Equina Syndrom.md",
-    "ETDFL_Names/Cryptosporidiosis.md",
-    "ETDFL_Names/Cruveilhier-Baumgarten S..md",
-    "ETDFL_Names/Crow-Fukase-Syndrom.md",
-    "ETDFL_Names/Crouzon-Krankheit.md",
-    "ETDFL_Names/Crohn-Krankheit.md",
-    "ETDFL_Names/Cri-du-Chat-Syndrom.md",
-    "ETDFL_Names/Creutzfeldt-Jakob-Syndrom.md",
-    "ETDFL_Names/Creutzfeldt-Jakob.md",
-    "ETDFL_Names/Crescendo transitorische ischämische Attacken.md",
-    "ETDFL_Names/Creeping Eruption.md",
-    "ETDFL_Names/Craniorachischisis.md",
-    "ETDFL_Names/Cranial Neuropathien.md",
+    "Düfte/Bergamotte.md",
+    "Düfte/Benzoe Siam.md",
+    "Düfte/Zitronengras.md",
+    "Düfte/Zirbe.md",
+    "Düfte/Zimt.md",
+    "Düfte/Ysop.md",
+    "Düfte/Ylang-Ylang.md",
+    "Düfte/Waldgeißblatt.md",
+    "Düfte/Veilchen.md",
+    "Düfte/Vanille.md",
+    "Düfte/Thymian.md",
+    "Düfte/Speik.md",
+    "Düfte/Sandelholz.md",
+    "Düfte/Salbei.md",
+    "Düfte/Rosengeranie.md",
+    "Düfte/Rose.md",
+    "Düfte/römische Kamille.md",
+    "Düfte/Patchouli.md",
+    "Düfte/Olibanum.md",
+    "Düfte/Neroli.md",
+    "Düfte/Nelke.md",
+    "Düfte/Nana-Minze.md",
+    "Düfte/Myrte.md",
+    "Düfte/Muskatellersalbei.md",
+    "Düfte/Mimose.md",
+    "Düfte/Magnolie.md",
     "Bachblüten",
-    "Smells",
-    "Effects",
+    "Düfte",
+    "Effekte",
     "__New",
     "Plants",
-    "Planets",
-    "Toxics",
+    "Planeten",
+    "Substanzen",
     "Chakra",
     "Farben",
     "Neuer Ordner"

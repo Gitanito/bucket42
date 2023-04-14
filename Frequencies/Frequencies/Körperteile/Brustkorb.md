@@ -1,0 +1,3 @@
+> Der **Brustkorb** oder Thorax (altgriechisch θώραξ  ‚Brustpanzer‘, Plural Thoraces) der Wirbeltiere ist in der Anatomie ein Abschnitt des Rumpfes. Die Wand des Brustkorbs wird von Brustwirbelsäule, Brustbein und Rippen (knöcherner Thorax) sowie von Muskulatur gebildet. Er umschließt die Brusthöhle (Cavum thoracis) und, aufgrund der Kuppelform des Zwerchfells, auch den oberen (bei Tieren vorderen) Teil der Bauchhöhle. Die am Thorax außen und innen ansetzende Atemmuskulatur ermöglicht die Atmung bei landlebenden Wirbeltieren.
+>
+> [Wikipedia](https://de.wikipedia.org/wiki/Brustkorb)

@@ -1,0 +1,3 @@
+> Die **Luftröhre** oder lateinisch Trachea (von altgriechisch τραχύς trachýs, deutsch ‚rau‘; gemeint ist „der raue Schlauch“, „die grobe Arterie“ – im Gegensatz zu den feineren blutführenden Gefäßen) ist bei Wirbeltieren die Verbindung zwischen dem Kehlkopf und dem Bronchialsystem der Lunge. Sie gehört zum Atemtrakt und dient der Luftleitung.
+>
+> [Wikipedia](https://de.wikipedia.org/wiki/Luftr%C3%B6hre)

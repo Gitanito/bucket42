@@ -1,0 +1,3 @@
+> **Salbei** (Salvia) ist eine Pflanzengattung in der Familie der Lippenblütler (Lamiaceae). Sie ist fast weltweit auf allen Kontinenten außer Antarktika und Australien verbreitet. Mit 850 bis über 900 Arten ist es etwa die zwanzigste unter den artenreichsten Gattungen der Bedecktsamigen Pflanzen (Magnoliopsida, Angiospermen). Viele Arten werden seit dem Altertum als Heilpflanzen genutzt, darunter der für Küche und Medizin wichtige Echte Salbei (Salvia officinalis) und der Wiesensalbei (Salvia pratensis). Die Sorten einiger Arten werden als Zierpflanzen verwendet.
+>
+> [Wikipedia](https://de.wikipedia.org/wiki/Salbei)

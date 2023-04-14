@@ -1,0 +1,3 @@
+> Als **Ausscheidung** (Exkretion) bezeichnet man in der Biologie und Medizin die Abgabe von Stoffen über den Weg aus dem Körperinneren an die Körperoberfläche bis zur äußeren Umgebung, um sie aus dem Körper zu entfernen. Zur Körperoberfläche zählen außer der außenliegenden Haut auch die innenliegende Schleimhaut des Verdauungstraktes und das Epithel der Lunge, der Gallenblase sowie der ableitenden Harnwege. Insbesondere der Ausscheidung von Stoffwechselprodukten dienende Organe werden als Ausscheidungsorgane bezeichnet. Die vom Organismus ausgeschiedene Substanz ihrerseits wird ebenfalls als Ausscheidung bezeichnet.
+>
+> [Wikipedia](https://de.wikipedia.org/wiki/Ausscheidung)

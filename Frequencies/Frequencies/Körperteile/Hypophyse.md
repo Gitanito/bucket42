@@ -1,0 +1,3 @@
+> Die **Hypophyse** (auch lateinisch Hypophysis cerebri und kurz Hypophysis, von altgriechisch ὑπόφυσις hypóphysis „das unten anhängende Gewächs“) oder Hirnanhangdrüse, lateinisch Glandula pituitaria, ist eine an der Basis des Gehirns „hängende“, etwa erbsengroße Hormondrüse, die vom Hypothalamus gesteuert wird und der eine zentrale übergeordnete Rolle bei der Regulation des Hormonsystems im Körper zukommt. Sie ist eine Art Schnittstelle, mit der das Gehirn über die Freisetzung von Hormonen Vorgänge wie Wachstum, Fortpflanzung und Stoffwechsel reguliert. Die Hypophyse sitzt dem Türkensattel (Sella turcica), einer knöchernen Vertiefung der mittleren Schädelgrube auf Höhe der Nase, auf.
+>
+> [Wikipedia](https://de.wikipedia.org/wiki/Hypophyse)

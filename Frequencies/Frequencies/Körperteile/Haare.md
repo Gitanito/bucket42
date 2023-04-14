@@ -1,0 +1,3 @@
+> Ein Haar (lateinisch pilus, capillus [Haupthaar], crinis, coma) ist ein langer Hornfaden, der auf der Haut von Säugetieren wächst. **Haare** bestehen im Wesentlichen aus Keratin. Alle Säugetiere tragen auf ihrer Haut zumindest teilweise Haare, die Schleimhäute sind immer unbehaart. Mit wenigen Ausnahmen (Handflächen, Fingerinnenseiten, Fußsohlen, Brustwarzen, Lippenrot) ist die gesamte äußere Haut des Menschen behaart. Bei der menschlichen Behaarung wird unterschieden in Kopfhaar, Barthaar und Körperhaar.
+>
+> [Wikipedia](https://de.wikipedia.org/wiki/Haar)

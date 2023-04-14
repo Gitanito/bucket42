@@ -1,0 +1,3 @@
+> Die **Enkephaline** (altgriechisch ἐγκέφαλος enképhalos „Gehirn“) sind eine Gruppe endogener Pentapeptide aus der Klasse der Opioidpeptide. Es handelt sich um vom Körper selbst produzierte Opioide. Zwei Verbindungen bilden diese Familie, die beim Schmerzempfinden eine wichtige Rolle spielen. Die beiden anderen Familien der Opioidpeptide sind die Endorphine und die Dynorphine.
+>
+> [Wikipedia](https://de.wikipedia.org/wiki/Enkephaline)

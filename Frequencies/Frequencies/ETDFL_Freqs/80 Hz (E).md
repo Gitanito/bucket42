@@ -40,7 +40,7 @@
 [[Cranial Nerve VII Diseases]]
 [[Cysticercose]]
 [[DÃ©jerine-Thomas-Syndrom]]
-[[Depression]]
+[[Krankheiten/Depression]]
 [[Dermatitis]]
 [[Distichiasis]]
 [[Drüsenfieber]]

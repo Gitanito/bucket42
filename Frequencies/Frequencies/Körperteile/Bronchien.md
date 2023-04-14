@@ -1,0 +1,3 @@
+> Mit dem Bronchialsystem werden die Luftwege in der Lunge zusammengefasst. Es lässt sich in einen konduktiven und einen respiratorischen Abschnitt einteilen.Der luftleitende (konduktive) Teil sorgt allein für den Transport der ein- und ausgeatmeten Luft. Er zählt zum anatomischen Totraum des Bronchialsystems. Zu ihm gehören die **Bronchien** sowie die Bronchioli lobulares und terminales. Der respiratorische Abschnitt hingegen besteht aus den Bronchioli respiratorii und den Ductus alveolares mit Lungenbläschen (Alveolen). Er entspricht dem Anteil des Bronchialbaums, der am Gasaustausch beteiligt ist.
+>
+> [Wikipedia](https://de.wikipedia.org/wiki/Bronchialsystem)

@@ -1,0 +1,9 @@
+> Der **Blutkreislauf**, auch Kreislauf, Blutzirkulation und kurz Zirkulation, Blutgefäßsystem oder Blutbahn genannt, ist das Strömungssystem des Blutes im Körper des Menschen und der meisten Tiere, ausgehend vom Herzen zu den Organen und wieder zurück zum Herzen. Herz und Blutkreislauf zusammen bilden das Herz-Kreislauf-System (kardiovaskuläres System). Seine Aufgabe ist die Versorgung der Organe mit Nährstoffen, Signalstoffen und anderem, die Entsorgung von Stoffwechselprodukten und bei den meisten Gruppen mit Kreislauf auch die Versorgung mit Sauerstoff und der Abtransport von Kohlendioxid. Je nach Tiergruppe können weitere Aufgaben hinzu kommen.
+>
+> Blutgefäße, die Blut zum Herzen leiten, werden als Venen (Blutadern) bezeichnet; diejenigen Gefäße, die Blut vom Herzen zu den Organen leiten, nennt man Arterien (Schlagadern). Diese Bezeichnungen gelten unabhängig davon, ob das Blut im jeweiligen Gefäß sauerstoffarm oder sauerstoffreich ist.
+>
+> Je stärker sich die Blutgefäße verzweigen, desto kleiner wird ihr Durchmesser. Bei Tieren mit einem geschlossenen Kreislaufsystem werden Arterien zuerst zu Arteriolen und diese zu Kapillaren, in welchen der größte Teil des Stoffaustausches mit den Geweben stattfindet. Diese führen wiederum zusammen und bilden die postkapillären Venolen, die sich zu Venen vereinigen.
+>
+> Bei Tieren mit einem offenen Kreislaufsystem ergießt sich die Flüssigkeit, die hier nicht Blut, sondern Hämolymphe genannt wird, aus arteriellen Blutgefäßen in die Körperhöhle, um die Organe zu umfließen. Durch die Körperhöhle fließt sie zu venösen Gefäßen oder direkt zurück zum Herzen.
+>
+> [Wikipedia](https://de.wikipedia.org/wiki/Blutkreislauf)
