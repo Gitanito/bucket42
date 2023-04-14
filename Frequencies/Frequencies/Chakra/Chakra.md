@@ -3,3 +3,4 @@
 > Sieben der Chakren, die angenommenen Hauptenergiezentren des Menschen, werden entlang der Wirbelsäule bzw. in der senkrechten Mittelachse des Körpers lokalisiert. Sie seien durch den angenommenen mittleren Energiekanal verbunden, den Sushumna-Nadi, durch den auch die Kundalini-Kraft aufsteige. Diese Kundalini, die zugrunde gelegte potentielle Kraft jedes Menschen, ruhe vor diesem Prozess „wie eine Schlange zusammengerollt“ im untersten Zentrum, dem Muladhara-Chakra. Verschiedene Lehren und Schulen variieren in ihren Auffassungen bezüglich Details wie Anzahl und genauer Lokalisation der Chakren, Meist geht man heute, besonders im Yoga, von einem System mit sieben Hauptchakren aus.
 >
 > [Wikipedia](https://de.wikipedia.org/wiki/Chakra)
+

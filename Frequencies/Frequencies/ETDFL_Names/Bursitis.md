@@ -1,3 +1,7 @@
+> **Bursitis** (Synonym: Schleimbeutelentzündung; Plural: Bursitiden) ist die Entzündung eines Schleimbeutels (lateinisch Bursa synovialis). Sie entsteht durch Verletzungen, Infektionen oder durch Dauerreizungen, vor allem am Ellbogen, Kniegelenk und Schultergelenk. In der Veterinärmedizin wird die Symptomatik einer Bursitis auch als Galle bezeichnet.
+>
+> [Wikipedia](https://de.wikipedia.org/wiki/Bursitis)
+
 Bursitis
 
 [[60 Hz (E)]]

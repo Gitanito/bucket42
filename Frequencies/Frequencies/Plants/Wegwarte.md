@@ -1,0 +1,3 @@
+> Die Gemeine **Wegwarte** oder Gewöhnliche Wegwarte (Cichorium intybus), auch Zichorie (von lateinisch cichorea), kurz auch Wegwarte (seltener Wegwart) genannt, ist eine Pflanzenart aus der Familie der Korbblütler (Asteraceae). Sie wächst in Mitteleuropa häufig an Wegrändern. Kulturformen sind Chicorée, Zuckerhut (Fleischkraut), Radicchio, Schnittzichorie und die Wurzelzichorie. Im Jahr 2020 war die Gemeine Wegwarte „Heilpflanze des Jahres“. Sie war zudem bereits 2005 „Gemüse des Jahres“ und 2009 „Blume des Jahres“ in Deutschland.
+>
+> [Wikipedia](https://de.wikipedia.org/wiki/Gemeine%20Wegwarte)

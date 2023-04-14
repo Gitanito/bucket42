@@ -118,7 +118,6 @@
 [[Lichen ruber planus]]
 [[Lobärpneumonie]]
 [[Lungenentzündung]]
-[[Lungenentzündung]]
 [[Lungenerkrankungen]]
 [[Lungenkollaps]]
 [[Lungenpest]]

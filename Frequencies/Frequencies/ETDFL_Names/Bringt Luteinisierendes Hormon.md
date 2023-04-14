@@ -1,3 +1,5 @@
+
+
 Bringt Luteinisierendes Hormon
 
 [[130 Hz (E)]]

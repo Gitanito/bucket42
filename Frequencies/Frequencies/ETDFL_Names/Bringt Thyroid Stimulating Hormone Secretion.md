@@ -1,3 +1,5 @@
+
+
 Bringt Thyroid Stimulating Hormone Secretion
 
 [[130 Hz (E)]]

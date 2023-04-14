@@ -5,3 +5,7 @@ Mögliche Erkrankungen: [[Schwierigkeiten]], Gefühle u. Gedanken in Worte zu fa
 Düfte: [[Fenchel]], [[Lavendel]], [[Myrte]], [[römische Kamille]], [[Salbei]], [[Thymian]], [[Ysop]]. 
 Heilpflanzen: [[Borretschblüten]], [[Eibisch]], [[Isländisches Moos]], [[Myrte]], [[Odermennig]], [[Pfefferminze]], [[Ratanhia]], [[Salbei]], [[Johanniskraut]], [[Thymian]].
 Bachblüten: [[Agrimony]]/[[Odermennig]], [[Cerato]]/[[Chinesische Bleiwurz]], [[Mimulus]]/[[Gelbe Gauklerblume]]
+
+
+
+Vishuddha Chakra

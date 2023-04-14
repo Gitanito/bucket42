@@ -1,3 +1,7 @@
+> Als **Babesiose** bezeichnet man die durch Babesien (kleine intrazelluläre Parasiten, die durch Zeckenbiss übertragen werden) hervorgerufene Infektionskrankheit. Die Erkrankung ähnelt in manchen Aspekten der Malaria. Außer beim Menschen treten auch bei verschiedenen anderen Säugetieren durch Babesien ausgelöste Erkrankungen auf, beispielsweise bei Hunden (Babesiose des Hundes), Rindern, Schafen, Ziegen und Rehen (siehe Systematik der Babesien).
+>
+> [Wikipedia](https://de.wikipedia.org/wiki/Babesiose)
+
 Babesiose
 
 [[40 Hz (E)]]

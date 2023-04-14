@@ -1,0 +1,3 @@
+> **Veilchen** oder Violen (Viola) sind eine Pflanzengattung innerhalb der Familie der Veilchengewächse (Violaceae). Von den 400 bis 650 Arten gedeihen die meisten in den gemäßigten Gebieten der Erde. Die Zentren der Artenvielfalt liegen in Nordamerika, den Anden und Japan. Man findet sie jedoch auch in Australien und Tasmanien. Bekannte Arten sind Stiefmütterchen, Hornveilchen und Duftveilchen.
+>
+> [Wikipedia](https://de.wikipedia.org/wiki/Veilchen)

@@ -1,3 +1,5 @@
+
+
 Bringt Follicle Stimulating Hormone Secretion
 
 [[130 Hz (E)]]

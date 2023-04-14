@@ -1,4 +1,8 @@
 {
   "alwaysUpdateLinks": true,
-  "promptDelete": false
+  "promptDelete": false,
+  "defaultViewMode": "preview",
+  "newFileLocation": "folder",
+  "newLinkFormat": "shortest",
+  "newFileFolderPath": "__New"
 }

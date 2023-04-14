@@ -9,8 +9,6 @@
 [[Alobar Holoprosencephaly]]
 [[Anämie]]
 [[Aneurysma]]
-[[Aneurysma]]
-[[Aneurysma]]
 [[Aneurysmen]]
 [[Angiitis]]
 [[Angststörungen]]

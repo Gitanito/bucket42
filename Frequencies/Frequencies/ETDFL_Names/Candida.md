@@ -1,3 +1,7 @@
+> **Candida** ist ein weiblicher Vorname. Die männliche Variante ist Candid, dessen lateinische Form ist Candidus.
+>
+> [Wikipedia](https://de.wikipedia.org/wiki/Candida)
+
 Candida
 
 [[180 Hz (E)]]

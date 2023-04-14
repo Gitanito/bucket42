@@ -5,3 +5,6 @@ Mögliche Erkrankungen: [[Konzentrationsschwäche]] und [[Lernschwäche]] , [[fe
 Düfte: [[Bergamotte]], [[Fichte]], [[Kampfer]], [[Kiefer]], [[Lorbeer]], [[Melisse]], [[Muskatellersalbei]], [[Nana-Minze]], [[Veilchen]], [[Zitronengras]].
 Heilpflanzen: [[Baldrianwurzel]], [[Orangenblüten]], [[Basilikum]], [[Beifuß]], [[Ginkgo]], [[Johanniskraut]], [[Meerträubel]], [[Passionsblume]], [[Rosmarin]], [[Weißtee]], [[Zistrose]]
 Bachblüten: [[CrabApple]]/[[Wildapfel]] , [[Vine]]/[[Wein]], [[Walnut]]/[[Walnuss]]
+
+Drittes Auge Chakra
+Ajna Chakra

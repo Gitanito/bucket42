@@ -1,9 +1,9 @@
 {
-  "getLangFromFile": true,
-  "defaultLanguage": "en_US",
-  "normalLang": "en_US",
+  "getLangFromFile": false,
+  "defaultLanguage": "de",
+  "normalLang": "de",
   "shouldShowSynonymPopover": true,
-  "shouldShowCustomContextMenu": false,
+  "shouldShowCustomContextMenu": true,
   "apiSettings": {
     "en_US": {
       "definitionApiName": "Free Dictionary API",
@@ -34,8 +34,8 @@
       "synonymApiName": null
     },
     "de": {
-      "definitionApiName": "Free Dictionary API",
-      "synonymApiName": "Open Thesaurus"
+      "definitionApiName": "Google",
+      "synonymApiName": "OpenThesaurus"
     },
     "it": {
       "definitionApiName": "Free Dictionary API",

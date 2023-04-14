@@ -5,3 +5,5 @@ Mögliche Erkrankungen: [[Verhaftung in der materiellen Welt]] , ein [[Gefühl v
 Düfte: [[Alantwurzel]], [[Aurikel]], [[Benzoe Siam]], [[Neroli]], [[Olibanum]], [[Patchouli]], [[Rose]], [[Zirbelkiefer]].
 Heilpflanzen:  [[Baldrianblüten]], [[Schlehenblüten]], [[Holunderblüten]] , [[Mistel]] , [[Heckenrose]], [[Schafgarbe]], [[Wilde Möhre]], [[Lack-Zistrose]].
 Bachblüten: [[White Chestnut]]/[[Weiße Rosskastanie]] , [[Wild Rose]]/[[Heckenrose]]  
+
+Sahasrara Chakra

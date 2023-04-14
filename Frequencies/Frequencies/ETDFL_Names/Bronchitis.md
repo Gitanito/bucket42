@@ -1,3 +1,17 @@
+> Als **Bronchitis** (altgriechisch βρώνχη brónchē „Kehle“; Plural Bronchitiden) wird die Entzündung der Bronchien bezeichnet.
+>
+> Aufgrund klinisch bedeutsamer Unterschiede erfolgt eine Einteilung in:
+>
+> 
+>
+> akute Bronchitis
+>
+> chronische Bronchitis
+>
+> chronisch obstruktive Bronchitis (COPD)Als Tracheobronchitis bezeichnet man eine Entzündung der Luftröhre (Trachea) und der Bronchien.
+>
+> [Wikipedia](https://de.wikipedia.org/wiki/Bronchitis)
+
 Bronchitis
 
 [[40 Hz (E)]]
