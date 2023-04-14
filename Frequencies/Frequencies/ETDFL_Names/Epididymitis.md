@@ -1,4 +1,10 @@
 #Krankheiten/Epididymitis
+> **Epididymitis** oder Nebenhodenentzündung wird die Entzündung des Nebenhodens genannt. Sie entsteht meist durch ein Aufsteigen einer Blasen- oder Prostataentzündung (auch nach transurethraler Manipulation oder als Komplikation einer Vasektomie) über den Samenstrang und kann einseitig oder beidseitig auftreten. Es wird zwischen zwei Typen der Krankheit unterschieden, der akuten und der chronischen Epididymitis.
+>
+> Die häufigsten Erreger sind alle Zystitis-verursachenden Bakterien, aber auch Neisseria gonorrhoeae und Chlamydia trachomatis Vor der Geschlechtsreife sind es meist coliforme Keime. Quelle: Thieme connect, Entzündungen
+>
+> [Wikipedia](https://de.wikipedia.org/wiki/Epididymitis)
+
 Epididymitis
 [[20 Hz (E)]]
 [[120 Hz (E)]]

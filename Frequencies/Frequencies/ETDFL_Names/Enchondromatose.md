@@ -1,4 +1,8 @@
 #Krankheiten/Enchondromatose
+> **Enchondromatose**n sind Syndrome mit zahlreichen Enchondromen. Die häufigste Form ist das Ollier-Syndrom mit einseitig auftretenden Veränderungen. Die Begriffe werden oft auch synonym benutzt.
+>
+> [Wikipedia](https://de.wikipedia.org/wiki/Enchondromatose)
+
 Enchondromatose
 [[150 Hz (E)]]
 [[180 Hz (E)]]

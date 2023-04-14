@@ -1,4 +1,8 @@
 #Krankheiten/Eierstockkrebs
+> Das Ovarialkarzinom oder **Eierstockkrebs** ist eine bösartige Erkrankung der Eierstöcke. Es ist in der westlichen Welt nach dem Endometrium- und dem Zervixkarzinom das dritthäufigste Genitalmalignom der Frau und hat eine schlechtere Prognose als jene.
+>
+> [Wikipedia](https://de.wikipedia.org/wiki/Ovarialkarzinom)
+
 Eierstockkrebs
 [[70 Hz (E)]]
 [[550 Hz (E)]]

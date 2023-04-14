@@ -1,4 +1,8 @@
 #Krankheiten/Enchondrom
+> Ein **Enchondrom** ist ein häufiger, gutartiger und vom Knorpelgewebe abstammender Tumor. Er findet sich meist im 20. bis 40. Lebensjahr im Markraum der langen Röhrenknochen. Multiple Enchondrome finden sich bei verschiedenen Syndromen, wobei hier die Gefahr einer Entartung besteht.
+>
+> [Wikipedia](https://de.wikipedia.org/wiki/Enchondrom)
+
 Enchondrom
 [[60 Hz (E)]]
 [[250 Hz (E)]]

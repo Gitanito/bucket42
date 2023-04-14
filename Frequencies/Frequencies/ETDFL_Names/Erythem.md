@@ -1,4 +1,8 @@
 #Krankheiten/Erythem
+> **Erythem** (Erythema, von altgriechisch ἐρύθημα erýthēma ‚Röte‘, ‚Entzündung‘) ist ein dermatologischer Ausdruck für eine Hautrötung (früher auch Röte genannt) bedingt durch eine Mehrdurchblutung aufgrund einer Gefäßerweiterung, gelegentlich auch aufgrund der Nebenwirkung von Arzneimitteln wie z. B. ACE-Hemmern.
+>
+> [Wikipedia](https://de.wikipedia.org/wiki/Erythem)
+
 Erythem
 [[70 Hz (E)]]
 [[240 Hz (E)]]

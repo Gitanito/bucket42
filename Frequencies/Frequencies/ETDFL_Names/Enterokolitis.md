@@ -1,4 +1,18 @@
 #Krankheiten/Enterokolitis
+> **Enterokolitis** oder Enterocolitis steht für:
+>
+> 
+>
+> Nekrotisierende Enterokolitis
+>
+> Pseudomembranöse Enterokolitis; siehe Antibiotikaassoziierte Kolitis
+>
+> Enterocolitis regionalis; siehe Morbus Crohn
+>
+> Enterokolitis des Kaninchens
+>
+> [Wikipedia](https://de.wikipedia.org/wiki/Enterokolitis)
+
 Enterokolitis
 [[280 Hz (E)]]
 [[750 Hz (E)]]

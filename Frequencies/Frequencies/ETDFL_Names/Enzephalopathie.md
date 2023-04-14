@@ -1,4 +1,8 @@
 #Krankheiten/Enzephalopathie
+> Die **Enzephalopathie** (griechisch ἐγκέφαλος enképhalos, deutsch ‚Gehirn‘, und altgriechisch πάθεια pátheia, deutsch ‚Leiden‘) ist ein Sammelbegriff für krankhafte Zustände des Gehirns unterschiedlicher Ursache und Ausprägung. Gelegentlich bezeichnete man auch Psychosen als Encephalopathien, und hier im Besonderen die Psychose mit oder ohne Koma bei einer Nebenniereninsuffizienz als Encéphalopathie addisonienne.Da strukturelle Läsionen in vielen Fällen ausbleiben, ist eine Reversibilität oft möglich, aber nicht immer gegeben. Der Begriff wird im Allgemeinen nur für Veränderungen verwendet, die das Gehirn als Ganzes und nicht nur einzelne Gehirnabschnitte betreffen. Der Entstehung von Symptomen liegen Dysfunktionen von Nervenzellen (Neuronen) und Gliazellen zugrunde. Sie werden bedingt durch Veränderungen im internen Milieu eines Organismus und einer Beeinträchtigung der zerebralen Homöostase mit der Folge von Störungen von Neurotransmitter- und Membran­funktionen.Langzeitschäden wie kognitive Störungen nach Enzephalopathien lassen sich vermutlich auch auf sekundäre neuroinflammatorische Prozesse beziehen, zum Beispiel nach Sepsis, Verbrennungen oder prolongierten Operationen.
+>
+> [Wikipedia](https://de.wikipedia.org/wiki/Enzephalopathie)
+
 Enzephalopathie
 [[460 Hz (E)]]
 [[950 Hz (E)]]

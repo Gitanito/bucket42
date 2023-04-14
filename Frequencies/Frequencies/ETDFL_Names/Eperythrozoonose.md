@@ -1,4 +1,8 @@
 #Krankheiten/Eperythrozoonose
+> Die **Eperythrozoonose** ist eine Infektionskrankheit von Schweinen, die von der Mykoplasmen-Art Mycoplasma haemosuis (früher Eperythrozoon suis, daher der Name) verursacht wird.
+>
+> [Wikipedia](https://de.wikipedia.org/wiki/Eperythrozoonose%20der%20Schweine)
+
 Eperythrozoonose
 [[190 Hz (E)]]
 [[400 Hz (E)]]

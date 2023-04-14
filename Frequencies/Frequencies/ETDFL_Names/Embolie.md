@@ -1,4 +1,8 @@
 #Krankheiten/Embolie
+> Unter einer **Embolie** [ʔɛmboˈliː] versteht man in der Medizin den teilweisen oder vollständigen plötzlichen Verschluss eines Blutgefäßes durch mit dem Blut eingeschwemmtes Material. Dieser Embolus kann aus körpereigenen und fremden Substanzen wie Fetttropfen, Fruchtwasser, Blutgerinnsel (losgelöster Gefäßpfropf) oder Luftblasen bestehen.
+>
+> [Wikipedia](https://de.wikipedia.org/wiki/Embolie)
+
 Embolie
 [[50 Hz (E)]]
 [[570 Hz (E)]]

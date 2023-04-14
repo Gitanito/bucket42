@@ -1,4 +1,8 @@
 #Krankheiten/Enthesopathie
+> Eine Enthesiopathie (von altgriechisch ἔνθεσις énthesis, deutsch ‚Ansatz‘ und πάθος páthos, deutsch ‚Leiden‘; Syn.: **Enthesopathie**, Enthesitis) ist eine Gruppe von krankhaften Störungen meist gelenknaher Sehnenansatzpunkte.
+>
+> [Wikipedia](https://de.wikipedia.org/wiki/Enthesiopathie)
+
 Enthesopathie
 [[130 Hz (E)]]
 [[230 Hz (E)]]

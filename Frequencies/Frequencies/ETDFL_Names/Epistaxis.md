@@ -1,4 +1,8 @@
 #Krankheiten/Epistaxis
+> Beim Nasenbluten (Fachwort auch **Epistaxis** ἐπί ‚oben‘ σταζω ‚tropfen‘) tritt Blut aus der Nase aus. Es ist in den meisten Fällen nicht gefährlich, kann jedoch in Einzelfällen kaum zu beherrschen oder auch  lebensbedrohlich sein. Gefährliche Blutungen stammen meist aus den hinteren Nasenabschnitten (Arteria sphenopalatina). In über 80 % der Fälle ist das Nasenbluten jedoch einfach durch lokale Gefäßverletzungen der vorderen Nasenscheidewand ausgelöst.
+>
+> [Wikipedia](https://de.wikipedia.org/wiki/Nasenbluten)
+
 Epistaxis
 [[130 Hz (E)]]
 [[230 Hz (E)]]

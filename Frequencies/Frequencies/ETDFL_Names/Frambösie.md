@@ -1,4 +1,8 @@
 #Krankheiten/Frambösie
+> **Frambösie** ist eine in tropischen Regionen auftretende nicht-venerische Infektionskrankheit aus der Gruppe der tropischen Treponematosen, die durch das Bakterium Treponema pertenue  hervorgerufen wird.
+>
+> [Wikipedia](https://de.wikipedia.org/wiki/Framb%C3%B6sie)
+
 Frambösie
 [[570 Hz (E)]]
 [[5000 Hz (E)]]

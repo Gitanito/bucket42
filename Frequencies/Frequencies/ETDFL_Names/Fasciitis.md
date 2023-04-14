@@ -1,4 +1,18 @@
 #Krankheiten/Fasciitis
+> **Fasciitis** steht für folgende Krankheiten:
+>
+> 
+>
+> Nekrotisierende Fasziitis
+>
+> Fasciitis nodularis
+>
+> Plantarfasziitis
+>
+> Eosinophile Fasziitis
+>
+> [Wikipedia](https://de.wikipedia.org/wiki/Fasciitis)
+
 Fasciitis
 [[50 Hz (E)]]
 [[120 Hz (E)]]

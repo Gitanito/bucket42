@@ -1,4 +1,18 @@
 #Krankheiten/Ehrlichiose
+> **Ehrlichiose** steht für
+>
+> 
+>
+> durch Bakterien der Gattung Ehrlichia hervorgerufene Krankheiten:
+>
+> Humane monozytäre Ehrlichiose (HME), ein Krankheitsbild beim Menschen
+>
+> Canine Ehrlichiose, ein Krankheitsbild beim Hund
+>
+> Humane Granulozytäre Ehrlichiose nach früherem Verständnis; nach heutiger Lesart Humane Granulozytäre Anaplasmose (HGA)
+>
+> [Wikipedia](https://de.wikipedia.org/wiki/Ehrlichiose)
+
 Ehrlichiose
 [[80 Hz (E)]]
 [[120 Hz (E)]]

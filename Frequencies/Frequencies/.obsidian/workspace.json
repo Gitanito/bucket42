@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ETDFL_Names/Dystrophia brevicollis Congenita.md",
+                "file": "ETDFL_Names/Pilonidalfistel.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a2bd7ab39d10f469",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programme/Fistel-Warze.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Frequenzen/140Hz",
+                "query": "kein",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,11 +78,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 262.5086555480957
+    "width": 1030.5
   },
   "right": {
     "id": "3eb8f42d2f9006c4",
@@ -85,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ETDFL_Names/Dystrophia brevicollis Congenita.md",
+                "file": "Programme/Fistel-Warze.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ETDFL_Names/Dystrophia brevicollis Congenita.md",
+                "file": "Programme/Fistel-Warze.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ETDFL_Names/Dystrophia brevicollis Congenita.md"
+                "file": "Programme/Fistel-Warze.md"
               }
             }
           },
@@ -155,34 +169,35 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "918ae737a7b12ec5",
+  "active": "fc54787aa5159c7a",
   "lastOpenFiles": [
-    "ETDFL_Names/Dystonie.md",
-    "ETDFL_Names/Dysthymie.md",
-    "ETDFL_Names/Dyspraxia.md",
-    "ETDFL_Names/Dysplasien.md",
-    "ETDFL_Names/Dysphasia.md",
-    "ETDFL_Names/Dysphagie.md",
-    "ETDFL_Names/Dyspepsie.md",
-    "ETDFL_Names/Dyspareunie.md",
-    "ETDFL_Names/Dysostosis craniofacialis.md",
-    "ETDFL_Names/Dysostose.md",
-    "ETDFL_Names/Dysnomia.md",
-    "ETDFL_Names/Dysmyelopoietic Syndromes.md",
-    "ETDFL_Names/Dysmorphophobia.md",
-    "ETDFL_Names/Dysmetrie.md",
-    "ETDFL_Names/Dyslipoproteinämien.md",
-    "ETDFL_Names/Dyslipidämien.md",
-    "ETDFL_Names/Dyskinesie Syndromes.md",
-    "ETDFL_Names/Dyshidrosis.md",
-    "ETDFL_Names/Dysfunktion des Gehirns.md",
-    "ETDFL_Names/Dysenterie.md",
-    "ETDFL_Names/Dysembryoma.md",
-    "ETDFL_Names/Dyscalculia.md",
-    "ETDFL_Names/Dysautonomie.md",
-    "ETDFL_Names/Dupuytren-Kontraktur.md",
-    "ETDFL_Names/Duncan-Syndrom.md",
-    "ETDFL_Names/Duhring.md",
+    "ETDFL_Names/Pilonidalfistel.md",
+    "Programme/Fistel-Warze.md",
+    "Programme",
+    "ETDFL_Freqs/570 Hz (E).md",
+    "ETDFL_Names/Fußdeformitäten.md",
+    "ETDFL_Names/Fuß des Athleten.md",
+    "ETDFL_Names/Fusobacterium Infections.md",
+    "ETDFL_Names/Furunkulose.md",
+    "ETDFL_Names/Furunkel.md",
+    "ETDFL_Names/Fumarylacetoacetase Deficiency.md",
+    "ETDFL_Names/Fuge.md",
+    "ETDFL_Names/Fucosidose.md",
+    "ETDFL_Names/Fucosidase Deficiency Disease.md",
+    "ETDFL_Names/Frostbeulen.md",
+    "ETDFL_Names/Frontotemporal Lobar Degen..md",
+    "ETDFL_Names/Frontal Region Trauma.md",
+    "ETDFL_Names/Frontal Enzephalozele.md",
+    "ETDFL_Names/Frigidität.md",
+    "ETDFL_Names/Friedreich-Ataxie.md",
+    "ETDFL_Names/Friedreich- Disease.md",
+    "ETDFL_Names/Freiberg-Krankheit.md",
+    "ETDFL_Names/Freeman-Sheldon-Syndrom.md",
+    "ETDFL_Names/FRAXA Syndrom.md",
+    "ETDFL_Names/Frambösie.md",
+    "ETDFL_Names/Fragilitas ossium.md",
+    "ETDFL_Names/Fragiles X-Syndrom.md",
+    "ETDFL_Names/Fournier Gangrän.md",
     "Bachblüten",
     "Düfte",
     "Effekte",
@@ -191,7 +206,6 @@
     "Planeten",
     "Substanzen",
     "Chakra",
-    "Farben",
-    "Neuer Ordner"
+    "Farben"
   ]
 }

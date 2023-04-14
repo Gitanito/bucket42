@@ -1,4 +1,8 @@
 #Krankheiten/FollikelstimulierendesHormon
+> Das follikelstimulierende Hormon (FSH), auch Follitropin, ist ein Sexualhormon (Gonadotropin) aus der Gruppe der Glykoproteine, das bei beiden Geschlechtern in bestimmten Zellen des Vorderlappens der Hypophyse (Adenohypophyse) gebildet wird.
+>
+> [Wikipedia](https://de.wikipedia.org/wiki/Follikelstimulierendes%20Hormon)
+
 Follikelstimulierendes Hormon
 [[130 Hz (E)]]
 [[350 Hz (E)]]

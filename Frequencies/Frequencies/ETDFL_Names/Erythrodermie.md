@@ -1,4 +1,10 @@
 #Krankheiten/Erythrodermie
+> Unter **Erythrodermie**, („rote Haut“) versteht man eine Rötung der Haut am gesamten Körper. Diese Erkrankung ist gekennzeichnet durch eine Entzündungsreaktion und Gefäßerweiterung der gesamten Haut. Folge ist ein Flüssigkeits-, Salz- und Eiweißverlust, der zusammen mit Folgeinfektionen lebensbedrohlich werden kann. Durch die Gefäßerweiterung kommt es zu einem Wärmeverlust und gesteigerter Kälteempfindlichkeit. Patienten mit Erythrodermie sind typischerweise sehr warm angezogen.
+>
+> Die Erythrodermie ist keine eigenständige Erkrankung, sondern ein Symptom, dessen Ursache verschiedene Erkrankungen sein können. Nach der Ursache der Hautrötung unterscheidet man zwei Formen der Erythrodermie: Die primäre Erythrodermie tritt beispielsweise bei Mycosis fungoides, Sézary-Syndrom, Alterserythrodermie des Mannes sowie dem Arzneimittelexanthem auf. Die sekundäre Erythrodermie kommt beispielsweise beim atopischen Ekzem und der Schuppenflechte vor.
+>
+> [Wikipedia](https://de.wikipedia.org/wiki/Erythrodermie)
+
 Erythrodermie
 [[30 Hz (E)]]
 [[410 Hz (E)]]

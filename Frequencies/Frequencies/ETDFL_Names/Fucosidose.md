@@ -1,4 +1,8 @@
 #Krankheiten/Fucosidose
+> **Fucosidose**, häufig auch Fukosidose geschrieben oder als α-L-Fucosidase-Mangel bezeichnet, ist eine sehr seltene autosomal-rezessiv vererbte lysosomale Speicherkrankheit aus der Gruppe der Oligosaccharidosen.
+>
+> [Wikipedia](https://de.wikipedia.org/wiki/Fucosidose)
+
 Fucosidose
 [[50 Hz (E)]]
 [[240 Hz (E)]]
