@@ -1,3 +1,4 @@
+#Steine/Turmalin
 > Die **Turmalin**obergruppe (Turmalingruppe, Turmaline) ist eine Gruppe von Mineralen aus der Abteilung der Ringsilikate, die alle den gleichen strukturellen Aufbau haben. Ihre Zusammensetzung gehorcht der allgemeinen Formel:
 >
 > XY3Z6(T6O18)(BO3)3V3W

@@ -1,3 +1,4 @@
+#Krankheiten/MaduraFuß
 Madura Fuß
 [[180 Hz (E)]]
 [[370 Hz (E)]]

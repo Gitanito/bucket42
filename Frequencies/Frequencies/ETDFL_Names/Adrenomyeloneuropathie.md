@@ -1,3 +1,4 @@
+#Krankheiten/Adrenomyeloneuropathie
 Adrenomyeloneuropathie
 [[190 Hz (E)]]
 [[750 Hz (E)]]

@@ -1,3 +1,4 @@
+#Krankheiten/CerebralIschemia
 Cerebral Ischemia
 [[40 Hz (E)]]
 [[20 Hz (E)]]

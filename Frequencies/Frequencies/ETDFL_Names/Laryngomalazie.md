@@ -1,3 +1,4 @@
+#Krankheiten/Laryngomalazie
 Laryngomalazie
 [[190 Hz (E)]]
 [[520 Hz (E)]]

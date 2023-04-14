@@ -1,3 +1,4 @@
+#Krankheiten/Glossopharyngeus
 Glossopharyngeus
 [[70 Hz (E)]]
 [[570 Hz (E)]]

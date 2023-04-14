@@ -1,3 +1,4 @@
+#Krankheiten/Gonadendysgenesien
 Gonadendysgenesien
 [[45000 Hz (E)]]
 [[70 Hz (E)]]

@@ -1,3 +1,4 @@
+#Krankheiten/Ektodermaldysplasie
 Ektodermaldysplasie
 [[130 Hz (E)]]
 [[520 Hz (E)]]

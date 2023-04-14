@@ -1,3 +1,4 @@
+#Krankheiten/LeeresSella-Syndrom
 Leeres Sella-Syndrom
 [[120 Hz (E)]]
 [[9550 Hz (E)]]

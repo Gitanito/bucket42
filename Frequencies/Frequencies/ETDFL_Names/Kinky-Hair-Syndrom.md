@@ -1,3 +1,4 @@
+#Krankheiten/Kinky-Hair-Syndrom
 Kinky-Hair-Syndrom
 [[170 Hz (E)]]
 [[420 Hz (E)]]

@@ -1,3 +1,4 @@
+#Krankheiten/Smith-MagenisSyndrom
 Smith-Magenis Syndrom
 [[950 Hz (E)]]
 [[2250 Hz (E)]]

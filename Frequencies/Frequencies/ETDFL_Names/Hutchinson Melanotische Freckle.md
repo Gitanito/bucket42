@@ -1,3 +1,4 @@
+#Krankheiten/HutchinsonMelanotischeFreckle
 Hutchinson Melanotische Freckle
 [[60 Hz (E)]]
 [[370 Hz (E)]]

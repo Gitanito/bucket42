@@ -1,3 +1,4 @@
+#Krankheiten/AdverseDrugReaction
 Adverse Drug Reaction
 [[200 Hz (E)]]
 [[140 Hz (E)]]

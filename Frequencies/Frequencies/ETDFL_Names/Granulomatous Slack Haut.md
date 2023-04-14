@@ -1,3 +1,4 @@
+#Krankheiten/GranulomatousSlackHaut
 Granulomatous Slack Haut
 [[350 Hz (E)]]
 [[930 Hz (E)]]

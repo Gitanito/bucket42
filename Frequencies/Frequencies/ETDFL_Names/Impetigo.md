@@ -1,3 +1,4 @@
+#Krankheiten/Impetigo
 Impetigo
 [[150 Hz (E)]]
 [[230 Hz (E)]]

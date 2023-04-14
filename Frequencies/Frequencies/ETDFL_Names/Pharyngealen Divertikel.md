@@ -1,3 +1,4 @@
+#Krankheiten/PharyngealenDivertikel
 Pharyngealen Divertikel
 [[230 Hz (E)]]
 [[7500 Hz (E)]]

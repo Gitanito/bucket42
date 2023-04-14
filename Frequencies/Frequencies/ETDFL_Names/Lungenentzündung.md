@@ -1,3 +1,4 @@
+#Krankheiten/Lungenentzündung
 Lungenentzündung
 [[50 Hz (E)]]
 [[350 Hz (E)]]

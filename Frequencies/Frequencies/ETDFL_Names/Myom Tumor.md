@@ -1,3 +1,4 @@
+#Krankheiten/MyomTumor
 Myom Tumor
 [[850 Hz (E)]]
 [[980 Hz (E)]]

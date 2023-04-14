@@ -1,3 +1,4 @@
+#Krankheiten/BlauGummiBlebNaevusS.
 Blau Gummi Bleb Naevus S.
 [[80 Hz (E)]]
 [[240 Hz (E)]]

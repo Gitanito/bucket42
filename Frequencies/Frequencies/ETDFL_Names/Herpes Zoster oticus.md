@@ -1,3 +1,4 @@
+#Krankheiten/HerpesZosteroticus
 Herpes Zoster oticus
 [[120 Hz (E)]]
 [[450 Hz (E)]]

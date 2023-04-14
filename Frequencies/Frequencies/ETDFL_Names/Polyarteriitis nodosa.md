@@ -1,3 +1,4 @@
+#Krankheiten/Polyarteriitisnodosa
 Polyarteriitis nodosa
 [[80 Hz (E)]]
 [[320 Hz (E)]]

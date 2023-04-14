@@ -1,3 +1,4 @@
+#Krankheiten/Vasospasmus
 Vasospasmus
 [[190 Hz (E)]]
 [[260 Hz (E)]]

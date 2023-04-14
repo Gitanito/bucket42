@@ -1,3 +1,4 @@
+#Krankheiten/TransitorischeischämischeAttacke
 Transitorische ischämische Attacke
 [[170 Hz (E)]]
 [[400 Hz (E)]]

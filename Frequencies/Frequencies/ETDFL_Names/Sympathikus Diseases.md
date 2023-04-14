@@ -1,3 +1,4 @@
+#Krankheiten/SympathikusDiseases
 Sympathikus Diseases
 [[50 Hz (E)]]
 [[370 Hz (E)]]

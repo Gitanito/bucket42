@@ -1,3 +1,4 @@
+#Krankheiten/Husten
 Husten
 [[70 Hz (E)]]
 [[240 Hz (E)]]

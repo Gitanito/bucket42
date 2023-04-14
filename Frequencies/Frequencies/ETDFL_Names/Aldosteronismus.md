@@ -1,3 +1,4 @@
+#Krankheiten/Aldosteronismus
 > Hyper**Aldosteronismus** oder Aldosteronismus ist eine Erkrankung, bei der das Steroidhormon Aldosteron im Überfluss gebildet wird, wodurch zu viel Salz (insbesondere Natriumsalz) im Körper zurückgehalten (retiniert) und Kalium vermehrt ausgeschieden wird. Es kann dabei zu Veränderungen des Säuregehalts im Blut sowie zu Muskelschwäche, Muskelkrämpfen und Empfindungsstörungen sowie Herzrhythmusstörungen kommen.
 >
 > Es werden verschiedene Formen unterschieden:

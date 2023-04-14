@@ -1,3 +1,4 @@
+#Planeten/Siderisch
 > **Siderisch** (lateinisch sidus  ‚Stern‘,  ‚Gestirn‘; altgriechisch σίδηρος sideros, deutsch ‚Eisen‘, ‚Stahl‘; daraus Hergestelltes) steht für:
 >
 > den Bezug auf die Fixsterne in der Astronomie

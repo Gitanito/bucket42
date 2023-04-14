@@ -1,3 +1,4 @@
+#Körperteile/Kortex
 > Cortex (lateinisch für ‚Rinde‘, ‚Hülle‘) oder eingedeutscht **Kortex** steht für:
 >
 > Rinde einer Pflanze

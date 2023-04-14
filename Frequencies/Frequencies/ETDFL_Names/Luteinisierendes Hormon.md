@@ -1,3 +1,4 @@
+#Krankheiten/LuteinisierendesHormon
 Luteinisierendes Hormon
 [[130 Hz (E)]]
 [[350 Hz (E)]]

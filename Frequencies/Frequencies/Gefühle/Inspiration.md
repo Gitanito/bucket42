@@ -1,3 +1,4 @@
+#Gefühle/Inspiration
 > Unter **Inspiration** (lateinisch inspiratio ‚Beseelung‘, ‚Einhauchen‘, aus in ‚hinein‘ und spirare ‚hauchen‘, ‚atmen‘; vgl. spiritus ‚Atem‘, ‚Seele‘, ‚Geist‘) versteht man allgemeinsprachlich eine Eingebung, etwa einen unerwarteten Einfall oder einen Ausgangspunkt künstlerischer Kreativität. Begriffsgeschichtlich liegt die Vorstellung zugrunde, dass einerseits Werke von Künstlern, andererseits religiöse Überlieferungen Eingebungen des (nicht notwendig personal verstandenen) Göttlichen seien – eine Vorstellung, die sich sowohl in vorderorientalischen Religionen als auch bei vorsokratischen Philosophen findet und dann eine breite Wirkungsgeschichte entfaltet.
 >
 > [Wikipedia](https://de.wikipedia.org/wiki/Inspiration)

@@ -1,3 +1,4 @@
+#Krankheiten/Chromosom20anormal
 Chromosom 20 anormal
 [[120 Hz (E)]]
 [[230 Hz (E)]]

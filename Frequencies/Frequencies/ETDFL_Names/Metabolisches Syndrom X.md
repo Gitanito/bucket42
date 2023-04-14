@@ -1,3 +1,4 @@
+#Krankheiten/MetabolischesSyndromX
 Metabolisches Syndrom X
 [[110 Hz (E)]]
 [[490 Hz (E)]]

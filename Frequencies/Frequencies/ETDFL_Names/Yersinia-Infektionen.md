@@ -1,3 +1,4 @@
+#Krankheiten/Yersinia-Infektionen
 Yersinia-Infektionen
 [[150 Hz (E)]]
 [[5500 Hz (E)]]

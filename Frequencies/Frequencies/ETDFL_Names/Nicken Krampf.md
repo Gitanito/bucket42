@@ -1,3 +1,4 @@
+#Krankheiten/NickenKrampf
 Nicken Krampf
 [[6000 Hz (E)]]
 [[320 Hz (E)]]

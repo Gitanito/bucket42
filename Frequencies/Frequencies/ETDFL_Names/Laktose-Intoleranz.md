@@ -1,3 +1,4 @@
+#Krankheiten/Laktose-Intoleranz
 Laktose-Intoleranz
 [[130 Hz (E)]]
 [[250 Hz (E)]]

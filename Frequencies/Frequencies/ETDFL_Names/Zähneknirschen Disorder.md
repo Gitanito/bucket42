@@ -1,3 +1,4 @@
+#Krankheiten/ZähneknirschenDisorder
 Zähneknirschen Disorder
 [[80 Hz (E)]]
 [[320 Hz (E)]]

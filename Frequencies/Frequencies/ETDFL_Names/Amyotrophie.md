@@ -1,3 +1,4 @@
+#Krankheiten/Amyotrophie
 Amyotrophie
 [[150 Hz (E)]]
 [[570 Hz (E)]]

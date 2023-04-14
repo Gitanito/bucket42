@@ -1,3 +1,4 @@
+#Gefühle/Stabilisator
 > Ein **Stabilisator** ist:
 >
 > ein Zusatzstoff in der Chemie, siehe Stabilisator (Chemie)

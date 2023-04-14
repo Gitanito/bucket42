@@ -1,3 +1,4 @@
+#Krankheiten/Diphyllobothriasis
 Diphyllobothriasis
 [[20 Hz (E)]]
 [[240 Hz (E)]]

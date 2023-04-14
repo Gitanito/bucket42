@@ -1,3 +1,4 @@
+#Krankheiten/MalignesneuroleptischesSyndrom
 Malignes neuroleptisches Syndrom
 [[80 Hz (E)]]
 [[410 Hz (E)]]

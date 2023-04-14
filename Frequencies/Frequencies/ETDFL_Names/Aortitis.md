@@ -1,3 +1,4 @@
+#Krankheiten/Aortitis
 > Die **Aortitis** ist eine Entzündung der Aorta, d. h. der großen Körperschlagader die vom Herz durch den Brustkorb bis in den Bauchraum führt.
 >
 > Eine Aortitis ist eine seltene Erkrankung.

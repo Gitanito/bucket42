@@ -1,7 +1,7 @@
+#Krankheiten/Chondrosarkom
 > Ein **Chondrosarkom** ist ein maligner Knochentumor, dessen Zellen Knorpelmatrix, jedoch im Gegensatz zum Osteosarkom keine Knochensubstanz (Osteoid) bilden. Anders als das Chondrom weist das Chondrosarkom ein größeres Zellreichtum, Pleomorphie und Kernatypien auf.
 >
 > [Wikipedia](https://de.wikipedia.org/wiki/Chondrosarkom)
-
 Chondrosarkom
 [[80 Hz (E)]]
 [[520 Hz (E)]]

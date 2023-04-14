@@ -1,3 +1,4 @@
+#Krankheiten/Cardiac-SyndromX
 Cardiac-Syndrom X
 [[70 Hz (E)]]
 [[230 Hz (E)]]

@@ -1,3 +1,4 @@
+#Krankheiten/PinWorms
 Pin Worms
 [[70 Hz (E)]]
 [[520 Hz (E)]]

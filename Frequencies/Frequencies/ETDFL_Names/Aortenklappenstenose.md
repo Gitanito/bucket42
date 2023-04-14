@@ -1,3 +1,4 @@
+#Krankheiten/Aortenklappenstenose
 > Die **Aortenklappenstenose**, meistens verkürzt Aortenstenose genannt, ist eine angeborene oder erworbene Einengung des Ausflusstraktes der linken Herzkammer und gehört zu den häufigsten primären Herzklappenerkrankungen.
 >
 > Man unterscheidet:

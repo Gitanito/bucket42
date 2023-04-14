@@ -1,3 +1,4 @@
+#Krankheiten/Foster-Kennedy-Syndrom
 Foster-Kennedy-Syndrom
 [[40 Hz (E)]]
 [[180 Hz (E)]]

@@ -1,3 +1,4 @@
+#Krankheiten/Hypoxie
 Hypoxie
 [[80 Hz (E)]]
 [[850 Hz (E)]]

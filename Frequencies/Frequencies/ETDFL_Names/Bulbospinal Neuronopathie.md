@@ -1,3 +1,4 @@
+#Krankheiten/BulbospinalNeuronopathie
 Bulbospinal Neuronopathie
 [[190 Hz (E)]]
 [[1220 Hz (E)]]

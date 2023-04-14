@@ -1,3 +1,4 @@
+#Krankheiten/AdenohypophysealHyposecretion
 Adenohypophyseal Hyposecretion
 [[130 Hz (E)]]
 [[350 Hz (E)]]

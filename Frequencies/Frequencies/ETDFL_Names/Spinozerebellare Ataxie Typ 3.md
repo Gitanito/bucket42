@@ -1,3 +1,4 @@
+#Krankheiten/SpinozerebellareAtaxieTyp3
 Spinozerebellare Ataxie Typ 3
 [[140 Hz (E)]]
 [[250 Hz (E)]]

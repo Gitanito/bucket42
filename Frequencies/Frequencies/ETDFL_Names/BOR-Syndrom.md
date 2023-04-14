@@ -1,3 +1,4 @@
+#Krankheiten/BOR-Syndrom
 BOR-Syndrom
 [[150 Hz (E)]]
 [[490 Hz (E)]]

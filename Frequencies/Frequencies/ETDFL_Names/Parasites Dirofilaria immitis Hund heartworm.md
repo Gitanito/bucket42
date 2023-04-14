@@ -1,3 +1,4 @@
+#Krankheiten/ParasitesDirofilariaimmitisHundheartworm
 Parasites Dirofilaria immitis Hund heartworm
 [[2500 Hz (E)]]
 [[13930 Hz (E)]]

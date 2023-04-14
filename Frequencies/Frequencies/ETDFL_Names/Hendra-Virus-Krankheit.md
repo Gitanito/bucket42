@@ -1,3 +1,4 @@
+#Krankheiten/Hendra-Virus-Krankheit
 Hendra-Virus-Krankheit
 [[70 Hz (E)]]
 [[330 Hz (E)]]

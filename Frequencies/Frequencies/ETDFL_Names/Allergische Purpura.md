@@ -1,3 +1,4 @@
+#Krankheiten/AllergischePurpura
 Allergische Purpura
 [[130 Hz (E)]]
 [[230 Hz (E)]]

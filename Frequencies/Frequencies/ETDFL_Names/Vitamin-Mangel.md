@@ -1,3 +1,4 @@
+#Krankheiten/Vitamin-Mangel
 Vitamin-Mangel
 [[40 Hz (E)]]
 [[260 Hz (E)]]

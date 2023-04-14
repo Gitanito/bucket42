@@ -1,3 +1,4 @@
+#Krankheiten/EndokrineKrankheiten
 Endokrine Krankheiten
 [[280 Hz (E)]]
 [[620 Hz (E)]]

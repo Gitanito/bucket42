@@ -1,3 +1,4 @@
+#Krankheiten/PseudofolliculitisBarbae
 Pseudofolliculitis Barbae
 [[170 Hz (E)]]
 [[180 Hz (E)]]

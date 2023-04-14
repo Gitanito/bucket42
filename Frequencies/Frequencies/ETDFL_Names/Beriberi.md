@@ -1,3 +1,4 @@
+#Krankheiten/Beriberi
 > **Beriberi** oder auch Beri-Beri, deutsch auch Schafsgang, als japanisches Lehnwort Kakke, ist die Bezeichnung für verschiedene Krankheitsbilder (insbesondere Nervenentzündungen, Ödeme und Herzerweiterung), die auf einen Mangel an Thiamin (Vitamin B1) zurückgeführt werden.
 >
 > Thiamin ist ein Vitamin, das im Körper unter anderem für die Umwandlung von Kohlenhydraten in Energie notwendig ist. Von einem Thiaminmangel oder einer Vitamin-B1-Avitaminose sind vor allem Zellen und Organe mit hohem Glukosestoffwechsel betroffen, beispielsweise Muskelzellen (auch Herzmuskelzellen) und Nervenzellen. Ein Mangel kann zu lebensbedrohlichen Zuständen führen. Diese klingen aber bei rechtzeitiger Behandlung (Zufuhr von Thiamin) in der Regel schnell ab.

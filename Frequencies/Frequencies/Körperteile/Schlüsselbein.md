@@ -1,3 +1,4 @@
+#Körperteile/Schlüsselbein
 > Das **Schlüsselbein** (lateinisch die Clavicula, eingedeutscht auch Klavikula, altgr. κλείς, Genitiv κλειδός [kleidos]) ist einer der drei ursprünglichen Knochen des Schultergürtels bei Reptilien, Vögeln und Säugetieren. Bei Knochenfischen ist das Schlüsselbein als Hautverknöcherung bereits angedeutet, bei heutigen Amphibien fehlt es.
 >
 > [Wikipedia](https://de.wikipedia.org/wiki/Schl%C3%BCsselbein)

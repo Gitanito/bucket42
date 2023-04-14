@@ -1,3 +1,4 @@
+#Substanzen/Nikotin
 > Nicotin, auch **Nikotin**, ist ein pflanzliches Alkaloid, das als cholinerges Nervengift zur Abwehr von Fressfeinden natürlich in den Blättern der Tabakpflanze sowie in geringerer Konzentration auch in anderen Nachtschattengewächsen vorkommt. Nicotin besitzt je nach Dosierung erregende oder lähmende Wirkungen auf Ganglien des vegetativen Nervensystems. Selten werden Nicotinderivate als Nicotinoide bezeichnet; meist sind damit die synthetischen, als Insektizide eingesetzten Neonicotinoide gemeint.
 >
 > Nicotin ist als psychoaktiver Wirkstoff bzw. Rauschmittel von z. B. Zigaretten eine weit verbreitete Volksdroge (siehe Rauchen).

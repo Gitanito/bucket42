@@ -1,3 +1,4 @@
+#Krankheiten/CerebralPseudosklerose
 Cerebral Pseudosklerose
 [[160 Hz (E)]]
 [[550 Hz (E)]]

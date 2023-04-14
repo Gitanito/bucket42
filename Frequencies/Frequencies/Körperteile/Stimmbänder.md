@@ -1,3 +1,4 @@
+#Körperteile/Stimmbänder
 > Die Stimmlippen (auch: Stimmfalten, lateinisch plica vocalis) sind paarige schwingungsfähige Strukturen im Kehlkopf. Sie sind ein wesentlicher Teil des stimmbildenden Apparates (Glottis) des Kehlkopfes, bestehend aus der von Epithel überzogenen Stimmfalte, dem eigentlichen Stimmband (Ligamentum vocale), dem Musculus vocalis und den Aryknorpeln jeweils beider Seiten. Die Stimmlippen werden beidseits bei der Phonation (Stimmgebung) durch Anblasen aus dem Brustkorb in Schwingungen versetzt (Bernoulli-Effekt) und bilden so den Primärschall der Stimme.
 >
 > [Wikipedia](https://de.wikipedia.org/wiki/Stimmlippe)

@@ -1,3 +1,4 @@
+#Krankheiten/Dermatomykosen
 Dermatomykosen
 [[20 Hz (E)]]
 [[750 Hz (E)]]

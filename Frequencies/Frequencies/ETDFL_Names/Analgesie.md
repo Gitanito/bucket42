@@ -1,3 +1,4 @@
+#Krankheiten/Analgesie
 Analgesie
 [[40 Hz (E)]]
 [[570 Hz (E)]]

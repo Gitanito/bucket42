@@ -1,3 +1,4 @@
+#Krankheiten/DiabetesJuvenile-Onset
 Diabetes Juvenile-Onset
 [[150 Hz (E)]]
 [[890 Hz (E)]]

@@ -1,3 +1,4 @@
+#Körperteile/Immunität
 > **Immunität**, teils auch als Vorgang Immunisierung, (Adjektiv: immun) steht für:
 >
 > die Unempfindlichkeit eines Organismus gegen Antigene, Krankheitserreger und Gifte, siehe Immunität (Medizin)

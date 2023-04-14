@@ -1,3 +1,4 @@
+#Substanzen/Marihuana
 > **Marihuana** (umgangssprachlich auch Gras, Weed, Pot, Ganja oder Mary Jane) bezeichnet die getrockneten, harzhaltigen Blüten und die blütennahen, kleinen Blätter der weiblichen Hanfpflanze (Cannabis).Marihuana und Haschisch sind beides Cannabisprodukte; Haschisch besteht jedoch meist aus dem gepressten Harz der weiterverarbeiteten Pflanzenteile.
 >
 > [Wikipedia](https://de.wikipedia.org/wiki/Marihuana)

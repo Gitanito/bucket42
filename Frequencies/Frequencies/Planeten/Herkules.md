@@ -1,3 +1,4 @@
+#Planeten/Herkules
 > **Herkules** oder Hercules steht für:
 >
 > Herakles (lateinisch Hercules), griechischer Heros

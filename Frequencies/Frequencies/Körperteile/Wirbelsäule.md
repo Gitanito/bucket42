@@ -1,3 +1,4 @@
+#Körperteile/Wirbelsäule
 > Die **Wirbelsäule**, anatomisch Columna vertebralis genannt, ist in ihrer Gesamtheit das zentrale tragende Konstruktionselement der Wirbeltiere. Sie bildet die knöcherne Mitte des Körpers und umhüllt das im Wirbelkanal liegende Rückenmark. Sie ist über das erste Kopfgelenk mit dem Schädel und über das Iliosakralgelenk mit dem Becken verbunden.
 >
 > Beim Menschen besteht die Wirbelsäule aus 24 freien Wirbeln, die über 23 Bandscheiben beweglich verbunden sind, sowie 8 bis 10 Wirbeln, die zu Kreuz- und Steißbein verwachsen sind. Da sie fast das gesamte Körpergewicht tragen und auf die Beine verteilen muss, ist die Wirbelsäule unten (kaudal) dicker als oben (kranial). Ihre mehrfache Biegung (Doppel-S-Form) dient der Dämpfung von Stößen.

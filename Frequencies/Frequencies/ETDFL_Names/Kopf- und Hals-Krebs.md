@@ -1,3 +1,4 @@
+#Krankheiten/Kopf-undHals-Krebs
 Kopf- und Hals-Krebs
 [[100 Hz (E)]]
 [[520 Hz (E)]]

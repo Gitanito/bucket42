@@ -1,13 +1,9 @@
+#Krankheiten/Cysten
 > Zyste (früher auch Cyste, älter Kyste; von altgriechisch κύστις kýstis, deutsch ‚Blase‘) steht für:
 >
-> 
->
 > Zyste (Biologie), kapselartige Hüllen in der Biologie, Dauerform bestimmter Einzeller
->
 > Zyste (Medizin), Hohlraumbildungen in der MedizinSiehe auch:
->
 > [Wikipedia](https://de.wikipedia.org/wiki/Zyste)
-
 Cysten
 [[170 Hz (E)]]
 [[180 Hz (E)]]

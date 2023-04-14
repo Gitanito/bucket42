@@ -1,3 +1,4 @@
+#Krankheiten/SpinaleMuskelatrophienderKindheit
 Spinale Muskelatrophien der Kindheit
 [[180 Hz (E)]]
 [[320 Hz (E)]]

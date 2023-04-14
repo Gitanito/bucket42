@@ -1,3 +1,4 @@
+#Gefühle/Sicherheit
 > **Sicherheit** bezeichnet allgemein den Zustand, der für Individuen, Gemeinschaften sowie andere Lebewesen, Objekte und Systeme frei von unvertretbaren Risiken ist oder als gefahrenfrei angesehen wird.
 >
 > Für Individuen und Gemeinschaften bezeichnet Sicherheit den Zustand des Nicht-bedroht-Seins der Freiheit ihrer ungestörten Eigenentwicklung in zweierlei Hinsicht:

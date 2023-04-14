@@ -1,3 +1,4 @@
+#Krankheiten/Pruritus
 Pruritus
 [[60 Hz (E)]]
 [[490 Hz (E)]]

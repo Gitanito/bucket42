@@ -1,3 +1,4 @@
+#Krankheiten/ParasitenSpulwürmern
 Parasiten Spulwürmern
 [[60 Hz (E)]]
 [[520 Hz (E)]]

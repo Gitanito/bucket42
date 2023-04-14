@@ -1,3 +1,4 @@
+#Krankheiten/QuadriplegicInfantileZerebralparese
 Quadriplegic Infantile Zerebralparese
 [[60 Hz (E)]]
 [[320 Hz (E)]]

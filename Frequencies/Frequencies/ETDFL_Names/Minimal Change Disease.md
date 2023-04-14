@@ -1,3 +1,4 @@
+#Krankheiten/MinimalChangeDisease
 Minimal Change Disease
 [[130 Hz (E)]]
 [[240 Hz (E)]]

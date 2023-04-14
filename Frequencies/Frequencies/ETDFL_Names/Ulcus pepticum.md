@@ -1,3 +1,4 @@
+#Krankheiten/Ulcuspepticum
 Ulcus pepticum
 [[130 Hz (E)]]
 [[490 Hz (E)]]

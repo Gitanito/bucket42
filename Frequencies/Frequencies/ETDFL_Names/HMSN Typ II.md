@@ -1,3 +1,4 @@
+#Krankheiten/HMSNTypII
 HMSN Typ II
 [[190 Hz (E)]]
 [[2080 Hz (E)]]

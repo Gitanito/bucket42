@@ -1,3 +1,4 @@
+#Krankheiten/ParasitenBandwürmerechinococcinum
 Parasiten Bandwürmer echinococcinum
 [[250 Hz (E)]]
 [[680 Hz (E)]]

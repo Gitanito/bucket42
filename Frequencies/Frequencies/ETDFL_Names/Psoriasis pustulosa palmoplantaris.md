@@ -1,3 +1,4 @@
+#Krankheiten/Psoriasispustulosapalmoplantaris
 Psoriasis pustulosa palmoplantaris
 [[50 Hz (E)]]
 [[550 Hz (E)]]

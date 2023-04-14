@@ -1,3 +1,4 @@
+#Körperteile/Atmung
 > **Atmung** oder Respiration (lateinisch respiratio) bezeichnet in der Biologie und Physiologie:
 >
 > als innere Atmung oder Zellatmung: enzymatisch katalysierte Stoffwechselvorgänge der Energiegewinnung in der Zelle, bei denen gewöhnlich Sauerstoff verbraucht und Kohlendioxid erzeugt wird;

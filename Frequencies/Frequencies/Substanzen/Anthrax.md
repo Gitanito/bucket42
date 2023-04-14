@@ -1,3 +1,4 @@
+#Substanzen/Anthrax
 > **Anthrax** (griechisch ἄνθραξ anthrax „Kohle“) bezeichnet:
 >
 > Milzbrand, eine Infektionskrankheit

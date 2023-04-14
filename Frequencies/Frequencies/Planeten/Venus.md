@@ -1,3 +1,4 @@
+#Planeten/Venus
 > **Venus** steht für:
 >
 > Venus (Mythologie), römische Göttin der erotischen Liebe und der Schönheit

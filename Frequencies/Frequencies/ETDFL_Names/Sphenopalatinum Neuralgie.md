@@ -1,3 +1,4 @@
+#Krankheiten/SphenopalatinumNeuralgie
 Sphenopalatinum Neuralgie
 [[600 Hz (E)]]
 [[870 Hz (E)]]

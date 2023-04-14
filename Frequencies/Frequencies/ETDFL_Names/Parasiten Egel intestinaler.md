@@ -1,3 +1,4 @@
+#Krankheiten/ParasitenEgelintestinaler
 Parasiten Egel intestinaler
 [[70 Hz (E)]]
 [[320 Hz (E)]]

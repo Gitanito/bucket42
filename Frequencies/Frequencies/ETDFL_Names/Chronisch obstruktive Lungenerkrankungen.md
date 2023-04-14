@@ -1,3 +1,4 @@
+#Krankheiten/ChronischobstruktiveLungenerkrankungen
 Chronisch obstruktive Lungenerkrankungen
 [[370 Hz (E)]]
 [[410 Hz (E)]]

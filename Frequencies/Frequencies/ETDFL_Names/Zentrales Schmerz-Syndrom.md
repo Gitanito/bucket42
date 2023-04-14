@@ -1,3 +1,4 @@
+#Krankheiten/ZentralesSchmerz-Syndrom
 Zentrales Schmerz-Syndrom
 [[20 Hz (E)]]
 [[220 Hz (E)]]

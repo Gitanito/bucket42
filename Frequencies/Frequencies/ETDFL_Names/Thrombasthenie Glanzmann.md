@@ -1,3 +1,4 @@
+#Krankheiten/ThrombasthenieGlanzmann
 Thrombasthenie Glanzmann
 [[100 Hz (E)]]
 [[520 Hz (E)]]

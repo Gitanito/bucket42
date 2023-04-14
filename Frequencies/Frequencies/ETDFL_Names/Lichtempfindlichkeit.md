@@ -1,3 +1,4 @@
+#Krankheiten/Lichtempfindlichkeit
 Lichtempfindlichkeit
 [[500 Hz (E)]]
 [[570 Hz (E)]]

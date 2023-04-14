@@ -1,3 +1,4 @@
+#Krankheiten/MitochondrialeMyopathie
 Mitochondriale Myopathie
 [[160 Hz (E)]]
 [[350 Hz (E)]]

@@ -1,3 +1,4 @@
+#Krankheiten/Hirnblutung
 Hirnblutung
 [[40 Hz (E)]]
 [[550 Hz (E)]]

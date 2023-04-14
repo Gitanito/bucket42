@@ -1,3 +1,4 @@
+#Krankheiten/Hughe-Syndrom
 Hughe-Syndrom
 [[50 Hz (E)]]
 [[730 Hz (E)]]

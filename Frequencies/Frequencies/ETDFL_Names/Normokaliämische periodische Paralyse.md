@@ -1,3 +1,4 @@
+#Krankheiten/NormokaliämischeperiodischeParalyse
 Normokaliämische periodische Paralyse
 [[50 Hz (E)]]
 [[120 Hz (E)]]

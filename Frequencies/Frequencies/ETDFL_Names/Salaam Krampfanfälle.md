@@ -1,3 +1,4 @@
+#Krankheiten/SalaamKrampfanfälle
 Salaam Krampfanfälle
 [[6000 Hz (E)]]
 [[320 Hz (E)]]

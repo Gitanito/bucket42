@@ -1,3 +1,4 @@
+#Krankheiten/Aminosäure-Transportstörung
 Aminosäure-Transportstörung
 [[160 Hz (E)]]
 [[550 Hz (E)]]

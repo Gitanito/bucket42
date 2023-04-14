@@ -1,3 +1,4 @@
+#Krankheiten/Sneddon-Syndrom
 Sneddon-Syndrom
 [[40 Hz (E)]]
 [[350 Hz (E)]]

@@ -1,3 +1,4 @@
+#Krankheiten/Chondromalazie
 Chondromalazie
 [[60 Hz (E)]]
 [[520 Hz (E)]]

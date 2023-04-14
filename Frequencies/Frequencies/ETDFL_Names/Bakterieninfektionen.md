@@ -1,3 +1,4 @@
+#Krankheiten/Bakterieninfektionen
 Bakterieninfektionen
 [[150 Hz (E)]]
 [[9230 Hz (E)]]

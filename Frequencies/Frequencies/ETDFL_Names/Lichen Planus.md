@@ -1,3 +1,4 @@
+#Krankheiten/LichenPlanus
 Lichen Planus
 [[50 Hz (E)]]
 [[490 Hz (E)]]

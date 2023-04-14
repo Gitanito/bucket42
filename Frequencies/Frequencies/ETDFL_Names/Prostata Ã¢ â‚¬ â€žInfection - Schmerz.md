@@ -1,3 +1,4 @@
+#Krankheiten/ProstataÃ¢â‚¬â€žInfection-Schmerz
 Prostata Ã¢ â‚¬ â€žInfection - Schmerz
 [[830 Hz (E)]]
 [[1870 Hz (E)]]

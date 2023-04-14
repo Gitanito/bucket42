@@ -1,3 +1,4 @@
+#Krankheiten/Peutz-Jeghers-Syndrom
 Peutz-Jeghers-Syndrom
 [[140 Hz (E)]]
 [[550 Hz (E)]]

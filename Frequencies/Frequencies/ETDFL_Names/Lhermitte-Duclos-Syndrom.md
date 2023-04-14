@@ -1,3 +1,4 @@
+#Krankheiten/Lhermitte-Duclos-Syndrom
 Lhermitte-Duclos-Syndrom
 [[60 Hz (E)]]
 [[260 Hz (E)]]

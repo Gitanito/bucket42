@@ -1,3 +1,4 @@
+#Krankheiten/Parkinson-Syndrom
 Parkinson-Syndrom
 [[570 Hz (E)]]
 [[780 Hz (E)]]

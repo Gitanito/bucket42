@@ -1,3 +1,4 @@
+#Krankheiten/ParasitesTroglodytellaabrassari0_68
 Parasites Troglodytella abrassari 0,68
 [[900 Hz (E)]]
 [[2500 Hz (E)]]

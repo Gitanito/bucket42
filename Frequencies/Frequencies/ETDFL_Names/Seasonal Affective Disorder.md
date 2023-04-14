@@ -1,3 +1,4 @@
+#Krankheiten/SeasonalAffectiveDisorder
 Seasonal Affective Disorder
 [[130 Hz (E)]]
 [[220 Hz (E)]]

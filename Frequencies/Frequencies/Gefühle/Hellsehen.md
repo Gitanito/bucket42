@@ -1,3 +1,4 @@
+#Gefühle/Hellsehen
 > Außersinnliche Wahrnehmungen (Abkürzung ASW; englisch extrasensory perception, Abkürzung ESP) ist ein Sammelbegriff für eine hypothetische Art von Wahrnehmungen, die nicht durch bekannte sinnliche Erfahrungen oder Wissensquellen erklärbar sind. Es gibt keine wissenschaftlich bestätigten Nachweise für solche Wahrnehmungen.
 >
 > Die Wissenschaftsgemeinde lehnt ASW überwiegend ab. Gründe hierfür sind der Mangel einer evidenzbasierenden Faktenbasis und der Mangel einer Theorie, die ASW erklären könnte.

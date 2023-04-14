@@ -1,3 +1,4 @@
+#Gefühle/Geheimnis
 > Ein **Geheimnis** ist eine Tatsache, die nur einer Person oder einer beschränkten Zahl von Personen bekannt ist. Es soll einer anderen Person bzw. Personengruppe nicht bekannt werden. Die entsprechende Information wird häufig absichtlich in einem kleinen Kreis Eingeweihter gehalten. Sie kann durch äußere Umstände auch vollkommen verloren gehen.
 >
 > Im politischen Bereich wird für den Begriff auch das Fremdwort klandestin (ursprünglich von lateinisch clandestinus ‚heimlich‘, ‚geheim‘) verwendet. Als Gegenbegriffe gelten Öffentlichkeit, Transparenz und Informationsfreiheit.

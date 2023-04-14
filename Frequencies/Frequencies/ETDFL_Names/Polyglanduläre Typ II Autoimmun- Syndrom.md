@@ -1,3 +1,4 @@
+#Krankheiten/PolyglanduläreTypIIAutoimmun-Syndrom
 Polyglanduläre Typ II Autoimmun- Syndrom
 [[50 Hz (E)]]
 [[260 Hz (E)]]

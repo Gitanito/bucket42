@@ -1,3 +1,4 @@
+#Krankheiten/Samter-Syndrom
 Samter-Syndrom
 [[180 Hz (E)]]
 [[570 Hz (E)]]

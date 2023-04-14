@@ -1,3 +1,4 @@
+#Krankheiten/Hailey-Hailey-Krankheit
 Hailey-Hailey-Krankheit
 [[190 Hz (E)]]
 [[570 Hz (E)]]

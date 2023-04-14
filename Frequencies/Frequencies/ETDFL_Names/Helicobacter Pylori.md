@@ -1,3 +1,4 @@
+#Krankheiten/HelicobacterPylori
 Helicobacter Pylori
 [[250 Hz (E)]]
 [[850 Hz (E)]]

@@ -1,3 +1,4 @@
+#Krankheiten/HSANTypI
 HSAN Typ I
 [[390 Hz (E)]]
 [[700 Hz (E)]]

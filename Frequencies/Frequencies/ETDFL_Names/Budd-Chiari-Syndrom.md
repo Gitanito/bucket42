@@ -1,3 +1,4 @@
+#Krankheiten/Budd-Chiari-Syndrom
 > Als **Budd-Chiari-Syndrom** (BCS) bezeichnet man eine seltene Erkrankung der Leber, bei der es zu einem vollständigen oder unvollständigen Verschluss der abführenden Blutgefäße der Leber kommt.
 >
 > Der Verschluss der Lebervenen betrifft bei dem klassischen Budd-Chiari-Syndrom bevorzugt die großen Lebervenen und wird heute von Erkrankungen, die die Verstopfung der kleinen Lebervenen betreffen, abgegrenzt.

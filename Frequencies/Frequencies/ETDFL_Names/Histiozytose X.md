@@ -1,3 +1,4 @@
+#Krankheiten/HistiozytoseX
 Histiozytose X
 [[140 Hz (E)]]
 [[320 Hz (E)]]

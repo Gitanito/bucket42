@@ -1,3 +1,4 @@
+#Krankheiten/HMSNTypVII
 HMSN Typ VII
 [[40 Hz (E)]]
 [[410 Hz (E)]]

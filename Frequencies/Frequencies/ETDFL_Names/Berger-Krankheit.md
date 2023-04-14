@@ -1,3 +1,4 @@
+#Krankheiten/Berger-Krankheit
 Berger-Krankheit
 [[150 Hz (E)]]
 [[240 Hz (E)]]

@@ -1,3 +1,4 @@
+#Krankheiten/Trichotillomanie
 Trichotillomanie
 [[240 Hz (E)]]
 [[750 Hz (E)]]

@@ -1,3 +1,4 @@
+#Krankheiten/Amyloidose
 Amyloidose
 [[60 Hz (E)]]
 [[10830 Hz (E)]]

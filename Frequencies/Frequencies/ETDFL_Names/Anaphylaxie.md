@@ -1,3 +1,4 @@
+#Krankheiten/Anaphylaxie
 Anaphylaxie
 [[140 Hz (E)]]
 [[750 Hz (E)]]

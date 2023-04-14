@@ -1,3 +1,4 @@
+#Krankheiten/Gelenkerkrankungen
 Gelenkerkrankungen
 [[110 Hz (E)]]
 [[240 Hz (E)]]

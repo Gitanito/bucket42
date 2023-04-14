@@ -1,3 +1,4 @@
+#Krankheiten/Lymphogranulomavenereum0.02
 Lymphogranuloma venereum 0.02
 [[120 Hz (E)]]
 [[950 Hz (E)]]

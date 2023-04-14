@@ -1,3 +1,4 @@
+#Krankheiten/MitochondrialenErkrankungen
 Mitochondrialen Erkrankungen
 [[160 Hz (E)]]
 [[350 Hz (E)]]

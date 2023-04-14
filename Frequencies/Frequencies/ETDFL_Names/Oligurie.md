@@ -1,3 +1,4 @@
+#Krankheiten/Oligurie
 Oligurie
 [[170 Hz (E)]]
 [[350 Hz (E)]]

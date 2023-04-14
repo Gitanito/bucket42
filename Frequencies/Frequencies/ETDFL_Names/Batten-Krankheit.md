@@ -1,3 +1,4 @@
+#Krankheiten/Batten-Krankheit
 > Die neuronalen Ceroid-Lipofuszinosen (NCL), veraltet als Amaurotische Idiotie bezeichnet, sind eine Gruppe seltener, vererbter und bislang noch unheilbarer Stoffwechselkrankheiten, die in unterschiedlichen Formen und Altersstufen auftreten können. Sie gehören zu den lysosomalen Speicherkrankheiten. Umgangssprachlich wird NCL als Kinderdemenz bezeichnet.
 >
 > Die Bezeichnung Neuronale Ceroid-Lipofuszinose (NCL) leitet sich ab von:

@@ -1,3 +1,4 @@
+#Krankheiten/SevereAcuteRespiratorySyndrome
 Severe Acute Respiratory Syndrome
 [[60 Hz (E)]]
 [[520 Hz (E)]]

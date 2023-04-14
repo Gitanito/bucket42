@@ -1,3 +1,4 @@
+#Krankheiten/Bilharziasis
 Bilharziasis
 [[130 Hz (E)]]
 [[230 Hz (E)]]

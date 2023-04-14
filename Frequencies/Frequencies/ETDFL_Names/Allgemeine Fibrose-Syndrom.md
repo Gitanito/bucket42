@@ -1,3 +1,4 @@
+#Krankheiten/AllgemeineFibrose-Syndrom
 Allgemeine Fibrose-Syndrom
 [[80 Hz (E)]]
 [[550 Hz (E)]]

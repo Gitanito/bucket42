@@ -1,3 +1,4 @@
+#Substanzen/Derivate
 > Derivat (‚Abkömmling‘, von lateinisch derivare  ‚ableiten‘) steht für:
 >
 > Aero-Derivativ, eine von einem Luftfahrt-Strahltriebwerk abgeleitete Gasturbine

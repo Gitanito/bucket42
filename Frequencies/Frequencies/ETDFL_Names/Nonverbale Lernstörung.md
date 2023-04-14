@@ -1,3 +1,4 @@
+#Krankheiten/NonverbaleLernstörung
 Nonverbale Lernstörung
 [[140 Hz (E)]]
 [[570 Hz (E)]]

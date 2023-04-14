@@ -1,3 +1,4 @@
+#Krankheiten/IschämischeHerzerkrankung
 Ischämische Herzerkrankung
 [[80 Hz (E)]]
 [[350 Hz (E)]]

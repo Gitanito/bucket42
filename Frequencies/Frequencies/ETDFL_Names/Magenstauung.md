@@ -1,3 +1,4 @@
+#Krankheiten/Magenstauung
 Magenstauung
 [[170 Hz (E)]]
 [[520 Hz (E)]]

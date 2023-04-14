@@ -1,3 +1,4 @@
+#Krankheiten/Bedsore
 Bedsore
 [[180 Hz (E)]]
 [[620 Hz (E)]]

@@ -1,3 +1,4 @@
+#Krankheiten/AnsteckendePustulardermatitis
 > Orf (Ecthyma contagiosum, **Ansteckende Pustulardermatitis**, Lippengrind der kleinen Wiederkäuer, Maul- und Fußgrind, Dermatitis pustulosa oder Peristomatitis pustulosa contagiosa ovina) ist eine Hautkrankheit und Allgemeininfektion der Schafe, Ziegen, Gämsen, Rentiere und Moschusochsen und wird durch das Orf-Virus (Parapoxvirus ovis), das zur Gattung Parapoxvirus (PPV) aus der Familie Poxviridae gehört, verursacht.
 >
 > [Wikipedia](https://de.wikipedia.org/wiki/Orf%20(Krankheit))

@@ -1,3 +1,4 @@
+#Krankheiten/HypertrophiedesrechtenVentrikels
 Hypertrophie des rechten Ventrikels
 [[120 Hz (E)]]
 [[570 Hz (E)]]

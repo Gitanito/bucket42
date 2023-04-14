@@ -1,3 +1,4 @@
+#Krankheiten/SensoryAgnosie
 Sensory Agnosie
 [[120 Hz (E)]]
 [[5620 Hz (E)]]

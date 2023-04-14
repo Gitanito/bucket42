@@ -1,3 +1,4 @@
+#Krankheiten/Tetraplegie
 Tetraplegie
 [[150 Hz (E)]]
 [[460 Hz (E)]]

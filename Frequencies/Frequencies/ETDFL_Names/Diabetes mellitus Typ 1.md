@@ -1,3 +1,4 @@
+#Krankheiten/DiabetesmellitusTyp1
 Diabetes mellitus Typ 1
 [[150 Hz (E)]]
 [[890 Hz (E)]]

@@ -1,3 +1,4 @@
+#Krankheiten/Urticaria
 Urticaria
 [[70 Hz (E)]]
 [[490 Hz (E)]]

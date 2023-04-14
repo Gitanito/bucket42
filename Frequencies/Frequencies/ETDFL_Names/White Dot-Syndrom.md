@@ -1,3 +1,4 @@
+#Krankheiten/WhiteDot-Syndrom
 White Dot-Syndrom
 [[120 Hz (E)]]
 [[490 Hz (E)]]

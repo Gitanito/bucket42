@@ -1,3 +1,4 @@
+#Krankheiten/Osteoarthrose
 Osteoarthrose
 [[60 Hz (E)]]
 [[410 Hz (E)]]

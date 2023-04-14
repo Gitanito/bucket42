@@ -1,3 +1,4 @@
+#Krankheiten/ParasitenProsthogonimusmacrorchis(Eier)0_68
 Parasiten Prosthogonimus macrorchis (Eier) 0,68
 [[900 Hz (E)]]
 [[2500 Hz (E)]]

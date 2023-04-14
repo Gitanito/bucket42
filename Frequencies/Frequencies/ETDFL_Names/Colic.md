@@ -1,15 +1,10 @@
+#Krankheiten/Colic
 > Čolić ist der Familienname folgender Personen:
 >
-> 
->
 > Benjamin Čolić (* 1991), bosnischer Fußballspieler
->
 > Daniela Čolić-Prizmić (* 1966), kroatische Film-, Fernseh- und Theaterschauspielerin
->
 > Zdravko Čolić (* 1951), serbischer Sänger und Produzent
->
 > [Wikipedia](https://de.wikipedia.org/wiki/%C4%8Coli%C4%87)
-
 Colic
 [[130 Hz (E)]]
 [[230 Hz (E)]]

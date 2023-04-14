@@ -1,3 +1,4 @@
+#Krankheiten/TonsillenKrebs
 Tonsillen Krebs
 [[80 Hz (E)]]
 [[120 Hz (E)]]

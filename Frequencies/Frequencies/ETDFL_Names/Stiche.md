@@ -1,3 +1,4 @@
+#Krankheiten/Stiche
 Stiche
 [[30 Hz (E)]]
 [[550 Hz (E)]]

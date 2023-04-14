@@ -1,3 +1,4 @@
+#Krankheiten/DiabetischeKetoazidose
 Diabetische Ketoazidose
 [[160 Hz (E)]]
 [[410 Hz (E)]]

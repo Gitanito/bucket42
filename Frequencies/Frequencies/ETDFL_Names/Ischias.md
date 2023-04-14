@@ -1,3 +1,4 @@
+#Krankheiten/Ischias
 Ischias
 [[190 Hz (E)]]
 [[500 Hz (E)]]

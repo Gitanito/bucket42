@@ -1,3 +1,4 @@
+#Krankheiten/Pleuraerguss
 Pleuraerguss
 [[170 Hz (E)]]
 [[310 Hz (E)]]

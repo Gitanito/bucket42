@@ -1,3 +1,4 @@
+#Krankheiten/IschämischeEnzephalopathie
 Ischämische Enzephalopathie
 [[40 Hz (E)]]
 [[20 Hz (E)]]

@@ -1,3 +1,4 @@
+#Krankheiten/ShortBowelSyndrom
 Short Bowel Syndrom
 [[180 Hz (E)]]
 [[300 Hz (E)]]

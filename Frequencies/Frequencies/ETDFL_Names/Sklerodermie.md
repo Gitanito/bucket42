@@ -1,3 +1,4 @@
+#Krankheiten/Sklerodermie
 Sklerodermie
 [[20 Hz (E)]]
 [[320 Hz (E)]]

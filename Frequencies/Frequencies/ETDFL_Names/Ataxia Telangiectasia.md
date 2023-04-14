@@ -1,3 +1,4 @@
+#Krankheiten/AtaxiaTelangiectasia
 Ataxia Telangiectasia
 [[130 Hz (E)]]
 [[650 Hz (E)]]

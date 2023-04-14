@@ -1,3 +1,4 @@
+#Krankheiten/Alkalose
 > Eine **Alkalose** ist eine Störung des Säure-Basen-Haushaltes bei Menschen und Tieren, die ein Ansteigen des pH-Werts im Blut bewirkt. Das heißt, dass das Blut stärker basisch ist. Liegt der pH-Wert im Blut über 7,45 spricht man von einer Alkalose. Der Normalwert liegt bei pH 7,35 bis 7,45. Unter diesem Grenzwert spricht man von einer Azidose.
 >
 > [Wikipedia](https://de.wikipedia.org/wiki/Alkalose)

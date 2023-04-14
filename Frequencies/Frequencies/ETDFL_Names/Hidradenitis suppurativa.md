@@ -1,3 +1,4 @@
+#Krankheiten/Hidradenitissuppurativa
 Hidradenitis suppurativa
 [[150 Hz (E)]]
 [[9230 Hz (E)]]

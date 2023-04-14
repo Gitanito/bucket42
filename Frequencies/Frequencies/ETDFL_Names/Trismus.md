@@ -1,3 +1,4 @@
+#Krankheiten/Trismus
 Trismus
 [[60 Hz (E)]]
 [[320 Hz (E)]]

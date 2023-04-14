@@ -1,3 +1,4 @@
+#Krankheiten/Laryngostenose
 Laryngostenose
 [[200 Hz (E)]]
 [[250 Hz (E)]]

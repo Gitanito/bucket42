@@ -1,3 +1,4 @@
+#Krankheiten/IIHSANTyp
 II HSAN Typ
 [[340 Hz (E)]]
 [[620 Hz (E)]]

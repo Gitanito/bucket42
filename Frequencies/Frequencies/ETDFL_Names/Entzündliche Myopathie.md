@@ -1,3 +1,4 @@
+#Krankheiten/EntzündlicheMyopathie
 Entzündliche Myopathie
 [[70 Hz (E)]]
 [[330 Hz (E)]]

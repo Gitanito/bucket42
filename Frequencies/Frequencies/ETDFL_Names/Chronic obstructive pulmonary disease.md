@@ -1,3 +1,4 @@
+#Krankheiten/Chronicobstructivepulmonarydisease
 Chronic obstructive pulmonary disease
 [[370 Hz (E)]]
 [[410 Hz (E)]]

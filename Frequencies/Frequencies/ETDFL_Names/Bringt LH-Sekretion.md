@@ -1,3 +1,4 @@
+#Krankheiten/BringtLH-Sekretion
 Bringt LH-Sekretion
 [[130 Hz (E)]]
 [[350 Hz (E)]]

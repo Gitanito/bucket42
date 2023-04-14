@@ -1,3 +1,4 @@
+#Krankheiten/Gesichtsschmerzsyndrome
 Gesichtsschmerzsyndrome
 [[600 Hz (E)]]
 [[870 Hz (E)]]

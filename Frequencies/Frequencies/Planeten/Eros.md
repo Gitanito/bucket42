@@ -1,3 +1,4 @@
+#Planeten/Eros
 > **Eros** bezeichnet:
 >
 > Eros (Mythologie), den griechischen Gott der Liebe; davon direkt abgeleitet

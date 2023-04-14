@@ -1,3 +1,4 @@
+#Krankheiten/Dyshidrosis
 Dyshidrosis
 [[80 Hz (E)]]
 [[410 Hz (E)]]

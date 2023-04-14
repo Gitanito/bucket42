@@ -1,3 +1,4 @@
+#Krankheiten/ParasitesHerzwürmer
 Parasites Herzwürmer
 [[130 Hz (E)]]
 [[220 Hz (E)]]

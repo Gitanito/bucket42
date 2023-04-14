@@ -1,3 +1,4 @@
+#Krankheiten/West-Syndrom
 West-Syndrom
 [[6000 Hz (E)]]
 [[320 Hz (E)]]

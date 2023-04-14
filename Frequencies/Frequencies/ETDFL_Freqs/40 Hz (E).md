@@ -1,3 +1,4 @@
+#Frequenzen/40Hz
 40 Hz (E)
 [[ADD mit Hyperaktivität]]
 [[Adenom]]

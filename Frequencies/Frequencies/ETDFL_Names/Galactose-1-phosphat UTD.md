@@ -1,3 +1,4 @@
+#Krankheiten/Galactose-1-phosphatUTD
 Galactose-1-phosphat UTD
 [[110 Hz (E)]]
 [[240 Hz (E)]]

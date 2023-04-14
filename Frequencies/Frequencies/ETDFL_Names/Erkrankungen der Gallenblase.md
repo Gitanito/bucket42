@@ -1,3 +1,4 @@
+#Krankheiten/ErkrankungenderGallenblase
 Erkrankungen der Gallenblase
 [[120 Hz (E)]]
 [[550 Hz (E)]]

@@ -1,3 +1,4 @@
+#Krankheiten/Stickler-Syndrom
 Stickler-Syndrom
 [[460 Hz (E)]]
 [[2500 Hz (E)]]

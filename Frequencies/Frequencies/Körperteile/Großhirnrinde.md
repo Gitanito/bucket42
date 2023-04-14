@@ -1,3 +1,4 @@
+#Körperteile/Großhirnrinde
 > Die **Großhirnrinde** (lateinisch Cortex cerebri, kurz: Cortex) ist die äußere, an Nervenzellen (Neuronen) reiche Schicht des Großhirns (Telencephalon).
 >
 > Obwohl das lateinische Wort cortex übersetzt schlicht ‚Rinde‘ bedeutet und Cortex (oder Kortex) eigentlich die gesamte Hirnrinde bezeichnet, wird Cortex in der Fachsprache auch einschränkend für die Großhirnrinde verwendet. Entsprechend bedeutet das Adjektiv cortical (oder kortikal) eigentlich „die gesamte Hirnrinde betreffend“, wird aber oft im engeren Sinne von „die Großhirnrinde betreffend“ verwendet.

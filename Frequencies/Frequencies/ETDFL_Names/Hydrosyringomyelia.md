@@ -1,3 +1,4 @@
+#Krankheiten/Hydrosyringomyelia
 Hydrosyringomyelia
 [[120 Hz (E)]]
 [[5120 Hz (E)]]

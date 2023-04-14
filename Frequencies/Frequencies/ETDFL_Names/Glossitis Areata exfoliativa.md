@@ -1,3 +1,4 @@
+#Krankheiten/GlossitisAreataexfoliativa
 Glossitis Areata exfoliativa
 [[30 Hz (E)]]
 [[120 Hz (E)]]

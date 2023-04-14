@@ -1,3 +1,4 @@
+#Krankheiten/GenitaleKrankheiten
 Genitale Krankheiten
 [[80 Hz (E)]]
 [[350 Hz (E)]]

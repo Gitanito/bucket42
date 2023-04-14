@@ -1,3 +1,4 @@
+#Krankheiten/Entzündungsreaktion
 Entzündungsreaktion
 [[130 Hz (E)]]
 [[430 Hz (E)]]

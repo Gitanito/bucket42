@@ -1,3 +1,4 @@
+#Krankheiten/S.typhimuriumLebensmittelvergiftung
 S. typhimurium Lebensmittelvergiftung
 [[180 Hz (E)]]
 [[570 Hz (E)]]

@@ -1,3 +1,4 @@
+#Krankheiten/Hirnischämie
 Hirnischämie
 [[40 Hz (E)]]
 [[20 Hz (E)]]

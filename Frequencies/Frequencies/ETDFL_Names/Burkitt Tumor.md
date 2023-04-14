@@ -1,3 +1,4 @@
+#Krankheiten/BurkittTumor
 Burkitt Tumor
 [[50 Hz (E)]]
 [[570 Hz (E)]]

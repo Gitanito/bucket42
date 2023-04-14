@@ -1,3 +1,4 @@
+#Krankheiten/CerebrosidLipidoseSyndrom
 Cerebrosid Lipidose Syndrom
 [[50 Hz (E)]]
 [[240 Hz (E)]]

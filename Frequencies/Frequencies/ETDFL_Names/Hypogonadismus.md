@@ -1,3 +1,4 @@
+#Krankheiten/Hypogonadismus
 Hypogonadismus
 [[100 Hz (E)]]
 [[500 Hz (E)]]

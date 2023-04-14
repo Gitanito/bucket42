@@ -1,3 +1,4 @@
+#Krankheiten/EgyptianOphthalmia
 Egyptian Ophthalmia
 [[190 Hz (E)]]
 [[370 Hz (E)]]

@@ -1,3 +1,4 @@
+#Krankheiten/CuadaEquinaSyndrom
 Cuada Equina Syndrom
 [[110 Hz (E)]]
 [[490 Hz (E)]]

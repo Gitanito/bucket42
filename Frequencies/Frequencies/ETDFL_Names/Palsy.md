@@ -1,3 +1,4 @@
+#Krankheiten/Palsy
 Palsy
 [[20 Hz (E)]]
 [[220 Hz (E)]]

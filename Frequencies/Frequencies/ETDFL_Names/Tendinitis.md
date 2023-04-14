@@ -1,3 +1,4 @@
+#Krankheiten/Tendinitis
 Tendinitis
 [[300 Hz (E)]]
 [[12710 Hz (E)]]

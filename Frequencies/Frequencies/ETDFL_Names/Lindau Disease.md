@@ -1,3 +1,4 @@
+#Krankheiten/LindauDisease
 Lindau Disease
 [[30 Hz (E)]]
 [[460 Hz (E)]]

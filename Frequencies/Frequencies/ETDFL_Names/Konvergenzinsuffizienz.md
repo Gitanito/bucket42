@@ -1,3 +1,4 @@
+#Krankheiten/Konvergenzinsuffizienz
 Konvergenzinsuffizienz
 [[170 Hz (E)]]
 [[320 Hz (E)]]

@@ -1,3 +1,4 @@
+#Krankheiten/UterineZervixinsuffizienz
 Uterine Zervixinsuffizienz
 [[40 Hz (E)]]
 [[400 Hz (E)]]

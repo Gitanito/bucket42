@@ -1,3 +1,4 @@
+#Krankheiten/Amöbiasis
 > Die Amöbenruhr oder Amöbendysenterie, eine Form der **Amöbiasis**, ist die mit Bauchschmerzen, blutig-schleimigen Durchfällen und Tenesmen einhergehende Infektion des Darmes durch die Amöbe Entamoeba histolytica, einen Einzeller (Protozoon). Mit weltweit ungefähr 50 Millionen Krankheitsfällen jährlich zählt sie zu den häufigsten Protozoeninfektionen des Menschen.
 >
 > [Wikipedia](https://de.wikipedia.org/wiki/Am%C3%B6benruhr)

@@ -1,3 +1,4 @@
+#Krankheiten/ParasitesParagonimusWestermaniierwachsene0_68
 Parasites Paragonimus Westermanii erwachsene 0,68
 [[900 Hz (E)]]
 [[2500 Hz (E)]]

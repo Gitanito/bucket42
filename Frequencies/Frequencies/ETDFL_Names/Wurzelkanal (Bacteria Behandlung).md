@@ -1,3 +1,4 @@
+#Krankheiten/Wurzelkanal(BacteriaBehandlung)
 Wurzelkanal (Bacteria Behandlung)
 [[50 Hz (E)]]
 [[370 Hz (E)]]

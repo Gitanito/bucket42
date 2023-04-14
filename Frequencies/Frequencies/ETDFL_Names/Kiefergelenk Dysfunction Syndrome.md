@@ -1,3 +1,4 @@
+#Krankheiten/KiefergelenkDysfunctionSyndrome
 Kiefergelenk Dysfunction Syndrome
 [[160 Hz (E)]]
 [[550 Hz (E)]]

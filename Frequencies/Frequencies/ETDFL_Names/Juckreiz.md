@@ -1,3 +1,4 @@
+#Krankheiten/Juckreiz
 Juckreiz
 [[60 Hz (E)]]
 [[490 Hz (E)]]

@@ -1,3 +1,4 @@
+#Krankheiten/DisseminierteintravaskuläreKoagulation
 Disseminierte intravaskuläre Koagulation
 [[130 Hz (E)]]
 [[720 Hz (E)]]

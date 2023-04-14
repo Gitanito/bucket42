@@ -1,3 +1,4 @@
+#Krankheiten/Gyratatrophie
 Gyratatrophie
 [[50 Hz (E)]]
 [[660 Hz (E)]]

@@ -1,3 +1,4 @@
+#Krankheiten/Photophobie
 Photophobie
 [[500 Hz (E)]]
 [[570 Hz (E)]]

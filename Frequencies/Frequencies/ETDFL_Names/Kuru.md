@@ -1,3 +1,4 @@
+#Krankheiten/Kuru
 Kuru
 [[70 Hz (E)]]
 [[570 Hz (E)]]

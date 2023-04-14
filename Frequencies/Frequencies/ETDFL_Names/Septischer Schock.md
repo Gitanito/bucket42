@@ -1,3 +1,4 @@
+#Krankheiten/SeptischerSchock
 Septischer Schock
 [[180 Hz (E)]]
 [[220 Hz (E)]]

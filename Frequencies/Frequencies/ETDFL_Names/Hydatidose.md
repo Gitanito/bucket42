@@ -1,3 +1,4 @@
+#Krankheiten/Hydatidose
 Hydatidose
 [[120 Hz (E)]]
 [[550 Hz (E)]]

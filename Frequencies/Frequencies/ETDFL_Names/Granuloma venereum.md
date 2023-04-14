@@ -1,3 +1,4 @@
+#Krankheiten/Granulomavenereum
 Granuloma venereum
 [[30 Hz (E)]]
 [[500 Hz (E)]]

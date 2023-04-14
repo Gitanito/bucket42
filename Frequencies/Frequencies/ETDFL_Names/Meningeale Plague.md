@@ -1,3 +1,4 @@
+#Krankheiten/MeningealePlague
 Meningeale Plague
 [[50 Hz (E)]]
 [[260 Hz (E)]]

@@ -1,3 +1,4 @@
+#Krankheiten/Plegia
 Plegia
 [[20 Hz (E)]]
 [[220 Hz (E)]]

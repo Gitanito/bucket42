@@ -1,3 +1,4 @@
+#Krankheiten/Nekrobazillose
 Nekrobazillose
 [[190 Hz (E)]]
 [[180 Hz (E)]]

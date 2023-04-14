@@ -1,3 +1,4 @@
+#Krankheiten/Kälte
 Kälte
 [[550 Hz (E)]]
 [[850 Hz (E)]]

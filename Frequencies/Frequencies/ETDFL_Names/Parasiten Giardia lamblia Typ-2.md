@@ -1,3 +1,4 @@
+#Krankheiten/ParasitenGiardialambliaTyp-2
 Parasiten Giardia lamblia Typ-2
 [[40 Hz (E)]]
 [[320 Hz (E)]]

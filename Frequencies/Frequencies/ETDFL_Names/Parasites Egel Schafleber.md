@@ -1,3 +1,4 @@
+#Krankheiten/ParasitesEgelSchafleber
 Parasites Egel Schafleber
 [[150 Hz (E)]]
 [[380 Hz (E)]]

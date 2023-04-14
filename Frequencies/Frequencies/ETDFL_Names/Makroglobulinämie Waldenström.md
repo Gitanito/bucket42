@@ -1,3 +1,4 @@
+#Krankheiten/MakroglobulinämieWaldenström
 Makroglobulinämie Waldenström
 [[80 Hz (E)]]
 [[2750 Hz (E)]]

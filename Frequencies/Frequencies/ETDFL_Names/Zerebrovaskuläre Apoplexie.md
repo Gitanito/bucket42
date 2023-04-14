@@ -1,3 +1,4 @@
+#Krankheiten/ZerebrovaskuläreApoplexie
 Zerebrovaskuläre Apoplexie
 [[90 Hz (E)]]
 [[120 Hz (E)]]

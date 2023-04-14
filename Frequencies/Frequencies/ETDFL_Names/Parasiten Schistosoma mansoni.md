@@ -1,3 +1,4 @@
+#Krankheiten/ParasitenSchistosomamansoni
 Parasiten Schistosoma mansoni
 [[370 Hz (E)]]
 [[950 Hz (E)]]

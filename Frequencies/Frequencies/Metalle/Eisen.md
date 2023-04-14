@@ -1,3 +1,4 @@
+#Metalle/Eisen
 > **Eisen** ist ein chemisches Element mit dem Symbol Fe (lateinisch ferrum  ‚Eisen‘) und der Ordnungszahl 26. Es gehört zu den Übergangsmetallen, die im Periodensystem die 8. Nebengruppe (Eisen-Platin-Gruppe), nach der neuen Zählung die Gruppe 8 (Eisengruppe) bilden. Eisen ist, auf den Massenanteil (ppmw) bezogen, nach Sauerstoff, Silicium und Aluminium das vierthäufigste Element in der Erdkruste und nach Aluminium das häufigste Metall.
 >
 > Auf der Erde kommt es, außer in verschiedenen Erzen und Eisenmineralien, in Form einer Legierung in Eisenmeteoriten vor. Aus diesen wurden schon vor der eigentlichen Eisenzeit, teilweise schon 3000 Jahre vor unserer Zeitrechnung, Kultgegenstände, Werkzeuge oder Waffen hergestellt. Heute werden vor allem die Eisenerze Magnetit, Hämatit und Siderit abgebaut.

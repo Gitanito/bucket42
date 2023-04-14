@@ -1,3 +1,4 @@
+#Krankheiten/Verruca
 Verruca
 [[160 Hz (E)]]
 [[350 Hz (E)]]

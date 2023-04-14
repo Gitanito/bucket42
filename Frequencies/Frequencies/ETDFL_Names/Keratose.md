@@ -1,3 +1,4 @@
+#Krankheiten/Keratose
 Keratose
 [[120 Hz (E)]]
 [[680 Hz (E)]]

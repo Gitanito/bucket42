@@ -1,3 +1,4 @@
+#Körperteile/Geburt
 > **Geburt** (lateinisch Partus und griechisch γονή), auch Entbindung (der Mutter von einem Kind) oder altertümlich Niederkunft (der Mutter mit einem Kind), ist der Vorgang des den Mutterleib verlassenden Kindes, welcher das Ende einer Schwangerschaft darstellt. Unter physiologischen Bedingungen wird die Geburt vom Fötus eingeleitet.
 >
 > Eine Schwangerschaft dauert beim Menschen durchschnittlich 266 Tage und endet, wenn der Fötus die Gebärmutter der Mutter verlässt. Die meisten Kinder werden innerhalb von jeweils zwei Wochen vor bzw. nach dem errechneten Termin geboren. Auf den Tag genau zum errechneten Termin kommen nur vier Prozent der Kinder zur Welt.

@@ -1,3 +1,4 @@
+#Krankheiten/Tonsillitis
 Tonsillitis
 [[250 Hz (E)]]
 [[870 Hz (E)]]

@@ -1,3 +1,4 @@
+#Krankheiten/Basedow
 > **Basedow** steht für:
 >
 > Basedow (Adelsgeschlecht), deutsches Adelsgeschlecht

@@ -1,3 +1,4 @@
+#Krankheiten/DystrophiabrevicollisCongenita
 Dystrophia brevicollis Congenita
 [[30 Hz (E)]]
 [[520 Hz (E)]]

@@ -1,3 +1,4 @@
+#Krankheiten/FeverBlister
 Fever Blister
 [[110 Hz (E)]]
 [[550 Hz (E)]]

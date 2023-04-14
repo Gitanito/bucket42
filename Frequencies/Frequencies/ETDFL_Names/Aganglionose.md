@@ -1,3 +1,4 @@
+#Krankheiten/Aganglionose
 > Als **Aganglionose** wird ein angeborenes Fehlen von Nervenzellen in der Darmwand bezeichnet, meist im Enddarm und/oder Dickdarm.
 >
 > Das Ergebnis ist eine Dauerkontraktion in der Übergangszone zum normalen Darm mit Störung der Darmbeweglichkeit (Peristaltik), einem Kotstau und einer massiven Erweiterung des davor liegenden Darmes, sog. Megacolon.

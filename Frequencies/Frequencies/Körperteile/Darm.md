@@ -1,3 +1,4 @@
+#Körperteile/Darm
 > Der **Darm** (lateinisch Intestinum, altgriechisch ἔντερον enteron; auch Gedärm genannt) ist der wichtigste Teil des Verdauungstraktes von höheren vielzelligen Tieren einschließlich des Menschen. Er erstreckt sich vom Magenpförtner bis zum After, davor liegen der Magen, die Speiseröhre und die Mundhöhle. Der Darm ist beim erwachsenen Menschen etwa 5½ bis 7½ Meter lang und besitzt wegen der feinen Darmzotten eine Oberfläche von etwa 32 m². Die Gesamtheit der Mikroorganismen im Darm ist die Darmflora.
 >
 > [Wikipedia](https://de.wikipedia.org/wiki/Darm)

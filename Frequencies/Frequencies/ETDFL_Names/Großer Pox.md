@@ -1,3 +1,4 @@
+#Krankheiten/GroßerPox
 Großer Pox
 [[20 Hz (E)]]
 [[5250 Hz (E)]]

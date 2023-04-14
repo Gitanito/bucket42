@@ -1,3 +1,4 @@
+#Krankheiten/PolyglanduläreTypIAutoimmun-Syndrom
 Polyglanduläre Typ I Autoimmun- Syndrom
 [[50 Hz (E)]]
 [[260 Hz (E)]]

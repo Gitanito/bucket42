@@ -1,3 +1,4 @@
+#Krankheiten/DiabetesmellitusTyp2
 Diabetes mellitus Typ 2
 [[150 Hz (E)]]
 [[890 Hz (E)]]

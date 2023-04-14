@@ -1,3 +1,4 @@
+#Krankheiten/Geschwür
 Geschwür
 [[250 Hz (E)]]
 [[850 Hz (E)]]

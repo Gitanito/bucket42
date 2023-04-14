@@ -1,3 +1,4 @@
+#Krankheiten/AddisonDisease
 Addison Disease
 [[190 Hz (E)]]
 [[750 Hz (E)]]

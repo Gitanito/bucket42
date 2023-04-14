@@ -1,3 +1,4 @@
+#Krankheiten/Erythem
 Erythem
 [[70 Hz (E)]]
 [[240 Hz (E)]]

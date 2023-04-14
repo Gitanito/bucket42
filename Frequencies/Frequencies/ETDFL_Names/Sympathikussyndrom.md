@@ -1,3 +1,4 @@
+#Krankheiten/Sympathikussyndrom
 Sympathikussyndrom
 [[90 Hz (E)]]
 [[520 Hz (E)]]

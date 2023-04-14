@@ -1,3 +1,4 @@
+#Gefühle/Schumann-Resonanz
 > Als **Schumann-Resonanz** (benannt nach dem deutschen Physiker und Elektroingenieur Winfried Otto Schumann) bezeichnet man das Phänomen, dass elektromagnetische Wellen bestimmter Frequenzen entlang des Umfangs der Erde stehende Wellen bilden. Die ausreichend leitfähige Erdoberfläche (größtenteils Salzwasser) und die gut leitfähige Ionosphäre darüber begrenzen einen kugelschalenförmigen Hohlraumresonator, aus dessen Abmessungen sich mögliche Resonanzfrequenzen berechnen lassen. Diese können durch Blitze angeregt werden, sind aber von so geringer Amplitude, dass sie nur mit sehr empfindlichen Instrumenten nachgewiesen werden können.
 >
 > [Wikipedia](https://de.wikipedia.org/wiki/Schumann-Resonanz)

@@ -1,3 +1,4 @@
+#Krankheiten/Amebom
 Amebom
 [[520 Hz (E)]]
 [[2500 Hz (E)]]

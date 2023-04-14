@@ -1,3 +1,4 @@
+#Krankheiten/ParasitesStreptococcussp.GruppeG(Zahn)0_68
 Parasites Streptococcus sp. Gruppe G (Zahn) 0,68
 [[900 Hz (E)]]
 [[2500 Hz (E)]]

@@ -1,3 +1,4 @@
+#Körperteile/Zellen
 > Zelle (von lateinisch cella „Kammer, kleiner Raum, Abteil“, später kirchenlateinisch auch „Klause, Mönchszelle, Kapelle“) steht für:
 >
 > Wissenschaft:

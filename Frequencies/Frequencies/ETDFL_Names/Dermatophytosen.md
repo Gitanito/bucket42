@@ -1,3 +1,4 @@
+#Krankheiten/Dermatophytosen
 Dermatophytosen
 [[20 Hz (E)]]
 [[750 Hz (E)]]

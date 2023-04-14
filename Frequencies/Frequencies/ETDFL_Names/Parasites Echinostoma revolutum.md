@@ -1,3 +1,4 @@
+#Krankheiten/ParasitesEchinostomarevolutum
 Parasites Echinostoma revolutum
 [[680 Hz (E)]]
 [[900 Hz (E)]]

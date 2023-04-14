@@ -1,3 +1,4 @@
+#Krankheiten/Salmonellaparatyphi
 Salmonella paratyphi
 [[180 Hz (E)]]
 [[570 Hz (E)]]

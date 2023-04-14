@@ -1,3 +1,4 @@
+#Krankheiten/Aphasia
 Aphasia
 [[140 Hz (E)]]
 [[620 Hz (E)]]

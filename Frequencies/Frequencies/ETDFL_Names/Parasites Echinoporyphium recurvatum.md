@@ -1,3 +1,4 @@
+#Krankheiten/ParasitesEchinoporyphiumrecurvatum
 Parasites Echinoporyphium recurvatum
 [[2500 Hz (E)]]
 [[13930 Hz (E)]]

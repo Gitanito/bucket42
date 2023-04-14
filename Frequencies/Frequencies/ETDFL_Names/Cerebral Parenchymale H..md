@@ -1,3 +1,4 @@
+#Krankheiten/CerebralParenchymaleH.
 Cerebral Parenchymale H.
 [[40 Hz (E)]]
 [[550 Hz (E)]]

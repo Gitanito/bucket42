@@ -1,3 +1,4 @@
+#Krankheiten/SomatotropinHypersekretion
 Somatotropin Hypersekretion
 [[80 Hz (E)]]
 [[420 Hz (E)]]

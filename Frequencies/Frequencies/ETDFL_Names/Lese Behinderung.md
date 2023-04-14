@@ -1,3 +1,4 @@
+#Krankheiten/LeseBehinderung
 Lese Behinderung
 [[180 Hz (E)]]
 [[250 Hz (E)]]

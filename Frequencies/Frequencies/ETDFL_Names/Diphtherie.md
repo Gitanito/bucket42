@@ -1,3 +1,4 @@
+#Krankheiten/Diphtherie
 Diphtherie
 [[90 Hz (E)]]
 [[250 Hz (E)]]

@@ -1,3 +1,4 @@
+#Planeten/Merkur
 > **Merkur** oder Mercur steht für:
 >
 > Merkur, deutsche Namensform für den römischen Gott Mercurius

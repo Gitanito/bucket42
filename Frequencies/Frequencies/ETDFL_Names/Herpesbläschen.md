@@ -1,3 +1,4 @@
+#Krankheiten/Herpesbläschen
 Herpesbläschen
 [[110 Hz (E)]]
 [[550 Hz (E)]]

@@ -1,3 +1,4 @@
+#Krankheiten/Zygomykose
 Zygomykose
 [[140 Hz (E)]]
 [[490 Hz (E)]]

@@ -1,3 +1,4 @@
+#Krankheiten/HMNProximalTypI
 HMN Proximal Typ I
 [[180 Hz (E)]]
 [[320 Hz (E)]]

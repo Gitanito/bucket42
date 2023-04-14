@@ -1,3 +1,4 @@
+#Krankheiten/DiabeticMyatrophie0_16
 Diabetic Myatrophie 0,16
 [[410 Hz (E)]]
 [[770 Hz (E)]]

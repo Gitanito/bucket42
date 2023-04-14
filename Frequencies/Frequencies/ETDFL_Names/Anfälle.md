@@ -1,3 +1,4 @@
+#Krankheiten/Anfälle
 Anfälle
 [[460 Hz (E)]]
 [[950 Hz (E)]]

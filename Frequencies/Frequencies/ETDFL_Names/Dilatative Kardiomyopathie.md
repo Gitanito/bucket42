@@ -1,3 +1,4 @@
+#Krankheiten/DilatativeKardiomyopathie
 Dilatative Kardiomyopathie
 [[120 Hz (E)]]
 [[250 Hz (E)]]

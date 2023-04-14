@@ -1,3 +1,4 @@
+#Krankheiten/Stridor
 Stridor
 [[30 Hz (E)]]
 [[460 Hz (E)]]

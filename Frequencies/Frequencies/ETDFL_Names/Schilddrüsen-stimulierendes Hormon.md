@@ -1,3 +1,4 @@
+#Krankheiten/Schilddrüsen-stimulierendesHormon
 Schilddrüsen-stimulierendes Hormon
 [[130 Hz (E)]]
 [[350 Hz (E)]]

@@ -1,3 +1,4 @@
+#Körperteile/Ischiasnerv
 > Der **Ischiasnerv** (['ɪʃias] oder ['ɪsçias] gesprochen), fachsprachlich auch Nervus ischiadicus (auch Ischias, Hüftnerv oder Sitzbeinnerv; Os ischii = Sitzbein), ist ein peripherer Nerv des Plexus lumbosacralis (Lenden-Kreuz-Geflecht). Er ist der stärkste Nerv des Körpers. Seinen Ursprung hat er beim Menschen aus den letzten lumbalen und den ersten drei sakralen Rückenmarkssegmenten (4. Lendensegment bis 3. Kreuzbeinsegment des Rückenmarks, L4–S3). Bei den Haussäugetieren entspringt er aus L6–S2 als direkte Fortsetzung des so genannten Truncus lumbosacralis.
 >
 > [Wikipedia](https://de.wikipedia.org/wiki/Ischiasnerv)

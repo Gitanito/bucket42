@@ -1,3 +1,4 @@
+#Krankheiten/Rheumatismus
 Rheumatismus
 [[130 Hz (E)]]
 [[250 Hz (E)]]

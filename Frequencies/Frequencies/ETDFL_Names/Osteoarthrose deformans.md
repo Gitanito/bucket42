@@ -1,3 +1,4 @@
+#Krankheiten/Osteoarthrosedeformans
 Osteoarthrose deformans
 [[60 Hz (E)]]
 [[410 Hz (E)]]

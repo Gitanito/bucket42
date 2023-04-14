@@ -1,3 +1,4 @@
+#Krankheiten/ErbParalysis
 Erb Paralysis
 [[150 Hz (E)]]
 [[570 Hz (E)]]

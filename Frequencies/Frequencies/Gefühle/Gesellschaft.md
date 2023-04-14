@@ -1,3 +1,4 @@
+#Gefühle/Gesellschaft
 > **Gesellschaft** steht für:
 >
 > Gesellschaft (Soziologie), durch eigene Merkmale abgegrenzte Anzahl von Menschen, als sozial Handelnde miteinander verknüpft lebend und interagierend

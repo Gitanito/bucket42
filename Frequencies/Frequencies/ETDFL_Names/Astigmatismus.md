@@ -1,3 +1,4 @@
+#Krankheiten/Astigmatismus
 > **Astigmatismus** (griechisch; Punktlosigkeit) steht für:
 >
 > Hornhautverkrümmung, ein Brechungsfehler des Auges, siehe Astigmatismus (Medizin)

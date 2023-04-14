@@ -1,3 +1,4 @@
+#Krankheiten/Hautgeschwür
 Hautgeschwür
 [[50 Hz (E)]]
 [[950 Hz (E)]]

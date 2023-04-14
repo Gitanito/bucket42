@@ -1,3 +1,4 @@
+#Krankheiten/Aura
 > **Aura** (altgr. αὔρα aura, ‚Lufthauch‘) steht für:
 >
 > Aura (Göttin), griechische Göttin der Morgenbrise

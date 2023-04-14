@@ -1,3 +1,4 @@
+#Krankheiten/Gesichtsneuralgie
 Gesichtsneuralgie
 [[600 Hz (E)]]
 [[870 Hz (E)]]

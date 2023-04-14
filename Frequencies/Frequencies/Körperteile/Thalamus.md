@@ -1,3 +1,4 @@
+#Körperteile/Thalamus
 > Der **Thalamus** (von altgriechisch θάλαμος thálamos, deutsch ‚Schlafgemach‘, ‚Kammer‘) bildet den größten Teil des Zwischenhirns. Er setzt sich aus vielen Kerngebieten zusammen, die eine besonders starke Verbindung zur gesamten Großhirnrinde aufweisen.
 >
 > Im Laufe der Hirnentwicklung spaltet sich der Thalamus in zwei Anteile. Der „eigentliche“ Thalamus muss daher genauer als Thalamus dorsalis bezeichnet werden. Seine Aufgabe ist die Modulation der ein- und ausgehenden Informationen zum Großhirn und somit der kortikalen Erregung. Der Thalamus ventralis (nicht zu verwechseln mit der ventralen Kerngruppe des Thalamus dorsalis) kontrolliert und moduliert wiederum die Erregung des eigentlichen Thalamus (dorsalis). Alternativ wird auch das Begriffspaar Thalamus (für Thalamus dorsalis) und Subthalamus (für Thalamus ventralis) verwendet.

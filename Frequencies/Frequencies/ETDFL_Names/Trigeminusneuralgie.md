@@ -1,3 +1,4 @@
+#Krankheiten/Trigeminusneuralgie
 Trigeminusneuralgie
 [[20 Hz (E)]]
 [[370 Hz (E)]]

@@ -1,3 +1,4 @@
+#Krankheiten/Locked-in-Syndrom
 Locked-in-Syndrom
 [[150 Hz (E)]]
 [[460 Hz (E)]]

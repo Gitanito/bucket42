@@ -1,3 +1,4 @@
+#Krankheiten/Pilzkrankheiten
 Pilzkrankheiten
 [[170 Hz (E)]]
 [[220 Hz (E)]]

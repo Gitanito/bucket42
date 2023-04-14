@@ -1,3 +1,4 @@
+#Körperteile/Proteine
 > Ein Protein, umgangssprachlich Eiweiß (veraltet Eiweißstoff) genannt, ist ein biologisches Makromolekül, das aus Aminosäuren aufgebaut wird, die durch Peptidbindungen verknüpft sind.
 >
 > **Proteine** finden sich in jeder Zelle und machen zumeist mehr als die Hälfte des Trockengewichts aus. Sie dienen ihr als molekulare „Werkzeuge“ und erfüllen je nach der besonderen Struktur unterschiedliche Aufgaben, indem sie beispielsweise Zellbewegungen ermöglichen, Metabolite transportieren, Ionen pumpen, chemische Reaktionen katalysieren oder Signalstoffe erkennen können. Überwiegend aus Proteinen bestehen so auch Muskeln, Herz, Hirn, Haut und Haare.

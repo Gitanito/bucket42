@@ -1,3 +1,4 @@
+#Krankheiten/DiabetesNicht-Insulin-abhängige
 Diabetes Nicht-Insulin-abhängige
 [[150 Hz (E)]]
 [[890 Hz (E)]]

@@ -1,3 +1,4 @@
+#Krankheiten/Larynx-Krebs
 Larynx-Krebs
 [[30 Hz (E)]]
 [[870 Hz (E)]]

@@ -1,3 +1,4 @@
+#Krankheiten/Autoimmun-Thyreoiditis
 Autoimmun-Thyreoiditis
 [[140 Hz (E)]]
 [[250 Hz (E)]]

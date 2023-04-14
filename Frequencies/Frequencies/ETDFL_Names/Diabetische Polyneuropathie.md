@@ -1,3 +1,4 @@
+#Krankheiten/DiabetischePolyneuropathie
 Diabetische Polyneuropathie
 [[160 Hz (E)]]
 [[410 Hz (E)]]

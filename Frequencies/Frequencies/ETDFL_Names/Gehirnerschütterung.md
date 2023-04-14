@@ -1,3 +1,4 @@
+#Krankheiten/Gehirnerschütterung
 Gehirnerschütterung
 [[40 Hz (E)]]
 [[200 Hz (E)]]

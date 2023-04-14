@@ -1,3 +1,4 @@
+#Krankheiten/Wolfram-Syndrom
 Wolfram-Syndrom
 [[200 Hz (E)]]
 [[460 Hz (E)]]

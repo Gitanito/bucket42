@@ -1,3 +1,4 @@
+#Krankheiten/Alpers-Syndrom
 > Das Alpers-Huttenlocher-Syndrom (abgekürzt AHS) ist eine meistens im Kleinkindalter auftretende degenerative Krankheit.
 >
 > Andere Namen dieser Krankheit sind **Alpers-Syndrom**, Progressive neuronale Degeneration im Kindesalter mit Lebererkrankung und Progressive sklerosierende Poliodystrophie Alpers. Benannt wurde sie nach den beiden US-amerikanischen Neurologen Bernard Jacob Alpers und Peter R. Huttenlocher.

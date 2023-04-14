@@ -1,3 +1,4 @@
+#Krankheiten/Rosacea
 Rosacea
 [[20 Hz (E)]]
 [[520 Hz (E)]]

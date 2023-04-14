@@ -1,3 +1,4 @@
+#Krankheiten/Granulomaanulare
 Granuloma anulare
 [[500 Hz (E)]]
 [[700 Hz (E)]]

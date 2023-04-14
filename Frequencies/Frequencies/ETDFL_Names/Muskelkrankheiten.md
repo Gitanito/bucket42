@@ -1,3 +1,4 @@
+#Krankheiten/Muskelkrankheiten
 Muskelkrankheiten
 [[130 Hz (E)]]
 [[400 Hz (E)]]

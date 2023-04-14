@@ -1,3 +1,4 @@
+#Krankheiten/OtolaryngologicKrankheiten
 Otolaryngologic Krankheiten
 [[170 Hz (E)]]
 [[520 Hz (E)]]

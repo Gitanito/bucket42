@@ -1,3 +1,4 @@
+#Krankheiten/Charcot-Gelenk
 Charcot-Gelenk
 [[110 Hz (E)]]
 [[5330 Hz (E)]]

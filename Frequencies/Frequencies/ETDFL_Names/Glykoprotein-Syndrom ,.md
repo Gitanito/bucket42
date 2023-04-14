@@ -1,3 +1,4 @@
+#Krankheiten/Glykoprotein-Syndrom_
 Glykoprotein-Syndrom ,
 [[180 Hz (E)]]
 [[600 Hz (E)]]

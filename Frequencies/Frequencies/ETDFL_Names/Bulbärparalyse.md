@@ -1,3 +1,4 @@
+#Krankheiten/Bulbärparalyse
 > Die spinale Muskelatrophie (kurz SMA) ist ein Muskelschwund, der durch einen fortschreitenden Untergang von motorischen Nervenzellen im Vorderhorn des Rückenmarks verursacht wird. Sie tritt bei Menschen selten auf (1/10.000 Geborene). Der Rückgang dieser sogenannten 2. Motoneurone bewirkt, dass Impulse nicht an die Muskeln weitergeleitet werden. Lähmungen mit den Charakteristika Muskelschwund (Atrophie) und verminderte Muskelspannung sind die Folge.
 >
 > Sind Hirnnerven betroffen, kommt es auch zu Einschränkungen der Schluck-, Kau- und Sprechfunktionen. Hierbei spricht man von einer spinobulbären Muskelatrophie Typ Kennedy (SBMA) oder einer progressiven **Bulbärparalyse**.

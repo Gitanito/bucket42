@@ -1,3 +1,4 @@
+#Krankheiten/Buerger-Krankheit
 Buerger-Krankheit
 [[100 Hz (E)]]
 [[580 Hz (E)]]

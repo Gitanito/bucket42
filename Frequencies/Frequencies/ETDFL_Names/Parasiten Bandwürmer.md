@@ -1,3 +1,4 @@
+#Krankheiten/ParasitenBandwürmer
 Parasiten Bandwürmer
 [[100 Hz (E)]]
 [[250 Hz (E)]]

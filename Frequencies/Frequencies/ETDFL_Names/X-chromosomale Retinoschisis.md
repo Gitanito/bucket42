@@ -1,3 +1,4 @@
+#Krankheiten/X-chromosomaleRetinoschisis
 X-chromosomale Retinoschisis
 [[40 Hz (E)]]
 [[120 Hz (E)]]

@@ -1,3 +1,4 @@
+#Krankheiten/Nekrosen
 Nekrosen
 [[130 Hz (E)]]
 [[220 Hz (E)]]

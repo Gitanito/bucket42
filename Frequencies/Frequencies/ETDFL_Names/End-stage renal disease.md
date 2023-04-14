@@ -1,3 +1,4 @@
+#Krankheiten/End-stagerenaldisease
 End-stage renal disease
 [[130 Hz (E)]]
 [[180 Hz (E)]]

@@ -1,3 +1,4 @@
+#Krankheiten/Bartonellose
 > Die **Bartonellose**n sind eine Gruppe seltener bakterieller Infektionskrankheiten, die durch Vertreter der Gattung Bartonella verursacht werden. Die Bartonellosen werden überwiegend von Tieren auf den Menschen übertragen und gehören damit zur Gruppe der Zoonosen. Ihr Name leitet sich von Alberto Barton, dem Entdecker des Erregers, ab.
 >
 > [Wikipedia](https://de.wikipedia.org/wiki/Bartonellose)

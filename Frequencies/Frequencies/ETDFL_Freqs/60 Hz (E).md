@@ -1,3 +1,4 @@
+#Frequenzen/60Hz
 60 Hz (E)
 [[Adhesive Capsulitis]]
 [[Alopezie]]

@@ -1,3 +1,4 @@
+#Krankheiten/Hirnabszesse
 Hirnabszesse
 [[40 Hz (E)]]
 [[50 Hz (E)]]

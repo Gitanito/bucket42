@@ -1,3 +1,4 @@
+#Krankheiten/Burns
 > **Burns** steht für:
 >
 > Burns (Familienname), der Familienname Burns

@@ -1,3 +1,4 @@
+#Krankheiten/Drittparese
 Drittparese
 [[130 Hz (E)]]
 [[400 Hz (E)]]

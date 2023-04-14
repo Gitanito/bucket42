@@ -1,3 +1,4 @@
+#Krankheiten/Thrombopenie
 Thrombopenie
 [[130 Hz (E)]]
 [[400 Hz (E)]]

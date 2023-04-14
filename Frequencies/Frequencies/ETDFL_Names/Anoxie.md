@@ -1,3 +1,4 @@
+#Krankheiten/Anoxie
 > **Anoxie** (von griech. an- = „nicht“ und oxys = „sauer“) bezeichnet biologisch das vollständige Fehlen von Sauerstoff. Ein Bereich, in dem Anoxie herrscht, wird als anoxisch bezeichnet.
 >
 > [Wikipedia](https://de.wikipedia.org/wiki/Anoxie)

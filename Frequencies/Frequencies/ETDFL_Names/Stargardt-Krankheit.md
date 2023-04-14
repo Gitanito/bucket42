@@ -1,3 +1,4 @@
+#Krankheiten/Stargardt-Krankheit
 Stargardt-Krankheit
 [[150 Hz (E)]]
 [[180 Hz (E)]]

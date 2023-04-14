@@ -1,3 +1,4 @@
+#Krankheiten/Sandhoff-Krankheit
 Sandhoff-Krankheit
 [[170 Hz (E)]]
 [[550 Hz (E)]]

@@ -1,3 +1,4 @@
+#Krankheiten/Amnesie
 > **Amnesie** (altgriechisch μνήμη mnémē, deutsch ‚Gedächtnis‘, ‚Erinnerung‘ mit Alpha privativum) bezeichnet eine Form der Störung des Gedächtnisses für zeitliche oder inhaltliche Erinnerungen.
 >
 > [Wikipedia](https://de.wikipedia.org/wiki/Amnesie)

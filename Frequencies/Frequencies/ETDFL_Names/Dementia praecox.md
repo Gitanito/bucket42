@@ -1,3 +1,4 @@
+#Krankheiten/Dementiapraecox
 Dementia praecox
 [[70 Hz (E)]]
 [[500 Hz (E)]]

@@ -1,3 +1,4 @@
+#Krankheiten/PhobischeStörungen
 Phobische Störungen
 [[20 Hz (E)]]
 [[230 Hz (E)]]

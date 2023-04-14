@@ -1,3 +1,4 @@
+#Krankheiten/ParasitesAncylostomabraziliense(Erwachsene)
 Parasites Ancylostoma braziliense (Erwachsene)
 [[680 Hz (E)]]
 [[900 Hz (E)]]

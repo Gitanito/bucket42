@@ -1,3 +1,4 @@
+#Krankheiten/Enteritis
 Enteritis
 [[30 Hz (E)]]
 [[410 Hz (E)]]

@@ -1,3 +1,4 @@
+#Krankheiten/PulmonaryDisease
 Pulmonary Disease
 [[370 Hz (E)]]
 [[410 Hz (E)]]

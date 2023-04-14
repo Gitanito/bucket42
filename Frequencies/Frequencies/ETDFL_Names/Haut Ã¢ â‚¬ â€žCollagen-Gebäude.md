@@ -1,3 +1,4 @@
+#Krankheiten/HautÃ¢â‚¬â€žCollagen-Gebäude
 Haut Ã¢ â‚¬ â€žCollagen-Gebäude
 [[190 Hz (E)]]
 [[370 Hz (E)]]

@@ -1,3 +1,4 @@
+#Krankheiten/Bernard-Soulier-Syndrom
 > Das **Bernard-Soulier-Syndrom** (BSS), auch als Hämorrhagische Thrombozytendystrophie oder Riesen-Plättchen-Syndrom bezeichnet, ist eine sehr seltene autosomal-rezessiv vererbte Blutungskrankheit, die zu den Thrombozytopathien gerechnet wird.
 >
 > [Wikipedia](https://de.wikipedia.org/wiki/Bernard-Soulier-Syndrom)

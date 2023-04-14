@@ -1,3 +1,4 @@
+#Krankheiten/UDPglucose-Hexose-1-PhosphatUridylyltransferaseDeficiency
 UDPglucose-Hexose-1-Phosphat Uridylyltransferase Deficiency
 [[110 Hz (E)]]
 [[240 Hz (E)]]

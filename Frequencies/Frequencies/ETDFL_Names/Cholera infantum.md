@@ -1,3 +1,4 @@
+#Krankheiten/Cholerainfantum
 Cholera infantum
 [[20 Hz (E)]]
 [[520 Hz (E)]]

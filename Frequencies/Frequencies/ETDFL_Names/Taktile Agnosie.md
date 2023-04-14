@@ -1,3 +1,4 @@
+#Krankheiten/TaktileAgnosie
 Taktile Agnosie
 [[120 Hz (E)]]
 [[5620 Hz (E)]]

@@ -1,3 +1,4 @@
+#Krankheiten/Photodermatitis
 Photodermatitis
 [[130 Hz (E)]]
 [[240 Hz (E)]]

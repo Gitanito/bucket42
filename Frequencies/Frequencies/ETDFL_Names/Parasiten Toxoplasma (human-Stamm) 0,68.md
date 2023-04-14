@@ -1,3 +1,4 @@
+#Krankheiten/ParasitenToxoplasma(human-Stamm)0_68
 Parasiten Toxoplasma (human-Stamm) 0,68
 [[900 Hz (E)]]
 [[2500 Hz (E)]]

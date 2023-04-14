@@ -1,3 +1,4 @@
+#Steine/Jade
 > **Jade** (der oder die) ist die Bezeichnung für verschiedene Mineralien, vor allem für Nephrit und Jadeit, die bestimmte optische Eigenschaften besitzen müssen, um als der Schmuckstein Jade zu gelten.
 >
 > In China wird Jade schon seit mindestens 8000 Jahren verwendet und hochgeschätzt; mit der Zeit entwickelte sich sogar eine regelrechte Jadekultur. Auch in Europa, im pazifischen Raum, im östlichen Mittelmeerraum und insbesondere in Mittelamerika wurde Jade bereits vor Jahrtausenden verarbeitet.

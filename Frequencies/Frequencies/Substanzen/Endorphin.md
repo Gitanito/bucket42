@@ -1,3 +1,4 @@
+#Substanzen/Endorphin
 > **Endorphin**e sind körpereigene Opioidpeptide, die in der Hypophyse und im Hypothalamus von Wirbeltieren produziert werden. Endorphine entstehen als Zerlegungsprodukte dreier Präkursor-Proteine – es werden nämlich
 >
 > Proenkephalin-A in verschiedene Enkephaline

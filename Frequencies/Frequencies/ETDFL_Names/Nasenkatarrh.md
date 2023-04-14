@@ -1,3 +1,4 @@
+#Krankheiten/Nasenkatarrh
 Nasenkatarrh
 [[20 Hz (E)]]
 [[520 Hz (E)]]

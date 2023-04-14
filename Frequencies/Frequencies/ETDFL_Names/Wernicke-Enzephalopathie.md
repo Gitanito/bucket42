@@ -1,3 +1,4 @@
+#Krankheiten/Wernicke-Enzephalopathie
 Wernicke-Enzephalopathie
 [[230 Hz (E)]]
 [[950 Hz (E)]]

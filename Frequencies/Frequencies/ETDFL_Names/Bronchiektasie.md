@@ -1,3 +1,4 @@
+#Krankheiten/Bronchiektasie
 > Als Bronchiektasen bezeichnet man in der Medizin irreversible sackförmige oder zylindrische Ausweitungen bzw. Erweiterungen der mittelgroßen Atemwege (Bronchien). Dieser Zustand wird auch **Bronchiektasie** genannt. Begleitet werden diese Ausweitungen von einer chronischen nekrös eiternden bakteriellen Infektion der Bronchialwand. Eine Erweiterung von Bronchiolen wird als Bronchiolektasie bezeichnet.
 >
 > [Wikipedia](https://de.wikipedia.org/wiki/Bronchiektasie)

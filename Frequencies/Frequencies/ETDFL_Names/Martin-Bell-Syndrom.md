@@ -1,3 +1,4 @@
+#Krankheiten/Martin-Bell-Syndrom
 Martin-Bell-Syndrom
 [[230 Hz (E)]]
 [[620 Hz (E)]]

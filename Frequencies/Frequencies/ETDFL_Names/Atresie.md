@@ -1,3 +1,4 @@
+#Krankheiten/Atresie
 > Als **Atresie** bzw. Atresia (neugriechisch άτρητος, neulateinisch atretos „ohne Öffnung“) bezeichnet man den angeborenen oder erworbenen Verschluss oder eine Nichtanlage von Hohlorganen beziehungsweise natürlichen Körperöffnungen.
 >
 > Häufig betroffene Organe sind beispielsweise:

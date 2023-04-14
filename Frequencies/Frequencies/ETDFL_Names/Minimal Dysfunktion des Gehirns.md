@@ -1,3 +1,4 @@
+#Krankheiten/MinimalDysfunktiondesGehirns
 Minimal Dysfunktion des Gehirns
 [[40 Hz (E)]]
 [[250 Hz (E)]]

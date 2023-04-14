@@ -1,3 +1,4 @@
+#Krankheiten/SpondylarthritisAnkylopoietica
 Spondylarthritis Ankylopoietica
 [[190 Hz (E)]]
 [[180 Hz (E)]]

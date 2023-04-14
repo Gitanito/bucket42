@@ -1,3 +1,4 @@
+#Krankheiten/ParasitesPneumocystiscarnii(Lunge)0_68
 Parasites Pneumocystis carnii (Lunge) 0,68
 [[900 Hz (E)]]
 [[2500 Hz (E)]]

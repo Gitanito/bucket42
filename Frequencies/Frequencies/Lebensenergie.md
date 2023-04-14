@@ -1,3 +1,4 @@
+#Frequencies/Lebensenergie
 > **Lebensenergie** bezeichnet
 >
 > Trefferpunkte in (Computer-)Spielen

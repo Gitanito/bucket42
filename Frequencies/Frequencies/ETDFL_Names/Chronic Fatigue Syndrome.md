@@ -1,3 +1,4 @@
+#Krankheiten/ChronicFatigueSyndrome
 Chronic Fatigue Syndrome
 [[50 Hz (E)]]
 [[230 Hz (E)]]

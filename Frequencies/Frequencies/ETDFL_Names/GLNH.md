@@ -1,3 +1,4 @@
+#Krankheiten/GLNH
 GLNH
 [[40 Hz (E)]]
 [[500 Hz (E)]]

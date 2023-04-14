@@ -1,3 +1,4 @@
+#Krankheiten/ParasitesChinesischerLeberegel
 Parasites Chinesischer Leberegel
 [[680 Hz (E)]]
 [[900 Hz (E)]]

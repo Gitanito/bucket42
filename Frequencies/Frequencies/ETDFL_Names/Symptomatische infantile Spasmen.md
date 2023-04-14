@@ -1,3 +1,4 @@
+#Krankheiten/SymptomatischeinfantileSpasmen
 Symptomatische infantile Spasmen
 [[6000 Hz (E)]]
 [[320 Hz (E)]]

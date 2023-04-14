@@ -1,3 +1,4 @@
+#Krankheiten/Bronchitis
 > Als **Bronchitis** (altgriechisch βρώνχη brónchē „Kehle“; Plural Bronchitiden) wird die Entzündung der Bronchien bezeichnet.
 >
 > Aufgrund klinisch bedeutsamer Unterschiede erfolgt eine Einteilung in:

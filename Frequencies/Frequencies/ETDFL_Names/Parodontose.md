@@ -1,3 +1,4 @@
+#Krankheiten/Parodontose
 Parodontose
 [[60 Hz (E)]]
 [[320 Hz (E)]]

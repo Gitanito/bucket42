@@ -1,3 +1,4 @@
+#Krankheiten/Pannikulitis
 Pannikulitis
 [[80 Hz (E)]]
 [[490 Hz (E)]]

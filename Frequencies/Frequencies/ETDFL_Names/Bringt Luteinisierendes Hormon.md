@@ -1,3 +1,4 @@
+#Krankheiten/BringtLuteinisierendesHormon
 Bringt Luteinisierendes Hormon
 [[130 Hz (E)]]
 [[350 Hz (E)]]

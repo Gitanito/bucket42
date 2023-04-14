@@ -1,3 +1,4 @@
+#Krankheiten/Osteomalazie
 Osteomalazie
 [[100 Hz (E)]]
 [[220 Hz (E)]]

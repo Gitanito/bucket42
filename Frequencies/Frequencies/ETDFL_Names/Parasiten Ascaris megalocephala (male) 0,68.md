@@ -1,3 +1,4 @@
+#Krankheiten/ParasitenAscarismegalocephala(male)0_68
 Parasiten Ascaris megalocephala (male) 0,68
 [[900 Hz (E)]]
 [[2500 Hz (E)]]

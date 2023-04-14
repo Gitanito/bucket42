@@ -1,3 +1,4 @@
+#Körperteile/Gehirn
 > Als **Gehirn** oder Hirn (althochdeutsch hirni, hirne; lateinisch cerebrum, allein noch fachsprachlich Cerebrum und ansonsten seit 1901 weiter eingedeutscht Zerebrum geschrieben) wird bei Wirbeltieren einschließlich des Menschen und bei einigen Wirbellosen der im Kopf gelegene Teil des zentralen Nervensystems bezeichnet. Das Gehirn, anatomisch Enzephalon bzw. Enkephalon genannt (zu altgriechisch ἐγκέφαλος engéphalos sowie ἐν en, deutsch ‚in‘ und κεφαλή kephalē, deutsch ‚Kopf‘), liegt bei Wirbeltieren geschützt in der Schädelhöhle, wird von Hirnhäuten umhüllt und besteht hauptsächlich aus Nervengewebe. In Höhe des Foramen magnum geht es in das Rückenmark über, beide zusammen bilden das Zentralnervensystem (ZNS). Mit Erkrankungen des Gehirns (Hirnpathologie) befasst sich die Neurologie.
 >
 > [Wikipedia](https://de.wikipedia.org/wiki/Gehirn)

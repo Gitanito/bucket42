@@ -1,3 +1,4 @@
+#Krankheiten/TsutsugamushiDisease
 Tsutsugamushi Disease
 [[20 Hz (E)]]
 [[320 Hz (E)]]

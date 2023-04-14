@@ -1,3 +1,4 @@
+#Krankheiten/Phenylalanin-Hydroxylase-Mangel-Krankheit
 Phenylalanin-Hydroxylase-Mangel-Krankheit
 [[70 Hz (E)]]
 [[410 Hz (E)]]

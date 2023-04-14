@@ -1,3 +1,4 @@
+#Krankheiten/Ablatio
 > **Ablatio** (von lateinisch ablatio, „Entfernung“) steht für:
 >
 > Ablation (Medizin), das Entfernen von Körpergewebe

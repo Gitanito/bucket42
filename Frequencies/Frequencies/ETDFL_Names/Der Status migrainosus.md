@@ -1,3 +1,4 @@
+#Krankheiten/DerStatusmigrainosus
 Der Status migrainosus
 [[150 Hz (E)]]
 [[180 Hz (E)]]

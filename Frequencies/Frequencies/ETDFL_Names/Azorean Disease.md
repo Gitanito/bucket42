@@ -1,3 +1,4 @@
+#Krankheiten/AzoreanDisease
 Azorean Disease
 [[140 Hz (E)]]
 [[250 Hz (E)]]

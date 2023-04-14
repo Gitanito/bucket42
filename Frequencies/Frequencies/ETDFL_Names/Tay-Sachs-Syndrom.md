@@ -1,3 +1,4 @@
+#Krankheiten/Tay-Sachs-Syndrom
 Tay-Sachs-Syndrom
 [[200 Hz (E)]]
 [[120 Hz (E)]]

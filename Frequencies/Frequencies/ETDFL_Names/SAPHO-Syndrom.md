@@ -1,3 +1,4 @@
+#Krankheiten/SAPHO-Syndrom
 SAPHO-Syndrom
 [[150 Hz (E)]]
 [[5580 Hz (E)]]

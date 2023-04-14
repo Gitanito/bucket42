@@ -1,3 +1,4 @@
+#Krankheiten/ParasitenStrongyloides(filariformLarve)0_68
 Parasiten Strongyloides (filariform Larve) 0,68
 [[900 Hz (E)]]
 [[2500 Hz (E)]]

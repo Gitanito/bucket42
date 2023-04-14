@@ -1,3 +1,4 @@
+#Krankheiten/PulsierenderTinnitus
 Pulsierender Tinnitus
 [[70 Hz (E)]]
 [[240 Hz (E)]]

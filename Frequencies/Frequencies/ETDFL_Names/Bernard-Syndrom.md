@@ -1,3 +1,4 @@
+#Krankheiten/Bernard-Syndrom
 Bernard-Syndrom
 [[70 Hz (E)]]
 [[500 Hz (E)]]

@@ -1,3 +1,4 @@
+#Krankheiten/Brucellose
 > Die **Brucellose**, benannt nach David Bruce, dem Entdecker des Maltafiebers, ist eine Infektionskrankheit, die durch die gramnegativen, aeroben Stäbchenbakterien der Gattung Brucella (genannt auch Bang-Bakterien) verursacht wird. Die unter anderem durch ein wellenförmig verlaufendes (undulierendes) Fieber (Febris undulans, wellenförmige Fieberschübe) gekennzeichnete Brucellose tritt sowohl bei Tieren als auch bei Menschen auf.
 >
 > Je nach verursachender Brucellenspezies werden bzw. wurden Brucellosen bezeichnet als

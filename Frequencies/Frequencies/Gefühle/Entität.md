@@ -1,3 +1,4 @@
+#Gefühle/Entität
 > **Entität** (mittellateinisch entitas, zu spätlateinisch ens ‚seiend, Ding‘) ist in der Philosophie ein Grundbegriff der Ontologie, der in zwei Bedeutungen verwendet wird:
 >
 > Zum einen bezeichnet er etwas, das existiert, ein Seiendes, einen konkreten oder abstrakten Gegenstand. In diesem Sinn wird der Begriff der Entität in der Regel als Sammelbegriff verwendet, um so unterschiedliche Gegenstände wie Dinge, Eigenschaften, Relationen, Sachverhalte oder Ereignisse auf einmal anzusprechen. Dies ist die im zeitgenössischen Sprachgebrauch gängige Verwendung.

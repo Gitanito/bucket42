@@ -1,3 +1,4 @@
+#Krankheiten/CanavanVBogaert-Bertrand
 Canavan VBogaert-Bertrand
 [[20 Hz (E)]]
 [[970 Hz (E)]]

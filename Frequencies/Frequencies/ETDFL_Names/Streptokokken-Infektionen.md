@@ -1,3 +1,4 @@
+#Krankheiten/Streptokokken-Infektionen
 Streptokokken-Infektionen
 [[150 Hz (E)]]
 [[700 Hz (E)]]

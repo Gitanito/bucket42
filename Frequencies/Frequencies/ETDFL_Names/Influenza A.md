@@ -1,3 +1,4 @@
+#Krankheiten/InfluenzaA
 Influenza A
 [[250 Hz (E)]]
 [[20 Hz (E)]]

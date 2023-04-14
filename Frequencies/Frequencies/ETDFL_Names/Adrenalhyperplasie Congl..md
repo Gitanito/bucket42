@@ -1,3 +1,4 @@
+#Krankheiten/AdrenalhyperplasieCongl.
 Adrenalhyperplasie Congl.
 [[220 Hz (E)]]
 [[970 Hz (E)]]

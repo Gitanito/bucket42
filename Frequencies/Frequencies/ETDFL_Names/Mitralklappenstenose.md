@@ -1,3 +1,4 @@
+#Krankheiten/Mitralklappenstenose
 Mitralklappenstenose
 [[40 Hz (E)]]
 [[240 Hz (E)]]

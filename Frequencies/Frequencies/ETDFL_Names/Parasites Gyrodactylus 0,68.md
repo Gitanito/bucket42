@@ -1,3 +1,4 @@
+#Krankheiten/ParasitesGyrodactylus0_68
 Parasites Gyrodactylus 0,68
 [[900 Hz (E)]]
 [[2500 Hz (E)]]

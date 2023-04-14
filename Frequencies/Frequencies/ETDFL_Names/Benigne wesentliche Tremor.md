@@ -1,3 +1,4 @@
+#Krankheiten/BenignewesentlicheTremor
 Benigne wesentliche Tremor
 [[110 Hz (E)]]
 [[570 Hz (E)]]

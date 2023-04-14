@@ -1,3 +1,4 @@
+#Krankheiten/SupranukleärerLähmung
 Supranukleärer Lähmung
 [[180 Hz (E)]]
 [[220 Hz (E)]]

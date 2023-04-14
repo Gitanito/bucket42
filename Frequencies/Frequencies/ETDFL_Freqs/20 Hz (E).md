@@ -1,3 +1,4 @@
+#Frequenzen/20Hz
 20 Hz (E)
 [[Addison-Anämie]]
 [[Adhäsionen]]

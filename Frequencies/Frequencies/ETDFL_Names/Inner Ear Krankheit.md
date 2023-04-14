@@ -1,3 +1,4 @@
+#Krankheiten/InnerEarKrankheit
 Inner Ear Krankheit
 [[110 Hz (E)]]
 [[240 Hz (E)]]

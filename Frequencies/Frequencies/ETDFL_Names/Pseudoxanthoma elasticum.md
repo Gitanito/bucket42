@@ -1,3 +1,4 @@
+#Krankheiten/Pseudoxanthomaelasticum
 Pseudoxanthoma elasticum
 [[160 Hz (E)]]
 [[350 Hz (E)]]

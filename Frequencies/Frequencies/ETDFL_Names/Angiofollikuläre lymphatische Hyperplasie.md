@@ -1,3 +1,4 @@
+#Krankheiten/AngiofollikulärelymphatischeHyperplasie
 Angiofollikuläre lymphatische Hyperplasie
 [[40 Hz (E)]]
 [[500 Hz (E)]]

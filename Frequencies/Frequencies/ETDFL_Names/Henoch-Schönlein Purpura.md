@@ -1,3 +1,4 @@
+#Krankheiten/Henoch-SchönleinPurpura
 Henoch-Schönlein Purpura
 [[130 Hz (E)]]
 [[230 Hz (E)]]

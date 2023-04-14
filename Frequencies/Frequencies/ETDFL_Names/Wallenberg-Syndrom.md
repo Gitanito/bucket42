@@ -1,3 +1,4 @@
+#Krankheiten/Wallenberg-Syndrom
 Wallenberg-Syndrom
 [[30 Hz (E)]]
 [[500 Hz (E)]]

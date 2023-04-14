@@ -1,3 +1,4 @@
+#Gefühle/Plato
 > **Plato**n (altgriechisch Πλάτων Plátōn, latinisiert Plato; * 428/427 v. Chr. in Athen oder Aigina; † 348/347 v. Chr. in Athen) war ein antiker griechischer Philosoph.
 >
 > Er war Schüler des Sokrates, dessen Denken und Methode er in vielen seiner Werke schilderte. Die Vielseitigkeit seiner Begabungen und die Originalität seiner wegweisenden Leistungen als Denker und Schriftsteller machten Platon zu einer der bekanntesten und einflussreichsten Persönlichkeiten der Geistesgeschichte. In der Metaphysik und Erkenntnistheorie, in der Ethik, Anthropologie, Staatstheorie, Kosmologie, Kunsttheorie und Sprachphilosophie setzte er Maßstäbe auch für diejenigen, die ihm – wie sein bedeutendster Schüler Aristoteles – in zentralen Fragen widersprachen.

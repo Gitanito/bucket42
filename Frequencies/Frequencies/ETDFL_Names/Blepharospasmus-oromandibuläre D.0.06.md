@@ -1,3 +1,4 @@
+#Krankheiten/Blepharospasmus-oromandibuläreD.0.06
 Blepharospasmus-oromandibuläre D.0.06
 [[410 Hz (E)]]
 [[700 Hz (E)]]

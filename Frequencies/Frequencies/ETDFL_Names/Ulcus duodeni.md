@@ -1,3 +1,4 @@
+#Krankheiten/Ulcusduodeni
 Ulcus duodeni
 [[170 Hz (E)]]
 [[180 Hz (E)]]

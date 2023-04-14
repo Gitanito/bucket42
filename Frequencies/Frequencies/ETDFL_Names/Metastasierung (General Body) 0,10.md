@@ -1,3 +1,4 @@
+#Krankheiten/Metastasierung(GeneralBody)0_10
 Metastasierung (General Body) 0,10
 [[610 Hz (E)]]
 [[7670 Hz (E)]]

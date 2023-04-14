@@ -1,1 +1,2 @@
+#Frequenzen/5Hz
 Ungewöhnliche Problemlösung reduziert den benötigten [[Schlaf]], [[Theta]]-Klänge ersetzen die Notwendigkeit des umfassenden [[Träume]]ns; [[Entspannung]]szustände, [[Schmerzlinderung]] (berichtete [[Beta]]-[[Endorphin]]-Erhöhungen von 10-50%).

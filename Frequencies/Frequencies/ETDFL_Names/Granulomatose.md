@@ -1,3 +1,4 @@
+#Krankheiten/Granulomatose
 Granulomatose
 [[40 Hz (E)]]
 [[1520 Hz (E)]]

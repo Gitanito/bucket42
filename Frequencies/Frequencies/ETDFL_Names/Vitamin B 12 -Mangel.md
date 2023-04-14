@@ -1,3 +1,4 @@
+#Krankheiten/VitaminB12-Mangel
 Vitamin B 12 -Mangel
 [[50 Hz (E)]]
 [[410 Hz (E)]]

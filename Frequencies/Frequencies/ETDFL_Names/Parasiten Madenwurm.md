@@ -1,3 +1,4 @@
+#Krankheiten/ParasitenMadenwurm
 Parasiten Madenwurm
 [[70 Hz (E)]]
 [[520 Hz (E)]]

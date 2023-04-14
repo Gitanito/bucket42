@@ -1,3 +1,4 @@
+#Krankheiten/Zeckenparalyse
 Zeckenparalyse
 [[80 Hz (E)]]
 [[520 Hz (E)]]

@@ -1,3 +1,4 @@
+#Plants/Basilikum
 > Das **Basilikum** (Ocimum basilicum), auch Basilie, Basilienkraut oder Königskraut genannt, ist eine Gewürzpflanze aus der gleichnamigen Gattung Basilikum (Ocimum) in der Familie der Lippenblütler.
 >
 > [Wikipedia](https://de.wikipedia.org/wiki/Basilikum)

@@ -1,3 +1,4 @@
+#Krankheiten/Tineaversicolor
 Tinea versicolor
 [[50 Hz (E)]]
 [[410 Hz (E)]]

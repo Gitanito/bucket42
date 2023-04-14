@@ -1,3 +1,4 @@
+#Krankheiten/Lungensarkoidose
 Lungensarkoidose
 [[80 Hz (E)]]
 [[350 Hz (E)]]

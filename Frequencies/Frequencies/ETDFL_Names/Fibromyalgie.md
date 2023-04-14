@@ -1,3 +1,4 @@
+#Krankheiten/Fibromyalgie
 Fibromyalgie
 [[40 Hz (E)]]
 [[490 Hz (E)]]

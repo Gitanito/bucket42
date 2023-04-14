@@ -1,3 +1,4 @@
+#Krankheiten/Schulterverletzungen
 Schulterverletzungen
 [[120 Hz (E)]]
 [[5500 Hz (E)]]

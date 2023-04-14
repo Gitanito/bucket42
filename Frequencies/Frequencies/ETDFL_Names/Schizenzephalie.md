@@ -1,3 +1,4 @@
+#Krankheiten/Schizenzephalie
 Schizenzephalie
 [[190 Hz (E)]]
 [[500 Hz (E)]]

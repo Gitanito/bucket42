@@ -1,3 +1,4 @@
+#Krankheiten/AfrikanischesLymphom
 Afrikanisches Lymphom
 [[50 Hz (E)]]
 [[570 Hz (E)]]

@@ -1,3 +1,4 @@
+#Krankheiten/Wegener-Granulomatose
 Wegener-Granulomatose
 [[90 Hz (E)]]
 [[330 Hz (E)]]

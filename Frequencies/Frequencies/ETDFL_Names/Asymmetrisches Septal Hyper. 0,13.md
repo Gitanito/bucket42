@@ -1,3 +1,4 @@
+#Krankheiten/AsymmetrischesSeptalHyper.0_13
 Asymmetrisches Septal Hyper. 0,13
 [[260 Hz (E)]]
 [[20000 Hz (E)]]

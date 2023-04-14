@@ -1,3 +1,4 @@
+#Krankheiten/EctodermalDefect
 Ectodermal Defect
 [[130 Hz (E)]]
 [[520 Hz (E)]]

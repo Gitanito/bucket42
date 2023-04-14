@@ -1,3 +1,4 @@
+#Krankheiten/LeberkongenitaleAmaurose
 Leber kongenitale Amaurose
 [[200 Hz (E)]]
 [[460 Hz (E)]]

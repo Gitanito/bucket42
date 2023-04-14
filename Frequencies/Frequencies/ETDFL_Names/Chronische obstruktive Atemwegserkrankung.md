@@ -1,3 +1,4 @@
+#Krankheiten/ChronischeobstruktiveAtemwegserkrankung
 Chronische obstruktive Atemwegserkrankung
 [[370 Hz (E)]]
 [[410 Hz (E)]]

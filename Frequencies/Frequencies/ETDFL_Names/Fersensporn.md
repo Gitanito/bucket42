@@ -1,3 +1,4 @@
+#Krankheiten/Fersensporn
 Fersensporn
 [[230 Hz (E)]]
 [[600 Hz (E)]]

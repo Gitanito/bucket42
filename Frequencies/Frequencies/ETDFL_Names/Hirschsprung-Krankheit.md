@@ -1,3 +1,4 @@
+#Krankheiten/Hirschsprung-Krankheit
 Hirschsprung-Krankheit
 [[130 Hz (E)]]
 [[520 Hz (E)]]

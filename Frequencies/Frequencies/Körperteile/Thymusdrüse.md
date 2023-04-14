@@ -1,5 +1,5 @@
+#Körperteile/Thymusdrüse
 > Der Thymus (latinisiert von altgriechisch θυμός Thymos, deutsch ‚Lebenskraft, Erregung‘), oft auch die **Thymusdrüse** oder das Bries genannt, ist eine Drüse des lymphatischen Systems von Wirbeltieren und somit Teil des Immunsystems. Das Organ befindet sich bei Säugetieren kopfwärts (kranial) des Herzens im Mittelfell hinter dem Brustbein. Bei einigen Säugetieren (z. B. Paarhufer, Meerschweinchen) erstreckt es sich über den gesamten Hals, bei Vögeln ist es ausschließlich im Halsbereich ausgebildet. Mit dem Eintritt in die Geschlechtsreife bildet sich das Organ physiologisch zurück (Involution).
 >
 > Der Thymus ist ein lymphatisches Organ und vor allem während der Kindheit an der Ausbildung der spezifischen Immunabwehr maßgeblich beteiligt, insbesondere für die T-Lymphozyten. Die volkstümliche Bezeichnung „Wachstumsdrüse“ ist dahingehend berechtigt, da das Organ nur in der Phase des heranwachsenden Organismus auftritt. Mit dem Körperwachstum an sich ist es jedoch nicht assoziiert.
->
 > [Wikipedia](https://de.wikipedia.org/wiki/Thymus)

@@ -1,3 +1,4 @@
+#Krankheiten/Adnexitis
 > Bei der **Adnexitis** handelt es sich um eine Entzündung der so genannten Adnexe (dt.: Anhangsgebilde). In der Regel wird der Begriff
 >
 > in der Gynäkologie verwendet und beschreibt die Kombination der Entzündung von Eileiter (lat. Tuba uterina, griech. Salpinx, Entzündung Salpingitis) und des Eierstocks (lat. Ovarium, griechisch Oophoron, Entzündung Oophoritis). Als Synonym für die Adnexitis kann also auch der Begriff Oophorosalpingitis verwendet werden. Eine Eiteransammlung im Eileiter bezeichnet man als Pyosalpinx.

@@ -1,3 +1,4 @@
+#Krankheiten/X-chromosomaleAdrenoleukodystrophie
 X-chromosomale Adrenoleukodystrophie
 [[190 Hz (E)]]
 [[750 Hz (E)]]

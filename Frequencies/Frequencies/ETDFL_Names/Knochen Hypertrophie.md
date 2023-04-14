@@ -1,3 +1,4 @@
+#Krankheiten/KnochenHypertrophie
 Knochen Hypertrophie
 [[120 Hz (E)]]
 [[250 Hz (E)]]

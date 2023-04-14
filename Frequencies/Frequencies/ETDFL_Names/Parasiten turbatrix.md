@@ -1,3 +1,4 @@
+#Krankheiten/Parasitenturbatrix
 Parasiten turbatrix
 [[20 Hz (E)]]
 [[230 Hz (E)]]

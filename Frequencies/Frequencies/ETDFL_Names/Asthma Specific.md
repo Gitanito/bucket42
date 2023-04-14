@@ -1,3 +1,4 @@
+#Krankheiten/AsthmaSpecific
 Asthma Specific
 [[570 Hz (E)]]
 [[900 Hz (E)]]

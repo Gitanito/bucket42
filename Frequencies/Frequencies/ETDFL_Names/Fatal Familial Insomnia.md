@@ -1,3 +1,4 @@
+#Krankheiten/FatalFamilialInsomnia
 Fatal Familial Insomnia
 [[260 Hz (E)]]
 [[380 Hz (E)]]

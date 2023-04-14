@@ -1,3 +1,4 @@
+#Krankheiten/Rosenthal-Syndrom
 Rosenthal-Syndrom
 [[100 Hz (E)]]
 [[260 Hz (E)]]

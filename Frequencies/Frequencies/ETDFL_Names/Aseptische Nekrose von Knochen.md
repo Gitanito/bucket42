@@ -1,3 +1,4 @@
+#Krankheiten/AseptischeNekrosevonKnochen
 Aseptische Nekrose von Knochen
 [[130 Hz (E)]]
 [[220 Hz (E)]]

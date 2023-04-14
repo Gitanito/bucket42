@@ -1,3 +1,4 @@
+#Krankheiten/VulvarLichensclerosus
 Vulvar Lichen sclerosus
 [[30 Hz (E)]]
 [[12710 Hz (E)]]

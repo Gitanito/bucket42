@@ -1,3 +1,4 @@
+#Krankheiten/RheumatoideArthritis
 Rheumatoide Arthritis
 [[190 Hz (E)]]
 [[1000 Hz (E)]]

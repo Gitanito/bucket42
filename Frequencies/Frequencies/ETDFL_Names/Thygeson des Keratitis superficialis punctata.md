@@ -1,3 +1,4 @@
+#Krankheiten/ThygesondesKeratitissuperficialispunctata
 Thygeson des Keratitis superficialis punctata
 [[100 Hz (E)]]
 [[220 Hz (E)]]

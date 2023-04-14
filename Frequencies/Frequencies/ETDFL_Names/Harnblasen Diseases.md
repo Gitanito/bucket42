@@ -1,3 +1,4 @@
+#Krankheiten/HarnblasenDiseases
 Harnblasen Diseases
 [[40 Hz (E)]]
 [[550 Hz (E)]]

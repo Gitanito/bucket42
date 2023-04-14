@@ -1,3 +1,4 @@
+#Krankheiten/Schmerzen
 Schmerzen
 [[180 Hz (E)]]
 [[420 Hz (E)]]

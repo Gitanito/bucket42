@@ -1,3 +1,4 @@
+#Krankheiten/Hibernom
 Hibernom
 [[20 Hz (E)]]
 [[500 Hz (E)]]

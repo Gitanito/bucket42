@@ -1,3 +1,4 @@
+#Krankheiten/Kaudasyndrom
 Kaudasyndrom
 [[110 Hz (E)]]
 [[490 Hz (E)]]

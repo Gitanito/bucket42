@@ -1,3 +1,4 @@
+#Krankheiten/Platelet-Speicher-Pool-Mangel
 Platelet-Speicher-Pool-Mangel
 [[110 Hz (E)]]
 [[490 Hz (E)]]

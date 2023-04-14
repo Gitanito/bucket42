@@ -1,3 +1,4 @@
+#Krankheiten/KrankheitenZentralAutonomicNervensystem
 Krankheiten Zentral Autonomic Nervensystem
 [[50 Hz (E)]]
 [[370 Hz (E)]]

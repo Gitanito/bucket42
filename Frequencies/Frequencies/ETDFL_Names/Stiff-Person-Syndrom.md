@@ -1,3 +1,4 @@
+#Krankheiten/Stiff-Person-Syndrom
 Stiff-Person-Syndrom
 [[140 Hz (E)]]
 [[950 Hz (E)]]

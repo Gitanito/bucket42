@@ -1,3 +1,4 @@
+#Krankheiten/MorgellonsChronic(RupturesundFiberWucherungen)
 Morgellons Chronic (Ruptures und Fiber Wucherungen)
 [[300 Hz (E)]]
 [[680 Hz (E)]]

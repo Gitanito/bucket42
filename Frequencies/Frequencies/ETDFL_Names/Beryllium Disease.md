@@ -1,3 +1,4 @@
+#Krankheiten/BerylliumDisease
 Beryllium Disease
 [[140 Hz (E)]]
 [[260 Hz (E)]]

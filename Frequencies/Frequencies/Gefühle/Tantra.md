@@ -1,3 +1,4 @@
+#Gefühle/Tantra
 > **Tantra** (sanskritisch तन्त्र, Neutrum, „Gewebe, Kontinuum, Zusammenhang“) oder Tantrismus bezeichnet verschiedene Strömungen innerhalb der indischen Philosophie und Religion, die zunächst als esoterische Form des Hinduismus und später des Buddhismus innerhalb der nördlichen Mahayana-Tradition entstanden. Die Ursprünge des Tantra beginnen im 2. Jahrhundert, in voller Ausprägung liegen Lehren frühestens ab dem 7./8. Jahrhundert vor. Im Buddhismus findet sich auch die Bezeichnung als Tantrayana („Fahrzeug der Tantra-Texte“, vergleiche Vajrayana). In fast allen tantrischen Schulen und Richtungen ist die Verehrung und Huldigung der weiblichen Gottheit zentral. Eine solche Verehrung gab es bereits in altvedischer Zeit (1750–1200 v. Chr.). Tantra verbindet Sinnlichkeit mit Spiritualität (vergleiche auch Neo-Tantra).
 >
 > [Wikipedia](https://de.wikipedia.org/wiki/Tantra)

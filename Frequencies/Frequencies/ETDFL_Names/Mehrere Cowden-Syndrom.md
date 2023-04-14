@@ -1,3 +1,4 @@
+#Krankheiten/MehrereCowden-Syndrom
 Mehrere Cowden-Syndrom
 [[60 Hz (E)]]
 [[260 Hz (E)]]

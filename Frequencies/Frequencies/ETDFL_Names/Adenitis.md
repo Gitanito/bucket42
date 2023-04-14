@@ -1,3 +1,4 @@
+#Krankheiten/Adenitis
 > **Adenitis** (von altgriechisch αδήν adēn [Gen. ἀδένος adénos] „Drüse“ und -itis, Endung für eine entzündliche Krankheit) bezeichnet eine Entzündung einer Drüse. Da auch Lymphknoten historisch als Lymphdrüsen bezeichnet wurden, enthalten auch die Namen für Entzündungen der Lymphknoten häufig den Namensbestandteil Adenitis oder speziell Lymphadenitis. Sind mehrere Drüsen oder Lymphknoten betroffen, spricht man von einer Polyadenitis.
 >
 > Die häufigsten Entzündungen der Drüsen sind bakteriell, viral oder autoimmun bedingt.

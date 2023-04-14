@@ -1,3 +1,4 @@
+#Krankheiten/Furunkel
 Furunkel
 [[200 Hz (E)]]
 [[460 Hz (E)]]

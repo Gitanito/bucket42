@@ -1,3 +1,4 @@
+#Krankheiten/Pyorrheaalveolaris
 Pyorrhea alveolaris
 [[60 Hz (E)]]
 [[320 Hz (E)]]

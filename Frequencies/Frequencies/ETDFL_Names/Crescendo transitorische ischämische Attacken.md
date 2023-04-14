@@ -1,3 +1,4 @@
+#Krankheiten/CrescendotransitorischeischämischeAttacken
 Crescendo transitorische ischämische Attacken
 [[170 Hz (E)]]
 [[400 Hz (E)]]

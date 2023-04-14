@@ -1,3 +1,4 @@
+#Krankheiten/Schmidt-Syndrom
 Schmidt-Syndrom
 [[50 Hz (E)]]
 [[260 Hz (E)]]

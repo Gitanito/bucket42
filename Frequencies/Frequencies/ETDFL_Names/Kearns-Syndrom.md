@@ -1,3 +1,4 @@
+#Krankheiten/Kearns-Syndrom
 Kearns-Syndrom
 [[150 Hz (E)]]
 [[350 Hz (E)]]

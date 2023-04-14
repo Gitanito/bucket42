@@ -1,3 +1,4 @@
+#Frequenzen/50Hz
 50 Hz (E)
 [[Afrikanisches Lymphom]]
 [[Akne]]

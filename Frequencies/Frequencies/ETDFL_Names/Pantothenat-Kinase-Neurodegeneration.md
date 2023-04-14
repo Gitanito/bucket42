@@ -1,3 +1,4 @@
+#Krankheiten/Pantothenat-Kinase-Neurodegeneration
 Pantothenat-Kinase-Neurodegeneration
 [[160 Hz (E)]]
 [[350 Hz (E)]]

@@ -1,3 +1,4 @@
+#Krankheiten/EndokrinerKrebs
 Endokriner Krebs
 [[140 Hz (E)]]
 [[460 Hz (E)]]

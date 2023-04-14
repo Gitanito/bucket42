@@ -1,3 +1,4 @@
+#Krankheiten/IdiopathischeParkinson-Krankheit
 Idiopathische Parkinson-Krankheit
 [[80 Hz (E)]]
 [[350 Hz (E)]]

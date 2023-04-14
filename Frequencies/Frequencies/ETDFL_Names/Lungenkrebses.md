@@ -1,3 +1,4 @@
+#Krankheiten/Lungenkrebses
 Lungenkrebses
 [[230 Hz (E)]]
 [[410 Hz (E)]]

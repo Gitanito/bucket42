@@ -1,3 +1,4 @@
+#Krankheiten/Glycogenose
 Glycogenose
 [[30 Hz (E)]]
 [[370 Hz (E)]]

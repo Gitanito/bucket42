@@ -1,3 +1,4 @@
+#Krankheiten/ParasympathikusDiseases
 Parasympathikus Diseases
 [[50 Hz (E)]]
 [[370 Hz (E)]]

@@ -1,3 +1,4 @@
+#Krankheiten/SalmonellaenteriditisGut
 Salmonella enteriditis Gut
 [[180 Hz (E)]]
 [[570 Hz (E)]]

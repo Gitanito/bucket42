@@ -1,3 +1,4 @@
+#Krankheiten/Corticobasaler(CBGD)
 Corticobasaler (CBGD)
 [[120 Hz (E)]]
 [[270 Hz (E)]]

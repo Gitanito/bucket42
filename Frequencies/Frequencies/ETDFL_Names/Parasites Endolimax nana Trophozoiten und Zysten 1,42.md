@@ -1,3 +1,4 @@
+#Krankheiten/ParasitesEndolimaxnanaTrophozoitenundZysten1_42
 Parasites Endolimax nana Trophozoiten und Zysten 1,42
 [[4320 Hz (E)]]
 [[5500 Hz (E)]]

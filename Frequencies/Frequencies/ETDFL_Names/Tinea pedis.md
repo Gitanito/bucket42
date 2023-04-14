@@ -1,3 +1,4 @@
+#Krankheiten/Tineapedis
 Tinea pedis
 [[20 Hz (E)]]
 [[750 Hz (E)]]

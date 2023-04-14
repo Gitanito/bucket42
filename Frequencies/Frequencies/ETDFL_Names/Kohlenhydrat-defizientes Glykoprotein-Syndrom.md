@@ -1,3 +1,4 @@
+#Krankheiten/Kohlenhydrat-defizientesGlykoprotein-Syndrom
 Kohlenhydrat-defizientes Glykoprotein-Syndrom
 [[180 Hz (E)]]
 [[600 Hz (E)]]

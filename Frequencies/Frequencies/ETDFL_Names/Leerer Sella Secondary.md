@@ -1,3 +1,4 @@
+#Krankheiten/LeererSellaSecondary
 Leerer Sella Secondary
 [[120 Hz (E)]]
 [[9550 Hz (E)]]

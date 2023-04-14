@@ -1,3 +1,4 @@
+#Krankheiten/KostoklavikulärenSyndrom
 Kostoklavikulären Syndrom
 [[20 Hz (E)]]
 [[400 Hz (E)]]

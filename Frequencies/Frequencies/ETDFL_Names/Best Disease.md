@@ -1,3 +1,4 @@
+#Krankheiten/BestDisease
 Best Disease
 [[150 Hz (E)]]
 [[180 Hz (E)]]

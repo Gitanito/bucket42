@@ -1,3 +1,4 @@
+#Krankheiten/Nierenversagen
 Nierenversagen
 [[130 Hz (E)]]
 [[180 Hz (E)]]

@@ -1,3 +1,4 @@
+#Krankheiten/MixedConnectiveTissue
 Mixed Connective Tissue
 [[80 Hz (E)]]
 [[260 Hz (E)]]

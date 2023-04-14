@@ -1,3 +1,4 @@
+#Krankheiten/Laryngoparalyse
 Laryngoparalyse
 [[80 Hz (E)]]
 [[120 Hz (E)]]

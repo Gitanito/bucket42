@@ -1,3 +1,4 @@
+#Gefühle/OM
 > **OM** steht als Abkürzung für:
 >
 > MIAT Mongolian Airlines, mongolische Fluggesellschaft (IATA-Code)

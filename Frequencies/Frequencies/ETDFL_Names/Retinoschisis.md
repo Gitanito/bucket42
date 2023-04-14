@@ -1,3 +1,4 @@
+#Krankheiten/Retinoschisis
 Retinoschisis
 [[40 Hz (E)]]
 [[120 Hz (E)]]

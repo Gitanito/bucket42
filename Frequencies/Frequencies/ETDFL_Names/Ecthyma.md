@@ -1,3 +1,4 @@
+#Krankheiten/Ecthyma
 Ecthyma
 [[150 Hz (E)]]
 [[830 Hz (E)]]

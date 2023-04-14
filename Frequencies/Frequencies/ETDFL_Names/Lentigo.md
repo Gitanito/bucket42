@@ -1,3 +1,4 @@
+#Krankheiten/Lentigo
 Lentigo
 [[100 Hz (E)]]
 [[570 Hz (E)]]

@@ -1,3 +1,4 @@
+#Krankheiten/Hirngefäßspasmen
 Hirngefäßspasmen
 [[190 Hz (E)]]
 [[260 Hz (E)]]

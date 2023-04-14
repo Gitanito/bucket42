@@ -1,3 +1,4 @@
+#Krankheiten/HyperimmunoglobulinE-rezidivierendeInfektionSyndrom
 Hyperimmunoglobulin E-rezidivierende Infektion Syndrom
 [[130 Hz (E)]]
 [[230 Hz (E)]]

@@ -1,3 +1,4 @@
+#Krankheiten/CankerSore
 Canker Sore
 [[50 Hz (E)]]
 [[410 Hz (E)]]

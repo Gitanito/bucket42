@@ -1,3 +1,4 @@
+#Krankheiten/Thyroiditis(Autoimmun-)0_14
 Thyroiditis (Autoimmun-) 0,14
 [[250 Hz (E)]]
 [[600 Hz (E)]]

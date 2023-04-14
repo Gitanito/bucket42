@@ -1,3 +1,4 @@
+#Gefühle/physisch
 > **physisch** (von altgriechisch physis „körperliche Beschaffenheit“) bezieht sich auf:
 >
 > Konzept von greifbar-körperlich Vorhandenem in Philosophie und Humanwissenschaften, siehe Physis

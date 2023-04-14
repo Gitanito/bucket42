@@ -1,3 +1,4 @@
+#Krankheiten/ComplexRegionalPainSyndrome
 Complex Regional Pain Syndrome
 [[110 Hz (E)]]
 [[4140 Hz (E)]]

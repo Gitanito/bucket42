@@ -1,3 +1,4 @@
+#Krankheiten/Parodontalerkrankungen
 Parodontalerkrankungen
 [[60 Hz (E)]]
 [[320 Hz (E)]]

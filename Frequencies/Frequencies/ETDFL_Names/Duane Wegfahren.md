@@ -1,3 +1,4 @@
+#Krankheiten/DuaneWegfahren
 Duane Wegfahren
 [[40 Hz (E)]]
 [[9460 Hz (E)]]

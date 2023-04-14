@@ -1,3 +1,4 @@
+#Krankheiten/Lentiginosis
 Lentiginosis
 [[100 Hz (E)]]
 [[570 Hz (E)]]

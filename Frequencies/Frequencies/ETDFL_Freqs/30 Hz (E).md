@@ -1,3 +1,4 @@
+#Frequenzen/30Hz
 30 Hz (E)
 [[Adenomyose]]
 [[Ahornsiruperkrankung]]

@@ -1,3 +1,4 @@
+#Krankheiten/Hitzewallungen
 Hitzewallungen
 [[190 Hz (E)]]
 [[270 Hz (E)]]

@@ -1,3 +1,4 @@
+#Krankheiten/ParasitenTrichinellaspiralis(Muskel)0_68
 Parasiten Trichinella spiralis (Muskel) 0,68
 [[900 Hz (E)]]
 [[2500 Hz (E)]]

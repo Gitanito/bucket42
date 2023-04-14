@@ -1,3 +1,4 @@
+#Krankheiten/Sharp-Syndrom
 Sharp-Syndrom
 [[80 Hz (E)]]
 [[260 Hz (E)]]

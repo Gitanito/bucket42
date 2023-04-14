@@ -1,3 +1,4 @@
+#Krankheiten/TuberöseSklerose
 Tuberöse Sklerose
 [[80 Hz (E)]]
 [[350 Hz (E)]]

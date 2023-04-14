@@ -1,3 +1,4 @@
+#Krankheiten/NeurohepaticDegeneration
 Neurohepatic Degeneration
 [[160 Hz (E)]]
 [[550 Hz (E)]]

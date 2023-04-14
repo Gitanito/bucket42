@@ -1,3 +1,4 @@
+#Krankheiten/Adiadochokinesis
 Adiadochokinesis
 [[70 Hz (E)]]
 [[830 Hz (E)]]

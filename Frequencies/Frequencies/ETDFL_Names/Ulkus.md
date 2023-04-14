@@ -1,3 +1,4 @@
+#Krankheiten/Ulkus
 Ulkus
 [[130 Hz (E)]]
 [[490 Hz (E)]]

@@ -1,3 +1,4 @@
+#Krankheiten/Tuberkulose
 Tuberkulose
 [[80 Hz (E)]]
 [[400 Hz (E)]]

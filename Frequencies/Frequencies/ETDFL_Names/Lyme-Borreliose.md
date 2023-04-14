@@ -1,3 +1,4 @@
+#Krankheiten/Lyme-Borreliose
 Lyme-Borreliose
 [[650 Hz (E)]]
 [[2500 Hz (E)]]

@@ -1,3 +1,4 @@
+#Krankheiten/TMJ-Syndrom
 TMJ-Syndrom
 [[160 Hz (E)]]
 [[550 Hz (E)]]

@@ -1,3 +1,4 @@
+#Metalle/Gold
 > **Gold** (mittelhochdeutsch golt; bereits althochdeutsch gold, zu einer indogermanischen Wurzel *ghel- ‚gelb‘) ist ein chemisches Element mit dem Elementsymbol Au (lateinisch aurum) und der Ordnungszahl 79.
 >
 > Gold ist ein gelbglänzendes Metall und steht im Periodensystem in der 1. Nebengruppe (Gruppe 11), zusammen mit Kupfer und Silber, der Kupfergruppe. Die drei Metalle werden auch als Münzmetalle bezeichnet. Gold gehört zu den Übergangsmetallen.

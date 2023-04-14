@@ -1,3 +1,4 @@
+#Krankheiten/SickBuildingSyndrome
 Sick Building Syndrome
 [[20 Hz (E)]]
 [[770 Hz (E)]]

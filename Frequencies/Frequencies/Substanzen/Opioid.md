@@ -1,7 +1,6 @@
+#Substanzen/Opioid
 > **Opioid**e (von altgriechisch ὄπιον ópion [ˈɔpiɔn], deutsch ‚Mohnsaft, Opium‘ und mittelgriechisch εἶδος eidos [ˈiðɔs], deutsch ‚Gestalt‘, zusammen „dem Opium ähnlich“) ist ein Sammelbegriff für eine chemisch heterogene (uneinheitliche) Gruppe natürlicher und synthetischer sowie semisynthetischer Substanzen, die morphinartige Eigenschaften aufweisen und an Opioidrezeptoren wirksam sind. Der Begriff Opiat steht hingegen nur für die natürlicherweise im Opium vorkommenden Stoffe mit dieser Wirkung, die chemisch Alkaloide darstellen und aus dem Schlafmohn (Papaver somniferum) gewonnen werden.
 >
 > Man unterscheidet körpereigene (endogene) Opioide, die eine Rolle bei der Schmerzunterdrückung im Rahmen der Stressreaktion spielen, von therapeutisch oder missbräuchlich zugeführten (exogenen) Opioiden.
->
 > Das Wirkspektrum von Opioiden ist komplex und sehr unterschiedlich. Die wichtigste Wirkung ist eine starke Schmerzlinderung (Analgesie) bei geringen kardiovaskulären Nebenwirkungen, was Opioide, genannt dann auch Opioid-Analgetika, zu unverzichtbaren und vielgenutzten Arzneimitteln in der Schmerztherapie, Anästhesie und anderen Einsatzbereichen macht. Unter den vielfältigen weiteren Wirkungen sind Sedierung und ein häufig euphorisierender Effekt zu nennen; ebenfalls sehr häufig tritt Obstipation (Verstopfung), oder Vigilanzminderung, sowie eine mögliche Entwicklung einer Abhängigkeit auf. Auch kann es vor allem durch Überdosierung oder Wechselwirkungen zu Atemdepression kommen.
->
 > [Wikipedia](https://de.wikipedia.org/wiki/Opioide)

@@ -1,3 +1,4 @@
+#Krankheiten/ChondromalaziePatellae
 Chondromalazie Patellae
 [[40 Hz (E)]]
 [[230 Hz (E)]]

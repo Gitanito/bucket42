@@ -1,3 +1,4 @@
+#Planeten/Kosmos
 > **Kosmos** (griechisch κόσμος kósmos ‚Ordnung‘, ‚Weltordnung‘, auch ‚Schmuck‘, ‚Glanz‘, ‚Ehre‘, ‚militärische Ordnung‘, ‚staatliche Ordnung‘, ,Verfassung‘) bzw. Cosmos bezeichnet:
 >
 > Universum, das gesamte Weltall

@@ -1,3 +1,4 @@
+#Krankheiten/DiabetesKetose-Neigt
 Diabetes Ketose-Neigt
 [[150 Hz (E)]]
 [[890 Hz (E)]]

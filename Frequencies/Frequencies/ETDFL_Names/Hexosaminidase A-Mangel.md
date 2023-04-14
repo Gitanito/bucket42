@@ -1,3 +1,4 @@
+#Krankheiten/HexosaminidaseA-Mangel
 Hexosaminidase A-Mangel
 [[200 Hz (E)]]
 [[120 Hz (E)]]

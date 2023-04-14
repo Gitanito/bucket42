@@ -1,3 +1,4 @@
+#Krankheiten/Shigella-Infektionen(GEN)
 Shigella-Infektionen (GEN)
 [[3000 Hz (E)]]
 [[73300 Hz (E)]]

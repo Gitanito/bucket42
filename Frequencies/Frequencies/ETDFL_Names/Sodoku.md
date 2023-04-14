@@ -1,3 +1,4 @@
+#Krankheiten/Sodoku
 Sodoku
 [[170 Hz (E)]]
 [[550 Hz (E)]]

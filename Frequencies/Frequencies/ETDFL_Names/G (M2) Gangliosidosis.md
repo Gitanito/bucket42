@@ -1,3 +1,4 @@
+#Krankheiten/G(M2)Gangliosidosis
 G (M2) Gangliosidosis
 [[200 Hz (E)]]
 [[120 Hz (E)]]

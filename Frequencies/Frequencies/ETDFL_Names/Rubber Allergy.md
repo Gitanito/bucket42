@@ -1,3 +1,4 @@
+#Krankheiten/RubberAllergy
 Rubber Allergy
 [[150 Hz (E)]]
 [[230 Hz (E)]]

@@ -1,3 +1,4 @@
+#Krankheiten/Dermatolysis
 Dermatolysis
 [[40 Hz (E)]]
 [[370 Hz (E)]]

@@ -1,3 +1,4 @@
+#Krankheiten/PeriphereNervensystem-Krankheiten
 Periphere Nervensystem-Krankheiten
 [[70 Hz (E)]]
 [[240 Hz (E)]]

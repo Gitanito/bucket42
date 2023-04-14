@@ -1,3 +1,4 @@
+#Gefühle/Raum
 > **Raum** (vgl. althochdeutsch rūmi „weit“, „geräumig“) steht für:
 >
 > Zimmer, ein zum Nutzen verwendeter, umschlossener Teil eines Gebäudes

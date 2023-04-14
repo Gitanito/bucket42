@@ -1,3 +1,4 @@
+#Krankheiten/Hyperhidrosis
 Hyperhidrosis
 [[60 Hz (E)]]
 [[120 Hz (E)]]

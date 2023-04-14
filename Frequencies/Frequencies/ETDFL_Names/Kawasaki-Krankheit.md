@@ -1,3 +1,4 @@
+#Krankheiten/Kawasaki-Krankheit
 Kawasaki-Krankheit
 [[40 Hz (E)]]
 [[240 Hz (E)]]

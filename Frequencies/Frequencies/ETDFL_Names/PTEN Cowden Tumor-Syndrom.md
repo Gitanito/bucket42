@@ -1,3 +1,4 @@
+#Krankheiten/PTENCowdenTumor-Syndrom
 PTEN Cowden Tumor-Syndrom
 [[60 Hz (E)]]
 [[260 Hz (E)]]

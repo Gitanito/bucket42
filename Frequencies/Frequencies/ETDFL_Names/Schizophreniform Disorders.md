@@ -1,3 +1,4 @@
+#Krankheiten/SchizophreniformDisorders
 Schizophreniform Disorders
 [[570 Hz (E)]]
 [[680 Hz (E)]]

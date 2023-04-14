@@ -1,3 +1,4 @@
+#Krankheiten/ZerebraleAnoxie
 Zerebrale Anoxie
 [[150 Hz (E)]]
 [[180 Hz (E)]]

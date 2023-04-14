@@ -1,3 +1,4 @@
+#Krankheiten/Systemicinflammatoryresponsesyndrome
 Systemic inflammatory response syndrome
 [[130 Hz (E)]]
 [[430 Hz (E)]]

@@ -1,3 +1,4 @@
+#Krankheiten/LactoseMalabsorption
 Lactose Malabsorption
 [[130 Hz (E)]]
 [[250 Hz (E)]]

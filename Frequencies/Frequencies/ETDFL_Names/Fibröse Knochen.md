@@ -1,3 +1,4 @@
+#Krankheiten/FibröseKnochen
 Fibröse Knochen
 [[130 Hz (E)]]
 [[570 Hz (E)]]

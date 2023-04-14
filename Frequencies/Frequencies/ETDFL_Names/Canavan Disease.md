@@ -1,3 +1,4 @@
+#Krankheiten/CanavanDisease
 Canavan Disease
 [[20 Hz (E)]]
 [[970 Hz (E)]]

@@ -1,3 +1,4 @@
+#Krankheiten/LungAbszess
 Lung Abszess
 [[40 Hz (E)]]
 [[240 Hz (E)]]

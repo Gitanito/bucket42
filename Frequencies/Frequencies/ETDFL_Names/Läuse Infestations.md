@@ -1,3 +1,4 @@
+#Krankheiten/LäuseInfestations
 Läuse Infestations
 [[30 Hz (E)]]
 [[410 Hz (E)]]

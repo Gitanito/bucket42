@@ -1,3 +1,4 @@
+#Krankheiten/Maul-undKlauenseuche
 Maul- und Klauenseuche
 [[120 Hz (E)]]
 [[550 Hz (E)]]

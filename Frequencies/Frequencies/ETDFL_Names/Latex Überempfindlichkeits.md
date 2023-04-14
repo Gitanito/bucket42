@@ -1,3 +1,4 @@
+#Krankheiten/LatexÜberempfindlichkeits
 Latex Überempfindlichkeits
 [[150 Hz (E)]]
 [[230 Hz (E)]]

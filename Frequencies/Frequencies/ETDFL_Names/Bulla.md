@@ -1,3 +1,4 @@
+#Krankheiten/Bulla
 > **Bulla** steht für:
 >
 > Bulla (Anatomie), knöcherne, blasenartige Strukturen im Bereich des Schädels

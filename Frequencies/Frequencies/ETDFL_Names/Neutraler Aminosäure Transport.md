@@ -1,3 +1,4 @@
+#Krankheiten/NeutralerAminosäureTransport
 Neutraler Aminosäure Transport
 [[160 Hz (E)]]
 [[550 Hz (E)]]

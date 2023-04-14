@@ -1,3 +1,4 @@
+#Krankheiten/Detox
 Detox
 [[30 Hz (E)]]
 [[540 Hz (E)]]

@@ -1,3 +1,4 @@
+#Körperteile/Hoden
 > Der **Hoden** [ˈhoːdn̩] oder (seltener) der oder die Hode [ˈhoːdə] (über mittelhochdeutsch hōde und althochdeutsch hodo von indogermanisch *skeu(t)- „bedecken, verhüllen“) oder der Testikel (von lateinisch testiculus, Verkleinerungsform von testis „Zeuge [der Virilität], Hode“, Plural: testes; altgriechisch ὄρχις orchis), fachsprachlich auch Testis und Testiculus, ist ein paarig angelegtes, inneres männliches Geschlechtsorgan vieler sich geschlechtlich fortpflanzender Gewebetiere. Er gehört, wie der Eierstock der weiblichen Individuen, zu den Keimdrüsen (Gonaden) und produziert die Samenfäden (Spermien). Zudem werden im Hoden männliche Geschlechtshormone (Androgene), vor allem das Testosteron, gebildet. Die Hoden entstehen bei Wirbeltieren embryonal in der Bauchhöhle, wandern aber bei den meisten Säugetieren in den Hodensack (das Scrotum).
 >
 > [Wikipedia](https://de.wikipedia.org/wiki/Hoden)

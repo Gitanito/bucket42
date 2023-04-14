@@ -1,3 +1,4 @@
+#Krankheiten/Schnupfen
 > **Schnupfen** (mhd. snuppen ‚putzen‘) bezeichnet:
 >
 > Rhinitis, Entzündung der Nasenschleimhaut

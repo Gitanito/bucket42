@@ -1,3 +1,4 @@
+#Krankheiten/ParasitesStreptococcuspneumoniae
 Parasites Streptococcus pneumoniae
 [[680 Hz (E)]]
 [[900 Hz (E)]]

@@ -1,3 +1,4 @@
+#Krankheiten/ParasitenTrypanosomalewisi
 Parasiten Trypanosoma lewisi
 [[570 Hz (E)]]
 [[850 Hz (E)]]

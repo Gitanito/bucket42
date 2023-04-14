@@ -1,3 +1,4 @@
+#Krankheiten/Enthesopathie
 Enthesopathie
 [[130 Hz (E)]]
 [[230 Hz (E)]]

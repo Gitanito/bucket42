@@ -1,3 +1,4 @@
+#Krankheiten/Hemiplegie
 Hemiplegie
 [[110 Hz (E)]]
 [[490 Hz (E)]]

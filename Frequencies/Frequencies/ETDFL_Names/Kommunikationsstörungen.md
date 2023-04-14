@@ -1,3 +1,4 @@
+#Krankheiten/Kommunikationsstörungen
 Kommunikationsstörungen
 [[150 Hz (E)]]
 [[230 Hz (E)]]

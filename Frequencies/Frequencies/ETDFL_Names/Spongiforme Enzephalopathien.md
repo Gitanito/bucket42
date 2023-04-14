@@ -1,3 +1,4 @@
+#Krankheiten/SpongiformeEnzephalopathien
 Spongiforme Enzephalopathien
 [[90 Hz (E)]]
 [[230 Hz (E)]]

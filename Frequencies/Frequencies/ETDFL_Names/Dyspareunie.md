@@ -1,3 +1,4 @@
+#Krankheiten/Dyspareunie
 Dyspareunie
 [[150 Hz (E)]]
 [[180 Hz (E)]]

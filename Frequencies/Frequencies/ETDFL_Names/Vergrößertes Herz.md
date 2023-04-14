@@ -1,3 +1,4 @@
+#Krankheiten/VergrößertesHerz
 Vergrößertes Herz
 [[130 Hz (E)]]
 [[260 Hz (E)]]

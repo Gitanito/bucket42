@@ -1,3 +1,4 @@
+#Krankheiten/HMSNTypIV
 HMSN Typ IV
 [[40 Hz (E)]]
 [[410 Hz (E)]]

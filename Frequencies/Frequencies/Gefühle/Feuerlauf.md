@@ -1,3 +1,4 @@
+#Gefühle/Feuerlauf
 > Beim **Feuerlauf** (auch Pyrovasie) laufen Teilnehmer (Feuerläufer) barfuß über einen Laufsteg aus glühenden Holzkohlestücken (gemessen wurden ca. 240 bis 450 °C) oder heißen Steinen (mit geringer Wärmekapazität). In Vorbereitung auf den Lauf versetzen sich rituelle Feuerläufer oft in einen Trancezustand. Feuerläufe werden heute vielfach auch im Rahmen von (kommerziellen) Motivations- und Selbsterfahrungslehrgängen durchgeführt.
 >
 > Für das Jahr 2001 verzeichnet das Guinness-Buch der Rekorde einen Feuerlauf, bei dem 22 Menschen im Alter von 7 bis 80 Jahren einen Glutteppich von 111 Metern unversehrt überwanden. Dieser Weltrekord soll am 13. März 2003 in La Balmondière, in der Nähe von Mâcon (Frankreich), auf 222 Meter verbessert worden sein. Die 16 Teilnehmer sollen keine größeren Blessuren davongetragen haben.  Auch dieser Weltrekord wurde am 22. März 2003 in St. Lorenzen / Wechsel (Österreich) auf 250 Meter verbessert.

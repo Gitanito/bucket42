@@ -1,3 +1,4 @@
+#Krankheiten/Variola
 Variola
 [[80 Hz (E)]]
 [[350 Hz (E)]]

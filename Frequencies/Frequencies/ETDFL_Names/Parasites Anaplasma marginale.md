@@ -1,3 +1,4 @@
+#Krankheiten/ParasitesAnaplasmamarginale
 Parasites Anaplasma marginale
 [[900 Hz (E)]]
 [[2500 Hz (E)]]

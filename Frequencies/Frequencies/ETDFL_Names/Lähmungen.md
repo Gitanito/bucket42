@@ -1,3 +1,4 @@
+#Krankheiten/Lähmungen
 Lähmungen
 [[20 Hz (E)]]
 [[220 Hz (E)]]

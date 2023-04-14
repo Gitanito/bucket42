@@ -1,3 +1,4 @@
+#Krankheiten/TiefeVenenthrombosen
 Tiefe Venenthrombosen
 [[140 Hz (E)]]
 [[490 Hz (E)]]

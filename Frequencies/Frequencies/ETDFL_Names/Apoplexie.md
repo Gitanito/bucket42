@@ -1,3 +1,4 @@
+#Krankheiten/Apoplexie
 > Der Apoplex (eigentlich die **Apoplexie**, wie lateinisch Apoplexia von altgriechisch ἀποπληξία  ‚Schlag‘, in der Antike und im Mittelalter für schlagartige Ereignisse mit Bewusstseinsverlust oder mit teilweisen Lähmungserscheinungen sowie Leiden des Gehirns, die dem Körper plötzlich und unvermittelt Empfindung und Bewegung nimmt), früher auch Schlagfluss genannt, ist ein medizinischer Begriff für eine plötzliche Durchblutungsstörung eines Organs oder einer Körperregion. In der medizinischen Umgangssprache wird der Begriff heute oft als Synonym für Apoplexia cerebri (Schlaganfall) gebraucht; insbesondere früher fand er aber auch in Verbindung mit anderen Organen Verwendung, u. a. als
 >
 > Apoplexia adrenalis (Nebennieren),

@@ -1,3 +1,4 @@
+#Krankheiten/Neckache
 Neckache
 [[80 Hz (E)]]
 [[490 Hz (E)]]

@@ -1,3 +1,4 @@
+#Gefühle/Sex
 > **Sex** (Lehnwort aus der englischen Sprache, von lateinisch sexus „Geschlecht“) bezeichnet die praktische Ausübung von Sexualität als Gesamtheit der Lebensäußerungen, Verhaltensweisen, Empfindungen und Interaktionen von Lebewesen in Bezug auf ihre Geschlechtlichkeit. Alltagssprachlich bezieht sich Sex auf sexuelle Handlungen zwischen zwei oder mehreren Sexualpartnern, insbesondere den Geschlechtsverkehr und vergleichbare Sexualpraktiken, und schließt im weiteren Sinne auch die Masturbation ein (Autosexualität: Sex mit sich selber).
 >
 > [Wikipedia](https://de.wikipedia.org/wiki/Sex)

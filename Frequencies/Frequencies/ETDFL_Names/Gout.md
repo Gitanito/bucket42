@@ -1,3 +1,4 @@
+#Krankheiten/Gout
 Gout
 [[70 Hz (E)]]
 [[240 Hz (E)]]

@@ -1,3 +1,4 @@
+#Krankheiten/PemphigusVulgaris
 Pemphigus Vulgaris
 [[30 Hz (E)]]
 [[120 Hz (E)]]

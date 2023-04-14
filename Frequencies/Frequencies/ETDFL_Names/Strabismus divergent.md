@@ -1,3 +1,4 @@
+#Krankheiten/Strabismusdivergent
 Strabismus divergent
 [[150 Hz (E)]]
 [[230 Hz (E)]]

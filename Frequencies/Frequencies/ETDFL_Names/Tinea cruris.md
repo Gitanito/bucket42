@@ -1,3 +1,4 @@
+#Krankheiten/Tineacruris
 Tinea cruris
 [[20 Hz (E)]]
 [[750 Hz (E)]]

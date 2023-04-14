@@ -1,3 +1,4 @@
+#Krankheiten/Thoracic-outlet-SyndromNervenkompression
 Thoracic-outlet-Syndrom Nervenkompression
 [[20 Hz (E)]]
 [[400 Hz (E)]]

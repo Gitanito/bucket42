@@ -1,3 +1,4 @@
+#Gefühle/Gerechtigkeit
 > Der Begriff der **Gerechtigkeit** (griechisch: δικαιοσύνη dikaiosýne, lateinisch: iustitia, französisch: justice, englisch equity und justice) bezeichnet seit der antiken Philosophie in seinem Kern eine menschliche Tugend, siehe Gerechtigkeitstheorien. Gerechtigkeit ist nach dieser klassischen Auffassung ein Maßstab für ein individuelles menschliches Verhalten.
 >
 > Die Grundbedingung dafür, dass ein menschliches Verhalten als gerecht gilt, ist, dass Gleiches gleich und Ungleiches ungleich behandelt wird. Wobei in dieser Grunddefinition offen bleibt, nach welchen Wertmaßstäben zwei Einzelfälle als zueinander gleich oder ungleich zu gelten haben.

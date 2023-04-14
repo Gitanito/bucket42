@@ -1,3 +1,4 @@
+#Krankheiten/HeatStressSyndromes
 Heat Stress Syndromes
 [[70 Hz (E)]]
 [[410 Hz (E)]]

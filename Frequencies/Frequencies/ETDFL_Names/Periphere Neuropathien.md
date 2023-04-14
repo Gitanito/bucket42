@@ -1,3 +1,4 @@
+#Krankheiten/PeriphereNeuropathien
 Periphere Neuropathien
 [[70 Hz (E)]]
 [[240 Hz (E)]]

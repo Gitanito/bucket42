@@ -1,3 +1,4 @@
+#Krankheiten/NoseDiseases
 Nose Diseases
 [[180 Hz (E)]]
 [[320 Hz (E)]]

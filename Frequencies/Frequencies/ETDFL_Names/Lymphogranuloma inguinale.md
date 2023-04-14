@@ -1,3 +1,4 @@
+#Krankheiten/Lymphogranulomainguinale
 Lymphogranuloma inguinale
 [[20 Hz (E)]]
 [[120 Hz (E)]]

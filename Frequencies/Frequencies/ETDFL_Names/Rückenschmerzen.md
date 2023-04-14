@@ -1,3 +1,4 @@
+#Krankheiten/Rückenschmerzen
 Rückenschmerzen
 [[140 Hz (E)]]
 [[400 Hz (E)]]

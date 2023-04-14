@@ -1,7 +1,7 @@
+#Krankheiten/Chediak-Higashi-Syndrom
 > Das **Chediak-Higashi-Syndrom** (CHS), auch Chediak-Steinbrinck-Higashi-Syndrom,  ist eine sehr seltene Erbkrankheit, die vermehrt in jüdischen Bevölkerungsgruppen beobachtet wird.
 >
 > [Wikipedia](https://de.wikipedia.org/wiki/Chediak-Higashi-Syndrom)
-
 Chediak-Higashi-Syndrom
 [[40 Hz (E)]]
 [[120 Hz (E)]]

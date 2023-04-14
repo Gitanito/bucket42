@@ -1,3 +1,4 @@
+#Gefühle/Geschmack
 > **Geschmack** (von mhd. gesmac für ‚Duft, Gestank, das Vermögen zu schmecken, Geschmack‘) steht für:
 >
 > das Schmecken als Geschmackssinn im engeren physiologischen Sinn als Gustatorische Wahrnehmung

@@ -1,3 +1,4 @@
+#Krankheiten/ParasitesEurytremapancreaticum0_68
 Parasites Eurytrema pancreaticum 0,68
 [[900 Hz (E)]]
 [[2500 Hz (E)]]

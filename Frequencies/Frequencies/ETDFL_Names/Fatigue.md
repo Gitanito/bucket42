@@ -1,3 +1,4 @@
+#Krankheiten/Fatigue
 Fatigue
 [[40 Hz (E)]]
 [[250 Hz (E)]]

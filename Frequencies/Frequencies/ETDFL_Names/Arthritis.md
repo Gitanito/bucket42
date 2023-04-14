@@ -1,3 +1,4 @@
+#Krankheiten/Arthritis
 > Die **Arthritis** (griechisch ἀρθρῖτις arthrítis, Plural Arthritiden; von arthron „Gelenk, Glied“ und Endung -itis zur Bezeichnung einer Entzündung) ist eine entzündliche Gelenk­erkrankung, also eine Gelenkentzündung.
 >
 > Eine Arthritis kann jedes Gelenk betreffen. Der Begriff sagt nichts über die Ursache aus, die am häufigsten infektiös (durch Bakterien, Viren oder Pilze), rheumatisch (z. B. bei einer chronischen Polyarthritis), reaktiv, traumatisch oder mechanisch induziert sein kann. Die infektiöse Arthritis wird auch als septische Arthritis bezeichnet, oder bei Vorliegen von Eiter im Gelenk als Pyarthros. Ist nur ein Gelenk betroffen, handelt es sich um eine Monarthritis, bei mehreren Gelenken um eine Oligarthritis, und bei vielen Gelenken um eine Polyarthritis. Die spezifisch rheumatische Entzündung der Gelenkkapsel, die auch mit einem Gelenkerguss einhergeht, ist die Synovitis.

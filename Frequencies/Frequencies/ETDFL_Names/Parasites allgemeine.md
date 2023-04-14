@@ -1,3 +1,4 @@
+#Krankheiten/Parasitesallgemeine
 Parasites allgemeine
 [[410 Hz (E)]]
 [[600 Hz (E)]]

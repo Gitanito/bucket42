@@ -1,3 +1,4 @@
+#Krankheiten/Mundkrebs
 Mundkrebs
 [[570 Hz (E)]]
 [[15750 Hz (E)]]

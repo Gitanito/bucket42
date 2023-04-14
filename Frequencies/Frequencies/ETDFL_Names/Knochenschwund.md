@@ -1,3 +1,4 @@
+#Krankheiten/Knochenschwund
 Knochenschwund
 [[30 Hz (E)]]
 [[240 Hz (E)]]

@@ -1,3 +1,4 @@
+#Frequencies/Rife
 > **Rife** ist der Familienname folgender Personen:
 >
 > John Winebrenner Rife (1846–1908), US-amerikanischer Politiker

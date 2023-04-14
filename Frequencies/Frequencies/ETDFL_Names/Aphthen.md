@@ -1,3 +1,4 @@
+#Krankheiten/Aphthen
 > Eine Aphthe [ˈaftə] (Transliteration von altgriechisch ἄφθη, vom Verb ἅπτω haptō, deutsch ‚entfachen‘) ist eine schmerzhafte, von einem entzündlichen Randsaum umgebene Schädigung der Schleimhaut des Zahnfleischs, der Mundhöhle einschließlich der Lippen, der Tonsillen oder der Zunge. In Einzelfällen sind andere Schleimhäute, z. B. im Genitalbereich, betroffen. Es handelt sich dabei um ein Ulcus mit weißlichem Fibrinbelag. Beim gleichzeitigen Auftreten mehrerer solcher Stellen im Rahmen einer Primärinfektion spricht man vom Krankheitsbild der Stomatitis aphthosa (auch Gingivostomatitis herpetica oder Mundfäule). Treten **Aphthen** häufig wiederkehrend (rezidivierend) auf, spricht man von chronisch rezidivierender Aphthose.
 >
 > [Wikipedia](https://de.wikipedia.org/wiki/Aphthe)

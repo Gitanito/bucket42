@@ -1,3 +1,4 @@
+#Krankheiten/Quadriparese
 Quadriparese
 [[150 Hz (E)]]
 [[460 Hz (E)]]

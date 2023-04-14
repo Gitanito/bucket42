@@ -1,3 +1,4 @@
+#Krankheiten/AmyotropheLatr-Sklerose
 Amyotrophe Latr-Sklerose
 [[20 Hz (E)]]
 [[2500 Hz (E)]]

@@ -1,3 +1,4 @@
+#Krankheiten/HämorrhagischerSchock
 Hämorrhagischer Schock
 [[170 Hz (E)]]
 [[350 Hz (E)]]

@@ -1,3 +1,4 @@
+#Krankheiten/ParasitesCryptocotylelingua(Erwachsene)
 Parasites Cryptocotyle lingua (Erwachsene)
 [[680 Hz (E)]]
 [[900 Hz (E)]]

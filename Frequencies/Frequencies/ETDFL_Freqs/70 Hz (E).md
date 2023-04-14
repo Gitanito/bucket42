@@ -1,3 +1,4 @@
+#Frequenzen/70Hz
 70 Hz (E)
 [[Adiadochokinesis]]
 [[Afrikanische Schlafkrankheit]]

@@ -1,3 +1,4 @@
+#Krankheiten/ParasitenPlattwürmer
 Parasiten Plattwürmer
 [[30 Hz (E)]]
 [[240 Hz (E)]]

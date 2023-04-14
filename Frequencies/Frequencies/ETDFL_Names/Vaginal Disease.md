@@ -1,3 +1,4 @@
+#Krankheiten/VaginalDisease
 Vaginal Disease
 [[70 Hz (E)]]
 [[120 Hz (E)]]

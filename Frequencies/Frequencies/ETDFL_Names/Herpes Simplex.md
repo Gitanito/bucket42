@@ -1,3 +1,4 @@
+#Krankheiten/HerpesSimplex
 Herpes Simplex
 [[110 Hz (E)]]
 [[550 Hz (E)]]

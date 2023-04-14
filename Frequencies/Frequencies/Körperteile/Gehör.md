@@ -1,3 +1,4 @@
+#Körperteile/Gehör
 > **Gehör**, über mittelhochdeutsch gehoerde („Gehör, Hören, Gehörsinn“) sprachlich abgeleitet von hören, bezeichnet:
 >
 > eine Sinneswahrnehmung von Lebewesen, mit der Schall wahrgenommen werden kann, siehe Auditive Wahrnehmung

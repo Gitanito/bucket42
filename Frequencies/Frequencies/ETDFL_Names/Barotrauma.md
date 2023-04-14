@@ -1,3 +1,4 @@
+#Krankheiten/Barotrauma
 > Ein **Barotrauma** („Druckverletzung“, aus griechisch βάρος báros ‚Schwere‘, ‚Gewicht‘, und τραύμα trauma ‚Wunde‘) ist eine Verletzung bzw. Läsion, die durch Änderungen des Umgebungsdrucks und dessen Auswirkungen auf luft- oder gasgefüllte Hohlräume und deren Hüllen bei Lebewesen einschließlich des Menschen verursacht wird.
 >
 > Neben dem Ausmaß der Druckänderung ist auch die Geschwindigkeit der Druckänderung für das Entstehen eines Barotraumas verantwortlich. Beim Menschen können alle luft- oder gasgefüllten Hohlräume und deren Umhüllung betroffen sein, unabhängig davon, ob die Hohlräume natürlichen, künstlichen oder krankhaften Ursprungs sind. Hierzu zählen Lungen, Mittelohr (Trommelfell), Nasennebenhöhlen, Karieshöhlen und gasgefüllte Hohlräume zwischen fest anliegenden Kleidungsstücken und Haut (zum Beispiel Taucheranzug oder Tauchmaske).

@@ -1,3 +1,4 @@
+#Krankheiten/Paraplegie
 Paraplegie
 [[20 Hz (E)]]
 [[220 Hz (E)]]

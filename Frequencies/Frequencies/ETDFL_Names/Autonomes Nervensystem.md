@@ -1,3 +1,4 @@
+#Krankheiten/AutonomesNervensystem
 > Das vegetative Nervensystem (VNS), auch viszerales Nervensystem (VNS, von lateinisch viscus, „Eingeweide“), **Autonomes Nervensystem** (ANS) oder Vegetativum (englisch: autonomic nervous system, ANS) genannt, bildet zusammen mit dem somatischen Nervensystem das gesamte periphere und zentrale Nervensystem.
 >
 > Die „Autonomie“ dieser vegetativen Selbststeuerung bezieht sich darauf, dass über das VNS biologisch festliegende, automatisch ablaufende innerkörperliche Vorgänge angepasst und reguliert werden, die deswegen vom Menschen willentlich nicht direkt, sondern allenfalls indirekt beeinflusst werden können. Der Begriff „autonomes Nervensystem“ wurde von dem britischen Physiologen John Newport Langley (1852–1925) geprägt. Eine erste umfangreiche Monographie über das vegetative Nervensystem verfasste Walter Holbrook Gaskell und wurde 1916 veröffentlicht.

@@ -1,3 +1,4 @@
+#Krankheiten/ParasitenEgelLymphe
 Parasiten Egel Lymphe
 [[180 Hz (E)]]
 [[370 Hz (E)]]

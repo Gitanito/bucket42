@@ -1,3 +1,4 @@
+#Krankheiten/ToxischesSchocksyndrom
 Toxisches Schocksyndrom
 [[180 Hz (E)]]
 [[220 Hz (E)]]

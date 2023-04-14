@@ -1,3 +1,4 @@
+#Krankheiten/Bakteriämie
 > Als **Bakteriämie** wird das zeitweilige Vorhandensein von Bakterien im Blut bezeichnet, bei dem es zu keiner Vermehrung dieser Bakterien und damit auch zu keiner Absiedelung (Metastasierung) in Organen kommt. Zu einer solchen Bakterieneinsaat kann es im Rahmen eines bakteriellen Infekts, bei diagnostischen oder therapeutischen Eingriffen (z. B. einer zahnärztlichen Behandlung), aber auch schon beim Putzen der Zähne kommen.
 >
 > Bei schlechter Abwehrlage des Wirtes und konstanter oder periodischer Einschwemmung aus einem Herd (Fokus) in die Blutbahn wird die Vermehrung der Bakterien und damit die gefürchtete Sepsis (umgangssprachlich: Blutvergiftung) begünstigt.

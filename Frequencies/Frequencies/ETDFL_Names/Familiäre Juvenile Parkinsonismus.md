@@ -1,3 +1,4 @@
+#Krankheiten/FamiliäreJuvenileParkinsonismus
 Familiäre Juvenile Parkinsonismus
 [[570 Hz (E)]]
 [[780 Hz (E)]]

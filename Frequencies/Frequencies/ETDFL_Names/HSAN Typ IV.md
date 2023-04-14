@@ -1,3 +1,4 @@
+#Krankheiten/HSANTypIV
 HSAN Typ IV
 [[340 Hz (E)]]
 [[620 Hz (E)]]

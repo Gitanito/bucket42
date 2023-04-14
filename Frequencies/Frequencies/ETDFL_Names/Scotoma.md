@@ -1,3 +1,4 @@
+#Krankheiten/Scotoma
 Scotoma
 [[70 Hz (E)]]
 [[730 Hz (E)]]

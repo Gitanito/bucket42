@@ -1,3 +1,4 @@
+#Krankheiten/Blount-Krankheit
 > Die **Blount-Krankheit**, auch Blount-Syndrom oder Erlacher-Blount-Syndrom ist die kindliche Form der Tibia vara (beim Menschen), einer Deformation des Unterschenkelknochens infolge einer Wachstumsstörung der medialen Wachstumsfuge. Die Krankheit wurde nach dem Erstbeschreiber Walter Putnam Blount (1900–1992) benannt. Die Krankheit ist selten, jedoch  unter der afrikanischstämmigen Bevölkerung Südafrikas häufiger anzutreffen.
 >
 > Zwei Formen können unterschieden werden:

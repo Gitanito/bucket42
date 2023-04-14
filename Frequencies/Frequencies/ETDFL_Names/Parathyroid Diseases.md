@@ -1,3 +1,4 @@
+#Krankheiten/ParathyroidDiseases
 Parathyroid Diseases
 [[190 Hz (E)]]
 [[500 Hz (E)]]

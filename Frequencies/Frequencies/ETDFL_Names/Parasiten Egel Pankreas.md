@@ -1,3 +1,4 @@
+#Krankheiten/ParasitenEgelPankreas
 Parasiten Egel Pankreas
 [[170 Hz (E)]]
 [[320 Hz (E)]]

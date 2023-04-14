@@ -1,3 +1,4 @@
+#Krankheiten/Verbrauchskoagulopathie
 Verbrauchskoagulopathie
 [[130 Hz (E)]]
 [[720 Hz (E)]]

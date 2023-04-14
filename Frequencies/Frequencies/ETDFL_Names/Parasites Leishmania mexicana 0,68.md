@@ -1,3 +1,4 @@
+#Krankheiten/ParasitesLeishmaniamexicana0_68
 Parasites Leishmania mexicana 0,68
 [[900 Hz (E)]]
 [[2500 Hz (E)]]

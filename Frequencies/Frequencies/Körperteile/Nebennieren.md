@@ -1,3 +1,4 @@
+#Körperteile/Nebennieren
 > Die Nebenniere (lateinisch Glandula adrenalis oder Glandula suprarenalis) ist eine paarige Hormondrüse der Säugetiere, Vögel, Reptilien und Amphibien. Die **Nebennieren** befinden sich beim Menschen auf den oberen Polen der Nieren, bei den nicht aufrecht stehenden Tieren dementsprechend am vorderen Nierenpol. Sie unterliegen dem hormonellen Regelkreislauf und dem vegetativen Nervensystem. Die Nebenniere vereint funktionell zwei verschiedene Organe: Die Nebennierenrinde, der äußere Teil der Nebenniere, produziert Steroidhormone wie das Cortison und ist am Wasser-, Mineralstoff- und Zuckerhaushalt beteiligt. Das Nebennierenmark im inneren Teil der Drüse ist dem sympathischen Nervensystem zuzurechnen und bildet die „Stress“-Hormone Adrenalin und Noradrenalin.
 >
 > [Wikipedia](https://de.wikipedia.org/wiki/Nebenniere)

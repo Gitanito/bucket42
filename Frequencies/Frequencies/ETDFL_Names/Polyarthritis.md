@@ -1,3 +1,4 @@
+#Krankheiten/Polyarthritis
 Polyarthritis
 [[50 Hz (E)]]
 [[750 Hz (E)]]

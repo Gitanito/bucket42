@@ -1,3 +1,4 @@
+#Krankheiten/Lichenruberplanus
 Lichen ruber planus
 [[50 Hz (E)]]
 [[490 Hz (E)]]

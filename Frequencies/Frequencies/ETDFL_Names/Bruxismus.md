@@ -1,3 +1,4 @@
+#Krankheiten/Bruxismus
 > Der **Bruxismus** (abgeleitet von altgriechisch βρυγμός brygmos, „das Zähneknirschen“ mit lateinischer Endung) ist das unbewusste, meist nächtliche, aber auch tagsüber ausgeführte Zähneknirschen oder Aufeinanderpressen der Zähne. Als Folge verschleißt der Zahnhalteapparat (Parodontium) aufgrund Überlastung, und zusätzlich können das Kiefergelenk, die Kaumuskulatur sowie andere Muskelgruppen, die zur Stabilisierung des Kopfes angespannt werden, geschädigt werden.
 >
 > Hierdurch kann es zu Schmerzsyndromen und Ohrgeräuschen (Tinnitus) kommen. Weitere häufige Erscheinungen sind Schwindel, Sehstörungen und Übelkeit. Schmerzsyndrome, die das Kiefergelenk betreffen, werden in der Literatur als Craniomandibuläre Dysfunktion (CMD) geführt, für die strukturelle, funktionelle, biochemische und psychische Fehlregulationen der Muskel- oder Gelenkfunktion verantwortlich sind.

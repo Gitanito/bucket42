@@ -1,3 +1,4 @@
+#Krankheiten/HepatolentikuläreDegeneration
 Hepatolentikuläre Degeneration
 [[160 Hz (E)]]
 [[550 Hz (E)]]

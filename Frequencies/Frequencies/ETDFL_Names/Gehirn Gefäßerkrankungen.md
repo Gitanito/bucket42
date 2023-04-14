@@ -1,3 +1,4 @@
+#Krankheiten/GehirnGefäßerkrankungen
 Gehirn Gefäßerkrankungen
 [[80 Hz (E)]]
 [[250 Hz (E)]]

@@ -1,3 +1,4 @@
+#Körperteile/Riechen
 > Die olfaktorische Wahrnehmung oder Riechwahrnehmung, auch Geruchssinn oder olfaktorischer Sinn (von lateinisch olfacere  ‚**Riechen**‘) genannt, ist die Wahrnehmung von Gerüchen. Die Zusammenhänge des komplexen Geruchssinns erforscht die Osmologie oder Osphresiologie.
 >
 > Bei Menschen scheint der Geruchssinn oft eine geringere Rolle zu spielen als das Sehen, Hören oder Tasten. Seine Leistungen fallen aber dann auf, wenn die olfaktorische Wahrnehmung verloren geht, beispielsweise bei einem Schnupfen.

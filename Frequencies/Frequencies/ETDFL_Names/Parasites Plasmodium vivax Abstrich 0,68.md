@@ -1,3 +1,4 @@
+#Krankheiten/ParasitesPlasmodiumvivaxAbstrich0_68
 Parasites Plasmodium vivax Abstrich 0,68
 [[900 Hz (E)]]
 [[2500 Hz (E)]]

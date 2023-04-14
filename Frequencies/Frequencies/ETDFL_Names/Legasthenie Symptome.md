@@ -1,3 +1,4 @@
+#Krankheiten/LegasthenieSymptome
 Legasthenie Symptome
 [[180 Hz (E)]]
 [[250 Hz (E)]]

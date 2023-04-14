@@ -1,3 +1,4 @@
+#Krankheiten/Reizdarmsyndrom
 Reizdarmsyndrom
 [[230 Hz (E)]]
 [[850 Hz (E)]]

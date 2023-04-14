@@ -1,3 +1,4 @@
+#Krankheiten/Hypopituitarismus
 Hypopituitarismus
 [[150 Hz (E)]]
 [[260 Hz (E)]]

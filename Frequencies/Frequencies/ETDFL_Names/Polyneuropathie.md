@@ -1,3 +1,4 @@
+#Krankheiten/Polyneuropathie
 Polyneuropathie
 [[130 Hz (E)]]
 [[830 Hz (E)]]

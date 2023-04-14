@@ -1,3 +1,4 @@
+#Substanzen/Kalzium
 > Calcium (eingedeutscht **Kalzium** geschrieben) ist ein chemisches Element mit dem Elementsymbol Ca und der Ordnungszahl 20. Im Periodensystem steht es in der zweiten Hauptgruppe, bzw. der 2. IUPAC-Gruppe und zählt daher zu den Erdalkalimetallen. Die Schreibweise Calcium entspricht der IUPAC-Norm und gilt als fachsprachlich.Elementares Calcium ist ein glänzendes, silberweißes Metall. In der Erdhülle ist es, auf den Massenanteil (ppmw) bezogen, nach Sauerstoff, Silicium, Aluminium und Eisen das fünfthäufigste Element. Aufgrund seiner starken Reaktivität kommt es nur chemisch gebunden als Bestandteil von Mineralien vor. Zu diesen gehören z. B. Calcit, Aragonit und Dolomit in Kalkstein, Marmor und Kreide sowie Gips (Calciumsulfat). Hydroxylapatit (Calciumphosphat) ist ein wesentlicher Bestandteil von Knochen und Zähnen.
 >
 > [Wikipedia](https://de.wikipedia.org/wiki/Calcium)

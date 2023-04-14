@@ -1,3 +1,4 @@
+#Krankheiten/Hämatom
 Hämatom
 [[210 Hz (E)]]
 [[250 Hz (E)]]

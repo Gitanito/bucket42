@@ -1,3 +1,4 @@
+#Krankheiten/LymphatischeErkrankungen
 Lymphatische Erkrankungen
 [[140 Hz (E)]]
 [[350 Hz (E)]]

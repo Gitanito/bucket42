@@ -1,3 +1,4 @@
+#Krankheiten/Emphysem
 Emphysem
 [[550 Hz (E)]]
 [[410 Hz (E)]]

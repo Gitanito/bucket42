@@ -1,3 +1,4 @@
+#Krankheiten/ParietaleRegionTrauma
 Parietale Region Trauma
 [[130 Hz (E)]]
 [[230 Hz (E)]]

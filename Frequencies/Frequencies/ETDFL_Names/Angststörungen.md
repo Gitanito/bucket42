@@ -1,3 +1,4 @@
+#Krankheiten/Angststörungen
 > Angststörung ist ein Sammelbegriff für mit Angst verbundene psychische Störungen, deren gemeinsames Merkmal exzessive, übertriebene Angstreaktionen beim Fehlen einer wirklichen äußeren Bedrohung sind.Unterschieden werden dabei grob zwei Formen:
 >
 > Diffuse, unspezifische Ängste treten spontan und zufällig auf und haben keine Situation oder Objekte als Auslöser.

@@ -1,13 +1,9 @@
+#Krankheiten/Cellulitis
 > Zellulitis bezeichnet:
 >
-> 
->
 > Zellulitis (Entzündung), eine Entzündung des Unterhautzellgewebes, meist im Gesicht von Kindern
->
 > umgangssprachliche, jedoch medizinisch falsche Bezeichnung für Cellulite oder Orangenhaut
->
 > [Wikipedia](https://de.wikipedia.org/wiki/Zellulitis)
-
 Cellulitis
 [[30 Hz (E)]]
 [[500 Hz (E)]]

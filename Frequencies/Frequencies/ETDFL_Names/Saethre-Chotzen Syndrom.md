@@ -1,3 +1,4 @@
+#Krankheiten/Saethre-ChotzenSyndrom
 Saethre-Chotzen Syndrom
 [[140 Hz (E)]]
 [[1220 Hz (E)]]

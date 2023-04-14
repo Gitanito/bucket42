@@ -1,3 +1,4 @@
+#Krankheiten/AllergischegranulomatöseAngiitis
 Allergische granulomatöse Angiitis
 [[190 Hz (E)]]
 [[520 Hz (E)]]

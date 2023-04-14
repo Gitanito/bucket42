@@ -1,3 +1,4 @@
+#Krankheiten/Herpes-simplex-20_12
 Herpes-simplex-2 0,12
 [[550 Hz (E)]]
 [[950 Hz (E)]]

@@ -1,3 +1,4 @@
+#Krankheiten/Triple-Symptom-Komplex
 Triple-Symptom-Komplex
 [[110 Hz (E)]]
 [[550 Hz (E)]]

@@ -1,3 +1,4 @@
+#Krankheiten/Arthropathie
 > **Arthropathie** (von altgriechisch ἄρθρον árthron ‚Gelenk‘ und πάθος páthos ‚Leiden(schaft)‘) oder Gelenkerkrankung ist der Oberbegriff für degenerativ, entzündlich, metabolisch, rheumatisch oder infektiös verursachte Erkrankungen der Gelenke.
 >
 > Der Begriff Arthropathie wird häufig dann verwendet, wenn die Diagnose noch keine sichere Zuordnung, beispielsweise in entzündliche (Arthritis) oder nicht-entzündliche Gelenkerkrankung (Arthrose), zulässt.

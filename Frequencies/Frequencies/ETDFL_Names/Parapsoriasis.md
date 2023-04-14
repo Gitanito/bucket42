@@ -1,3 +1,4 @@
+#Krankheiten/Parapsoriasis
 Parapsoriasis
 [[80 Hz (E)]]
 [[370 Hz (E)]]

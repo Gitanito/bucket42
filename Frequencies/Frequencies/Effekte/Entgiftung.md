@@ -1,3 +1,4 @@
+#Effekte/Entgiftung
 > **Entgiftung** (auch Detoxifikation) steht für:
 >
 > die physiologische Verstoffwechselung von toxischen Substanzen im Rahmen der Biotransformation

@@ -1,3 +1,4 @@
+#Krankheiten/ExokrinenPankreasinsuffizienz
 Exokrinen Pankreasinsuffizienz
 [[100 Hz (E)]]
 [[500 Hz (E)]]

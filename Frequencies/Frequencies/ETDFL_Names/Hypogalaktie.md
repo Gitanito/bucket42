@@ -1,3 +1,4 @@
+#Krankheiten/Hypogalaktie
 Hypogalaktie
 [[190 Hz (E)]]
 [[300 Hz (E)]]

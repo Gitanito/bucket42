@@ -1,3 +1,4 @@
+#Krankheiten/Neuroleptika-induzierterMalignesNeuroleptika-Syndrom
 Neuroleptika-induzierter Malignes Neuroleptika-Syndrom
 [[80 Hz (E)]]
 [[410 Hz (E)]]

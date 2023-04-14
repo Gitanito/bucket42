@@ -1,3 +1,4 @@
+#Krankheiten/AnaphylaktischeReaktion
 Anaphylaktische Reaktion
 [[140 Hz (E)]]
 [[750 Hz (E)]]

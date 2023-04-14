@@ -1,3 +1,4 @@
+#Krankheiten/PhysiologischeStress
 Physiologische Stress
 [[140 Hz (E)]]
 [[680 Hz (E)]]

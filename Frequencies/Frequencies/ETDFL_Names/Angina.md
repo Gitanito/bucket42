@@ -1,3 +1,4 @@
+#Krankheiten/Angina
 > **Angina** (von lateinisch angor ‚Beklemmung‘) ist die medizinische Bezeichnung für Enge und Beklemmung bzw. Engegefühl. Das Wort wird oft für Krankheiten verwendet, wenn die Beschwerden so ausgeprägt sind, dass schon in der Bezeichnung auf das Leitsymptom verwiesen werden soll.
 >
 > Krankheiten, die mit einem ausgeprägten Engegefühl einhergehen können, sind:

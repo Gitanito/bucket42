@@ -1,3 +1,4 @@
+#Krankheiten/Tachycardie
 Tachycardie
 [[20 Hz (E)]]
 [[520 Hz (E)]]

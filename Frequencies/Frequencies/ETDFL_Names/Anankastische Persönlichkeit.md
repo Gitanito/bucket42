@@ -1,3 +1,4 @@
+#Krankheiten/AnankastischePersönlichkeit
 Anankastische Persönlichkeit
 [[190 Hz (E)]]
 [[750 Hz (E)]]

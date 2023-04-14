@@ -1,3 +1,4 @@
+#Körperteile/Blase
 > **Blase** steht für:
 >
 > Harnblase, ein Organ bei Tieren und Menschen, in dem der Urin zwischengespeichert wird

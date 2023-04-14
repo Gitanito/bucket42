@@ -1,3 +1,4 @@
+#Planeten/Pluto
 > **Pluto** ist der größte und zweitmassivste bekannte Zwergplanet des Sonnensystems und das am längsten bekannte Objekt des Kuipergürtels. Er bewegt sich auf einer noch exzentrischeren Bahn um die Sonne als der Planet Merkur. Sein Volumen entspricht etwa einem Drittel des Erdmondes.
 >
 > Die astronomischen Symbole des Pluto sind ♇ und , sie sind heute in der Astronomie selten, in der Astrologie jedoch weit verbreitet. Pluto ist nach dem römischen Gott der Unterwelt benannt. Nach dem Zwergplaneten wiederum wurden die neuen Klassen der Plutoiden und der Plutinos benannt.

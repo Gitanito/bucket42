@@ -1,3 +1,4 @@
+#Krankheiten/Laurence-Moon-Biedl
 Laurence-Moon-Biedl
 [[100 Hz (E)]]
 [[500 Hz (E)]]

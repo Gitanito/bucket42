@@ -1,3 +1,4 @@
+#Krankheiten/Impetigocontagiosa
 Impetigo contagiosa
 [[150 Hz (E)]]
 [[230 Hz (E)]]

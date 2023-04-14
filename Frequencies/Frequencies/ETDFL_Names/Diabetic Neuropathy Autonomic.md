@@ -1,3 +1,4 @@
+#Krankheiten/DiabeticNeuropathyAutonomic
 Diabetic Neuropathy Autonomic
 [[160 Hz (E)]]
 [[410 Hz (E)]]

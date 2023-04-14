@@ -1,3 +1,4 @@
+#Krankheiten/Lungenemphysem
 Lungenemphysem
 [[550 Hz (E)]]
 [[410 Hz (E)]]

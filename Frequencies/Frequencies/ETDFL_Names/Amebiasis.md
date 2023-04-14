@@ -1,3 +1,4 @@
+#Krankheiten/Amebiasis
 Amebiasis
 [[520 Hz (E)]]
 [[2500 Hz (E)]]

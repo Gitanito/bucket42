@@ -1,3 +1,4 @@
+#Krankheiten/InfluenzaB
 Influenza B
 [[250 Hz (E)]]
 [[10530 Hz (E)]]

@@ -1,3 +1,4 @@
+#Gefühle/schöpfer
 > **schöpfer** steht für:
 >
 > Gott als Schöpfer der Welt, siehe Gott #Schöpfergötter

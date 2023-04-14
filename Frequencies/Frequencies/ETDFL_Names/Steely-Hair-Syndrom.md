@@ -1,3 +1,4 @@
+#Krankheiten/Steely-Hair-Syndrom
 Steely-Hair-Syndrom
 [[170 Hz (E)]]
 [[420 Hz (E)]]

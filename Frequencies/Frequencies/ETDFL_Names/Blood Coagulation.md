@@ -1,3 +1,4 @@
+#Krankheiten/BloodCoagulation
 Blood Coagulation
 [[70 Hz (E)]]
 [[520 Hz (E)]]

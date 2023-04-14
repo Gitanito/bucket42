@@ -1,3 +1,4 @@
+#Krankheiten/WundenundVerletzungen
 Wunden und Verletzungen
 [[160 Hz (E)]]
 [[250 Hz (E)]]

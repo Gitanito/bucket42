@@ -1,3 +1,4 @@
+#Krankheiten/IdiopathischeUmweltAllergy0_08
 Idiopathische Umwelt Allergy 0,08
 [[370 Hz (E)]]
 [[780 Hz (E)]]

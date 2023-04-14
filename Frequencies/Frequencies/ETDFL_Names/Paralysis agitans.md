@@ -1,3 +1,4 @@
+#Krankheiten/Paralysisagitans
 Paralysis agitans
 [[80 Hz (E)]]
 [[350 Hz (E)]]

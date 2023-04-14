@@ -1,5 +1,5 @@
+#Körperteile/Füße
 > Der Fuß ist der unterste Abschnitt des Beins der Landwirbeltiere; in Süddeutschland, Österreich und im äußersten Osten der Schweiz wird manchmal auch das gesamte Bein bis zur Hüfte so bezeichnet. Er besteht beim Menschen aus der Fußwurzel, dem Mittelfuß und den fünf freien Zehen. Nach der äußeren Gestalt werden verschiedene Fußtypen unterschieden.
 >
 > Des Weiteren spricht man beim Menschen vom Standfuß und bei den Menschenaffen vom Greiffuß.
->
 > [Wikipedia](https://de.wikipedia.org/wiki/Fu%C3%9F)

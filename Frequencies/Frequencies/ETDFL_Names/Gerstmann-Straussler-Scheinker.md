@@ -1,3 +1,4 @@
+#Krankheiten/Gerstmann-Straussler-Scheinker
 Gerstmann-Straussler-Scheinker
 [[60 Hz (E)]]
 [[260 Hz (E)]]

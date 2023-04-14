@@ -1,3 +1,4 @@
+#Krankheiten/GutartigeintrakranielleHypertion
 Gutartige intrakranielle Hypertion
 [[60 Hz (E)]]
 [[490 Hz (E)]]

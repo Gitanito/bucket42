@@ -1,3 +1,4 @@
+#Krankheiten/HSANTypV
 HSAN Typ V
 [[740 Hz (E)]]
 [[800 Hz (E)]]

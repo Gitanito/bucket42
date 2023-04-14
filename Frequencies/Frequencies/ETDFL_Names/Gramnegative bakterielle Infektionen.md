@@ -1,3 +1,4 @@
+#Krankheiten/GramnegativebakterielleInfektionen
 Gramnegative bakterielle Infektionen
 [[150 Hz (E)]]
 [[9230 Hz (E)]]

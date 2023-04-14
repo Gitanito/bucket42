@@ -1,3 +1,4 @@
+#Körperteile/Neuronen
 > Eine Nervenzelle, auch Neuron (von altgriechisch νεῦρον neũron, deutsch ‚Flechse‘, ‚Sehne‘; ‚Nerv‘) genannt, ist eine auf Erregungsleitung und Erregungsübertragung spezialisierte Zelle, die als Zelltyp in Gewebetieren und damit in nahezu allen vielzelligen Tieren vorkommt. Die Gesamtheit aller Nervenzellen eines Tieres bildet zusammen mit den Gliazellen das Nervensystem.
 >
 > Eine typische Säugetier-Nervenzelle hat einen Zellkörper und Zellfortsätze zweierlei Art: die Dendriten und den Neuriten bzw. das Axon. Die verästelten Dendriten nehmen vornehmlich Erregung von anderen Zellen auf. Der von Gliazellen umhüllte Neurit eines Neurons kann über einen Meter lang sein und dient zunächst der Fortleitung einer Erregung dieser Zelle in die Nähe anderer Zellen. Dabei wird eine Spannungsänderung über den Fortsatz weitergeleitet, indem kurzzeitige Ionenströme durch besondere Kanäle in der Zellmembran zugelassen werden.

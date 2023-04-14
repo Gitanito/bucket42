@@ -1,3 +1,4 @@
+#Krankheiten/GehirnHypoxie
 Gehirn Hypoxie
 [[150 Hz (E)]]
 [[180 Hz (E)]]

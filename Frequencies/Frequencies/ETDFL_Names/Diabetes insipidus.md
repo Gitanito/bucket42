@@ -1,3 +1,4 @@
+#Krankheiten/Diabetesinsipidus
 Diabetes insipidus
 [[160 Hz (E)]]
 [[240 Hz (E)]]

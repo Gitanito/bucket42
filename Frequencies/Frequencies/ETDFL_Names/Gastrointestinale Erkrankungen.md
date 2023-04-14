@@ -1,3 +1,4 @@
+#Krankheiten/GastrointestinaleErkrankungen
 Gastrointestinale Erkrankungen
 [[20 Hz (E)]]
 [[520 Hz (E)]]

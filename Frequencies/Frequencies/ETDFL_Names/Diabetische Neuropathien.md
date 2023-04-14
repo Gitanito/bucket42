@@ -1,3 +1,4 @@
+#Krankheiten/DiabetischeNeuropathien
 Diabetische Neuropathien
 [[160 Hz (E)]]
 [[410 Hz (E)]]

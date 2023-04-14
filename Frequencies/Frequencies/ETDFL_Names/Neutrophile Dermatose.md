@@ -1,3 +1,4 @@
+#Krankheiten/NeutrophileDermatose
 Neutrophile Dermatose
 [[190 Hz (E)]]
 [[370 Hz (E)]]

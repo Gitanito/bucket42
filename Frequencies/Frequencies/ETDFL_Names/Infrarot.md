@@ -1,3 +1,4 @@
+#Krankheiten/Infrarot
 Infrarot
 [[190 Hz (E)]]
 [[380 Hz (E)]]

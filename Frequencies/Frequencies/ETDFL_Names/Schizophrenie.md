@@ -1,3 +1,4 @@
+#Krankheiten/Schizophrenie
 Schizophrenie
 [[70 Hz (E)]]
 [[500 Hz (E)]]

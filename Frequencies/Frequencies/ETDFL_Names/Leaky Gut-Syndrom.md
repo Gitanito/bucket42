@@ -1,3 +1,4 @@
+#Krankheiten/LeakyGut-Syndrom
 Leaky Gut-Syndrom
 [[170 Hz (E)]]
 [[220 Hz (E)]]

@@ -1,3 +1,4 @@
+#Krankheiten/AnhidrotischeektodermaleDys.
 Anhidrotische ektodermale Dys.
 [[130 Hz (E)]]
 [[520 Hz (E)]]

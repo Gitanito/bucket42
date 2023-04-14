@@ -1,3 +1,4 @@
+#Krankheiten/KuruEnzephalopathie
 Kuru Enzephalopathie
 [[70 Hz (E)]]
 [[570 Hz (E)]]

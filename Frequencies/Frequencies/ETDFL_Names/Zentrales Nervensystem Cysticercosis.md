@@ -1,3 +1,4 @@
+#Krankheiten/ZentralesNervensystemCysticercosis
 Zentrales Nervensystem Cysticercosis
 [[130 Hz (E)]]
 [[520 Hz (E)]]

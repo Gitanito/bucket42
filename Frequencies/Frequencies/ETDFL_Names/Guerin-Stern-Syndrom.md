@@ -1,3 +1,4 @@
+#Krankheiten/Guerin-Stern-Syndrom
 Guerin-Stern-Syndrom
 [[190 Hz (E)]]
 [[570 Hz (E)]]

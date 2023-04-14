@@ -1,3 +1,4 @@
+#Krankheiten/HalluxAbductovalgus
 Hallux Abductovalgus
 [[70 Hz (E)]]
 [[240 Hz (E)]]

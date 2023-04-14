@@ -1,3 +1,4 @@
+#Krankheiten/ParasitesSchistosomahaematobium0_68
 Parasites Schistosoma haematobium 0,68
 [[900 Hz (E)]]
 [[2500 Hz (E)]]

@@ -1,3 +1,4 @@
+#Krankheiten/HMSNTypIII
 HMSN Typ III
 [[40 Hz (E)]]
 [[410 Hz (E)]]

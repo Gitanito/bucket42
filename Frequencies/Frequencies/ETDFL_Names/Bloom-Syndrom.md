@@ -1,3 +1,4 @@
+#Krankheiten/Bloom-Syndrom
 > Beim **Bloom-Syndrom**, welches auch unter dem Begriff kongenitales teleangiektatisches Syndrom bekannt ist, handelt es sich um eine sehr seltene, erbliche Krankheit, die von den Humangenetikern in die Gruppe der so genannten Chromosomenbruchsyndrome eingeordnet wird.
 >
 > Die Weitergabe der mit dieser Krankheit assoziierten Mutationen folgt einem autosomal-rezessiven Erbgang. Diese Form der Vererbung lässt sich auch bei anderen Chromosomen-Instabilitätssyndromen, wie beispielsweise der Ataxia teleangiectatica (Louis-Bar-Syndrom) oder der Fanconi-Anämie beobachten.

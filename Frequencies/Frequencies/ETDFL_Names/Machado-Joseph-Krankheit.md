@@ -1,3 +1,4 @@
+#Krankheiten/Machado-Joseph-Krankheit
 Machado-Joseph-Krankheit
 [[140 Hz (E)]]
 [[250 Hz (E)]]

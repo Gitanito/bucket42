@@ -1,3 +1,4 @@
+#Krankheiten/ZyklothymePersönlichkeit
 Zyklothyme Persönlichkeit
 [[150 Hz (E)]]
 [[230 Hz (E)]]

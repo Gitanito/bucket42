@@ -1,3 +1,4 @@
+#Krankheiten/Bell-Palsy
 Bell-Palsy
 [[120 Hz (E)]]
 [[17850 Hz (E)]]

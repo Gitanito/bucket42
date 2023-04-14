@@ -1,3 +1,4 @@
+#Krankheiten/IdiopathischeintrakranielleHypertension
 Idiopathische intrakranielle Hypertension
 [[60 Hz (E)]]
 [[490 Hz (E)]]

@@ -1,3 +1,4 @@
+#Gefühle/Neurowissenschaft
 > Zu den **Neurowissenschaft**en oder zur Neurobiologie werden die naturwissenschaftlichen Forschungsbereiche bezeichnet, in denen Aufbau und Funktionsweise von Nervensystemen untersucht werden. Aufgrund der vielfältigen verwendeten Methoden wird neurowissenschaftliche Forschung von Wissenschaftlern aus vielen verschiedenen Disziplinen wie etwa Physiologie, Psychologie, Medizin, Biologie, Informatik oder Mathematik betrieben. Oft gibt es darüber hinaus Kooperationen mit angrenzenden Wissenschaftsbereichen wie der Informationstechnik, der Informatik oder der Robotik.
 >
 > [Wikipedia](https://de.wikipedia.org/wiki/Neurowissenschaften)

@@ -1,3 +1,4 @@
+#Krankheiten/Trichophytie
 Trichophytie
 [[50 Hz (E)]]
 [[410 Hz (E)]]

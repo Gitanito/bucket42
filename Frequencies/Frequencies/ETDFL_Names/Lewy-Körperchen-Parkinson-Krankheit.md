@@ -1,3 +1,4 @@
+#Krankheiten/Lewy-Körperchen-Parkinson-Krankheit
 Lewy-Körperchen-Parkinson-Krankheit
 [[80 Hz (E)]]
 [[350 Hz (E)]]

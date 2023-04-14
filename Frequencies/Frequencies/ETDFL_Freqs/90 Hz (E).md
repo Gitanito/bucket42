@@ -1,3 +1,4 @@
+#Frequenzen/90Hz
 90 Hz (E)
 [[Airsickness]]
 [[Algodystrophie]]

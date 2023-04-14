@@ -1,3 +1,4 @@
+#Krankheiten/Osteophyten(Knochensporne)
 Osteophyten (Knochensporne)
 [[100 Hz (E)]]
 [[320 Hz (E)]]

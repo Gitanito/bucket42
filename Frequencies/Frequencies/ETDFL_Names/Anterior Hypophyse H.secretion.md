@@ -1,3 +1,4 @@
+#Krankheiten/AnteriorHypophyseH.secretion
 Anterior Hypophyse H.secretion
 [[150 Hz (E)]]
 [[260 Hz (E)]]

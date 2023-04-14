@@ -1,3 +1,4 @@
+#Krankheiten/OnchocercavolvulusParasiten(Tumor)0_68
 Onchocerca volvulus Parasiten (Tumor) 0,68
 [[900 Hz (E)]]
 [[2500 Hz (E)]]

@@ -1,3 +1,4 @@
+#Krankheiten/ParasitesFasciolopsisMiracidien0_68
 Parasites Fasciolopsis Miracidien 0,68
 [[900 Hz (E)]]
 [[2500 Hz (E)]]

@@ -1,3 +1,4 @@
+#Krankheiten/Thyroiditis
 Thyroiditis
 [[140 Hz (E)]]
 [[250 Hz (E)]]

@@ -1,3 +1,4 @@
+#Krankheiten/Hautkrankheiten
 Hautkrankheiten
 [[190 Hz (E)]]
 [[370 Hz (E)]]

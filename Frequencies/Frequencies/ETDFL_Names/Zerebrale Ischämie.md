@@ -1,3 +1,4 @@
+#Krankheiten/ZerebraleIschämie
 Zerebrale Ischämie
 [[170 Hz (E)]]
 [[400 Hz (E)]]

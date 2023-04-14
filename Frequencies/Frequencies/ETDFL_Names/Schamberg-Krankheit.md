@@ -1,3 +1,4 @@
+#Krankheiten/Schamberg-Krankheit
 Schamberg-Krankheit
 [[100 Hz (E)]]
 [[570 Hz (E)]]

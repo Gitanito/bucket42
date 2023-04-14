@@ -1,3 +1,4 @@
+#Krankheiten/PulmonicPlague
 Pulmonic Plague
 [[50 Hz (E)]]
 [[260 Hz (E)]]

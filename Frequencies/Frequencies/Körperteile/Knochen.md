@@ -1,5 +1,5 @@
+#Körperteile/Knochen
 > Der **Knochen** oder lateinisch das Os (Plural Ossa; altgriechisch οστούν in Zusammensetzungen Osteo-), deutsch auch Bein (aus germanischer Wortwurzel, vergleiche Brustbein, Elfenbein, Beinhaus und englisch bone) ist ein druck- und zugfestes Organ. Aus Knochen bestehen die Endoskelette der Wirbeltiere. Kleine Knochen, beispielsweise akzessorische Knochen in Hand- oder Fußwurzel oder die Gehörknöchelchen, werden oft als Ossikel (lateinisch Ossiculum  ‚Knöchelchen‘) bezeichnet.
 >
 > Knochen sind Teil des Stütz- und Bewegungsapparats und werden dem passiven Bewegungsapparat zugerechnet. Die einzelnen Knochen sehen je nach Lage und Funktion unterschiedlich aus. Gleichzeitig schützen die Knochen innere Organe, wie die Schädelknochen das Gehirn und der Brustkorb das Herz und die Lunge. Außerdem bilden sich im roten Knochenmark die roten Blutkörperchen, die Blutplättchen und die weißen Blutkörperchen. Die Größe variiert zwischen den nur millimetergroßen Gehörknöchelchen einiger Kleinsäuger bis zu den meterlangen Bein- und Rippenknochen der Dinosaurier.
->
 > [Wikipedia](https://de.wikipedia.org/wiki/Knochen)

@@ -1,3 +1,4 @@
+#Krankheiten/Fibrinogenmangel
 Fibrinogenmangel
 [[150 Hz (E)]]
 [[180 Hz (E)]]

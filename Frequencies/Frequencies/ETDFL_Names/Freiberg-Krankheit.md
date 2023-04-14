@@ -1,3 +1,4 @@
+#Krankheiten/Freiberg-Krankheit
 Freiberg-Krankheit
 [[170 Hz (E)]]
 [[520 Hz (E)]]

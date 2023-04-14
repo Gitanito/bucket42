@@ -1,3 +1,4 @@
+#Krankheiten/Rhinitis
 Rhinitis
 [[20 Hz (E)]]
 [[520 Hz (E)]]

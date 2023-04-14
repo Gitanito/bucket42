@@ -1,3 +1,4 @@
+#Krankheiten/Miliaria
 Miliaria
 [[120 Hz (E)]]
 [[400 Hz (E)]]

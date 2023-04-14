@@ -1,3 +1,4 @@
+#Krankheiten/ParasitesBesnoitia(Lungesect.)
 Parasites Besnoitia (Lunge sect.)
 [[900 Hz (E)]]
 [[2500 Hz (E)]]

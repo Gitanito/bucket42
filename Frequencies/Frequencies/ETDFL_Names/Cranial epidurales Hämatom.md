@@ -1,3 +1,4 @@
+#Krankheiten/CranialepiduralesHämatom
 Cranial epidurales Hämatom
 [[370 Hz (E)]]
 [[970 Hz (E)]]

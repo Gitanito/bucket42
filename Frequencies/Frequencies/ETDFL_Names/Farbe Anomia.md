@@ -1,3 +1,4 @@
+#Krankheiten/FarbeAnomia
 Farbe Anomia
 [[520 Hz (E)]]
 [[800 Hz (E)]]

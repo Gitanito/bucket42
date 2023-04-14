@@ -1,3 +1,4 @@
+#Krankheiten/ParasitenBalantidiumcoliZysten0_68
 Parasiten Balantidium coli Zysten 0,68
 [[900 Hz (E)]]
 [[2500 Hz (E)]]

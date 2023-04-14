@@ -1,3 +1,4 @@
+#Krankheiten/Angelman-Syndrom
 > Das **Angelman-Syndrom** ist die Folge einer seltenen genetischen Veränderung auf Chromosom 15 (Mikrodeletion auf dem mütterlichen Chromosom oder uniparentale Disomie 15q11-13). Sie geht oft einher mit Entwicklungsverzögerungen, kognitiver Behinderung, überdurchschnittlicher Fröhlichkeit und einer stark reduzierten Lautsprachentwicklung.
 >
 > Der britische Kinderarzt Harry Angelman (1915–1996) beschrieb im Jahr 1965 das später nach ihm benannte Syndrom erstmals unter wissenschaftlichen Gesichtspunkten. Er nannte es aufgrund des auffälligen Bewegungsmusters und des häufigen Lachens der Kinder, die er damals betreute, Happy-Puppet-Syndrom (engl. happy ‚glücklich‘ und puppet ‚Puppe‘).

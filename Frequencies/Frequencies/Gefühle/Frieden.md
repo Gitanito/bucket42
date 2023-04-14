@@ -1,3 +1,4 @@
+#Gefühle/Frieden
 > Friede oder **Frieden** (von althochdeutsch fridu „Schonung“, „Freundschaft“) ist allgemein definiert als ein heilsamer Zustand der Stille oder Ruhe, als die Abwesenheit von Störung oder Beunruhigung und besonders von Krieg. Frieden ist das Ergebnis der Tugend der „Friedfertigkeit“ und damit verbundener Friedensbemühungen.
 >
 > Friede ist im heutigen Sprachgebrauch der allgemeine Zustand zwischen Menschen, sozialen Gruppen oder Staaten, in dem bestehende Konflikte in rechtlich festgelegten Normen ohne Gewalt ausgetragen werden. Der Begriff bezeichnet einen Zustand in der Beziehung zwischen Völkern und Staaten, der den Krieg zur Durchsetzung von Politik ausschließt.

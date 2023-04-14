@@ -1,3 +1,4 @@
+#Krankheiten/Lepra
 Lepra
 [[170 Hz (E)]]
 [[240 Hz (E)]]

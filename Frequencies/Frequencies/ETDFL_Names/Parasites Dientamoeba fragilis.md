@@ -1,3 +1,4 @@
+#Krankheiten/ParasitesDientamoebafragilis
 Parasites Dientamoeba fragilis
 [[680 Hz (E)]]
 [[900 Hz (E)]]

@@ -1,3 +1,4 @@
+#Krankheiten/GesichtserkennungAgnosia
 Gesichtserkennung Agnosia
 [[240 Hz (E)]]
 [[730 Hz (E)]]

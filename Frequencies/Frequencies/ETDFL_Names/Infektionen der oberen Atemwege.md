@@ -1,3 +1,4 @@
+#Krankheiten/InfektionenderoberenAtemwege
 Infektionen der oberen Atemwege
 [[100 Hz (E)]]
 [[550 Hz (E)]]

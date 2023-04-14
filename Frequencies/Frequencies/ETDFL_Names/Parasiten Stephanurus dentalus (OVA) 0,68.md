@@ -1,3 +1,4 @@
+#Krankheiten/ParasitenStephanurusdentalus(OVA)0_68
 Parasiten Stephanurus dentalus (OVA) 0,68
 [[900 Hz (E)]]
 [[2500 Hz (E)]]

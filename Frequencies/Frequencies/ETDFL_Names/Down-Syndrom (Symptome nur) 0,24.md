@@ -1,3 +1,4 @@
+#Krankheiten/Down-Syndrom(Symptomenur)0_24
 Down-Syndrom (Symptome nur) 0,24
 [[320 Hz (E)]]
 [[410 Hz (E)]]

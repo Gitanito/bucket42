@@ -1,3 +1,4 @@
+#Krankheiten/Stottern
 Stottern
 [[180 Hz (E)]]
 [[1070 Hz (E)]]

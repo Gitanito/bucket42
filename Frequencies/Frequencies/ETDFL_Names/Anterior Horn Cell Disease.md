@@ -1,3 +1,4 @@
+#Krankheiten/AnteriorHornCellDisease
 Anterior Horn Cell Disease
 [[170 Hz (E)]]
 [[320 Hz (E)]]

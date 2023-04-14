@@ -1,3 +1,4 @@
+#Krankheiten/Lennox-Gastaut-Syndrom
 Lennox-Gastaut-Syndrom
 [[70 Hz (E)]]
 [[180 Hz (E)]]

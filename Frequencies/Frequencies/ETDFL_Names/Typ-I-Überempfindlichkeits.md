@@ -1,3 +1,4 @@
+#Krankheiten/Typ-I-Überempfindlichkeits
 Typ-I-Überempfindlichkeits
 [[40 Hz (E)]]
 [[240 Hz (E)]]

@@ -1,3 +1,4 @@
+#Krankheiten/ParasitesFasciolopsisbuskiierwachsene0_68
 Parasites Fasciolopsis buskii erwachsene 0,68
 [[900 Hz (E)]]
 [[2500 Hz (E)]]

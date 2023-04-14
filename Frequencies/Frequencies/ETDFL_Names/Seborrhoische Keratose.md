@@ -1,3 +1,4 @@
+#Krankheiten/SeborrhoischeKeratose
 Seborrhoische Keratose
 [[120 Hz (E)]]
 [[680 Hz (E)]]

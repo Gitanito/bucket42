@@ -1,3 +1,4 @@
+#Krankheiten/Geschmacksstörungen
 Geschmacksstörungen
 [[160 Hz (E)]]
 [[5500 Hz (E)]]

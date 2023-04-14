@@ -1,3 +1,4 @@
+#Frequenzen/80Hz
 80 Hz (E)
 [[Ablatio]]
 [[Acromegalie]]

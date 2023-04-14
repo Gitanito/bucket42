@@ -1,3 +1,4 @@
+#Krankheiten/ComplexRegionalPainSyndromeTypII
 Complex Regional Pain Syndrome Typ II
 [[110 Hz (E)]]
 [[570 Hz (E)]]

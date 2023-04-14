@@ -1,3 +1,4 @@
+#Krankheiten/Arthrogryposis
 > Unter **Arthrogryposis** multiplex congenita (AMC) wird eine angeborene Gelenksteife (Dysmorphie) verstanden. Der Begriff steht für das Zustandsbild. Die AMC entsteht zur Zeit der Organogenese, gegen Ende der ersten drei Schwangerschaftsmonate (8. bis 11. Schwangerschaftswoche). Sie kann einzelne Gelenke betreffen und als ausgedehnte Form mehrere Gelenke bis hin zu Organ- und Gehirnbeteiligung führen. Es finden sich Veränderungen der Muskeln, Sehnen und vor allem des Bindegewebes mit Folgen für die Gelenkkapseln und die Mobilität der Gelenke.
 >
 > Der Begriff AMC beschreibt ein Krankheitsbild bzw. eine Krankheitsgruppe

@@ -1,3 +1,4 @@
+#Krankheiten/Lingual-Facial-BuccalDyskinesie
 Lingual-Facial-Buccal Dyskinesie
 [[170 Hz (E)]]
 [[320 Hz (E)]]

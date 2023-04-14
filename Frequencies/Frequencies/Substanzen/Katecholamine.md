@@ -1,5 +1,5 @@
+#Substanzen/Katecholamine
 > **Katecholamine** (auch Catecholamine oder Brenzcatechinamine) sind eine biologisch und medizinisch wichtige Gruppe chemischer Stoffe, die das Dopamin und seine Derivate umfasst. Die Bezeichnung ist ein Trivialname und leitet sich von dem diesen Stoffen gemeinsamen Molekülbestandteil Brenzcatechin (1,2-Dihydroxybenzol, englische Bezeichnung ist Catechol (Kurzform von Pyrocatechol), nach IUPAC wird es auch 1,2-Dihydroxybenzen oder Benzen-1,2-diol genannt) und der ihnen gemeinsamen Aminogruppe ab. Katecholamine kommen in der Natur vor, werden aber auch künstlich hergestellt.
 >
 > Die wichtigsten natürlichen Katecholamine sind Dopamin, Noradrenalin und Adrenalin. Sie treten als Überträger von Nervenimpulsen (Neurotransmitter) im Zentralnervensystem und vegetativen Nervensystem auf und wirken unter anderem bei der Kampf-oder-Flucht-Reaktion des Körpers mit. Noradrenalin und Adrenalin sind zusätzlich Hormone. Alle drei werden auch als Arzneistoffe verwendet. Therapeutisch wichtig sind ferner die künstlich hergestellten Katecholamine Isoprenalin, Dobutamin, Dopexamin und α-Methylnoradrenalin. Alle Katecholamine wirken über G-Protein-gekoppelte Rezeptoren, entweder durch Adrenozeptoren oder Dopamin-Rezeptoren.
->
 > [Wikipedia](https://de.wikipedia.org/wiki/Katecholamine)

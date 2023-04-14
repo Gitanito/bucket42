@@ -1,3 +1,4 @@
+#Krankheiten/Sedierung
 > **Sedierung** bezeichnet in der Medizin die Dämpfung von Funktionen des zentralen Nervensystems durch ein Beruhigungsmittel (Sedativum oder Sedativ). Der Begriff wird insbesondere in der Intensivmedizin und bei der Anwendung von Psychopharmaka verwendet.
 >
 > Wird zusätzlich ein Schmerzmittel (Analgetikum) verabreicht, spricht man von einer Analgosedierung.

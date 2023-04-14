@@ -1,3 +1,4 @@
+#Krankheiten/Alveolitis
 > **Alveolitis** (von lateinisch alveolus und dem Suffix -itis) bezeichnet eine Lungenerkrankung, die in zwei Formen auftreten kann:
 >
 > als diffus-fibrosierende Alveolitis – eine Erkrankung des Lungengewebes und der Lungenbläschen unbekannter Ursache, die sich langsam entwickelt,

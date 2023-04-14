@@ -1,3 +1,4 @@
+#Krankheiten/Blastocystis-Hominis-Infektionen
 Blastocystis-Hominis-Infektionen
 [[40 Hz (E)]]
 [[460 Hz (E)]]

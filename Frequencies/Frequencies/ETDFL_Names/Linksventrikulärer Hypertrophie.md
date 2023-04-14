@@ -1,3 +1,4 @@
+#Krankheiten/LinksventrikulärerHypertrophie
 Linksventrikulärer Hypertrophie
 [[110 Hz (E)]]
 [[570 Hz (E)]]

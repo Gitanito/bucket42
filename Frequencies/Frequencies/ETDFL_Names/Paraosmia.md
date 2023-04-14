@@ -1,3 +1,4 @@
+#Krankheiten/Paraosmia
 Paraosmia
 [[110 Hz (E)]]
 [[490 Hz (E)]]

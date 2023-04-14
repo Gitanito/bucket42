@@ -1,3 +1,4 @@
+#Planeten/Uranus
 > **Uranus** (altgr. οὐρανός ouranós „Himmel“) steht für:
 >
 > Uranus (Planet), der 7. Planet des Sonnensystems

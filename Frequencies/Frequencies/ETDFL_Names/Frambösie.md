@@ -1,3 +1,4 @@
+#Krankheiten/Frambösie
 Frambösie
 [[570 Hz (E)]]
 [[5000 Hz (E)]]

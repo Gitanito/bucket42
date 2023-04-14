@@ -1,3 +1,4 @@
+#Krankheiten/Schock
 Schock
 [[170 Hz (E)]]
 [[320 Hz (E)]]

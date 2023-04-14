@@ -1,3 +1,4 @@
+#Krankheiten/Sommersprosse
 Sommersprosse
 [[60 Hz (E)]]
 [[370 Hz (E)]]

@@ -1,3 +1,4 @@
+#Krankheiten/Kokzidioidomykose
 Kokzidioidomykose
 [[40 Hz (E)]]
 [[240 Hz (E)]]

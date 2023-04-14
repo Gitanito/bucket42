@@ -1,3 +1,4 @@
+#Krankheiten/Anhidrose
 > Eine **Anhidrose** oder auch Anidrose (über das Französische, dies über das Neulateinische des 19. Jahrhunderts aus dem Altgriechischen abgeleitet: verneinende Silbe αν-, an- und ἱδρώς, hidrṓs („Schweiß“) oder fachsprachlich mit erhaltener altgriechischer Endung des Kompositums Anhidrosis bzw. Anidrosis) ist eine fehlende Schweißsekretion. Eine lediglich verminderte Schweißsekretion heißt Hypohidrose. Das Gegenteil ist eine Hyperhidrose (Hyperhidrosis).
 >
 > Eine Anhidrose tritt meist krankheitsbedingt symptomatisch und lokal begrenzt auf. Die Schweißdrüsen sind sympathisch innerviert. Mögliche Ursachen für eine Anhidrose sind:

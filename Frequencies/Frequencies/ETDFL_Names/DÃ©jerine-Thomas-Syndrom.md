@@ -1,3 +1,4 @@
+#Krankheiten/DÃ©jerine-Thomas-Syndrom
 DÃ©jerine-Thomas-Syndrom
 [[80 Hz (E)]]
 [[410 Hz (E)]]

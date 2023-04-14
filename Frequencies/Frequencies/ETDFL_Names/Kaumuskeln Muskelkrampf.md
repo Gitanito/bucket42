@@ -1,3 +1,4 @@
+#Krankheiten/KaumuskelnMuskelkrampf
 Kaumuskeln Muskelkrampf
 [[60 Hz (E)]]
 [[320 Hz (E)]]

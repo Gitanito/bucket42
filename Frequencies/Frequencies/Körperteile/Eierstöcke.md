@@ -1,3 +1,4 @@
+#Körperteile/Eierstöcke
 > Der paarig angelegte Eierstock – in der medizinischen Fachsprache auch als Ovar (lateinisch Ovarium; Plural Ovarien) oder altgriechisch ὠόφορον oophoron (von ὠόν oon ‚Ei‘ und φορός phoros ‚tragend‘ [n. φορόν phoron]) bezeichnet – ist ein weibliches Geschlechtsorgan. Als Gonade (Keimdrüse, Fortpflanzungsdrüse) entspricht er dem Hoden männlicher Individuen und ist der Produktionsort der Eizellen bzw. Eier, die zyklisch freigesetzt werden (Ovarialzyklus). Darüber hinaus werden im Eierstock weibliche Geschlechtshormone (Östrogene und Progesteron) produziert. **Eierstöcke** sind von Geburt an angelegt und zählen somit zu den primären Geschlechtsmerkmalen.
 >
 > [Wikipedia](https://de.wikipedia.org/wiki/Eierstock)

@@ -1,3 +1,4 @@
+#Krankheiten/Hitzekrämpfe
 Hitzekrämpfe
 [[70 Hz (E)]]
 [[410 Hz (E)]]

@@ -1,3 +1,4 @@
+#Krankheiten/EktoparasitärerInfestations
 Ektoparasitärer Infestations
 [[110 Hz (E)]]
 [[1490 Hz (E)]]

@@ -1,3 +1,4 @@
+#Krankheiten/Hypogammaglobulinämie
 Hypogammaglobulinämie
 [[120 Hz (E)]]
 [[800 Hz (E)]]

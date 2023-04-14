@@ -1,3 +1,4 @@
+#Krankheiten/ParasitenTrichurissp.(Male)0_68
 Parasiten Trichuris sp. (Male) 0,68
 [[900 Hz (E)]]
 [[2500 Hz (E)]]

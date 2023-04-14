@@ -1,3 +1,4 @@
+#Krankheiten/RiesenzellGlioblastom
 Riesenzell Glioblastom
 [[70 Hz (E)]]
 [[410 Hz (E)]]

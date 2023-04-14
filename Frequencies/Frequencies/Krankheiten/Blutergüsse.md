@@ -1,0 +1,1 @@
+#Krankheiten/Blutergüsse

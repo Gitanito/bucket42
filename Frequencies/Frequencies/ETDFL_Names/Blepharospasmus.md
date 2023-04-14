@@ -1,3 +1,4 @@
+#Krankheiten/Blepharospasmus
 > Mit **Blepharospasmus** bezeichnet man einen krampfartigen Lidschluss unterschiedlicher Ursachen und teils als Symptom anderweitiger Erkrankungen. Er kann einseitig und beidseitig auftreten und ist nicht mit einer Ptosis zu verwechseln.
 >
 > [Wikipedia](https://de.wikipedia.org/wiki/Blepharospasmus)

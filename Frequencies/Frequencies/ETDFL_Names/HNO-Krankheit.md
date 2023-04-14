@@ -1,3 +1,4 @@
+#Krankheiten/HNO-Krankheit
 HNO-Krankheit
 [[170 Hz (E)]]
 [[520 Hz (E)]]

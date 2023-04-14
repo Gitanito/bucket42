@@ -1,3 +1,4 @@
+#Krankheiten/InterstitialCystitis
 Interstitial Cystitis
 [[40 Hz (E)]]
 [[460 Hz (E)]]

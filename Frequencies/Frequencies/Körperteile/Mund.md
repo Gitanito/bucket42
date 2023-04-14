@@ -1,3 +1,4 @@
+#Körperteile/Mund
 > Der **Mund** (bei Tieren Maul genannt), lateinisch Os, ist die Körperhöhle und die ihn umgebenden Weichteile im Kopf, die den obersten Teil des Verdauungstrakts bildet. Er ist die Körperöffnung, durch die Nahrung aufgenommen wird. Er dient beim Menschen außerdem der Stimmerzeugung (Phonetik) und bei den Landwirbeltieren zur Atmung.
 >
 > Je nach Lebewesen und äußerer Struktur bzw. Funktion des Mundes werden Bezeichnungen wie beispielsweise Mundwerkzeuge, Maul oder Schnabel verwendet.

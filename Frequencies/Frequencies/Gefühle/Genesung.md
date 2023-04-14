@@ -1,3 +1,4 @@
+#Gefühle/Genesung
 > Rekonvaleszenz (lateinisch reconvalescere  ‚wieder kräftig werden, wieder stark werden‘, zu valere  ‚gedeihen, heil sein‘, valescere  ‚heilen‘), auch Konvaleszenz, bedeutet **Genesung** oder Heilung.
 >
 > Der Begriff ist nicht gleichzusetzen mit Remission (Zurückgehen, Nachlassen). Die Konvaleszenz ist eines der letzten Stadien eines Gesundungsprozesses und endet mit der vollständigen Restitution (Wiederherstellung). Die Krankheitszeichen – zum Beispiel Fieber, Schwäche, Schwindel, Schmerzen – verschwinden beim Rekonvaleszenden nach und nach bis zur endgültigen Wiederherstellung der Gesundheit.

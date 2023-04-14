@@ -1,3 +1,4 @@
+#Krankheiten/Appendizitis
 > Die **Appendizitis** (lateinisch Appendicitis) oder Wurmfortsatzentzündung ist eine Entzündung des Wurmfortsatzes (Appendix vermiformis) am Ende des Blinddarms (des Caecums). Ist der Blinddarm entzündet, wird von einer Typhlitis gesprochen. Im Deutschen wird auch die Wurmfortsatzentzündung umgangssprachlich als Blinddarmentzündung bezeichnet. Die akute Appendizitis (Appendicitis acuta) stellt einen Notfall dar.
 >
 > Der Verlauf der Erkrankung kann von einer leichten Reizung über die schwere Entzündung und eine Abszessbildung bis hin zum Wanddurchbruch (Perforation) in die freie Bauchhöhle (Blinddarmdurchbruch) und damit zu einer lebensbedrohlichen Peritonitis (Bauchfellentzündung) führen.

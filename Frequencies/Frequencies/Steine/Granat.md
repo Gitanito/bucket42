@@ -1,3 +1,4 @@
+#Steine/Granat
 > Die **Granat**gruppe (kurz Granate) ist eine wichtige Gruppe gesteinsbildender Minerale aus der Mineralklasse der „Silikate und Germanate“. Strukturell gehören die Granate zu den Inselsilikaten (Nesosilikaten).
 >
 > Die allgemeine Granatformel lautet: [8]X3[6]Y2[[4]ZO4]3 oder auch A32+B23+[RO4]3, wobei 'X', 'Y' und 'Z' bzw. 'A', 'B' und 'R' keine chemischen Elemente vertreten, sondern definierte Plätze im Kristallgitter darstellen. Die jeweiligen Gitterplätze können dabei von verschiedenen Ionen besetzt werden:

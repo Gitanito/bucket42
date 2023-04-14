@@ -1,3 +1,4 @@
+#Krankheiten/InternukleäreOphthalmoplegie
 Internukleäre Ophthalmoplegie
 [[170 Hz (E)]]
 [[320 Hz (E)]]

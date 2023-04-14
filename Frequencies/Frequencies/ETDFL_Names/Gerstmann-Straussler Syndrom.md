@@ -1,3 +1,4 @@
+#Krankheiten/Gerstmann-StrausslerSyndrom
 Gerstmann-Straussler Syndrom
 [[60 Hz (E)]]
 [[260 Hz (E)]]

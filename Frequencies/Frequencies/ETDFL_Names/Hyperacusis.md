@@ -1,3 +1,4 @@
+#Krankheiten/Hyperacusis
 Hyperacusis
 [[40 Hz (E)]]
 [[240 Hz (E)]]

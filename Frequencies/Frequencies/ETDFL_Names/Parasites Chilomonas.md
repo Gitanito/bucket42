@@ -1,3 +1,4 @@
+#Krankheiten/ParasitesChilomonas
 Parasites Chilomonas
 [[2500 Hz (E)]]
 [[13930 Hz (E)]]

@@ -1,3 +1,4 @@
+#Gefühle/Gruppendynamik
 > Der Begriff **Gruppendynamik** steht für:
 >
 > ein Phänomen, das bei wiederholter sozialer Interaktion im persönlichen Kontakt in Gruppen von Menschen auftritt;

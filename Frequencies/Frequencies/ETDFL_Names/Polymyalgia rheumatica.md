@@ -1,3 +1,4 @@
+#Krankheiten/Polymyalgiarheumatica
 Polymyalgia rheumatica
 [[170 Hz (E)]]
 [[550 Hz (E)]]

@@ -1,3 +1,4 @@
+#Krankheiten/Apoplexy
 Apoplexy
 [[90 Hz (E)]]
 [[120 Hz (E)]]

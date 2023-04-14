@@ -1,3 +1,4 @@
+#Krankheiten/Capsulitis
 Capsulitis
 [[60 Hz (E)]]
 [[230 Hz (E)]]

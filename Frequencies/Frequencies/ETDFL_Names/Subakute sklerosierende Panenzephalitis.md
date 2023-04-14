@@ -1,3 +1,4 @@
+#Krankheiten/SubakutesklerosierendePanenzephalitis
 Subakute sklerosierende Panenzephalitis
 [[50 Hz (E)]]
 [[1520 Hz (E)]]

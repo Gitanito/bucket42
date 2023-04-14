@@ -1,3 +1,4 @@
+#Krankheiten/PenileInduration
 Penile Induration
 [[40 Hz (E)]]
 [[570 Hz (E)]]

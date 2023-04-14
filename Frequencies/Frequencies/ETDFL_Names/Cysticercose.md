@@ -1,3 +1,4 @@
+#Krankheiten/Cysticercose
 Cysticercose
 [[80 Hz (E)]]
 [[350 Hz (E)]]

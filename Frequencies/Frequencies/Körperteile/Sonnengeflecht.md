@@ -1,3 +1,4 @@
+#Körperteile/Sonnengeflecht
 > Das **Sonnengeflecht** (lat. Plexus solaris; engl. solar plexus) ist ein Geflecht aus Fasern und Knoten (Ganglien) des vegetativen Nervensystems in der Form eines unregelmäßigen Rings mit Strahlen. Es liegt auf Höhe zwischen Brustbein und Bauchnabel am Übergang von Brust- und Lendenwirbelsäule, in der Tiefe des Oberbauchs an der Hinterwand der Bauchhöhle zwischen Magen und Hauptschlagader. Hauptbestandteil des Sonnengeflechtes sind zwei Nervenknoten: das Bauchhöhlenganglion und das obere Eingeweideganglion. Die Fasern setzen sich aus sympathischen und parasympathischen Anteilen zusammen. Über das Sonnengeflecht werden diverse Informationen und Steuerungsimpulse zwischen dem Hirnstamm und den Bauchorganen inklusive der Blutgefäße der Bauchhöhle ausgetauscht.
 >
 > [Wikipedia](https://de.wikipedia.org/wiki/Sonnengeflecht)

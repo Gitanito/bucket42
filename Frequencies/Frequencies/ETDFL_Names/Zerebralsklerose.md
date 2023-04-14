@@ -1,3 +1,4 @@
+#Krankheiten/Zerebralsklerose
 Zerebralsklerose
 [[250 Hz (E)]]
 [[780 Hz (E)]]

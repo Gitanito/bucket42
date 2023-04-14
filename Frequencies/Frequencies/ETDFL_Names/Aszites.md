@@ -1,3 +1,4 @@
+#Krankheiten/Aszites
 > Der **Aszites** (auch Ascites, von altgriechisch ασκίτης askítēs) ist die medizinische Benennung für eine übermäßige Ansammlung von freier, meist klarer seröser Flüssigkeit in der Bauchhöhle, genauer im Peritonealraum; andere Ausdrücke für diese Flüssigkeitsansammlung sind Hydraskos, Bauchwassersucht oder Wasserbauch.
 >
 > Bei Gesunden enthält der Peritonealraum nur zirka 50 bis 70 Milliliter Flüssigkeit. Bei manchen Krankheiten, z. B. bei einer Leberzirrhose, nimmt die Menge erheblich zu; deswegen sprach man (nach Hippokrates) früher auch von einer Leberwassersucht. Bei einer Mangelernährung mit unzureichender Aufnahme von Proteinen wird auch vom Hungerbauch (Kwashiorkor) gesprochen.

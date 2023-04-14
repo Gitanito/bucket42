@@ -1,3 +1,4 @@
+#Farben/Indigo
 > **Indigo** (von altgriechisch ἰνδικόν indikón, deutsch ‚das Indische‘; nach dem Herkunftsgebiet Ostindien) ist eine tiefblaue, kristalline organisch-chemische Verbindung. Er ist ein organisches Pigment mit hoher Farbstärke und schwer löslich in Wasser. Indigo ist der Namensgeber für die Gruppe der Indigoiden Farbstoffe, deren chemische Struktur eng mit der des Indigo verwandt ist.
 >
 > Der gleichnamige Farbton Indigo ist ebenfalls nach ihm benannt. Am ehesten lässt er sich als der letzte erkennbare Blauton, bevor es in ein bläuliches Violett übergeht, umschreiben. Indigo ist im Colour Index als Pigment unter der Bezeichnung C.I. Pigment Blue 66 und als Küpenfarbstoff unter C.I. Vat Blue 1 geführt.

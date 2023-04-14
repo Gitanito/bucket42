@@ -1,3 +1,4 @@
+#Krankheiten/Xanthomadisseminatum
 Xanthoma disseminatum
 [[140 Hz (E)]]
 [[410 Hz (E)]]

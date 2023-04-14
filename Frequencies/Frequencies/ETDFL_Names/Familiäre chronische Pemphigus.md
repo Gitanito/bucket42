@@ -1,3 +1,4 @@
+#Krankheiten/FamiliärechronischePemphigus
 Familiäre chronische Pemphigus
 [[190 Hz (E)]]
 [[570 Hz (E)]]

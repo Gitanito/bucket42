@@ -1,3 +1,4 @@
+#Krankheiten/ChronischentzündlicheDarmerkrankungen
 Chronisch entzündliche Darmerkrankungen
 [[40 Hz (E)]]
 [[320 Hz (E)]]

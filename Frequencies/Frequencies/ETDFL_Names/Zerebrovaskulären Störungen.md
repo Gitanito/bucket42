@@ -1,3 +1,4 @@
+#Krankheiten/ZerebrovaskulärenStörungen
 Zerebrovaskulären Störungen
 [[80 Hz (E)]]
 [[250 Hz (E)]]

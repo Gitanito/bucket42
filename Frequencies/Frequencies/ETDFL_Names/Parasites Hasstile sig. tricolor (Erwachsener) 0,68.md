@@ -1,3 +1,4 @@
+#Krankheiten/ParasitesHasstilesig.tricolor(Erwachsener)0_68
 Parasites Hasstile sig. tricolor (Erwachsener) 0,68
 [[900 Hz (E)]]
 [[2500 Hz (E)]]

@@ -1,3 +1,4 @@
+#Krankheiten/ErkrankungendesNervensystems
 Erkrankungen des Nervensystems
 [[40 Hz (E)]]
 [[250 Hz (E)]]

@@ -1,3 +1,4 @@
+#Krankheiten/ParasitenSubterminalenSporenbac.0_68Abstrich
 Parasiten Sub terminalen Sporen bac. 0,68 Abstrich
 [[900 Hz (E)]]
 [[2500 Hz (E)]]

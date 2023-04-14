@@ -1,3 +1,4 @@
+#Krankheiten/Hyperkapnie
 Hyperkapnie
 [[120 Hz (E)]]
 [[350 Hz (E)]]

@@ -1,3 +1,4 @@
+#Krankheiten/HämophilieA
 Hämophilie A
 [[50 Hz (E)]]
 [[460 Hz (E)]]

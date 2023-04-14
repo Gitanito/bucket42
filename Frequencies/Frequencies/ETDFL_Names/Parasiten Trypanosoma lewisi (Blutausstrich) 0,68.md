@@ -1,3 +1,4 @@
+#Krankheiten/ParasitenTrypanosomalewisi(Blutausstrich)0_68
 Parasiten Trypanosoma lewisi (Blutausstrich) 0,68
 [[900 Hz (E)]]
 [[2500 Hz (E)]]

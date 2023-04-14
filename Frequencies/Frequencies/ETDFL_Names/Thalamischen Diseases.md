@@ -1,3 +1,4 @@
+#Krankheiten/ThalamischenDiseases
 Thalamischen Diseases
 [[20 Hz (E)]]
 [[220 Hz (E)]]

@@ -1,3 +1,4 @@
+#Krankheiten/VanBogaertderLeukoenzephalitis
 Van Bogaert der Leukoenzephalitis
 [[50 Hz (E)]]
 [[1520 Hz (E)]]

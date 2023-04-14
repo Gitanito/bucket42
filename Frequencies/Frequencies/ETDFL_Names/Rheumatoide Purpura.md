@@ -1,3 +1,4 @@
+#Krankheiten/RheumatoidePurpura
 Rheumatoide Purpura
 [[60 Hz (E)]]
 [[500 Hz (E)]]

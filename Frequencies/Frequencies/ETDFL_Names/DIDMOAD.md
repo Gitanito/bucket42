@@ -1,3 +1,4 @@
+#Krankheiten/DIDMOAD
 DIDMOAD
 [[200 Hz (E)]]
 [[460 Hz (E)]]

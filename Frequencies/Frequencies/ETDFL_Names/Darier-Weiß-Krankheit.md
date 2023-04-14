@@ -1,3 +1,4 @@
+#Krankheiten/Darier-Weiß-Krankheit
 Darier-Weiß-Krankheit
 [[160 Hz (E)]]
 [[490 Hz (E)]]

@@ -1,7 +1,6 @@
+#Körperteile/Körpertemperatur
 > Die **Körpertemperatur** ist die Temperatur eines menschlichen oder tierischen Körpers. In der Regel ist damit die Temperatur des Körperinneren gemeint, die Körperkerntemperatur, seltener die Oberflächentemperatur der Haut. Die Körperkerntemperatur bezeichnet dabei die Temperatur der lebenswichtigen inneren Organe.
 >
 > Homoiotherme (gleichwarme) Lebewesen regulieren die Körpertemperatur auf einen konstanten Sollwert hin. Poikilotherme (wechselwarme) Lebewesen haben keine konstante Körpertemperatur. Eine vorübergehende Erhöhung des Temperatur-Sollwerts bei homoiothermen Lebewesen wie dem Menschen nennt man Fieber (lat. Febris), eine Senkung unter den Sollwert Hypothermie (Untertemperatur).
->
 > Es existieren verschiedene Messgeräte zur Bestimmung der Körpertemperatur eines Menschen. Im privaten Bereich sind klassische Fieberthermometer weit verbreitet, die meist axillar (unter der Achsel), oral (im Mund) oder rektal (im Mastdarm) eingesetzt werden, wobei die rektale Methode die Körperkerntemperatur am exaktesten misst. Im klinischen Bereich lassen sich häufiger Pyrometer finden, die die kontaktlose Körpertemperaturmessung im Ohr ermöglichen. Auch Temperaturmessungen im Blut, in der Speiseröhre oder in der Harnblase sind möglich.
->
 > [Wikipedia](https://de.wikipedia.org/wiki/K%C3%B6rpertemperatur)

@@ -1,3 +1,4 @@
+#Krankheiten/Zentralkern-Krankheit
 Zentralkern-Krankheit
 [[180 Hz (E)]]
 [[540 Hz (E)]]

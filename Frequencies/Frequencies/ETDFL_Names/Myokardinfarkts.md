@@ -1,3 +1,4 @@
+#Krankheiten/Myokardinfarkts
 Myokardinfarkts
 [[190 Hz (E)]]
 [[370 Hz (E)]]

@@ -1,3 +1,4 @@
+#Krankheiten/Halluzinationen
 Halluzinationen
 [[100 Hz (E)]]
 [[570 Hz (E)]]

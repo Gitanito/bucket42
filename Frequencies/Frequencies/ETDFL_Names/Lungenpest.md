@@ -1,3 +1,4 @@
+#Krankheiten/Lungenpest
 Lungenpest
 [[50 Hz (E)]]
 [[260 Hz (E)]]

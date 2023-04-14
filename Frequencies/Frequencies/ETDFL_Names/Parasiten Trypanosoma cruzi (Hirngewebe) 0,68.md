@@ -1,3 +1,4 @@
+#Krankheiten/ParasitenTrypanosomacruzi(Hirngewebe)0_68
 Parasiten Trypanosoma cruzi (Hirngewebe) 0,68
 [[900 Hz (E)]]
 [[2500 Hz (E)]]

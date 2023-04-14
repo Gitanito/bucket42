@@ -1,3 +1,4 @@
+#Krankheiten/Polyopsia
 Polyopsia
 [[260 Hz (E)]]
 [[650 Hz (E)]]

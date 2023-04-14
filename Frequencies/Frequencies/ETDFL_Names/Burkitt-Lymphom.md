@@ -1,3 +1,4 @@
+#Krankheiten/Burkitt-Lymphom
 > Das **Burkitt-Lymphom** (BL, englisch Burkitt’s lymphoma) ist ein malignes Lymphom und wird zu den B-Zell-Non-Hodgkin-Lymphomen gezählt. Es ist nach seinem Erstbeschreiber, dem britischen Chirurgen Denis Parsons Burkitt benannt.Die Weltgesundheitsorganisation (WHO) unterscheidet drei verschiedene Typen:
 >
 > das endemische Burkitt-Lymphom, das sich vor allem im tropischen Afrika findet, wo es zu den häufigsten Tumorerkrankungen bei Kindern zählt,

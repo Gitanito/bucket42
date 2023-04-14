@@ -1,3 +1,4 @@
+#Krankheiten/FußdesAthleten
 Fuß des Athleten
 [[20 Hz (E)]]
 [[750 Hz (E)]]

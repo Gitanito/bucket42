@@ -1,3 +1,4 @@
+#Krankheiten/BouchardKnoten
 Bouchard Knoten
 [[60 Hz (E)]]
 [[410 Hz (E)]]

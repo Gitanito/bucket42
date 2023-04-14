@@ -1,3 +1,4 @@
+#Krankheiten/IdiopathischeorthostatischeHypotonie_
 Idiopathische orthostatische Hypotonie ,
 [[70 Hz (E)]]
 [[8000 Hz (E)]]

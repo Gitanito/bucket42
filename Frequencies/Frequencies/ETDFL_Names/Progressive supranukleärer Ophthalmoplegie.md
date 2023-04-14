@@ -1,3 +1,4 @@
+#Krankheiten/ProgressivesupranukleärerOphthalmoplegie
 Progressive supranukleärer Ophthalmoplegie
 [[180 Hz (E)]]
 [[220 Hz (E)]]

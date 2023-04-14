@@ -1,3 +1,4 @@
+#Krankheiten/MultipleChemicalSensitivity
 Multiple Chemical Sensitivity
 [[80 Hz (E)]]
 [[370 Hz (E)]]

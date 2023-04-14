@@ -1,3 +1,4 @@
+#Krankheiten/Dysphasia
 Dysphasia
 [[140 Hz (E)]]
 [[620 Hz (E)]]

@@ -1,3 +1,4 @@
+#Krankheiten/Aphasie
 > Eine **Aphasie** (altgriechisch ἀφασία aphasía „Sprachlosigkeit“) ist eine erworbene Störung der Sprache aufgrund einer Beschädigung (Läsion) von bestimmten Regionen des Gehirns, die für die Steuerung der Sprache entscheidend sind. Diese „Sprachzentren“ des Gehirns sind asymmetrisch angelegt („lateralisiert“) und befinden sich bei der Mehrzahl der Menschen in der linken Großhirnhälfte.
 >
 > Aphasien können als Resultat verschiedenartiger Erkrankungen und Schädigungen dieser Gehirnbereiche entstehen, wie beispielsweise Schlaganfall, Schädel-Hirn-Trauma, Gehirnblutung nach Venenthrombose, Aneurysmen, Tumoren, entzündlichen Erkrankungen und Intoxikation. Aphasien werden von Sprachentwicklungsstörungen unterschieden; Aphasien sind also solche Störungen, die nach abgeschlossenem Spracherwerb auftreten.

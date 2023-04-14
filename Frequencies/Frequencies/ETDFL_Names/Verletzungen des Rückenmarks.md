@@ -1,3 +1,4 @@
+#Krankheiten/VerletzungendesRückenmarks
 Verletzungen des Rückenmarks
 [[180 Hz (E)]]
 [[320 Hz (E)]]

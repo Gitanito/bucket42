@@ -1,3 +1,4 @@
+#Krankheiten/SaoPauloTyphus
 Sao Paulo Typhus
 [[70 Hz (E)]]
 [[520 Hz (E)]]

@@ -1,3 +1,4 @@
+#Krankheiten/ParasitesEgelallgemein
 Parasites Egel allgemein
 [[110 Hz (E)]]
 [[320 Hz (E)]]

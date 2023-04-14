@@ -1,3 +1,4 @@
+#Krankheiten/Biberfieber
 > Die Giardiasis (Syn.: Lambliasis, Lamblienruhr) ist eine durch das Geißeltierchen Giardia intestinalis (Genotyp A und B) hervorgerufene Erkrankung des Menschen. Auch andere Säugetiere können an einer Giardiose erkranken, wobei hier andere Genotypen als Auslöser ermittelt wurden. Die beim Menschen vorkommenden Genotypen können auch bei Hunden (→ Giardiose des Hundes) und Katzen eine Erkrankung auslösen.
 >
 > [Wikipedia](https://de.wikipedia.org/wiki/Giardiasis)

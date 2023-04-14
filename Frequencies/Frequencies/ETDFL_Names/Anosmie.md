@@ -1,3 +1,4 @@
+#Krankheiten/Anosmie
 > **Anosmie** (griechisch ἀν- an- [Verneinungspartikel, Alpha privativum]; ὀσμή osmē ‚Geruch‘) ist eine Riechstörung, die das Fehlen oder den Verlust (Riechverlust) des Geruchssinns bezeichnet.
 >
 > [Wikipedia](https://de.wikipedia.org/wiki/Anosmie)

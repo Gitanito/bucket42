@@ -1,3 +1,4 @@
+#Krankheiten/Hyperphenylalaninämie
 Hyperphenylalaninämie
 [[70 Hz (E)]]
 [[410 Hz (E)]]

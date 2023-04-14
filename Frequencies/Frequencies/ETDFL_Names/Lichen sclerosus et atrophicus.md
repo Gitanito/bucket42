@@ -1,3 +1,4 @@
+#Krankheiten/Lichensclerosusetatrophicus
 Lichen sclerosus et atrophicus
 [[150 Hz (E)]]
 [[180 Hz (E)]]

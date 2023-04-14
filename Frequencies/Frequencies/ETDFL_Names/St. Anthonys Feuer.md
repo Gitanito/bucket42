@@ -1,3 +1,4 @@
+#Krankheiten/St.AnthonysFeuer
 St. Anthonys Feuer
 [[70 Hz (E)]]
 [[520 Hz (E)]]

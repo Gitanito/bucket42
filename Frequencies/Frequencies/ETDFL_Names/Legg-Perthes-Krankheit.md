@@ -1,3 +1,4 @@
+#Krankheiten/Legg-Perthes-Krankheit
 Legg-Perthes-Krankheit
 [[40 Hz (E)]]
 [[320 Hz (E)]]

@@ -1,3 +1,4 @@
+#Krankheiten/Friedreich-Ataxie
 Friedreich-Ataxie
 [[160 Hz (E)]]
 [[490 Hz (E)]]

@@ -1,3 +1,4 @@
+#Krankheiten/BakterieninfektionenundMykosen
 Bakterieninfektionen und Mykosen
 [[50 Hz (E)]]
 [[370 Hz (E)]]

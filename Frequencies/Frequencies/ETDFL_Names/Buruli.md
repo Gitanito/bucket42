@@ -1,3 +1,4 @@
+#Krankheiten/Buruli
 > Das **Buruli**-Ulkus (Ulcus tropicum) ist eine in den Tropen verbreitete, aber nicht an das tropische Klima gebundene (kommt auch in Japan und Australien vor) infektiöse Erkrankung der Haut und Weichteile mit Bildung zum Teil ausgedehnter Geschwüre. Erreger ist das atypische Mykobakterium (MOTT) Mycobacterium ulcerans, das mit den Erregern von Tuberkulose und Lepra verwandt ist.
 >
 > [Wikipedia](https://de.wikipedia.org/wiki/Buruli-Ulkus)

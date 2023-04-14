@@ -1,3 +1,4 @@
+#Krankheiten/Pyothorax
 Pyothorax
 [[110 Hz (E)]]
 [[550 Hz (E)]]

@@ -1,3 +1,4 @@
+#Steine/Türkis
 > **Türkis** steht für:
 >
 > Türkis (Farbe), Farbe zwischen Grün und Blau

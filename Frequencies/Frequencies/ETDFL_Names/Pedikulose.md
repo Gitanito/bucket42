@@ -1,3 +1,4 @@
+#Krankheiten/Pedikulose
 Pedikulose
 [[30 Hz (E)]]
 [[410 Hz (E)]]

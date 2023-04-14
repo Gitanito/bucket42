@@ -1,3 +1,4 @@
+#Krankheiten/Hypertonie
 Hypertonie
 [[70 Hz (E)]]
 [[410 Hz (E)]]

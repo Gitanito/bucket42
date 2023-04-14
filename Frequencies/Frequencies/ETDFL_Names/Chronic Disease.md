@@ -1,3 +1,4 @@
+#Krankheiten/ChronicDisease
 Chronic Disease
 [[40 Hz (E)]]
 [[230 Hz (E)]]

@@ -1,3 +1,4 @@
+#Krankheiten/HautÃ¢â‚¬â€žScarTissueHeilung
 Haut Ã¢ â‚¬ â€žScar Tissue Heilung
 [[190 Hz (E)]]
 [[370 Hz (E)]]

@@ -1,3 +1,4 @@
+#Krankheiten/Sklerose
 Sklerose
 [[50 Hz (E)]]
 [[320 Hz (E)]]

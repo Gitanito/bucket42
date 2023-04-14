@@ -1,3 +1,4 @@
+#Krankheiten/Glioblastom
 Glioblastom
 [[70 Hz (E)]]
 [[410 Hz (E)]]

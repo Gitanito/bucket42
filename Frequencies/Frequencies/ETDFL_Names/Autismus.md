@@ -1,3 +1,4 @@
+#Krankheiten/Autismus
 > **Autismus** (von altgriechisch αὐτός autós „selbst“), aktuelle fachliche Bezeichnung Autismus-Spektrum-Störung, ist eine tiefgreifende Entwicklungsstörung. Diese tritt in der Regel vor dem dritten Lebensjahr auf und zeigt sich in mindestens einem der folgenden drei Bereiche:
 >
 > Probleme beim wechselseitigen sozialen Umgang und Austausch (etwa beim Verständnis und Aufbau von Beziehungen).

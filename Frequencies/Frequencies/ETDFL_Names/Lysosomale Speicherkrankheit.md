@@ -1,3 +1,4 @@
+#Krankheiten/LysosomaleSpeicherkrankheit
 Lysosomale Speicherkrankheit
 [[80 Hz (E)]]
 [[410 Hz (E)]]

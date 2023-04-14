@@ -1,3 +1,4 @@
+#Krankheiten/AplasiaCutisCongenita
 Aplasia Cutis Congenita
 [[130 Hz (E)]]
 [[520 Hz (E)]]

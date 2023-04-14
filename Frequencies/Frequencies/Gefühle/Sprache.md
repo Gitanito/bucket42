@@ -1,3 +1,4 @@
+#Gefühle/Sprache
 > Unter **Sprache** versteht man im allgemeinen Sinn alle komplexen Systeme der Kommunikation. Darunter fallen insbesondere die menschlichen natürlichen Sprachen sowie auch konstruierte Sprachen, aber auch im Tierreich existieren Zeichensysteme und Systeme von kommunikativen Verhaltensweisen, die als Sprache bezeichnet werden, etwa die Tanzsprache der Bienen. In einem noch weiteren Sinn werden auch Symbolsysteme, die nur zur Repräsentation und Verarbeitung von Information dienen, als Sprache bezeichnet, etwa Programmiersprachen oder formale Sprachen in Mathematik und Logik.
 >
 > Unter den menschlichen natürlichen Sprachen ist eine wesentliche Unterteilung die zwischen Lautsprache und Gebärdensprache. Die geschriebene Sprache zielt oft auf die Abbildung einer Lautsprache (z. B. bei Alphabetschriften), kann aber zu verschiedenen Graden eigenständig sein (am vollständigsten bei logografischen Schriften).

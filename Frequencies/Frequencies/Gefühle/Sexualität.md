@@ -1,3 +1,4 @@
+#Gefühle/Sexualität
 > **Sexualität** (sinngemäß „Geschlechtlichkeit“, von spätlat. sexualis; aus lateinisch sexus „Geschlecht“) bezeichnet im engeren biologischen Sinne die Gegebenheit von (mindestens) zwei verschiedenen Fortpflanzungstypen (Geschlechtern) von Lebewesen derselben Art, die nur jeweils zusammen mit einem Angehörigen des (bzw. eines) anderen Typus (Geschlechts) zu einer zygotischen Fortpflanzung fähig sind. Hier dient die Sexualität einer Neukombination von Erbinformationen.
 >
 > Im sozio- und verhaltensbiologischen Sinne bezeichnet der Begriff die Formen dezidiert geschlechtlichen Verhaltens zwischen Geschlechtspartnern. Bei vielen Wirbeltieren hat das Sexualverhalten zusätzliche Funktionen im Sozialgefüge der Population hinzugewonnen, die nichts mehr mit dem Genomaustausch zu tun haben müssen, so dass dann die handelnden Partner auch nicht unbedingt unterschiedlichen Geschlechts sein müssen.

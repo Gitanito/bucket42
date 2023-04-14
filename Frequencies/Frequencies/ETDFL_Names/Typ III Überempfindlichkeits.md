@@ -1,3 +1,4 @@
+#Krankheiten/TypIIIÜberempfindlichkeits
 Typ III Überempfindlichkeits
 [[20 Hz (E)]]
 [[300 Hz (E)]]

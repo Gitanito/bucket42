@@ -1,3 +1,4 @@
+#Krankheiten/Thalassämie
 Thalassämie
 [[50 Hz (E)]]
 [[290 Hz (E)]]

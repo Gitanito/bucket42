@@ -1,3 +1,4 @@
+#Krankheiten/LateralSclerosis
 Lateral Sclerosis
 [[190 Hz (E)]]
 [[570 Hz (E)]]

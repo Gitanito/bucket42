@@ -1,3 +1,4 @@
+#Krankheiten/AmyotoniaCongenita
 Amyotonia Congenita
 [[40 Hz (E)]]
 [[350 Hz (E)]]

@@ -1,3 +1,4 @@
+#Krankheiten/Psoriasis
 Psoriasis
 [[50 Hz (E)]]
 [[550 Hz (E)]]

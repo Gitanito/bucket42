@@ -1,3 +1,4 @@
+#Krankheiten/DiabetischeAzidose
 Diabetische Azidose
 [[160 Hz (E)]]
 [[410 Hz (E)]]

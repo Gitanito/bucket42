@@ -1,3 +1,4 @@
+#Krankheiten/ParakeratoseVariegata
 Parakeratose Variegata
 [[80 Hz (E)]]
 [[370 Hz (E)]]

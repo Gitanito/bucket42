@@ -1,3 +1,4 @@
+#Krankheiten/Trichinose
 Trichinose
 [[100 Hz (E)]]
 [[520 Hz (E)]]

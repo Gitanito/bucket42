@@ -1,3 +1,4 @@
+#Krankheiten/BringtFSH-Sekretion
 Bringt FSH-Sekretion
 [[130 Hz (E)]]
 [[350 Hz (E)]]

@@ -1,3 +1,4 @@
+#Körperteile/Anus
 > Der **Anus** (lateinisch anus  ‚(Fuß)ring‘, altgriechisch πρωκτός prōktós), deutsch After (mittelhochdeutsch after, althochdeutsch aftero, eigentlich „Hinterer“; substantiviert von „hinter, nachfolgend“), umgangssprachlich auch das Poloch, die Rosette oder Poperze genannt, ist die Austrittsöffnung des Darmkanals von Menschen sowie vielzelliger Tiere. Durch den Anus verlässt der Kot den Darm.
 >
 > [Wikipedia](https://de.wikipedia.org/wiki/Anus)
