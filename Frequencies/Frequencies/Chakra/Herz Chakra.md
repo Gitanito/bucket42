@@ -1,3 +1,4 @@
+#Chakra/HerzChakra
 Seelisch-geistiges Grundprinzip: [[Seinshingabe]]; [[Beziehung]], [[Liebe]], [[Mitgefühl]], [[Herzenswärme]], [[heilung]]
 Entsprechende Farbe: [[Grün]], [[Rosa]]
 Körperliche Zuordnung: [[Herz]], oberer [[Rücken]] mit [[Brustkorb]], unterer [[Lungenbereich]], [[Blut]] und [[Blutkreislauf]], [[Haut]], [[Arme]], [[Hände]], [[Thymusdrüse]]

@@ -1,3 +1,4 @@
+#Düfte/Vanille
 > **Vanille** steht für:
 >
 > Vanille (Gewürz), aus Kapselfrüchten von Orchideen-Arten der Gattung Vanilla

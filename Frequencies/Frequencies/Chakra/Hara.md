@@ -1,3 +1,4 @@
+#Chakra/Hara
 > **Hara** steht für:
 >
 > Hara (Familienname), Familienname, zu Namensträgern siehe dort

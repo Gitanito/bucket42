@@ -1,3 +1,4 @@
+#Chakra/SakralChakra
 #Chakra/Sakral
 Seelisch-geistiges Grundprinzip: [[Schöpferische Fortpflanzung des Seins]]; [[Sexualität]], [[Gefühle]], [[Kreativität]], [[Begeisterungsfähigkeit]], [[Erotik]]
 Entsprechende Farbe: [[Orange]]

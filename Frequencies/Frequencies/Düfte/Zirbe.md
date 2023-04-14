@@ -1,3 +1,4 @@
+#Düfte/Zirbe
 > Die **Zirbe**lkiefer (Pinus cembra), auch Zirbenkiefer, Arbe, Arve, Zirbe oder Zirbel genannt, ist eine Pflanzenart aus der Familie der Kieferngewächse (Pinaceae). Ihre Heimat sind die Alpen und die Karpaten. Zirbelkiefern können bis zu 25 Meter hoch und 1000 Jahre alt werden. Ihre Kurztriebe tragen viele Büschel mit jeweils fünf Nadeln. Das sehr aromatisch duftende Holz wird als Möbel- und Schnitzholz verwendet. Die Samen werden irreführend „Zirbelnüsse“ genannt, obwohl sie keine Nüsse sind. Zapfen (genannt Zirbelnuss) und Samen dienen der Lebensmittelproduktion und der Produktion von Spirituosen wie Zirbenlikör und -schnaps.
 >
 > [Wikipedia](https://de.wikipedia.org/wiki/Zirbelkiefer)

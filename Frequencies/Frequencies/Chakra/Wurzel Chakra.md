@@ -1,3 +1,4 @@
+#Chakra/WurzelChakra
 Seelisch-geistiges Grundprinzip: [[Körperlicher Wille zum Sein]]; [[Überleben]], [[Urvertrauen]], [[Stabilität]], [[Durchsetzungsfähigkeit]], [[Selbstvertrauen]], [[Intuition]].
 Entsprechende Farbe: [[Dunkelrot]]
 Körperliche Zuordnung: [[Beckenboden]], [[Dickdarm]] und [[Enddarm]], [[Anus]], [[Knochen]], [[Beine]], [[Füße]], [[Zähne]], [[Nägel]], [[Steißbein]], [[Blutbildung]], [[Nebennieren]].

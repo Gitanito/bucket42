@@ -1,3 +1,4 @@
+#Düfte/Sandelholz
 > **Sandelholz** steht für:
 >
 > das Holz des Santalum album, Familie der Sandelholzgewächse, siehe Sandelholzbaum

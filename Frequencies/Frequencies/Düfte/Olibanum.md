@@ -1,3 +1,4 @@
+#Düfte/Olibanum
 > Weihrauch (von mittelhochdeutsch/althochdeutsch wīhrou[c]h, heiliges Räucherwerk‘, ‚Weihrauch‘, ‚Boswellienharz‘; zu wīhen: ,heiligen, weihen‘) ist das luftgetrocknete Gummiharz, das von verschiedenen Boswellia-Arten gewonnen wird. Weihrauch wird nicht nur kultisch als Räucherwerk verwendet, sondern auch heilkundlich als Phytotherapeutikum. Der beim Verbrennen entstehende Rauch wird ebenfalls als Weihrauch bezeichnet. Weihrauchharz ist grobkörnig bis stückig und von durchscheinend braun-gelber bis rötlich-brauner Farbe. Andere Bezeichnungen sind **Olibanum** (ursprünglich ein sehr helles Weihrauchharz, lateinisch Thus album oder incensum album) sowie lateinisch Thus und incensum (englisch Frankincense).
 >
 > [Wikipedia](https://de.wikipedia.org/wiki/Weihrauch)

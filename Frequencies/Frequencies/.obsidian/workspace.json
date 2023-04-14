@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Düfte/Angelikawurzel.md",
+                "file": "ETDFL_Freqs/140 Hz (E).md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "warze",
+                "query": "tag:#Frequenzen/140Hz",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +77,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Düfte/Angelikawurzel.md",
+                "file": "ETDFL_Freqs/140 Hz (E).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Düfte/Angelikawurzel.md",
+                "file": "ETDFL_Freqs/140 Hz (E).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Düfte/Angelikawurzel.md"
+                "file": "ETDFL_Freqs/140 Hz (E).md"
               }
             }
           },
@@ -149,7 +150,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -166,34 +168,34 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "46a266e39bba2eee",
+  "active": "fc54787aa5159c7a",
   "lastOpenFiles": [
-    "Düfte/Bergamotte.md",
-    "Düfte/Benzoe Siam.md",
-    "Düfte/Zitronengras.md",
-    "Düfte/Zirbe.md",
-    "Düfte/Zimt.md",
-    "Düfte/Ysop.md",
-    "Düfte/Ylang-Ylang.md",
-    "Düfte/Waldgeißblatt.md",
-    "Düfte/Veilchen.md",
-    "Düfte/Vanille.md",
-    "Düfte/Thymian.md",
-    "Düfte/Speik.md",
-    "Düfte/Sandelholz.md",
-    "Düfte/Salbei.md",
-    "Düfte/Rosengeranie.md",
-    "Düfte/Rose.md",
-    "Düfte/römische Kamille.md",
-    "Düfte/Patchouli.md",
-    "Düfte/Olibanum.md",
-    "Düfte/Neroli.md",
-    "Düfte/Nelke.md",
-    "Düfte/Nana-Minze.md",
-    "Düfte/Myrte.md",
-    "Düfte/Muskatellersalbei.md",
-    "Düfte/Mimose.md",
+    "ETDFL_Names/Depressive Disorder.md",
+    "ETDFL_Freqs/465690 Hz (E).md",
+    "ETDFL_Names/Depression.md",
+    "Krankheiten/Depression.md",
+    "Chakra/„Unbekanntes“ Chakra.md",
+    "Frequenzen/144,72 Hz.md",
+    "Frequenzen/597 Hz.md",
+    "Metalle/Kupfer.md",
+    "ETDFL_Names/Allergie.md",
+    "Krankheiten/Allergie.md",
+    "Bachblüten/Wildapfel.md",
+    "Düfte/Lavendel.md",
+    "Düfte/Lorbeer.md",
     "Düfte/Magnolie.md",
+    "Düfte/Mimose.md",
+    "Düfte/Muskatellersalbei.md",
+    "Düfte/Myrte.md",
+    "Düfte/Nana-Minze.md",
+    "Düfte/Nelke.md",
+    "Düfte/Neroli.md",
+    "Düfte/Olibanum.md",
+    "Düfte/Patchouli.md",
+    "Düfte/römische Kamille.md",
+    "Düfte/Rose.md",
+    "Düfte/Rosengeranie.md",
+    "Düfte/Salbei.md",
     "Bachblüten",
     "Düfte",
     "Effekte",

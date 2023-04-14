@@ -1,3 +1,4 @@
+#Düfte/Labdanum
 > Ladanum oder **Labdanum**, auch (im Spätmittelalter schon fälschlich) Laudanum genannt, ist ein Harz, das im Mittelmeerraum aus verschiedenen Arten (so Cistus ladanifer, Cistus laurifolius oder Cistus creticus) von Zistrosen gewonnen wird. Im Sommer tritt unter Sonneneinwirkung das ölige Harz aus den Blättern und Zweigen, als würde die Pflanze schwitzen.
 >
 > Im Alten Ägypten war Ladanum beliebt und Bestandteil der bekannten Räuchermischung Kyphi. Das Harz wurde unter anderem als Räucherwerk verwendet.

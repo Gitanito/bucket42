@@ -1,3 +1,4 @@
+#Bachblüten/Waldkiefer
 Pine
 > Die **Waldkiefer** (Pinus sylvestris), auch Gewöhnliche oder Gemeine Kiefer, Wald-Föhre, Rotföhre, Weißkiefer oder Forche genannt, ist eine Pflanzenart in der Gattung der Kiefern (Pinus) aus der Familie der Kieferngewächse (Pinaceae). Um ihre Zugehörigkeit zur Gattung der Kiefern zu betonen, ist in der Botanik die Bindestrichschreibweise Wald-Kiefer verbreitet.
 >

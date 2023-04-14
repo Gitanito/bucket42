@@ -1,3 +1,4 @@
+#Chakra/HalsChakra
 Seelisch-geistiges Prinzip: [[Seinsresonanz]]; [[Ausdruck]], [[Kommunikation]], [[Inspiration]], [[Offenheit]]
 Entsprechende Farbe: [[Hellblau]], [[Silbrig]], [[Türkis]]
 Körperliche Zuordnung: [[Hals]], [[Kehlkopf]], [[Kiefer]], [[Speiseröhre]] und [[Luftröhre]], [[Bronchien]], oberer [[Lungenbereich]], [[Halswirbelsäule]], [[Schultern]], [[Schilddrüse]]

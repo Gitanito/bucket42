@@ -1,3 +1,4 @@
+#Chakra/StirnChakra
 Seelisch-geistiges Prinzip: [[Seinswahrnehmung]]; [[Intuition]], [[Erkenntnis]], [[Willenskraft]]
 Entsprechende Farbe: [[Violett]], [[Indigo]]
 Körperliche Zuordnung: [[Gesicht]], [[Augen]], [[Ohren]], [[Nase]], [[Gehirn]], [[Hypophyse]], [[Hypothalamus]]

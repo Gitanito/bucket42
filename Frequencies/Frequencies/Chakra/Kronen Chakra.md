@@ -1,3 +1,4 @@
+#Chakra/KronenChakra
 Seelisch-geistiges Prinzip: [[Universelles Bewusstsein]]; [[höchste Erkenntnis]], [[Vollendung]]
 Entsprechende Farbe: [[Weiß]], [[Gold]], [[Purpur]]
 Körperliche Zuordnung: [[Großhirn]], [[Zirbeldrüse]]

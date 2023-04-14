@@ -1,3 +1,4 @@
+#Chakra/SolarPlexusChakra
 Seelisch-geistiges Grundprinzip: [[Gestalten des Seins]]; [[Verarbeitung von Erlebnissen und Gefühlen]]; [[Intuition]]; [[Persönlichkeit]], [[Weisheit]], [[Macht]].
 Entsprechende Farbe: [[Gelb]] bis [[goldgelb]]
 Körperliche Zuordnung: [[Verdauungsprozess]] mit [[Magen]], [[Leber]], [[Milz]], [[Gallenblase]], [[Bauchspeicheldrüse]]; [[Vegetatives Nervensystem]]; [[Lendenwirbel]]; [[Immunsystem]].

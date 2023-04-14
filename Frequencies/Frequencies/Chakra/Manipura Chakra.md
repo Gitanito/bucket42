@@ -1,3 +1,4 @@
+#Chakra/ManipuraChakra
 > **Manipura** (Sanskrit: मणिपूर, IAST: Maṇipūra, Deutsch: "Juwelensee") ist nach Vedischer Überlieferung das dritte Hauptchakra. Es befindet sich über dem Bauchnabel und leicht unterhalb des Sonnengeflechts.  "Mani" bedeutet Edelstein, Juwel, "Pura" (mit langem "ū") See oder Flut. Mit kurzem "u" wäre Pura auch Stadt, weshalb manchmal von der "Stadt der Edelsteine" die Rede ist.
 >
 > Das Manipurachakra wird mit dem Zentrum der Lebensenergie in Verbindung gebracht. Laut der Überlieferung wirkt das Manipurachakra wie ein Magnet, der Prana aus

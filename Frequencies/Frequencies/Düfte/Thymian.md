@@ -1,3 +1,4 @@
+#Düfte/Thymian
 > Die **Thymian**e (Thymus, von altgriechisch θύμον thýmon, das möglicherweise "Räucherwerk" (von θύω - "(religiös) räuchern") bedeutet oder aber auch vorgriechischen Ursprungs ist) oder Quendel sind eine Pflanzengattung innerhalb der Familie der Lippenblütengewächse (Lamiaceae). Einige Arten und ihre Sorten sind Heil- und Gewürzpflanzen, am bekanntesten ist der Echte Thymian (Thymus vulgaris). Auch der Sand-Thymian (Thymus serpyllum), der Zitronen-Thymian (Thymus ×citriodorus) und der Breitblättrige Thymian (Thymus pulegioides) sind in der abendländischen Kultur und Pflanzenheilkunde von Bedeutung. Der Saturei-Thymian (Thymus satureioides) hat im Unterschied zu anderen Thymianen einen strengen Geschmack und ist daher als Gewürz eher nicht geeignet. Stattdessen wird er zur Herstellung von Ölen verwendet. Nicht zur Gattung Thymus gehört der nahe verwandte Kopfige Thymian (Thymbra capitata).
 >
 > [Wikipedia](https://de.wikipedia.org/wiki/Thymiane)
