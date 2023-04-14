@@ -1,5 +1,4 @@
 Morgellons Chronic (Ruptures und Fiber Wucherungen)
-
 [[300 Hz (E)]]
 [[680 Hz (E)]]
 [[900 Hz (E)]]

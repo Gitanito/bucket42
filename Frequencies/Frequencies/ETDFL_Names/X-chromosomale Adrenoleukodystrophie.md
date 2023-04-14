@@ -1,5 +1,4 @@
 X-chromosomale Adrenoleukodystrophie
-
 [[190 Hz (E)]]
 [[750 Hz (E)]]
 [[900 Hz (E)]]

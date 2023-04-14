@@ -1,5 +1,4 @@
 Rückfallfieber
-
 [[80 Hz (E)]]
 [[570 Hz (E)]]
 [[900 Hz (E)]]

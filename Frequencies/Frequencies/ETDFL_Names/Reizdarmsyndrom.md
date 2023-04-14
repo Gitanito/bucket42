@@ -1,5 +1,4 @@
 Reizdarmsyndrom
-
 [[230 Hz (E)]]
 [[850 Hz (E)]]
 [[7500 Hz (E)]]

@@ -1,5 +1,4 @@
 Pflanze Poisoning
-
 [[130 Hz (E)]]
 [[520 Hz (E)]]
 [[1730 Hz (E)]]

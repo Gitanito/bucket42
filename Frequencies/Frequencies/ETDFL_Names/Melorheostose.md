@@ -1,5 +1,4 @@
 Melorheostose
-
 [[40 Hz (E)]]
 [[260 Hz (E)]]
 [[750 Hz (E)]]

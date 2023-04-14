@@ -1,5 +1,4 @@
 Eosinophilie-Myalgie
-
 [[20 Hz (E)]]
 [[120 Hz (E)]]
 [[950 Hz (E)]]

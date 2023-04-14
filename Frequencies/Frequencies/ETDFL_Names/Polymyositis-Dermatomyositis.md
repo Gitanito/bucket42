@@ -1,5 +1,4 @@
 Polymyositis-Dermatomyositis
-
 [[20 Hz (E)]]
 [[750 Hz (E)]]
 [[2420 Hz (E)]]

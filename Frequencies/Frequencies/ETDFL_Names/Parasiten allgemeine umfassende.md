@@ -1,5 +1,4 @@
 Parasiten allgemeine umfassende
-
 [[160 Hz (E)]]
 [[300 Hz (E)]]
 [[680 Hz (E)]]

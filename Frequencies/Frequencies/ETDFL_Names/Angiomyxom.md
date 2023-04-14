@@ -1,7 +1,4 @@
-
-
 Angiomyxom
-
 [[50 Hz (E)]]
 [[310 Hz (E)]]
 [[1590 Hz (E)]]

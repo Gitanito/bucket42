@@ -1,7 +1,4 @@
-
-
 Branchio-Oculo-Facial S.
-
 [[150 Hz (E)]]
 [[490 Hz (E)]]
 [[620 Hz (E)]]

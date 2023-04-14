@@ -1,5 +1,4 @@
 Fetuskrankheiten (Allgemein)
-
 [[90 Hz (E)]]
 [[370 Hz (E)]]
 [[910 Hz (E)]]

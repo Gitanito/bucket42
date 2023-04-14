@@ -1,5 +1,4 @@
 Marginal Ulcer
-
 [[130 Hz (E)]]
 [[490 Hz (E)]]
 [[620 Hz (E)]]

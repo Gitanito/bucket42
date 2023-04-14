@@ -1,5 +1,4 @@
 Lymphogranuloma venereum 0.02
-
 [[120 Hz (E)]]
 [[950 Hz (E)]]
 [[13390 Hz (E)]]

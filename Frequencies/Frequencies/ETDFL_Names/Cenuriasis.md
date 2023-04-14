@@ -1,5 +1,4 @@
 Cenuriasis
-
 [[240 Hz (E)]]
 [[700 Hz (E)]]
 [[40000 Hz (E)]]

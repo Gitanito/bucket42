@@ -1,5 +1,4 @@
 Hypovolämischen Schock
-
 [[170 Hz (E)]]
 [[320 Hz (E)]]
 [[950 Hz (E)]]

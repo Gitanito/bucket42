@@ -1,5 +1,4 @@
 Hydatidose
-
 [[120 Hz (E)]]
 [[550 Hz (E)]]
 [[5850 Hz (E)]]

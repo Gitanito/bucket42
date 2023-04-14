@@ -1,5 +1,4 @@
 Complex Regional Pain Syndrome
-
 [[110 Hz (E)]]
 [[4140 Hz (E)]]
 [[33150 Hz (E)]]

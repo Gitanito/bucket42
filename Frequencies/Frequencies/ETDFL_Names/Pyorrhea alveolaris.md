@@ -1,5 +1,4 @@
 Pyorrhea alveolaris
-
 [[60 Hz (E)]]
 [[320 Hz (E)]]
 [[730 Hz (E)]]

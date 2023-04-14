@@ -1,5 +1,4 @@
 Coronaviridae Infections
-
 [[80 Hz (E)]]
 [[350 Hz (E)]]
 [[5750 Hz (E)]]

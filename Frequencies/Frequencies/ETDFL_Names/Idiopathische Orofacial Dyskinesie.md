@@ -1,5 +1,4 @@
 Idiopathische Orofacial Dyskinesie
-
 [[60 Hz (E)]]
 [[410 Hz (E)]]
 [[700 Hz (E)]]

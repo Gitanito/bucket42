@@ -1,5 +1,4 @@
 Urogenitalen
-
 [[20 Hz (E)]]
 [[460 Hz (E)]]
 [[680 Hz (E)]]

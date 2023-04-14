@@ -1,5 +1,4 @@
 Phlebotomusfieber
-
 [[30 Hz (E)]]
 [[250 Hz (E)]]
 [[2780 Hz (E)]]

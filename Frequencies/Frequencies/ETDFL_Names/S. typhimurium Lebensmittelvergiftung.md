@@ -1,5 +1,4 @@
 S. typhimurium Lebensmittelvergiftung
-
 [[180 Hz (E)]]
 [[570 Hz (E)]]
 [[1850 Hz (E)]]

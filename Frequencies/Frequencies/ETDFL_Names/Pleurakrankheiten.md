@@ -1,5 +1,4 @@
 Pleurakrankheiten
-
 [[130 Hz (E)]]
 [[350 Hz (E)]]
 [[5850 Hz (E)]]

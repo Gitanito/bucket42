@@ -1,5 +1,4 @@
 Olive
-
 > Der **Olivenbaum** (Olea europaea), von lateinisch oliva, auch Echter Ölbaum genannt, ist ein mittelgroßer, im Alter oft knorriger Baum aus der Gattung der Ölbäume (Olea), die zur Familie der Ölbaumgewächse (Oleaceae) gehört. Er wird seit dem 4. Jahrtausend v. Chr. als Nutzpflanze kultiviert.
 >
 > [Wikipedia](https://de.wikipedia.org/wiki/Olivenbaum)

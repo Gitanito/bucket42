@@ -1,5 +1,4 @@
 Parasites Egel Blut
-
 [[140 Hz (E)]]
 [[320 Hz (E)]]
 [[870 Hz (E)]]

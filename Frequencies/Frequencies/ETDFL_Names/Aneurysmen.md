@@ -1,7 +1,4 @@
-
-
 Aneurysmen
-
 [[80 Hz (E)]]
 [[240 Hz (E)]]
 [[570 Hz (E)]]

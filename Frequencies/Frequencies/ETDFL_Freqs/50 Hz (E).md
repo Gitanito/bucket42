@@ -1,5 +1,4 @@
 50 Hz (E)
-
 [[Afrikanisches Lymphom]]
 [[Akne]]
 [[Alkalose]]

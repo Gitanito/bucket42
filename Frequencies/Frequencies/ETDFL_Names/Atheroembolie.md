@@ -1,7 +1,4 @@
-
-
 Atheroembolie
-
 [[50 Hz (E)]]
 [[570 Hz (E)]]
 [[920 Hz (E)]]

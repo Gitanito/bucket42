@@ -1,5 +1,4 @@
 Taenia Infections
-
 [[120 Hz (E)]]
 [[650 Hz (E)]]
 [[2500 Hz (E)]]

@@ -1,5 +1,4 @@
 Gastrointestinal Hemorrhage
-
 [[50 Hz (E)]]
 [[520 Hz (E)]]
 [[710 Hz (E)]]

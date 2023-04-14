@@ -1,5 +1,4 @@
 Schlaganfall
-
 [[90 Hz (E)]]
 [[120 Hz (E)]]
 [[620 Hz (E)]]

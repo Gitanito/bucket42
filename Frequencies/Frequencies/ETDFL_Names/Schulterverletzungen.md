@@ -1,5 +1,4 @@
 Schulterverletzungen
-
 [[120 Hz (E)]]
 [[5500 Hz (E)]]
 [[32500 Hz (E)]]

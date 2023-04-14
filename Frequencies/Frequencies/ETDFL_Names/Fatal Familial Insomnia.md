@@ -1,5 +1,4 @@
 Fatal Familial Insomnia
-
 [[260 Hz (E)]]
 [[380 Hz (E)]]
 [[890 Hz (E)]]

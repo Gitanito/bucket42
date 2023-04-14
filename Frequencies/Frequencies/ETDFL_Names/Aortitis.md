@@ -1,11 +1,8 @@
-> Die **Aortitis** ist eine Entzündung der Aorta, d. h. der großen Körperschlagader die vom Herz durch den Brustkorb bis in den Bauchraum führt. 
+> Die **Aortitis** ist eine Entzündung der Aorta, d. h. der großen Körperschlagader die vom Herz durch den Brustkorb bis in den Bauchraum führt.
 >
 > Eine Aortitis ist eine seltene Erkrankung.
->
 > [Wikipedia](https://de.wikipedia.org/wiki/Aortitis)
-
 Aortitis
-
 [[130 Hz (E)]]
 [[230 Hz (E)]]
 [[750 Hz (E)]]

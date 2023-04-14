@@ -1,5 +1,4 @@
 Postcommissurotomy Syndrom
-
 [[30 Hz (E)]]
 [[330 Hz (E)]]
 [[1220 Hz (E)]]

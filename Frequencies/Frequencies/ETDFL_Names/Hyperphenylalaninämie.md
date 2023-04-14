@@ -1,5 +1,4 @@
 Hyperphenylalaninämie
-
 [[70 Hz (E)]]
 [[410 Hz (E)]]
 [[730 Hz (E)]]

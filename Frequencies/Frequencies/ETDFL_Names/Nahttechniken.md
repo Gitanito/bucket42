@@ -1,5 +1,4 @@
 Nahttechniken
-
 [[160 Hz (E)]]
 [[350 Hz (E)]]
 [[2500 Hz (E)]]

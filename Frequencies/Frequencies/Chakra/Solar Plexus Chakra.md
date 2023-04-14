@@ -1,5 +1,5 @@
 Seelisch-geistiges Grundprinzip: [[Gestalten des Seins]]; [[Verarbeitung von Erlebnissen und Gefühlen]]; [[Intuition]]; [[Persönlichkeit]], [[Weisheit]], [[Macht]].
-Entsprechende Farbe: [[Gelb]] bis [[goldgelb]] 
+Entsprechende Farbe: [[Gelb]] bis [[goldgelb]]
 Körperliche Zuordnung: [[Verdauungsprozess]] mit [[Magen]], [[Leber]], [[Milz]], [[Gallenblase]], [[Bauchspeicheldrüse]]; [[Vegetatives Nervensystem]]; [[Lendenwirbel]]; [[Immunsystem]].
 Mögliche Erkrankungen: [[mangelndes Selbstbewusstsein]]; [[Ehrgeiz]] und [[Leistungsdenken]]; Rücksichtslosigkeit; [[Wutanfälle]]; [[Essstörungen]]; [[blockierte Gefühle]]; [[Willensschwäche]]; Verdauungsstörungen: [[Magen]], [[Darm]], [[Galle]], [[Milz]], [[Bauchspeicheldrüse]]; Schmerzen in der [[Lendenwirbelsäule]].
 Düfte: Fenchel, [[Ginster]], [[Römische Kamille]] , [[Salbei]], [[Ysop]], [[Zitrone]].

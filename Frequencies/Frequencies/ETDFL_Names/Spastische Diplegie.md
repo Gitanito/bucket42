@@ -1,5 +1,4 @@
 Spastische Diplegie
-
 [[60 Hz (E)]]
 [[320 Hz (E)]]
 [[20000 Hz (E)]]

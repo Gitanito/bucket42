@@ -1,5 +1,4 @@
 Uveomeningoenzephalitisches
-
 [[150 Hz (E)]]
 [[930 Hz (E)]]
 [[5090 Hz (E)]]

@@ -1,7 +1,4 @@
-
-
 Anophthalmos
-
 [[120 Hz (E)]]
 [[970 Hz (E)]]
 [[5050 Hz (E)]]

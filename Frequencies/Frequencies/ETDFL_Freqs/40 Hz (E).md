@@ -1,5 +1,4 @@
 40 Hz (E)
-
 [[ADD mit Hyperaktivität]]
 [[Adenom]]
 [[Adenomatöse Polyposis Coli]]
@@ -185,7 +184,6 @@
 [[Piroplasmosis]]
 [[Plasmodium-Infektionen]]
 [[POEMS-Syndrom]]
-[[Polychondritis]]
 [[Polychondritis]]
 [[Polyposis Coli]]
 [[Polyposis-Syndrom]]

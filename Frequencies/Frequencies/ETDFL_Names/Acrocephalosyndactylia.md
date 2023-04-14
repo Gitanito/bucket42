@@ -1,7 +1,4 @@
-
-
 Acrocephalosyndactylia
-
 [[140 Hz (E)]]
 [[1220 Hz (E)]]
 [[2620 Hz (E)]]

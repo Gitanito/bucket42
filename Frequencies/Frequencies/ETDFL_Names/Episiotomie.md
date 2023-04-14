@@ -1,5 +1,4 @@
 Episiotomie
-
 [[120 Hz (E)]]
 [[250 Hz (E)]]
 [[51620 Hz (E)]]

@@ -1,5 +1,4 @@
 Tapetoretinale Degeneration
-
 [[70 Hz (E)]]
 [[500 Hz (E)]]
 [[1000 Hz (E)]]

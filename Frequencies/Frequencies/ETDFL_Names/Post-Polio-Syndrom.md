@@ -1,5 +1,4 @@
 Post-Polio-Syndrom
-
 [[60 Hz (E)]]
 [[120 Hz (E)]]
 [[710 Hz (E)]]

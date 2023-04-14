@@ -1,5 +1,4 @@
 Mastozytose
-
 [[70 Hz (E)]]
 [[240 Hz (E)]]
 [[780 Hz (E)]]

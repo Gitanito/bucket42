@@ -1,5 +1,4 @@
 Hemophthalmos
-
 [[30 Hz (E)]]
 [[230 Hz (E)]]
 [[730 Hz (E)]]

@@ -1,5 +1,4 @@
 Charcot-Gelenk
-
 [[110 Hz (E)]]
 [[5330 Hz (E)]]
 [[7000 Hz (E)]]

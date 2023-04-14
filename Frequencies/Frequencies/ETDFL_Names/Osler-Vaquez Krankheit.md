@@ -1,5 +1,4 @@
 Osler-Vaquez Krankheit
-
 [[140 Hz (E)]]
 [[220 Hz (E)]]
 [[730 Hz (E)]]

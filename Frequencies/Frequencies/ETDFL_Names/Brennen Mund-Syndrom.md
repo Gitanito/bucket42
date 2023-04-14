@@ -1,7 +1,4 @@
-
-
 Brennen Mund-Syndrom
-
 [[40 Hz (E)]]
 [[410 Hz (E)]]
 [[30000 Hz (E)]]

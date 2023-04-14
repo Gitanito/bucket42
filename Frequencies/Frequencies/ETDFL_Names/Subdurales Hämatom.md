@@ -1,5 +1,4 @@
 Subdurales Hämatom
-
 [[210 Hz (E)]]
 [[250 Hz (E)]]
 [[4570 Hz (E)]]

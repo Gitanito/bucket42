@@ -1,5 +1,4 @@
 Tendinopathy
-
 [[300 Hz (E)]]
 [[12710 Hz (E)]]
 [[50000 Hz (E)]]

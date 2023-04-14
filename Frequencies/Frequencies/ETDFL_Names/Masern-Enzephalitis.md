@@ -1,5 +1,4 @@
 Masern-Enzephalitis
-
 [[50 Hz (E)]]
 [[1520 Hz (E)]]
 [[5690 Hz (E)]]

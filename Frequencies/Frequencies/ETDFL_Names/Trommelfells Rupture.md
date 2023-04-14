@@ -1,5 +1,4 @@
 Trommelfells Rupture
-
 [[60 Hz (E)]]
 [[180 Hz (E)]]
 [[780 Hz (E)]]

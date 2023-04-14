@@ -1,5 +1,4 @@
 Grönblad-Strandberg-Syndrom
-
 [[160 Hz (E)]]
 [[350 Hz (E)]]
 [[950 Hz (E)]]

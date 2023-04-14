@@ -1,5 +1,4 @@
 Sphenopalatinum Neuralgie
-
 [[600 Hz (E)]]
 [[870 Hz (E)]]
 [[2250 Hz (E)]]

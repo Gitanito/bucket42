@@ -1,5 +1,4 @@
 Eisenmangelanämie
-
 [[100 Hz (E)]]
 [[320 Hz (E)]]
 [[2500 Hz (E)]]

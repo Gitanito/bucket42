@@ -1,7 +1,4 @@
-
-
 Avian Influenza
-
 [[170 Hz (E)]]
 [[240 Hz (E)]]
 [[750 Hz (E)]]

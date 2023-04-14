@@ -1,7 +1,4 @@
-
-
 Borna Disease
-
 [[40 Hz (E)]]
 [[350 Hz (E)]]
 [[2500 Hz (E)]]

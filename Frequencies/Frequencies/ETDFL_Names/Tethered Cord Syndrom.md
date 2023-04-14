@@ -1,5 +1,4 @@
 Tethered Cord Syndrom
-
 [[30 Hz (E)]]
 [[240 Hz (E)]]
 [[850 Hz (E)]]

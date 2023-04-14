@@ -1,5 +1,4 @@
 Gasser-Syndrom
-
 [[50 Hz (E)]]
 [[180 Hz (E)]]
 [[4820 Hz (E)]]

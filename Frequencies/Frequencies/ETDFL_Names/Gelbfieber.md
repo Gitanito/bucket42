@@ -1,5 +1,4 @@
 Gelbfieber
-
 [[50 Hz (E)]]
 [[7500 Hz (E)]]
 [[17500 Hz (E)]]

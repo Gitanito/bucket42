@@ -1,5 +1,4 @@
 Schizophrenie
-
 [[70 Hz (E)]]
 [[500 Hz (E)]]
 [[970 Hz (E)]]

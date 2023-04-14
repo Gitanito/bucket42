@@ -1,7 +1,4 @@
-
-
 Bardet-Biedel-Syndrom
-
 [[100 Hz (E)]]
 [[500 Hz (E)]]
 [[680 Hz (E)]]

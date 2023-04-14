@@ -1,7 +1,4 @@
-
-
 Caliciviridae Infections
-
 [[60 Hz (E)]]
 [[490 Hz (E)]]
 [[570 Hz (E)]]

@@ -1,5 +1,4 @@
 Muskelspasmus
-
 [[60 Hz (E)]]
 [[320 Hz (E)]]
 [[600 Hz (E)]]

@@ -1,5 +1,4 @@
 Anaplasmose
-
 [[100 Hz (E)]]
 [[240 Hz (E)]]
 [[800 Hz (E)]]

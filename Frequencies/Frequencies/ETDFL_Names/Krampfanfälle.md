@@ -1,5 +1,4 @@
 Krampfanfälle
-
 [[460 Hz (E)]]
 [[950 Hz (E)]]
 [[67500 Hz (E)]]

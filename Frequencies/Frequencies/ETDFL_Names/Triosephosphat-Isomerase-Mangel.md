@@ -1,5 +1,4 @@
 Triosephosphat-Isomerase-Mangel
-
 [[20 Hz (E)]]
 [[120 Hz (E)]]
 [[5160 Hz (E)]]

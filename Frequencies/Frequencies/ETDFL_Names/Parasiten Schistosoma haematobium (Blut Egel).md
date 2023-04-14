@@ -1,5 +1,4 @@
 Parasiten Schistosoma haematobium (Blut Egel)
-
 [[180 Hz (E)]]
 [[240 Hz (E)]]
 [[600 Hz (E)]]

@@ -1,5 +1,4 @@
 Cranial epidurales Hämatom
-
 [[370 Hz (E)]]
 [[970 Hz (E)]]
 [[2500 Hz (E)]]

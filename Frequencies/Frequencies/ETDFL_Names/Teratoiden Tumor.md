@@ -1,5 +1,4 @@
 Teratoiden Tumor
-
 [[120 Hz (E)]]
 [[900 Hz (E)]]
 [[5250 Hz (E)]]

@@ -1,5 +1,4 @@
 Hyperprolaktinämie
-
 [[30 Hz (E)]]
 [[520 Hz (E)]]
 [[680 Hz (E)]]

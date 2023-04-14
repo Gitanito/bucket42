@@ -1,5 +1,4 @@
 Eperythrozoonose
-
 [[190 Hz (E)]]
 [[400 Hz (E)]]
 [[950 Hz (E)]]

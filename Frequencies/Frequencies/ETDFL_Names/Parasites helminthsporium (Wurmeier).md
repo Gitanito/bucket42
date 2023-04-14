@@ -1,5 +1,4 @@
 Parasites helminthsporium (Wurmeier)
-
 [[40 Hz (E)]]
 [[320 Hz (E)]]
 [[650 Hz (E)]]

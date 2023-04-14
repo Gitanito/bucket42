@@ -1,5 +1,4 @@
 Schwangerschafts-Diabetes
-
 [[150 Hz (E)]]
 [[890 Hz (E)]]
 [[12700 Hz (E)]]

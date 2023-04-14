@@ -1,5 +1,4 @@
 Urologischer Krebs
-
 [[30 Hz (E)]]
 [[460 Hz (E)]]
 [[750 Hz (E)]]

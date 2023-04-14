@@ -1,5 +1,4 @@
 Harnwegsinfekte
-
 [[490 Hz (E)]]
 [[730 Hz (E)]]
 [[800 Hz (E)]]

@@ -1,5 +1,4 @@
 Speicheldrüsenkrankheiten
-
 [[410 Hz (E)]]
 [[730 Hz (E)]]
 [[870 Hz (E)]]

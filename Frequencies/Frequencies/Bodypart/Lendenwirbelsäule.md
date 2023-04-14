@@ -1,11 +1,6 @@
 > Als **Lendenwirbelsäule** (LWS) wird der in Höhe der Lende (lateinisch lumbo) gelegene, lumbale Teil der Wirbelsäule bezeichnet. Dieser Abschnitt besteht beim Menschen aus 5 Wirbeln, die als Lendenwirbel bezeichnet werden.
 >
-> 
->
 > Beim Menschen wird die Lendenwirbelsäule durch den aufrechten Gang hoch belastet, sie stellt die Basis des Rumpfes dar. Durch diese Belastungen kommt es häufig zu schmerzhaften Reizzuständen. Der Oberbegriff „Kreuzschmerz“ mag dazu dienen, vom banalen Schmerzsyndrom bis zum Bandscheibenschaden mit neurologischen Ausfällen eine große Palette von Krankheitsbildern zusammenzufassen. Eine schwache Stützkraft im Lendenwirbelbereich kann sich bei Babys als Sitzkyphose zeigen. Form und Aussehen der Lendenwirbelsäule unterliegen beim Menschen einer großen Variabilität. Dies lässt die Annahme zu, dass die Anpassungen an die mit der entwicklungsgeschichtlich jungen Bipedie verbundenen aufrechten Körperhaltung in Stand und Gang womöglich noch nicht abgeschlossen sind.
->
 > Bei den meisten Säugetieren besteht die Lendenwirbelsäule aus 6 Wirbeln, bei Hunden und Katzen aus 7. Die Wirbelzahl unterliegt allerdings einer gewissen Variabilität, so dass auch ein Wirbel mehr oder weniger auftreten kann.
->
 > Bei Vögeln sind die Lendenwirbel mit dem Kreuzbein und den Beckenknochen knöchern verschmolzen (Synostose) und damit unbeweglich. Dieses Verschmelzungsprodukt bezeichnet man als Synsacrum (→ Vogelskelett).
->
 > [Wikipedia](https://de.wikipedia.org/wiki/Lendenwirbels%C3%A4ule)

@@ -1,5 +1,4 @@
 Verbrauchskoagulopathie
-
 [[130 Hz (E)]]
 [[720 Hz (E)]]
 [[920 Hz (E)]]

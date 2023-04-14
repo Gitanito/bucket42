@@ -1,5 +1,4 @@
 Cystathionine Mangelkrankheit
-
 [[240 Hz (E)]]
 [[730 Hz (E)]]
 [[830 Hz (E)]]

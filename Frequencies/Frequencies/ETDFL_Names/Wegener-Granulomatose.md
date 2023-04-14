@@ -1,5 +1,4 @@
 Wegener-Granulomatose
-
 [[90 Hz (E)]]
 [[330 Hz (E)]]
 [[5490 Hz (E)]]

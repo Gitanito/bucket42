@@ -1,5 +1,4 @@
 Hypoxische Enzephalopathie
-
 [[150 Hz (E)]]
 [[180 Hz (E)]]
 [[800 Hz (E)]]

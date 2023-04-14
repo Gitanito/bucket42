@@ -1,5 +1,4 @@
 Rhabdomyosarkom
-
 [[120 Hz (E)]]
 [[270 Hz (E)]]
 [[9330 Hz (E)]]

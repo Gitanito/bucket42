@@ -1,5 +1,4 @@
 Chronischer lymphozytischer Leukämie
-
 [[70 Hz (E)]]
 [[120 Hz (E)]]
 [[600 Hz (E)]]

@@ -1,5 +1,4 @@
 Kriegsneurosen
-
 [[110 Hz (E)]]
 [[240 Hz (E)]]
 [[700 Hz (E)]]

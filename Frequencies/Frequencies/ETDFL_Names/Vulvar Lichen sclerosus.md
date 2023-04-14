@@ -1,5 +1,4 @@
 Vulvar Lichen sclerosus
-
 [[30 Hz (E)]]
 [[12710 Hz (E)]]
 [[35330 Hz (E)]]

@@ -1,5 +1,4 @@
 Nipah-Virus Enzephalitis
-
 [[70 Hz (E)]]
 [[330 Hz (E)]]
 [[1060 Hz (E)]]

@@ -1,5 +1,4 @@
 Osteitis deformans
-
 [[300 Hz (E)]]
 [[830 Hz (E)]]
 [[7500 Hz (E)]]

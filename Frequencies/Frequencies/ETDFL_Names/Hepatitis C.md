@@ -1,5 +1,4 @@
 Hepatitis C
-
 [[200 Hz (E)]]
 [[870 Hz (E)]]
 [[5290 Hz (E)]]

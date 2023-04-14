@@ -1,5 +1,4 @@
 Charles Bonnet S
-
 [[100 Hz (E)]]
 [[570 Hz (E)]]
 [[1000 Hz (E)]]

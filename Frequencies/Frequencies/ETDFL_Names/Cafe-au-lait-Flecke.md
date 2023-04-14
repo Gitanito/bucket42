@@ -1,7 +1,4 @@
-
-
 Cafe-au-lait-Flecke
-
 [[520 Hz (E)]]
 [[600 Hz (E)]]
 [[2250 Hz (E)]]

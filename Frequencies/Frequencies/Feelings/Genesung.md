@@ -1,7 +1,5 @@
 > Rekonvaleszenz (lateinisch reconvalescere  ‚wieder kräftig werden, wieder stark werden‘, zu valere  ‚gedeihen, heil sein‘, valescere  ‚heilen‘), auch Konvaleszenz, bedeutet **Genesung** oder Heilung.
 >
 > Der Begriff ist nicht gleichzusetzen mit Remission (Zurückgehen, Nachlassen). Die Konvaleszenz ist eines der letzten Stadien eines Gesundungsprozesses und endet mit der vollständigen Restitution (Wiederherstellung). Die Krankheitszeichen – zum Beispiel Fieber, Schwäche, Schwindel, Schmerzen – verschwinden beim Rekonvaleszenden nach und nach bis zur endgültigen Wiederherstellung der Gesundheit.
->
 > In der Medizinstatistik wird der Begriff abweichend gebraucht. Das deutsche Robert Koch-Institut etwa verwendet im Zusammenhang mit der COVID-19-Pandemie in Deutschland die Kategorie „Genesene“ zur Bezeichnung derjenigen Personen, die sich nachweislich mit SARS-CoV-2 infiziert haben, aber nicht in die Kategorie „aktive Fälle“, „Verstorbene“ oder „Hospitalisierte“ einzuordnen sind. Auf Seite 1 der Tagesberichte des RKI wird regelmäßig darauf hingewiesen, dass der „Algorithmus zur Schätzung der Genesenen […] Angaben zum Erkrankungsbeginn und zur Hospitalisierung“ berücksichtigt, „nicht jedoch, ob ggf. Spätfolgen der Erkrankung vorliegen“.
->
 > [Wikipedia](https://de.wikipedia.org/wiki/Rekonvaleszenz)

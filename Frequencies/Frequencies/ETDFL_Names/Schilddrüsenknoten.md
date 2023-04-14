@@ -1,5 +1,4 @@
 Schilddrüsenknoten
-
 [[140 Hz (E)]]
 [[120 Hz (E)]]
 [[650 Hz (E)]]

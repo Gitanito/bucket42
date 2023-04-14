@@ -1,5 +1,4 @@
 Epstein-Barr-Virus-Infektionen
-
 [[70 Hz (E)]]
 [[520 Hz (E)]]
 [[700 Hz (E)]]

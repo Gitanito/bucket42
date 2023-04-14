@@ -1,5 +1,4 @@
 Lymphoproliferative Disorders
-
 [[120 Hz (E)]]
 [[350 Hz (E)]]
 [[870 Hz (E)]]

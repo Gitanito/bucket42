@@ -1,5 +1,4 @@
 Dercum-Krankheit
-
 [[160 Hz (E)]]
 [[970 Hz (E)]]
 [[27500 Hz (E)]]

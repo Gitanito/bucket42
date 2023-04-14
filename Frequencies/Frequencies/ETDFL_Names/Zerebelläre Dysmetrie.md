@@ -1,5 +1,4 @@
 Zerebelläre Dysmetrie
-
 [[100 Hz (E)]]
 [[830 Hz (E)]]
 [[10890 Hz (E)]]

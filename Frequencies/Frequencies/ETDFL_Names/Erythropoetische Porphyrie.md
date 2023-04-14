@@ -1,5 +1,4 @@
 Erythropoetische Porphyrie
-
 [[80 Hz (E)]]
 [[410 Hz (E)]]
 [[2830 Hz (E)]]

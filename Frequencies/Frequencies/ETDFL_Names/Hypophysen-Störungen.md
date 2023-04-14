@@ -1,5 +1,4 @@
 Hypophysen-Störungen
-
 [[370 Hz (E)]]
 [[970 Hz (E)]]
 [[2750 Hz (E)]]

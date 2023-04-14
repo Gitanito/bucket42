@@ -1,5 +1,4 @@
 Pustulosis palmoplantaris
-
 [[50 Hz (E)]]
 [[550 Hz (E)]]
 [[1780 Hz (E)]]

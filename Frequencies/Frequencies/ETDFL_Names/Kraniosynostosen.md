@@ -1,5 +1,4 @@
 Kraniosynostosen
-
 [[30 Hz (E)]]
 [[320 Hz (E)]]
 [[730 Hz (E)]]

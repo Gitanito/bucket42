@@ -1,5 +1,4 @@
 Myelodysplastischen Syndromen
-
 [[190 Hz (E)]]
 [[300 Hz (E)]]
 [[800 Hz (E)]]

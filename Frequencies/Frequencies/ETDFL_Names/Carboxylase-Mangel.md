@@ -1,5 +1,4 @@
 Carboxylase-Mangel
-
 [[190 Hz (E)]]
 [[350 Hz (E)]]
 [[13520 Hz (E)]]

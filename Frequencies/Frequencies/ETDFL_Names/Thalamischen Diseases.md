@@ -1,5 +1,4 @@
 Thalamischen Diseases
-
 [[20 Hz (E)]]
 [[220 Hz (E)]]
 [[25000 Hz (E)]]

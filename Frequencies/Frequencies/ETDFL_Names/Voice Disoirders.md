@@ -1,5 +1,4 @@
 Voice Disoirders
-
 [[80 Hz (E)]]
 [[160 Hz (E)]]
 [[15500 Hz (E)]]

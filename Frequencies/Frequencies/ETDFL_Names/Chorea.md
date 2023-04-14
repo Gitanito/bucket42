@@ -1,5 +1,14 @@
-Chorea
+> **Chorea** (altgriechisch χορεία choreia „Tanzen, Tanz“) bezeichnet:
+>
+> 
+>
+> eine Bewegungsstörung („Veitstanz“), siehe Chorea (Medizin)
+>
+> einen Chortanz, siehe Reigen (Tanz)
+>
+> [Wikipedia](https://de.wikipedia.org/wiki/Chorea)
 
+Chorea
 [[80 Hz (E)]]
 [[550 Hz (E)]]
 [[50000 Hz (E)]]

@@ -1,5 +1,4 @@
 Glialen Zelltumoren
-
 [[50 Hz (E)]]
 [[490 Hz (E)]]
 [[9730 Hz (E)]]

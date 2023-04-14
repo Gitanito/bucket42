@@ -1,7 +1,4 @@
-
-
 Arhinencephalie
-
 [[80 Hz (E)]]
 [[240 Hz (E)]]
 [[650 Hz (E)]]

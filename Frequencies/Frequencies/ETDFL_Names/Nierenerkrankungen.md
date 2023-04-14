@@ -1,5 +1,4 @@
 Nierenerkrankungen
-
 [[70 Hz (E)]]
 [[180 Hz (E)]]
 [[570 Hz (E)]]
@@ -10,10 +9,7 @@ Nierenerkrankungen
 [[305850 Hz (E)]]
 [[452200 Hz (E)]]
 [[591430 Hz (E)]]
-[[70 Hz (E)]]
-[[180 Hz (E)]]
 [[620 Hz (E)]]
-[[7500 Hz (E)]]
 [[12110 Hz (E)]]
 [[40000 Hz (E)]]
 [[150000 Hz (E)]]

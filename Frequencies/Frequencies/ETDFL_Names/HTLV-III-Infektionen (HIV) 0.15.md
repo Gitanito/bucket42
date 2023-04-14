@@ -1,5 +1,4 @@
 HTLV-III-Infektionen (HIV) 0.15
-
 [[5580 Hz (E)]]
 [[22000 Hz (E)]]
 [[30000 Hz (E)]]

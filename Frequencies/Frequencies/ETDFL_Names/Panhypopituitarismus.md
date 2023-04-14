@@ -1,5 +1,4 @@
 Panhypopituitarismus
-
 [[150 Hz (E)]]
 [[260 Hz (E)]]
 [[800 Hz (E)]]

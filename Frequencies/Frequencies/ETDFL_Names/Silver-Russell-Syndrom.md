@@ -1,5 +1,4 @@
 Silver-Russell-Syndrom
-
 [[410 Hz (E)]]
 [[730 Hz (E)]]
 [[7870 Hz (E)]]

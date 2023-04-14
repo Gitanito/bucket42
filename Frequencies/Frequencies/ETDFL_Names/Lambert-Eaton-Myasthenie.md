@@ -1,5 +1,4 @@
 Lambert-Eaton-Myasthenie
-
 [[130 Hz (E)]]
 [[320 Hz (E)]]
 [[930 Hz (E)]]

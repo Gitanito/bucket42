@@ -1,5 +1,4 @@
 Ellis-Van-Creveld-Syndrom
-
 [[180 Hz (E)]]
 [[620 Hz (E)]]
 [[930 Hz (E)]]

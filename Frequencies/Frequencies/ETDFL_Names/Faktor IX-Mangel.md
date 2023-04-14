@@ -1,5 +1,4 @@
 Faktor IX-Mangel
-
 [[60 Hz (E)]]
 [[230 Hz (E)]]
 [[970 Hz (E)]]

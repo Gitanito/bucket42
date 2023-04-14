@@ -1,5 +1,4 @@
 Giedions Langer-Syndrom
-
 [[80 Hz (E)]]
 [[350 Hz (E)]]
 [[750 Hz (E)]]

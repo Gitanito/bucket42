@@ -1,5 +1,4 @@
 Adrenalhyperplasie Congl.
-
 [[220 Hz (E)]]
 [[970 Hz (E)]]
 [[52500 Hz (E)]]

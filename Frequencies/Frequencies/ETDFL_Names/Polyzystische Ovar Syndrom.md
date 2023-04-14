@@ -1,5 +1,4 @@
 Polyzystische Ovar Syndrom
-
 [[40 Hz (E)]]
 [[500 Hz (E)]]
 [[970 Hz (E)]]

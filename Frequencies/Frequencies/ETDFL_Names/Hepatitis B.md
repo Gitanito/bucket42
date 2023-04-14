@@ -1,5 +1,4 @@
 Hepatitis B
-
 [[180 Hz (E)]]
 [[5290 Hz (E)]]
 [[27500 Hz (E)]]

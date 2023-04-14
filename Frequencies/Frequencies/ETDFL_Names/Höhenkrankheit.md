@@ -1,5 +1,4 @@
 Höhenkrankheit
-
 [[90 Hz (E)]]
 [[10570 Hz (E)]]
 [[30420 Hz (E)]]

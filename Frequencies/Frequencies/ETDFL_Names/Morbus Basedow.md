@@ -1,5 +1,4 @@
 Morbus Basedow
-
 [[80 Hz (E)]]
 [[350 Hz (E)]]
 [[55610 Hz (E)]]

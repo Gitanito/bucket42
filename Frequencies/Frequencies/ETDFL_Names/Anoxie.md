@@ -1,9 +1,7 @@
 > **Anoxie** (von griech. an- = „nicht“ und oxys = „sauer“) bezeichnet biologisch das vollständige Fehlen von Sauerstoff. Ein Bereich, in dem Anoxie herrscht, wird als anoxisch bezeichnet.
 >
 > [Wikipedia](https://de.wikipedia.org/wiki/Anoxie)
-
 Anoxie
-
 [[80 Hz (E)]]
 [[850 Hz (E)]]
 [[2500 Hz (E)]]

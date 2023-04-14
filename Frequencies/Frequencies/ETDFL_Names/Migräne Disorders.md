@@ -1,5 +1,4 @@
 Migräne Disorders
-
 [[150 Hz (E)]]
 [[180 Hz (E)]]
 [[2320 Hz (E)]]

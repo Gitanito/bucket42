@@ -1,5 +1,4 @@
 Cryptosporidiosis
-
 [[110 Hz (E)]]
 [[840 Hz (E)]]
 [[1710 Hz (E)]]

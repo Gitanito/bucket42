@@ -1,5 +1,4 @@
 Stauungspapille
-
 [[50 Hz (E)]]
 [[400 Hz (E)]]
 [[850 Hz (E)]]

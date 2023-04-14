@@ -1,5 +1,4 @@
 Kortikale Hyperostose
-
 [[120 Hz (E)]]
 [[250 Hz (E)]]
 [[700 Hz (E)]]

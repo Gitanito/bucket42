@@ -1,7 +1,4 @@
-
-
 Beryllium Disease
-
 [[140 Hz (E)]]
 [[260 Hz (E)]]
 [[5620 Hz (E)]]

@@ -1,5 +1,4 @@
 Parasiten Bandwürmer echinococcinum
-
 [[250 Hz (E)]]
 [[680 Hz (E)]]
 [[5870 Hz (E)]]

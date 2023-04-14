@@ -1,5 +1,4 @@
 Hepatische V. Obstruktion
-
 [[50 Hz (E)]]
 [[240 Hz (E)]]
 [[72500 Hz (E)]]

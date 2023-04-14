@@ -1,5 +1,4 @@
 Parasiten Spulwürmern
-
 [[60 Hz (E)]]
 [[520 Hz (E)]]
 [[620 Hz (E)]]

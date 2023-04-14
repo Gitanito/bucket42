@@ -1,5 +1,4 @@
 Dysphagie
-
 [[70 Hz (E)]]
 [[220 Hz (E)]]
 [[620 Hz (E)]]

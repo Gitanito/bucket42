@@ -1,5 +1,4 @@
 Windpocken
-
 [[40 Hz (E)]]
 [[120 Hz (E)]]
 [[57500 Hz (E)]]

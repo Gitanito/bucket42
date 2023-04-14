@@ -1,5 +1,4 @@
 Crescendo transitorische ischämische Attacken
-
 [[170 Hz (E)]]
 [[400 Hz (E)]]
 [[620 Hz (E)]]

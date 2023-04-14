@@ -1,5 +1,4 @@
 Libman-Sack Krankheit
-
 [[110 Hz (E)]]
 [[490 Hz (E)]]
 [[730 Hz (E)]]

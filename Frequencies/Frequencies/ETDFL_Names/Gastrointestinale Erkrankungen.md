@@ -1,5 +1,4 @@
 Gastrointestinale Erkrankungen
-
 [[20 Hz (E)]]
 [[520 Hz (E)]]
 [[700 Hz (E)]]

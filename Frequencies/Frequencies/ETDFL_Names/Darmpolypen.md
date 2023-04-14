@@ -1,5 +1,4 @@
 Darmpolypen
-
 [[50 Hz (E)]]
 [[520 Hz (E)]]
 [[780 Hz (E)]]

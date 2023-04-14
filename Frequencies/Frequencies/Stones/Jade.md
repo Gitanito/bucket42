@@ -1,7 +1,5 @@
 > **Jade** (der oder die) ist die Bezeichnung für verschiedene Mineralien, vor allem für Nephrit und Jadeit, die bestimmte optische Eigenschaften besitzen müssen, um als der Schmuckstein Jade zu gelten.
 >
 > In China wird Jade schon seit mindestens 8000 Jahren verwendet und hochgeschätzt; mit der Zeit entwickelte sich sogar eine regelrechte Jadekultur. Auch in Europa, im pazifischen Raum, im östlichen Mittelmeerraum und insbesondere in Mittelamerika wurde Jade bereits vor Jahrtausenden verarbeitet.
->
 > Im Zuge der kolonialen Machtpolitik der europäischen Großmächte gegen Ende des 19. Jahrhunderts fand Jade dann auch vermehrt Eingang in die Schmuckkultur des Westens, nachdem ihn die Spanier bei der Kolonialisierung Mittelamerikas für Europa „wiederentdeckt“ hatten. In den 1920er Jahren wurde Jade gar zum begehrten modischen Accessoire. In der Hippie-Kultur der 1960er und 1970er wiederum wurde Jade zum magischen Attribut und esoterischen „Stein der Weisen“ veredelt.
->
 > [Wikipedia](https://de.wikipedia.org/wiki/Jade)

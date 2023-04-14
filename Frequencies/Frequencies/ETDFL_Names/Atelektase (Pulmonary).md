@@ -1,7 +1,4 @@
-
-
 Atelektase (Pulmonary)
-
 [[50 Hz (E)]]
 [[730 Hz (E)]]
 [[950 Hz (E)]]

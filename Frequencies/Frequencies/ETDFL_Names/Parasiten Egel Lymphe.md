@@ -1,5 +1,4 @@
 Parasiten Egel Lymphe
-
 [[180 Hz (E)]]
 [[370 Hz (E)]]
 [[800 Hz (E)]]

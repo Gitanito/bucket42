@@ -1,5 +1,4 @@
 Herpes Zoster Ã¢ â‚¬ Å“shinglesÃ¢ â‚¬
-
 [[120 Hz (E)]]
 [[450 Hz (E)]]
 [[900 Hz (E)]]

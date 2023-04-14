@@ -1,5 +1,4 @@
 Parasiten Sub terminalen Sporen bac. 0,68 Abstrich
-
 [[900 Hz (E)]]
 [[2500 Hz (E)]]
 [[5500 Hz (E)]]

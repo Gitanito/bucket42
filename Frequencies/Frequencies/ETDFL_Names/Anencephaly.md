@@ -1,5 +1,4 @@
 Anencephaly
-
 [[110 Hz (E)]]
 [[490 Hz (E)]]
 [[1000 Hz (E)]]

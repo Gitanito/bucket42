@@ -1,17 +1,11 @@
 > Die **Arthritis** (griechisch ἀρθρῖτις arthrítis, Plural Arthritiden; von arthron „Gelenk, Glied“ und Endung -itis zur Bezeichnung einer Entzündung) ist eine entzündliche Gelenk­erkrankung, also eine Gelenkentzündung.
 >
 > Eine Arthritis kann jedes Gelenk betreffen. Der Begriff sagt nichts über die Ursache aus, die am häufigsten infektiös (durch Bakterien, Viren oder Pilze), rheumatisch (z. B. bei einer chronischen Polyarthritis), reaktiv, traumatisch oder mechanisch induziert sein kann. Die infektiöse Arthritis wird auch als septische Arthritis bezeichnet, oder bei Vorliegen von Eiter im Gelenk als Pyarthros. Ist nur ein Gelenk betroffen, handelt es sich um eine Monarthritis, bei mehreren Gelenken um eine Oligarthritis, und bei vielen Gelenken um eine Polyarthritis. Die spezifisch rheumatische Entzündung der Gelenkkapsel, die auch mit einem Gelenkerguss einhergeht, ist die Synovitis.
->
 > Bei einer Arthritis jedweder Genese liegen die klassischen Entzündungszeichen mehr oder weniger ausgeprägt vor: Röte, Schwellung, Überwärmung, Schmerzen und eingeschränkte Funktion sowie ein Gelenkerguss als typisches Entzündungszeichen eines Gelenkes. Hingegen liegt bei einer Arthralgie ein Schmerzzustand des Gelenkes ohne Entzündung vor, wie bei einigen rheumatischen Erkrankungen, v. a. Kollagenosen, oder reaktiv postviral ("Muskel- und Gliederschmerzen").
->
 > Abzugrenzen ist die Arthrose, der Gelenkverschleiß, der entzündungs- und schmerzfrei ist, aber sich in eine mechanisch induzierte Arthritis wandeln kann, die dann als "aktivierte Arthrose" symptomatisch und schmerzhaft ist. Der englische Begriff osteoarthritis bezeichnet die Arthrose und ist keine Arthritis.
->
 > Eine Entzündung der ein Gelenk umgebenden Teile wird unspezifisch manchmal als Periarthritis (früher auch periartikuläre Fibrositis und Fibrositis der Gelenkhüllen) bezeichnet, oder spezifischer nach der tatsächlichen Entzündungslokalisation, wie Tendinitis, Sehnenscheidenentzündung, Enthesiopathie, Bursitis o.a.
->
 > [Wikipedia](https://de.wikipedia.org/wiki/Arthritis)
-
 Arthritis
-
 [[60 Hz (E)]]
 [[410 Hz (E)]]
 [[870 Hz (E)]]
@@ -22,9 +16,7 @@ Arthritis
 [[358810 Hz (E)]]
 [[721000 Hz (E)]]
 [[986220 Hz (E)]]
-[[60 Hz (E)]]
 [[780 Hz (E)]]
-[[7500 Hz (E)]]
 [[40000 Hz (E)]]
 [[398400 Hz (E)]]
 [[476500 Hz (E)]]
@@ -32,42 +24,10 @@ Arthritis
 [[665340 Hz (E)]]
 [[761850 Hz (E)]]
 [[987230 Hz (E)]]
-[[60 Hz (E)]]
-[[780 Hz (E)]]
-[[7500 Hz (E)]]
-[[40000 Hz (E)]]
-[[398400 Hz (E)]]
-[[476500 Hz (E)]]
-[[527000 Hz (E)]]
-[[665340 Hz (E)]]
-[[761850 Hz (E)]]
-[[987230 Hz (E)]]
-[[60 Hz (E)]]
-[[780 Hz (E)]]
-[[7500 Hz (E)]]
-[[40000 Hz (E)]]
-[[398400 Hz (E)]]
-[[476500 Hz (E)]]
-[[527000 Hz (E)]]
-[[665340 Hz (E)]]
-[[761850 Hz (E)]]
-[[987230 Hz (E)]]
-[[60 Hz (E)]]
 [[650 Hz (E)]]
 [[800 Hz (E)]]
 [[5810 Hz (E)]]
 [[42500 Hz (E)]]
-[[398400 Hz (E)]]
-[[410000 Hz (E)]]
-[[571000 Hz (E)]]
-[[828000 Hz (E)]]
-[[937410 Hz (E)]]
-[[60 Hz (E)]]
-[[650 Hz (E)]]
-[[800 Hz (E)]]
-[[5810 Hz (E)]]
-[[42500 Hz (E)]]
-[[398400 Hz (E)]]
 [[410000 Hz (E)]]
 [[571000 Hz (E)]]
 [[828000 Hz (E)]]
@@ -76,7 +36,6 @@ Arthritis
 [[250 Hz (E)]]
 [[620 Hz (E)]]
 [[950 Hz (E)]]
-[[7500 Hz (E)]]
 [[72500 Hz (E)]]
 [[232500 Hz (E)]]
 [[551100 Hz (E)]]
@@ -86,7 +45,6 @@ Arthritis
 [[1000 Hz (E)]]
 [[2800 Hz (E)]]
 [[17500 Hz (E)]]
-[[398400 Hz (E)]]
 [[225000 Hz (E)]]
 [[510250 Hz (E)]]
 [[682020 Hz (E)]]

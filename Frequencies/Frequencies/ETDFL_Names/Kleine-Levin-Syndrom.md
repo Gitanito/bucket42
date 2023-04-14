@@ -1,5 +1,4 @@
 Kleine-Levin-Syndrom
-
 [[40 Hz (E)]]
 [[500 Hz (E)]]
 [[680 Hz (E)]]

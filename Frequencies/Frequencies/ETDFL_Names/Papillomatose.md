@@ -1,5 +1,4 @@
 Papillomatose
-
 [[40 Hz (E)]]
 [[320 Hz (E)]]
 [[570 Hz (E)]]

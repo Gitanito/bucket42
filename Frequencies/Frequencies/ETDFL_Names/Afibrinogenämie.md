@@ -1,5 +1,4 @@
 Afibrinogenämie
-
 [[150 Hz (E)]]
 [[180 Hz (E)]]
 [[2500 Hz (E)]]

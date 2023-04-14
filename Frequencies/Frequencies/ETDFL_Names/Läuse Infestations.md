@@ -1,5 +1,4 @@
 Läuse Infestations
-
 [[30 Hz (E)]]
 [[410 Hz (E)]]
 [[620 Hz (E)]]

@@ -1,5 +1,4 @@
 Stenokardie
-
 [[100 Hz (E)]]
 [[680 Hz (E)]]
 [[830 Hz (E)]]

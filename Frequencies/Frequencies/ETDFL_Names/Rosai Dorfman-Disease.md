@@ -1,5 +1,4 @@
 Rosai Dorfman-Disease
-
 [[140 Hz (E)]]
 [[410 Hz (E)]]
 [[970 Hz (E)]]

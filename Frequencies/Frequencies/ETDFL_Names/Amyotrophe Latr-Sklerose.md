@@ -1,5 +1,4 @@
 Amyotrophe Latr-Sklerose
-
 [[20 Hz (E)]]
 [[2500 Hz (E)]]
 [[60000 Hz (E)]]

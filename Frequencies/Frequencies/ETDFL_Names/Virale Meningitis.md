@@ -1,5 +1,4 @@
 Virale Meningitis
-
 [[120 Hz (E)]]
 [[250 Hz (E)]]
 [[930 Hz (E)]]

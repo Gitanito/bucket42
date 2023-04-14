@@ -1,7 +1,4 @@
-
-
 Blastocystis-Hominis-Infektionen
-
 [[40 Hz (E)]]
 [[460 Hz (E)]]
 [[750 Hz (E)]]

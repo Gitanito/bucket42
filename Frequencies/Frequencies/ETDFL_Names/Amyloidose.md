@@ -1,5 +1,4 @@
 Amyloidose
-
 [[60 Hz (E)]]
 [[10830 Hz (E)]]
 [[7500 Hz (E)]]

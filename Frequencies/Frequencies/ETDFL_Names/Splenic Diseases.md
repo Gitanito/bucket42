@@ -1,5 +1,4 @@
 Splenic Diseases
-
 [[40 Hz (E)]]
 [[350 Hz (E)]]
 [[7250 Hz (E)]]

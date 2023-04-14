@@ -1,5 +1,4 @@
 Kardiomegalie
-
 [[130 Hz (E)]]
 [[260 Hz (E)]]
 [[23800 Hz (E)]]

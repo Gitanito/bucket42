@@ -1,7 +1,4 @@
-
-
 Arteriosklerotische Demenz
-
 [[60 Hz (E)]]
 [[260 Hz (E)]]
 [[650 Hz (E)]]

@@ -1,5 +1,4 @@
 Hageman Trait
-
 [[80 Hz (E)]]
 [[220 Hz (E)]]
 [[730 Hz (E)]]

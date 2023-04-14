@@ -1,5 +1,4 @@
 Schizoaffektiven Störung
-
 [[570 Hz (E)]]
 [[680 Hz (E)]]
 [[870 Hz (E)]]

@@ -1,5 +1,4 @@
 Trachealstenose
-
 [[70 Hz (E)]]
 [[370 Hz (E)]]
 [[8000 Hz (E)]]

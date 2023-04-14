@@ -1,5 +1,4 @@
 GLAS KRANKHEITEN
-
 [[140 Hz (E)]]
 [[520 Hz (E)]]
 [[2500 Hz (E)]]

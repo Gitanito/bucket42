@@ -1,5 +1,4 @@
 Herpetische Facialislähmung
-
 [[120 Hz (E)]]
 [[17850 Hz (E)]]
 [[27500 Hz (E)]]

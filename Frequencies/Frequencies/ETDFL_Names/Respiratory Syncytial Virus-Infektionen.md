@@ -1,5 +1,4 @@
 Respiratory Syncytial Virus-Infektionen
-
 [[40 Hz (E)]]
 [[550 Hz (E)]]
 [[570 Hz (E)]]

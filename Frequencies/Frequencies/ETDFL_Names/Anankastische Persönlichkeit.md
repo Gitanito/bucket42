@@ -1,5 +1,4 @@
 Anankastische Persönlichkeit
-
 [[190 Hz (E)]]
 [[750 Hz (E)]]
 [[1420 Hz (E)]]

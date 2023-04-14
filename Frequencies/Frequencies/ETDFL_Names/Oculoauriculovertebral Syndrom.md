@@ -1,5 +1,4 @@
 Oculoauriculovertebral Syndrom
-
 [[40 Hz (E)]]
 [[250 Hz (E)]]
 [[570 Hz (E)]]

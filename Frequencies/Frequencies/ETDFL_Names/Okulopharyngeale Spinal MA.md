@@ -1,5 +1,4 @@
 Okulopharyngeale Spinal MA
-
 [[190 Hz (E)]]
 [[1220 Hz (E)]]
 [[3720 Hz (E)]]

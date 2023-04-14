@@ -1,7 +1,4 @@
-
-
 Arbovirus-Infektionen
-
 [[70 Hz (E)]]
 [[680 Hz (E)]]
 [[2330 Hz (E)]]

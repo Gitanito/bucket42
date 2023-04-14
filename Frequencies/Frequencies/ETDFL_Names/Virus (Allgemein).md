@@ -1,5 +1,4 @@
 Virus (Allgemein)
-
 [[120 Hz (E)]]
 [[780 Hz (E)]]
 [[12710 Hz (E)]]

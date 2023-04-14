@@ -1,5 +1,4 @@
 Tietze-Syndrom
-
 [[50 Hz (E)]]
 [[240 Hz (E)]]
 [[15750 Hz (E)]]

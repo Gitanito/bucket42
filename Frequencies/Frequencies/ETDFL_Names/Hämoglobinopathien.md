@@ -1,5 +1,4 @@
 Hämoglobinopathien
-
 [[80 Hz (E)]]
 [[410 Hz (E)]]
 [[1890 Hz (E)]]

@@ -1,5 +1,4 @@
 Meningoenzephalitis
-
 [[50 Hz (E)]]
 [[970 Hz (E)]]
 [[5830 Hz (E)]]

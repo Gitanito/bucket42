@@ -1,5 +1,4 @@
 Metastasierung (General Body) 0,10
-
 [[610 Hz (E)]]
 [[7670 Hz (E)]]
 [[32000 Hz (E)]]

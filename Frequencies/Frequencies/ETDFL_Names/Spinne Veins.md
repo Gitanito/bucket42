@@ -1,5 +1,4 @@
 Spinne Veins
-
 [[160 Hz (E)]]
 [[2100 Hz (E)]]
 [[55030 Hz (E)]]

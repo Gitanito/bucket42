@@ -1,5 +1,4 @@
 Romberg Disease
-
 [[90 Hz (E)]]
 [[320 Hz (E)]]
 [[950 Hz (E)]]

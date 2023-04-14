@@ -1,5 +1,4 @@
 West-Nil-Fieber
-
 [[40 Hz (E)]]
 [[520 Hz (E)]]
 [[750 Hz (E)]]

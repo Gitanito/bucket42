@@ -1,5 +1,4 @@
 Gallengangskrankheiten
-
 [[170 Hz (E)]]
 [[490 Hz (E)]]
 [[2500 Hz (E)]]

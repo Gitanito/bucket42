@@ -1,7 +1,4 @@
-
-
 Adenovirus-Infektionen
-
 [[180 Hz (E)]]
 [[520 Hz (E)]]
 [[800 Hz (E)]]

@@ -1,5 +1,4 @@
 Kopftrauma
-
 [[230 Hz (E)]]
 [[1600 Hz (E)]]
 [[8530 Hz (E)]]

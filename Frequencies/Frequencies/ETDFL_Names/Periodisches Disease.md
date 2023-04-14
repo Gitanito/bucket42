@@ -1,5 +1,4 @@
 Periodisches Disease
-
 [[160 Hz (E)]]
 [[570 Hz (E)]]
 [[950 Hz (E)]]

@@ -1,5 +1,4 @@
 Fournier Gangrän
-
 [[80 Hz (E)]]
 [[550 Hz (E)]]
 [[570 Hz (E)]]

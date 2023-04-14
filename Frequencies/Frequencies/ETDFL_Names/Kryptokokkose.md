@@ -1,5 +1,4 @@
 Kryptokokkose
-
 [[970 Hz (E)]]
 [[1120 Hz (E)]]
 [[17750 Hz (E)]]

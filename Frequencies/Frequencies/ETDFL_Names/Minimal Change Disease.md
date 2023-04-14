@@ -1,5 +1,4 @@
 Minimal Change Disease
-
 [[130 Hz (E)]]
 [[240 Hz (E)]]
 [[750 Hz (E)]]

@@ -1,5 +1,4 @@
 Pancreatic Krebs
-
 [[60 Hz (E)]]
 [[500 Hz (E)]]
 [[47500 Hz (E)]]

@@ -1,5 +1,4 @@
 Zysten in der Brust
-
 [[80 Hz (E)]]
 [[240 Hz (E)]]
 [[12710 Hz (E)]]

@@ -1,5 +1,4 @@
 Malignes Melanom
-
 [[70 Hz (E)]]
 [[490 Hz (E)]]
 [[700 Hz (E)]]

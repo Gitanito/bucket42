@@ -1,5 +1,4 @@
 Myom Gebärmutter
-
 [[850 Hz (E)]]
 [[980 Hz (E)]]
 [[1800 Hz (E)]]

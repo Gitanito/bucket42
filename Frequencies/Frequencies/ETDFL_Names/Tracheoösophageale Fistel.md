@@ -1,5 +1,4 @@
 Tracheoösophageale Fistel
-
 [[130 Hz (E)]]
 [[400 Hz (E)]]
 [[730 Hz (E)]]

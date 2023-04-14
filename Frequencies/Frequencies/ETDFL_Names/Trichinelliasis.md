@@ -1,5 +1,4 @@
 Trichinelliasis
-
 [[100 Hz (E)]]
 [[520 Hz (E)]]
 [[870 Hz (E)]]

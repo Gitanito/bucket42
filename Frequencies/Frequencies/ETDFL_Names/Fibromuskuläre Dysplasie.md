@@ -1,5 +1,4 @@
 Fibromuskuläre Dysplasie
-
 [[20 Hz (E)]]
 [[520 Hz (E)]]
 [[750 Hz (E)]]

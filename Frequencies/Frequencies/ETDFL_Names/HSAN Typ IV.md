@@ -1,5 +1,4 @@
 HSAN Typ IV
-
 [[340 Hz (E)]]
 [[620 Hz (E)]]
 [[870 Hz (E)]]

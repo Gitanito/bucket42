@@ -1,5 +1,4 @@
 Myelinoclastic Diffuse Sclerosis
-
 [[250 Hz (E)]]
 [[780 Hz (E)]]
 [[930 Hz (E)]]

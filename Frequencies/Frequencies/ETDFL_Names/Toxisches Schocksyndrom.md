@@ -1,5 +1,4 @@
 Toxisches Schocksyndrom
-
 [[180 Hz (E)]]
 [[220 Hz (E)]]
 [[55000 Hz (E)]]

@@ -1,5 +1,4 @@
 Isaac-Syndrom
-
 [[100 Hz (E)]]
 [[260 Hz (E)]]
 [[680 Hz (E)]]

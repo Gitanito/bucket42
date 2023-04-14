@@ -1,5 +1,4 @@
 Supranukleärer Lähmung
-
 [[180 Hz (E)]]
 [[220 Hz (E)]]
 [[3520 Hz (E)]]

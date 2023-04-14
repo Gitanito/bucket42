@@ -1,5 +1,4 @@
 Parasites Egel allgemein
-
 [[110 Hz (E)]]
 [[320 Hz (E)]]
 [[900 Hz (E)]]

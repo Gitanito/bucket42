@@ -1,5 +1,4 @@
 Granuloma anulare
-
 [[500 Hz (E)]]
 [[700 Hz (E)]]
 [[970 Hz (E)]]

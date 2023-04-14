@@ -1,7 +1,4 @@
-
-
 Autoimmun I
-
 [[50 Hz (E)]]
 [[260 Hz (E)]]
 [[570 Hz (E)]]

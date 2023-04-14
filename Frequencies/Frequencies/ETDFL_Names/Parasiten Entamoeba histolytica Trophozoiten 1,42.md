@@ -1,5 +1,4 @@
 Parasiten Entamoeba histolytica Trophozoiten 1,42
-
 [[4320 Hz (E)]]
 [[5500 Hz (E)]]
 [[13930 Hz (E)]]

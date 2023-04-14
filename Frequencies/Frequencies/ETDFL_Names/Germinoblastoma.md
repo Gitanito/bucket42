@@ -1,5 +1,4 @@
 Germinoblastoma
-
 [[410 Hz (E)]]
 [[930 Hz (E)]]
 [[2750 Hz (E)]]

@@ -1,5 +1,4 @@
 Zyklothyme Störung
-
 [[150 Hz (E)]]
 [[230 Hz (E)]]
 [[600 Hz (E)]]

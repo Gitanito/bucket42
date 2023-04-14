@@ -1,5 +1,4 @@
 Idiopathische orthostatische Hypotonie ,
-
 [[70 Hz (E)]]
 [[8000 Hz (E)]]
 [[13980 Hz (E)]]

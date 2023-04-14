@@ -1,5 +1,4 @@
 Choledochus Zyste
-
 [[40 Hz (E)]]
 [[230 Hz (E)]]
 [[850 Hz (E)]]

@@ -1,5 +1,4 @@
 Hutchinson-Zähne
-
 [[20 Hz (E)]]
 [[180 Hz (E)]]
 [[25000 Hz (E)]]

@@ -1,5 +1,4 @@
 Parasiten Krätze
-
 [[70 Hz (E)]]
 [[120 Hz (E)]]
 [[800 Hz (E)]]

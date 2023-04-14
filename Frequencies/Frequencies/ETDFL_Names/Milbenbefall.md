@@ -1,5 +1,4 @@
 Milbenbefall
-
 [[50 Hz (E)]]
 [[6240 Hz (E)]]
 [[30780 Hz (E)]]

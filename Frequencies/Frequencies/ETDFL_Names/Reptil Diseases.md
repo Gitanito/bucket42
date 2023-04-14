@@ -1,5 +1,4 @@
 Reptil Diseases
-
 [[160 Hz (E)]]
 [[570 Hz (E)]]
 [[650 Hz (E)]]

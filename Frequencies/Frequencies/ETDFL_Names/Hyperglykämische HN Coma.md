@@ -1,5 +1,4 @@
 Hyperglykämische HN Coma
-
 [[170 Hz (E)]]
 [[180 Hz (E)]]
 [[840 Hz (E)]]

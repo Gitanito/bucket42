@@ -1,5 +1,4 @@
 Lactobacillus acidophilus
-
 [[346050 Hz (E)]]
 [[347000 Hz (E)]]
 [[348000 Hz (E)]]

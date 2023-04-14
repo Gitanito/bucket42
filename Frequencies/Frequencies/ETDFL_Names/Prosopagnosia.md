@@ -1,5 +1,4 @@
 Prosopagnosia
-
 [[240 Hz (E)]]
 [[730 Hz (E)]]
 [[870 Hz (E)]]

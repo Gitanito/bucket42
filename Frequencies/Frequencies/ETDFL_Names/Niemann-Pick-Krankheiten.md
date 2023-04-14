@@ -1,5 +1,4 @@
 Niemann-Pick-Krankheiten
-
 [[50 Hz (E)]]
 [[460 Hz (E)]]
 [[950 Hz (E)]]

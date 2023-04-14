@@ -1,5 +1,4 @@
 Spina Bifida Occulta
-
 [[180 Hz (E)]]
 [[7500 Hz (E)]]
 [[25170 Hz (E)]]

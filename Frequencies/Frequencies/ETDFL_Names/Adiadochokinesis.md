@@ -1,5 +1,4 @@
 Adiadochokinesis
-
 [[70 Hz (E)]]
 [[830 Hz (E)]]
 [[10890 Hz (E)]]

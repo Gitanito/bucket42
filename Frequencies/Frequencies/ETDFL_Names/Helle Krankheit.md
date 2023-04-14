@@ -1,5 +1,4 @@
 Helle Krankheit
-
 [[150 Hz (E)]]
 [[240 Hz (E)]]
 [[680 Hz (E)]]

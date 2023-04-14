@@ -1,7 +1,4 @@
-
-
 Antithrombin-III-Mangel
-
 [[50 Hz (E)]]
 [[650 Hz (E)]]
 [[1000 Hz (E)]]

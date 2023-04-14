@@ -1,5 +1,4 @@
 Streptokokken-Infektionen
-
 [[150 Hz (E)]]
 [[700 Hz (E)]]
 [[2500 Hz (E)]]

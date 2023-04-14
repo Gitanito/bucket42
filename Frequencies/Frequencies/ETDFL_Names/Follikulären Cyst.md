@@ -1,5 +1,4 @@
 Follikulären Cyst
-
 [[160 Hz (E)]]
 [[550 Hz (E)]]
 [[850 Hz (E)]]

@@ -1,5 +1,4 @@
 Parasites Gastrothylax elongatus 0,68
-
 [[900 Hz (E)]]
 [[2500 Hz (E)]]
 [[5500 Hz (E)]]

@@ -1,5 +1,4 @@
 Robinow Syndrom
-
 [[130 Hz (E)]]
 [[910 Hz (E)]]
 [[14930 Hz (E)]]

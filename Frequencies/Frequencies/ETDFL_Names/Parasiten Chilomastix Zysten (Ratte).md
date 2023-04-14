@@ -1,5 +1,4 @@
 Parasiten Chilomastix Zysten (Ratte)
-
 [[2500 Hz (E)]]
 [[13930 Hz (E)]]
 [[204510 Hz (E)]]

@@ -1,5 +1,4 @@
 Polyposis Coli
-
 [[40 Hz (E)]]
 [[250 Hz (E)]]
 [[500 Hz (E)]]

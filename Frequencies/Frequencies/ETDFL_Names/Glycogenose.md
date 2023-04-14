@@ -1,5 +1,4 @@
 Glycogenose
-
 [[30 Hz (E)]]
 [[370 Hz (E)]]
 [[950 Hz (E)]]

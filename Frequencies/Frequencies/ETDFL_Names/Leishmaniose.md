@@ -1,5 +1,4 @@
 Leishmaniose
-
 [[60 Hz (E)]]
 [[120 Hz (E)]]
 [[850 Hz (E)]]

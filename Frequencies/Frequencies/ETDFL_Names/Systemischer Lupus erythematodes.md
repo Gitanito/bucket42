@@ -1,5 +1,4 @@
 Systemischer Lupus erythematodes
-
 [[110 Hz (E)]]
 [[490 Hz (E)]]
 [[730 Hz (E)]]

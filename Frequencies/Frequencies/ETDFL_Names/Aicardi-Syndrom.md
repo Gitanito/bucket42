@@ -1,5 +1,4 @@
 Aicardi-Syndrom
-
 [[780 Hz (E)]]
 [[8000 Hz (E)]]
 [[92500 Hz (E)]]

@@ -1,5 +1,4 @@
 Hämorrhagischer Schock
-
 [[170 Hz (E)]]
 [[350 Hz (E)]]
 [[55750 Hz (E)]]

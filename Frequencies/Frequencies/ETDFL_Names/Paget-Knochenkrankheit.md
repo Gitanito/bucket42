@@ -1,5 +1,4 @@
 Paget-Knochenkrankheit
-
 [[80 Hz (E)]]
 [[490 Hz (E)]]
 [[680 Hz (E)]]

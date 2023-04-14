@@ -1,5 +1,4 @@
 Lymphangioleiomyomatose
-
 [[120 Hz (E)]]
 [[180 Hz (E)]]
 [[930 Hz (E)]]

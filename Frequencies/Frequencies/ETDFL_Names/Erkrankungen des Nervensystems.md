@@ -1,5 +1,4 @@
 Erkrankungen des Nervensystems
-
 [[40 Hz (E)]]
 [[250 Hz (E)]]
 [[650 Hz (E)]]
@@ -13,7 +12,6 @@ Erkrankungen des Nervensystems
 [[50 Hz (E)]]
 [[370 Hz (E)]]
 [[830 Hz (E)]]
-[[2750 Hz (E)]]
 [[3000 Hz (E)]]
 [[70000 Hz (E)]]
 [[95090 Hz (E)]]

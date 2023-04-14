@@ -1,5 +1,4 @@
 Melanotischen Freckle
-
 [[60 Hz (E)]]
 [[370 Hz (E)]]
 [[870 Hz (E)]]

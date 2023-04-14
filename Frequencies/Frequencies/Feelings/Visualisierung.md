@@ -1,9 +1,6 @@
-> Mit **Visualisierung** oder Veranschaulichung (Sichtbarmachen) meint man im Allgemeinen, abstrakte Daten (z. B. Texte) und Zusammenhänge in eine graphische bzw. visuell erfassbare Form zu bringen. 
+> Mit **Visualisierung** oder Veranschaulichung (Sichtbarmachen) meint man im Allgemeinen, abstrakte Daten (z. B. Texte) und Zusammenhänge in eine graphische bzw. visuell erfassbare Form zu bringen.
 >
 > Dazu gehört etwa die Umsetzung eines Marketingkonzepts durch einen Werbespot, die Entwicklung eines Drehbuchs aus einem Drama, oder die gestenreiche Darstellung bzw. Präsentation eines Sachverhalts bei einem Vortrag oder die Prozessvisualisierung im technischen Bereich. Im Speziellen bezeichnet Visualisierung den Prozess, sprachlich oder logisch nur schwer formulierbare Zusammenhänge in visuelle Medien zu übersetzen, um sie damit verständlich zu machen. Weiterhin wird Visualisierung eingesetzt, um einen bestimmten Zusammenhang deutlich zu machen, der sich aus einem gegebenen Datenbestand ergibt, der aber nicht unmittelbar deutlich wird.
->
 > Dabei werden Details der Ausgangsdaten weggelassen, die im Kontext der gewünschten Aussage vernachlässigbar sind. Zudem sind stets gestalterische Entscheidungen zu treffen, welche visuelle Umsetzung geeignet ist und welcher Zusammenhang gegebenenfalls betont werden soll. Visualisierungen implizieren daher stets eine Interpretation der Ausgangsdaten, werden aber auch durch textliche oder sprachliche Angaben ergänzt, um eine bestimmte Interpretation zu kommunizieren. Schließlich wird Visualisierung auch rein illustrativ benutzt, um etwa ein Gegengewicht zum Textkörper zu bilden, ohne eine eigene Aussage zu transportieren.
->
 > Als Medien für Visualisierung kommen zum Beispiel manuelle, gedruckte und Computergrafik, Datentabellen, Film- und Computeranimation zur Anwendung.
->
 > [Wikipedia](https://de.wikipedia.org/wiki/Visualisierung)

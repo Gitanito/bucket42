@@ -1,5 +1,4 @@
 Escherichia coli-Infektionen
-
 [[160 Hz (E)]]
 [[410 Hz (E)]]
 [[730 Hz (E)]]

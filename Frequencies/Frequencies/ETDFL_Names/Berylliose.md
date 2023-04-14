@@ -1,9 +1,7 @@
 > Als **Berylliose** wird die Vergiftung des Organismus mit dem Metall Beryllium bzw. berylliumhaltigen Substanzen bezeichnet. Sie gehört zur Gruppe der malignen Pneumokoniosen (Staublungen).
 >
 > [Wikipedia](https://de.wikipedia.org/wiki/Berylliose)
-
 Berylliose
-
 [[140 Hz (E)]]
 [[260 Hz (E)]]
 [[5620 Hz (E)]]

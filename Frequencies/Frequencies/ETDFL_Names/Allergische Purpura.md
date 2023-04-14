@@ -1,7 +1,4 @@
-
-
 Allergische Purpura
-
 [[130 Hz (E)]]
 [[230 Hz (E)]]
 [[650 Hz (E)]]

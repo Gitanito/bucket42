@@ -1,5 +1,4 @@
 Pityriasis
-
 [[200 Hz (E)]]
 [[320 Hz (E)]]
 [[2880 Hz (E)]]

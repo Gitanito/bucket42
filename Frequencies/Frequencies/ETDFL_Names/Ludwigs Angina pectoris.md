@@ -1,5 +1,4 @@
 Ludwigs Angina pectoris
-
 [[130 Hz (E)]]
 [[520 Hz (E)]]
 [[650 Hz (E)]]

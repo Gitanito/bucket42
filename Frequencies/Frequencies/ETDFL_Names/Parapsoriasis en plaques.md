@@ -1,5 +1,4 @@
 Parapsoriasis en plaques
-
 [[80 Hz (E)]]
 [[370 Hz (E)]]
 [[780 Hz (E)]]

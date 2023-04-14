@@ -1,5 +1,4 @@
 Pseudopolyarthritis
-
 [[170 Hz (E)]]
 [[550 Hz (E)]]
 [[950 Hz (E)]]

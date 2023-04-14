@@ -1,5 +1,4 @@
 20 Hz (E)
-
 [[Addison-Anämie]]
 [[Adhäsionen]]
 [[Afferenten Pupillenfehler]]
@@ -117,7 +116,6 @@
 [[Sklerose]]
 [[Störungen der Pupille]]
 [[Swine influenza]]
-[[Syphilis]]
 [[Syphilis]]
 [[Tachyarrhythmie]]
 [[Tachycardie]]

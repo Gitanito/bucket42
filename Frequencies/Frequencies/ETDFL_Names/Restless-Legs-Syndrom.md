@@ -1,5 +1,4 @@
 Restless-Legs-Syndrom
-
 [[160 Hz (E)]]
 [[570 Hz (E)]]
 [[7780 Hz (E)]]

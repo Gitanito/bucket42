@@ -1,5 +1,4 @@
 Gangliosidosis G (M2)
-
 [[200 Hz (E)]]
 [[120 Hz (E)]]
 [[27500 Hz (E)]]

@@ -1,5 +1,4 @@
 Helicobacter Pylori
-
 [[250 Hz (E)]]
 [[850 Hz (E)]]
 [[2230 Hz (E)]]

@@ -1,5 +1,4 @@
 Dracunculosis
-
 [[100 Hz (E)]]
 [[570 Hz (E)]]
 [[800 Hz (E)]]

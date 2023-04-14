@@ -1,5 +1,4 @@
 Lesestörung
-
 [[180 Hz (E)]]
 [[250 Hz (E)]]
 [[5610 Hz (E)]]

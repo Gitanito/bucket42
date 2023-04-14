@@ -1,5 +1,4 @@
 Endometrioma
-
 [[30 Hz (E)]]
 [[250 Hz (E)]]
 [[730 Hz (E)]]

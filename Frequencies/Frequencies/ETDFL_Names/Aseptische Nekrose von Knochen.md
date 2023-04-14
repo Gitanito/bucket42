@@ -1,7 +1,4 @@
-
-
 Aseptische Nekrose von Knochen
-
 [[130 Hz (E)]]
 [[220 Hz (E)]]
 [[930 Hz (E)]]

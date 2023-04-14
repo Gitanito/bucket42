@@ -1,5 +1,4 @@
 Fascioliasis
-
 [[50 Hz (E)]]
 [[410 Hz (E)]]
 [[1000 Hz (E)]]

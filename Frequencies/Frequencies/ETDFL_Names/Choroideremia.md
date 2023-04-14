@@ -1,5 +1,4 @@
 Choroideremia
-
 [[200 Hz (E)]]
 [[460 Hz (E)]]
 [[17500 Hz (E)]]

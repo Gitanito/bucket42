@@ -1,5 +1,4 @@
 Infrarot-RD V2 Verletzungen
-
 [[160 Hz (E)]]
 [[250 Hz (E)]]
 [[620 Hz (E)]]

@@ -1,5 +1,4 @@
 Pulmonalatresie
-
 [[150 Hz (E)]]
 [[410 Hz (E)]]
 [[680 Hz (E)]]

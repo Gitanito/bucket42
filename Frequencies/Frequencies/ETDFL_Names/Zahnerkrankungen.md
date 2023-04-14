@@ -1,5 +1,4 @@
 Zahnerkrankungen
-
 [[170 Hz (E)]]
 [[370 Hz (E)]]
 [[900 Hz (E)]]

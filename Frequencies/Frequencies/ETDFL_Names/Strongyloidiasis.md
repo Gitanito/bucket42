@@ -1,5 +1,4 @@
 Strongyloidiasis
-
 [[60 Hz (E)]]
 [[250 Hz (E)]]
 [[950 Hz (E)]]

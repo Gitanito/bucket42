@@ -1,5 +1,4 @@
 Dysautonomie
-
 [[140 Hz (E)]]
 [[250 Hz (E)]]
 [[850 Hz (E)]]

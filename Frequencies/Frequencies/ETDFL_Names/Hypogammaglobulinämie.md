@@ -1,5 +1,4 @@
 Hypogammaglobulinämie
-
 [[120 Hz (E)]]
 [[800 Hz (E)]]
 [[22500 Hz (E)]]

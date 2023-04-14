@@ -1,5 +1,4 @@
 Tinea pedis
-
 [[20 Hz (E)]]
 [[750 Hz (E)]]
 [[2620 Hz (E)]]

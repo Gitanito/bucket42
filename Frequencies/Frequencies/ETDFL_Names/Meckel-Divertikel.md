@@ -1,5 +1,4 @@
 Meckel-Divertikel
-
 [[70 Hz (E)]]
 [[120 Hz (E)]]
 [[620 Hz (E)]]

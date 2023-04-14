@@ -1,5 +1,4 @@
 Fanconi-Anämie
-
 [[50 Hz (E)]]
 [[410 Hz (E)]]
 [[1290 Hz (E)]]

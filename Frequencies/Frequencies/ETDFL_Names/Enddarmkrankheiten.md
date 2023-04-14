@@ -1,5 +1,4 @@
 Enddarmkrankheiten
-
 [[190 Hz (E)]]
 [[520 Hz (E)]]
 [[570 Hz (E)]]

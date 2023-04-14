@@ -1,5 +1,4 @@
 Multizystische Dysplastic Niere
-
 [[70 Hz (E)]]
 [[370 Hz (E)]]
 [[3850 Hz (E)]]

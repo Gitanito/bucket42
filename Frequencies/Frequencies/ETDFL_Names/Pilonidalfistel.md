@@ -1,5 +1,4 @@
 Pilonidalfistel
-
 [[130 Hz (E)]]
 [[570 Hz (E)]]
 [[6750 Hz (E)]]

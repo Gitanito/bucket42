@@ -1,5 +1,4 @@
 Parasites allgemeine
-
 [[410 Hz (E)]]
 [[600 Hz (E)]]
 [[850 Hz (E)]]

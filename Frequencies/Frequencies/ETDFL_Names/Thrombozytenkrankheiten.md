@@ -1,5 +1,4 @@
 Thrombozytenkrankheiten
-
 [[40 Hz (E)]]
 [[520 Hz (E)]]
 [[11090 Hz (E)]]

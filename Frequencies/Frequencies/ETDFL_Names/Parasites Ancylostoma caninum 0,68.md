@@ -1,5 +1,4 @@
 Parasites Ancylostoma caninum 0,68
-
 [[900 Hz (E)]]
 [[2500 Hz (E)]]
 [[13930 Hz (E)]]

@@ -1,5 +1,4 @@
 Schilddrüsenhormonresistenz-Syndrom
-
 [[190 Hz (E)]]
 [[15000 Hz (E)]]
 [[33000 Hz (E)]]

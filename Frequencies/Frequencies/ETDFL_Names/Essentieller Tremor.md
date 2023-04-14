@@ -1,5 +1,4 @@
 Essentieller Tremor
-
 [[110 Hz (E)]]
 [[570 Hz (E)]]
 [[81300 Hz (E)]]

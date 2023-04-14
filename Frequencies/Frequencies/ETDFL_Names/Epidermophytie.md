@@ -1,5 +1,4 @@
 Epidermophytie
-
 [[50 Hz (E)]]
 [[410 Hz (E)]]
 [[22500 Hz (E)]]

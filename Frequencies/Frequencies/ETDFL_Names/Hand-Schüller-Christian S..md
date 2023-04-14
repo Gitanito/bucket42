@@ -1,5 +1,4 @@
 Hand-Schüller-Christian S.
-
 [[140 Hz (E)]]
 [[320 Hz (E)]]
 [[970 Hz (E)]]

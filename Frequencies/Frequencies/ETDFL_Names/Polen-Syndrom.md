@@ -1,5 +1,4 @@
 Polen-Syndrom
-
 [[190 Hz (E)]]
 [[260 Hz (E)]]
 [[600 Hz (E)]]

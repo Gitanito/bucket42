@@ -1,5 +1,4 @@
 Narkolepsie-Kataplexie-Syndrom
-
 [[140 Hz (E)]]
 [[570 Hz (E)]]
 [[730 Hz (E)]]

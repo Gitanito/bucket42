@@ -1,5 +1,4 @@
 Myeloencephalitis
-
 [[80 Hz (E)]]
 [[460 Hz (E)]]
 [[3290 Hz (E)]]

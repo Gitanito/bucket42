@@ -1,5 +1,4 @@
 Klippel-Feil-Syndrom
-
 [[30 Hz (E)]]
 [[520 Hz (E)]]
 [[620 Hz (E)]]

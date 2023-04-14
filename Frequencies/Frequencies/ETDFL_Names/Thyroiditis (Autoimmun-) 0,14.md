@@ -1,5 +1,4 @@
 Thyroiditis (Autoimmun-) 0,14
-
 [[250 Hz (E)]]
 [[600 Hz (E)]]
 [[2500 Hz (E)]]

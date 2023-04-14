@@ -1,5 +1,4 @@
 Krummsäbel Syndrom
-
 [[80 Hz (E)]]
 [[350 Hz (E)]]
 [[5150 Hz (E)]]

@@ -1,5 +1,4 @@
 Winter Erbrechen (Cold - Flu) 0,06
-
 [[490 Hz (E)]]
 [[570 Hz (E)]]
 [[7500 Hz (E)]]

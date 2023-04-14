@@ -1,5 +1,4 @@
 Mal de Debarquement
-
 [[150 Hz (E)]]
 [[230 Hz (E)]]
 [[680 Hz (E)]]

@@ -1,5 +1,4 @@
 Perineurale Cysten
-
 [[80 Hz (E)]]
 [[320 Hz (E)]]
 [[650 Hz (E)]]

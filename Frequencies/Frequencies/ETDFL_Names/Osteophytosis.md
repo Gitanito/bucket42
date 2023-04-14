@@ -1,5 +1,4 @@
 Osteophytosis
-
 [[100 Hz (E)]]
 [[320 Hz (E)]]
 [[52500 Hz (E)]]

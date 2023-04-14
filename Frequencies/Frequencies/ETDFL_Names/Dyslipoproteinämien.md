@@ -1,5 +1,4 @@
 Dyslipoproteinämien
-
 [[70 Hz (E)]]
 [[230 Hz (E)]]
 [[970 Hz (E)]]

@@ -1,5 +1,4 @@
 Retardierung
-
 [[230 Hz (E)]]
 [[410 Hz (E)]]
 [[2370 Hz (E)]]

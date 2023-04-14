@@ -1,5 +1,4 @@
 Retinale Pigmentepithelzellen Detachment
-
 [[80 Hz (E)]]
 [[460 Hz (E)]]
 [[1000 Hz (E)]]

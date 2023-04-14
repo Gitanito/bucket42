@@ -1,5 +1,4 @@
 Neuroleptika-Syndrom Maligne
-
 [[80 Hz (E)]]
 [[410 Hz (E)]]
 [[800 Hz (E)]]

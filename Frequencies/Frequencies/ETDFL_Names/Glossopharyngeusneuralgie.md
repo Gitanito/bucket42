@@ -1,5 +1,4 @@
 Glossopharyngeusneuralgie
-
 [[70 Hz (E)]]
 [[570 Hz (E)]]
 [[950 Hz (E)]]

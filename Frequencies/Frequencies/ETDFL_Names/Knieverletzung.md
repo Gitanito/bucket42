@@ -1,5 +1,4 @@
 Knieverletzung
-
 [[190 Hz (E)]]
 [[680 Hz (E)]]
 [[10020 Hz (E)]]

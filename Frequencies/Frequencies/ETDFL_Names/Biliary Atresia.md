@@ -1,7 +1,4 @@
-
-
 Biliary Atresia
-
 [[160 Hz (E)]]
 [[2500 Hz (E)]]
 [[10530 Hz (E)]]

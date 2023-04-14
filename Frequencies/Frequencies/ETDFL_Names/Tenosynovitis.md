@@ -1,5 +1,4 @@
 Tenosynovitis
-
 [[110 Hz (E)]]
 [[400 Hz (E)]]
 [[12710 Hz (E)]]

@@ -1,5 +1,4 @@
 Kraniale Arteritis
-
 [[130 Hz (E)]]
 [[230 Hz (E)]]
 [[750 Hz (E)]]

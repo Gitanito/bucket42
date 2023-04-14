@@ -1,5 +1,4 @@
 Puerperal Infektion
-
 [[140 Hz (E)]]
 [[890 Hz (E)]]
 [[1920 Hz (E)]]

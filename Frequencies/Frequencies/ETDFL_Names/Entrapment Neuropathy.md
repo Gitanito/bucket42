@@ -1,5 +1,4 @@
 Entrapment Neuropathy
-
 [[30 Hz (E)]]
 [[650 Hz (E)]]
 [[12330 Hz (E)]]

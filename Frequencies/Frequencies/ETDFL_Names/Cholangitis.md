@@ -1,5 +1,8 @@
-Cholangitis
+> **Cholangitis**, auch Cholangiitis, ist eine Entzündung der Gallengänge. Diese kann durch verschiedene Ursachen ausgelöst werden, unter anderem durch Verstopfungen der Gallenwege durch Gallensteine, Stenosen, Tumoren oder Parasitenbefall. Man unterscheidet dabei die akute eitrige Cholangitis, die nichteitrige destruierende Cholangitis sowie die chronisch sklerosierende Cholangitis.
+>
+> [Wikipedia](https://de.wikipedia.org/wiki/Cholangitis)
 
+Cholangitis
 [[60 Hz (E)]]
 [[240 Hz (E)]]
 [[5690 Hz (E)]]

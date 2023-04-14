@@ -1,5 +1,4 @@
 Quincke-Ödeme
-
 [[120 Hz (E)]]
 [[520 Hz (E)]]
 [[800 Hz (E)]]

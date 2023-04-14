@@ -1,5 +1,4 @@
 Wirbelsäulenerkrankungen
-
 [[180 Hz (E)]]
 [[320 Hz (E)]]
 [[950 Hz (E)]]

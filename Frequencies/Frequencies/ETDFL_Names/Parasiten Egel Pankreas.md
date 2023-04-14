@@ -1,5 +1,4 @@
 Parasiten Egel Pankreas
-
 [[170 Hz (E)]]
 [[320 Hz (E)]]
 [[850 Hz (E)]]

@@ -1,5 +1,4 @@
 Septo-optische Dysplasie
-
 [[220 Hz (E)]]
 [[970 Hz (E)]]
 [[7500 Hz (E)]]

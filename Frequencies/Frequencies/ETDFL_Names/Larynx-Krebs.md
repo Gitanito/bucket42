@@ -1,5 +1,4 @@
 Larynx-Krebs
-
 [[30 Hz (E)]]
 [[870 Hz (E)]]
 [[2500 Hz (E)]]

@@ -1,5 +1,4 @@
 Dejerine-Sottas-Krankheit
-
 [[410 Hz (E)]]
 [[620 Hz (E)]]
 [[970 Hz (E)]]

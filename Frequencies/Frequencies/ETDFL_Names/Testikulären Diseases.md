@@ -1,5 +1,4 @@
 Testikulären Diseases
-
 [[120 Hz (E)]]
 [[400 Hz (E)]]
 [[900 Hz (E)]]

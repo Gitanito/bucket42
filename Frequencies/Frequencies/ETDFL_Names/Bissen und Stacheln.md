@@ -1,7 +1,4 @@
-
-
 Bissen und Stacheln
-
 [[30 Hz (E)]]
 [[550 Hz (E)]]
 [[780 Hz (E)]]

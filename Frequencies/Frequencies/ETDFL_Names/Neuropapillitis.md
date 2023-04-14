@@ -1,5 +1,4 @@
 Neuropapillitis
-
 [[70 Hz (E)]]
 [[460 Hz (E)]]
 [[620 Hz (E)]]

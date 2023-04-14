@@ -1,5 +1,4 @@
 Kinky-Hair-Syndrom
-
 [[170 Hz (E)]]
 [[420 Hz (E)]]
 [[18810 Hz (E)]]

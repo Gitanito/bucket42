@@ -1,5 +1,4 @@
 Lassa-Fieber
-
 [[30 Hz (E)]]
 [[240 Hz (E)]]
 [[4570 Hz (E)]]

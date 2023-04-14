@@ -1,5 +1,4 @@
 Linksherzsyndrom
-
 [[70 Hz (E)]]
 [[180 Hz (E)]]
 [[750 Hz (E)]]

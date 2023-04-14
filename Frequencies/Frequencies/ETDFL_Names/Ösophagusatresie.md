@@ -1,5 +1,4 @@
 Ösophagusatresie
-
 [[220 Hz (E)]]
 [[750 Hz (E)]]
 [[850 Hz (E)]]

@@ -1,5 +1,4 @@
 Gonaden-Störungen
-
 [[370 Hz (E)]]
 [[950 Hz (E)]]
 [[2500 Hz (E)]]

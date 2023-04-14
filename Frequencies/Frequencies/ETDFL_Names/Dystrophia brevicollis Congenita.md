@@ -1,5 +1,4 @@
 Dystrophia brevicollis Congenita
-
 [[30 Hz (E)]]
 [[520 Hz (E)]]
 [[620 Hz (E)]]

@@ -1,5 +1,4 @@
 Krankheiten des Verdauungssystems
-
 [[730 Hz (E)]]
 [[3230 Hz (E)]]
 [[55930 Hz (E)]]

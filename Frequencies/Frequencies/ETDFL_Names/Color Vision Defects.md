@@ -1,5 +1,4 @@
 Color Vision Defects
-
 [[200 Hz (E)]]
 [[460 Hz (E)]]
 [[750 Hz (E)]]

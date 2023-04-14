@@ -1,5 +1,4 @@
 Oral Neoplasmen
-
 [[570 Hz (E)]]
 [[15750 Hz (E)]]
 [[52500 Hz (E)]]

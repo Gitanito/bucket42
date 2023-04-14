@@ -1,5 +1,4 @@
 Hirnnervenkrankheiten
-
 [[60 Hz (E)]]
 [[260 Hz (E)]]
 [[950 Hz (E)]]

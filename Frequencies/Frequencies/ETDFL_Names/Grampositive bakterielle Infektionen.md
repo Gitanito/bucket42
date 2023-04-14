@@ -1,5 +1,4 @@
 Grampositive bakterielle Infektionen
-
 [[150 Hz (E)]]
 [[920 Hz (E)]]
 [[2750 Hz (E)]]

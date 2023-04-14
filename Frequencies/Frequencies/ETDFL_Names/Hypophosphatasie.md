@@ -1,5 +1,4 @@
 Hypophosphatasie
-
 [[40 Hz (E)]]
 [[220 Hz (E)]]
 [[950 Hz (E)]]

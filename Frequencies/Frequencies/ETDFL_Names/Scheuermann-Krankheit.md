@@ -1,5 +1,4 @@
 Scheuermann-Krankheit
-
 [[50 Hz (E)]]
 [[460 Hz (E)]]
 [[900 Hz (E)]]

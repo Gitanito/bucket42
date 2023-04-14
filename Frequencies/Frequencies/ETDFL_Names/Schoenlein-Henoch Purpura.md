@@ -1,5 +1,4 @@
 Schoenlein-Henoch Purpura
-
 [[60 Hz (E)]]
 [[500 Hz (E)]]
 [[600 Hz (E)]]

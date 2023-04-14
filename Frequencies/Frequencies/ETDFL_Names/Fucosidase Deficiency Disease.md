@@ -1,5 +1,4 @@
 Fucosidase Deficiency Disease
-
 [[50 Hz (E)]]
 [[240 Hz (E)]]
 [[680 Hz (E)]]

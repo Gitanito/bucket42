@@ -1,5 +1,4 @@
 Crouzon-Krankheit
-
 [[90 Hz (E)]]
 [[3500 Hz (E)]]
 [[12680 Hz (E)]]

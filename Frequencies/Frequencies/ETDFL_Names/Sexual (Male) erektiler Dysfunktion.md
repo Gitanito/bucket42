@@ -1,5 +1,4 @@
 Sexual (Male) erektiler Dysfunktion
-
 [[120 Hz (E)]]
 [[560 Hz (E)]]
 [[1760 Hz (E)]]

@@ -1,5 +1,4 @@
 Dysplasien
-
 [[80 Hz (E)]]
 [[800 Hz (E)]]
 [[950 Hz (E)]]

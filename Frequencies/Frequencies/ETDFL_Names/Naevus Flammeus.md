@@ -1,5 +1,4 @@
 Naevus Flammeus
-
 [[230 Hz (E)]]
 [[410 Hz (E)]]
 [[9210 Hz (E)]]

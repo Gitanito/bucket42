@@ -1,5 +1,4 @@
 Thygeson des Keratitis superficialis punctata
-
 [[100 Hz (E)]]
 [[220 Hz (E)]]
 [[32500 Hz (E)]]

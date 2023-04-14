@@ -1,5 +1,4 @@
 Cerebral Ischemia
-
 [[40 Hz (E)]]
 [[20 Hz (E)]]
 [[650 Hz (E)]]

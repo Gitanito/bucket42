@@ -1,7 +1,4 @@
-
-
 Campylobacter-Infektionen
-
 [[130 Hz (E)]]
 [[350 Hz (E)]]
 [[47500 Hz (E)]]

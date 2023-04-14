@@ -1,5 +1,4 @@
 Chronische Hepatitis
-
 [[870 Hz (E)]]
 [[27500 Hz (E)]]
 [[45560 Hz (E)]]

@@ -1,5 +1,4 @@
 Mundtrockenheit
-
 [[120 Hz (E)]]
 [[5810 Hz (E)]]
 [[25000 Hz (E)]]

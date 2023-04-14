@@ -1,7 +1,4 @@
-
-
 Amaurosis Fugax
-
 [[180 Hz (E)]]
 [[780 Hz (E)]]
 [[2500 Hz (E)]]

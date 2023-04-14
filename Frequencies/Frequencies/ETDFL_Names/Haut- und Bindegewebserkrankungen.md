@@ -1,5 +1,4 @@
 Haut- und Bindegewebserkrankungen
-
 [[190 Hz (E)]]
 [[370 Hz (E)]]
 [[7250 Hz (E)]]

@@ -1,5 +1,4 @@
 Granular D. (Corneal)
-
 [[40 Hz (E)]]
 [[240 Hz (E)]]
 [[11450 Hz (E)]]

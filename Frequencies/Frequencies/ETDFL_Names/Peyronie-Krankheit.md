@@ -1,5 +1,4 @@
 Peyronie-Krankheit
-
 [[40 Hz (E)]]
 [[570 Hz (E)]]
 [[620 Hz (E)]]

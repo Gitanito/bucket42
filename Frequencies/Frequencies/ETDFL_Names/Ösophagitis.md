@@ -1,5 +1,4 @@
 Ösophagitis
-
 [[110 Hz (E)]]
 [[570 Hz (E)]]
 [[1090 Hz (E)]]

@@ -1,5 +1,4 @@
 Pseudomonas-Infektionen
-
 [[60 Hz (E)]]
 [[230 Hz (E)]]
 [[8850 Hz (E)]]

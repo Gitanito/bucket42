@@ -1,5 +1,4 @@
 Ocular Rückzug Synd.
-
 [[40 Hz (E)]]
 [[9460 Hz (E)]]
 [[44300 Hz (E)]]

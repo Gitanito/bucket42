@@ -1,5 +1,4 @@
 Vitamin D-Mangel
-
 [[170 Hz (E)]]
 [[220 Hz (E)]]
 [[620 Hz (E)]]

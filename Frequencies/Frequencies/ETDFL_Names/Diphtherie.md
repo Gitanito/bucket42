@@ -1,5 +1,4 @@
 Diphtherie
-
 [[90 Hz (E)]]
 [[250 Hz (E)]]
 [[780 Hz (E)]]

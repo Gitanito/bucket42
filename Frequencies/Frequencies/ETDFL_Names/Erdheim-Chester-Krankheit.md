@@ -1,5 +1,4 @@
 Erdheim-Chester-Krankheit
-
 [[40 Hz (E)]]
 [[1520 Hz (E)]]
 [[14750 Hz (E)]]

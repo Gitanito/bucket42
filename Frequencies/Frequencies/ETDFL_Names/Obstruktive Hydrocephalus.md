@@ -1,5 +1,4 @@
 Obstruktive Hydrocephalus
-
 [[70 Hz (E)]]
 [[370 Hz (E)]]
 [[870 Hz (E)]]

@@ -1,5 +1,4 @@
 Glossitis
-
 [[30 Hz (E)]]
 [[120 Hz (E)]]
 [[600 Hz (E)]]

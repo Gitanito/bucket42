@@ -1,5 +1,4 @@
 Tinea versicolor
-
 [[50 Hz (E)]]
 [[410 Hz (E)]]
 [[600 Hz (E)]]

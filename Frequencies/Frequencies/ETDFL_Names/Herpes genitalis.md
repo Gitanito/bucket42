@@ -1,5 +1,4 @@
 Herpes genitalis
-
 [[120 Hz (E)]]
 [[550 Hz (E)]]
 [[950 Hz (E)]]

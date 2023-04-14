@@ -1,5 +1,4 @@
 Paraplegie
-
 [[20 Hz (E)]]
 [[220 Hz (E)]]
 [[970 Hz (E)]]

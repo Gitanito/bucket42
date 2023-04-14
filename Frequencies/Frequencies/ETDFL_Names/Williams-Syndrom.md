@@ -1,5 +1,4 @@
 Williams-Syndrom
-
 [[140 Hz (E)]]
 [[410 Hz (E)]]
 [[8000 Hz (E)]]

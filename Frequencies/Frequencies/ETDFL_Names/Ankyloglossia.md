@@ -1,7 +1,4 @@
-
-
 Ankyloglossia
-
 [[80 Hz (E)]]
 [[780 Hz (E)]]
 [[5810 Hz (E)]]

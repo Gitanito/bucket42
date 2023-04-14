@@ -1,7 +1,4 @@
-
-
 Ascorbinsäure-Mangel
-
 [[50 Hz (E)]]
 [[730 Hz (E)]]
 [[2950 Hz (E)]]

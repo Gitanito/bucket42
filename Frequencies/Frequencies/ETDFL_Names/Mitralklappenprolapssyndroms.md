@@ -1,5 +1,4 @@
 Mitralklappenprolapssyndroms
-
 [[40 Hz (E)]]
 [[240 Hz (E)]]
 [[49710 Hz (E)]]

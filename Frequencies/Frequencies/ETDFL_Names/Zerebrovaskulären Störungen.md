@@ -1,5 +1,4 @@
 Zerebrovaskulären Störungen
-
 [[80 Hz (E)]]
 [[250 Hz (E)]]
 [[700 Hz (E)]]

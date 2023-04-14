@@ -1,5 +1,4 @@
 Vulvar Diseases
-
 [[30 Hz (E)]]
 [[5810 Hz (E)]]
 [[13980 Hz (E)]]

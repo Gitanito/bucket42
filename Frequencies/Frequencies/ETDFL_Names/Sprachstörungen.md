@@ -1,5 +1,4 @@
 Sprachstörungen
-
 [[180 Hz (E)]]
 [[1070 Hz (E)]]
 [[4830 Hz (E)]]

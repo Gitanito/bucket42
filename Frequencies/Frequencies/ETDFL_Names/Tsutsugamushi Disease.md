@@ -1,5 +1,4 @@
 Tsutsugamushi Disease
-
 [[20 Hz (E)]]
 [[320 Hz (E)]]
 [[620 Hz (E)]]

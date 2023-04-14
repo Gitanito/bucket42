@@ -1,5 +1,4 @@
 Emetophobia
-
 [[80 Hz (E)]]
 [[620 Hz (E)]]
 [[870 Hz (E)]]

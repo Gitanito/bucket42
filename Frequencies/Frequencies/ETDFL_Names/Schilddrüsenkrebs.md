@@ -1,5 +1,4 @@
 Schilddrüsenkrebs
-
 [[130 Hz (E)]]
 [[570 Hz (E)]]
 [[32500 Hz (E)]]

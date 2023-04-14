@@ -1,5 +1,4 @@
 Kammerflimmern
-
 [[140 Hz (E)]]
 [[570 Hz (E)]]
 [[7250 Hz (E)]]

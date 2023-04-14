@@ -1,5 +1,4 @@
 Stickler-Syndrom
-
 [[460 Hz (E)]]
 [[2500 Hz (E)]]
 [[30000 Hz (E)]]

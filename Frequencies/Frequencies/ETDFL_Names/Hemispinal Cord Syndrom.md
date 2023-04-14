@@ -1,5 +1,4 @@
 Hemispinal Cord Syndrom
-
 [[500 Hz (E)]]
 [[680 Hz (E)]]
 [[87500 Hz (E)]]

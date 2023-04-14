@@ -1,5 +1,4 @@
 Meibom Cyst
-
 [[60 Hz (E)]]
 [[320 Hz (E)]]
 [[830 Hz (E)]]

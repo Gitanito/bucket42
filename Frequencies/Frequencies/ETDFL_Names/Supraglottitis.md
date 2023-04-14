@@ -1,5 +1,4 @@
 Supraglottitis
-
 [[70 Hz (E)]]
 [[460 Hz (E)]]
 [[600 Hz (E)]]

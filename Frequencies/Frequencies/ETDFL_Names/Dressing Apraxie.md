@@ -1,5 +1,4 @@
 Dressing Apraxie
-
 [[600 Hz (E)]]
 [[1000 Hz (E)]]
 [[5000 Hz (E)]]

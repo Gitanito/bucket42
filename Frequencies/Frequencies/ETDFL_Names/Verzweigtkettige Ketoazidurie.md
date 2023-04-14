@@ -1,5 +1,4 @@
 Verzweigtkettige Ketoazidurie
-
 [[30 Hz (E)]]
 [[500 Hz (E)]]
 [[870 Hz (E)]]

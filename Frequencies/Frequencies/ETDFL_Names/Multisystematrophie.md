@@ -1,5 +1,4 @@
 Multisystematrophie
-
 [[40 Hz (E)]]
 [[460 Hz (E)]]
 [[620 Hz (E)]]

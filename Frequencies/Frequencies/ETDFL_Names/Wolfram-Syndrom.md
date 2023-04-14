@@ -1,5 +1,4 @@
 Wolfram-Syndrom
-
 [[200 Hz (E)]]
 [[460 Hz (E)]]
 [[2500 Hz (E)]]

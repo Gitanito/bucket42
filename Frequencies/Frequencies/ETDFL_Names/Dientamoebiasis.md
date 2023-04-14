@@ -1,5 +1,4 @@
 Dientamoebiasis
-
 [[70 Hz (E)]]
 [[370 Hz (E)]]
 [[830 Hz (E)]]

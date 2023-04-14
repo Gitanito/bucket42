@@ -1,5 +1,4 @@
 Locked-in-Syndrom
-
 [[150 Hz (E)]]
 [[460 Hz (E)]]
 [[950 Hz (E)]]

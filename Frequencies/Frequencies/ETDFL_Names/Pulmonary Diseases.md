@@ -1,5 +1,4 @@
 Pulmonary Diseases
-
 [[160 Hz (E)]]
 [[210 Hz (E)]]
 [[420 Hz (E)]]

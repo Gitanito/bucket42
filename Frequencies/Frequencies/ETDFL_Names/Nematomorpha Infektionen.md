@@ -1,5 +1,4 @@
 Nematomorpha Infektionen
-
 [[490 Hz (E)]]
 [[730 Hz (E)]]
 [[1270 Hz (E)]]

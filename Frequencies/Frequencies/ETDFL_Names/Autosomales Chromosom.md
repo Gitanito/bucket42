@@ -1,7 +1,4 @@
-
-
 Autosomales Chromosom
-
 [[190 Hz (E)]]
 [[230 Hz (E)]]
 [[970 Hz (E)]]

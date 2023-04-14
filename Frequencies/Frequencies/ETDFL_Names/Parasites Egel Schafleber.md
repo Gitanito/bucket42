@@ -1,5 +1,4 @@
 Parasites Egel Schafleber
-
 [[150 Hz (E)]]
 [[380 Hz (E)]]
 [[930 Hz (E)]]

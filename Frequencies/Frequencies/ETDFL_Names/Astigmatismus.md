@@ -1,15 +1,9 @@
 > **Astigmatismus** (griechisch; Punktlosigkeit) steht für:
 >
-> 
->
 > Hornhautverkrümmung, ein Brechungsfehler des Auges, siehe Astigmatismus (Medizin)
->
 > ein Abbildungsfehler bei optischen Geräten wie etwa Objektiven und Fernrohren, siehe Abbildungsfehler#Astigmatismus und Abbildungsfehler#Axialer Astigmatismus
->
 > [Wikipedia](https://de.wikipedia.org/wiki/Astigmatismus)
-
 Astigmatismus
-
 [[600 Hz (E)]]
 [[900 Hz (E)]]
 [[12330 Hz (E)]]

@@ -1,5 +1,4 @@
 Usher-Syndrom
-
 [[40 Hz (E)]]
 [[240 Hz (E)]]
 [[10530 Hz (E)]]

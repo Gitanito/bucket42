@@ -1,5 +1,4 @@
 White Dot-Syndrom
-
 [[120 Hz (E)]]
 [[490 Hz (E)]]
 [[680 Hz (E)]]

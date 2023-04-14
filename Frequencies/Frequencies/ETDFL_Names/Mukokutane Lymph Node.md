@@ -1,5 +1,4 @@
 Mukokutane Lymph Node
-
 [[40 Hz (E)]]
 [[240 Hz (E)]]
 [[950 Hz (E)]]

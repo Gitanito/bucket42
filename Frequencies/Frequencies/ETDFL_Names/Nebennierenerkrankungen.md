@@ -1,5 +1,4 @@
 Nebennierenerkrankungen
-
 [[70 Hz (E)]]
 [[5500 Hz (E)]]
 [[73300 Hz (E)]]

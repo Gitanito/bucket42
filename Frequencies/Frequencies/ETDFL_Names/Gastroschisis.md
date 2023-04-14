@@ -1,5 +1,4 @@
 Gastroschisis
-
 [[160 Hz (E)]]
 [[490 Hz (E)]]
 [[730 Hz (E)]]

@@ -1,5 +1,4 @@
 De Quervain Thyroiditis
-
 [[140 Hz (E)]]
 [[250 Hz (E)]]
 [[600 Hz (E)]]

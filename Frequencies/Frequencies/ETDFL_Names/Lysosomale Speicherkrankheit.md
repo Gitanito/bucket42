@@ -1,5 +1,4 @@
 Lysosomale Speicherkrankheit
-
 [[80 Hz (E)]]
 [[410 Hz (E)]]
 [[950 Hz (E)]]

@@ -1,5 +1,4 @@
 Hämoglobinurie
-
 [[190 Hz (E)]]
 [[230 Hz (E)]]
 [[3950 Hz (E)]]

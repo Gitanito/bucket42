@@ -1,5 +1,4 @@
 Plexus brachialis
-
 [[150 Hz (E)]]
 [[570 Hz (E)]]
 [[15160 Hz (E)]]

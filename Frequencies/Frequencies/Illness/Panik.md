@@ -1,5 +1,4 @@
 > **Panik** ist ein Zustand intensiver Angst vor einer tatsächlichen oder angenommenen Bedrohung. Sie ist eine starke Stressreaktion des Organismus auf eine oft unerwartete und erschreckende Situation und geht einher mit vielfältigen vegetativen, körperlichen und psychischen Symptomen. Dabei kann es unter Umständen zu einer Einschränkung der höheren menschlichen Fähigkeiten kommen.
 >
 > Das Wort Panik (altgriechisch πανικός panikós) ist vom griechischen Hirtengott Pan (Πάν) abgeleitet, von dem die Sage ging, dass er in der größten Mittagsstille durch einen lauten Schrei auf einmal ganze Herden zu plötzlicher und anscheinend sinnloser Massenflucht aufjagen könne („panischer Schrecken“, altgriechisch πανικόν δεῖμα panikón deima – siehe auch: Stampede).
->
 > [Wikipedia](https://de.wikipedia.org/wiki/Panik)

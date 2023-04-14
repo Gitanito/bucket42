@@ -1,7 +1,4 @@
-
-
 Autoimmunerkrankungen
-
 [[240 Hz (E)]]
 [[5090 Hz (E)]]
 [[32500 Hz (E)]]

@@ -1,5 +1,4 @@
 Morgellons (Internal & External Hautparasiten)
-
 [[160 Hz (E)]]
 [[300 Hz (E)]]
 [[2500 Hz (E)]]

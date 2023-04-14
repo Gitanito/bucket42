@@ -1,5 +1,4 @@
 Ondine-Syndrom
-
 [[70 Hz (E)]]
 [[370 Hz (E)]]
 [[12710 Hz (E)]]

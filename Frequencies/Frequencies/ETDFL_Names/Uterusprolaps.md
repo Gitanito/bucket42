@@ -1,5 +1,4 @@
 Uterusprolaps
-
 [[100 Hz (E)]]
 [[420 Hz (E)]]
 [[930 Hz (E)]]

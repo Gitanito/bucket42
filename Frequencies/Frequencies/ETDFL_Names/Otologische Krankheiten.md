@@ -1,5 +1,4 @@
 Otologische Krankheiten
-
 [[550 Hz (E)]]
 [[900 Hz (E)]]
 [[5150 Hz (E)]]

@@ -1,5 +1,4 @@
 Sexuell übertragbare Krankheiten
-
 [[40 Hz (E)]]
 [[410 Hz (E)]]
 [[17500 Hz (E)]]

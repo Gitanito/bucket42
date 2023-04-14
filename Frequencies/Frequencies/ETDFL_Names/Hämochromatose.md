@@ -1,5 +1,4 @@
 Hämochromatose
-
 [[120 Hz (E)]]
 [[350 Hz (E)]]
 [[850 Hz (E)]]

@@ -1,5 +1,4 @@
 Elektronentransportkette Def
-
 [[160 Hz (E)]]
 [[350 Hz (E)]]
 [[930 Hz (E)]]

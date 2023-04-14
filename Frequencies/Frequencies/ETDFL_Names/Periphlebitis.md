@@ -1,5 +1,4 @@
 Periphlebitis
-
 [[50 Hz (E)]]
 [[370 Hz (E)]]
 [[870 Hz (E)]]

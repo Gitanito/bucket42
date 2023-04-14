@@ -1,5 +1,4 @@
 Hermanski-Pudlak Syndrom
-
 [[80 Hz (E)]]
 [[400 Hz (E)]]
 [[760 Hz (E)]]

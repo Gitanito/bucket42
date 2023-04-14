@@ -1,5 +1,4 @@
 Chromosome 17 anormal
-
 [[130 Hz (E)]]
 [[250 Hz (E)]]
 [[730 Hz (E)]]

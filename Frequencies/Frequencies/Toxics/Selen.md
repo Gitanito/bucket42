@@ -1,7 +1,5 @@
 > **Selen** (zeˈleːn, griech. σελήνη [selḗnē], „Mond“) ist ein chemisches Element mit dem Elementsymbol Se und der Ordnungszahl 34. Im Periodensystem steht es in der 4. Periode sowie der 6. Hauptgruppe, beziehungsweise der 16. IUPAC-Gruppe und zählt zu den Chalkogenen.
 >
 > Selen ist ein Nichtmetall, seine Eigenschaften ähneln denen von Schwefel und Tellur. Es bildet mehrere polymorphe und allotrope Modifikationen, von denen die graue, metallähnliche Form die stabilste ist. Meist kommt es in Metallsulfiderzen vor, wo es teilweise den Schwefel ersetzt, selten in elementarer Form oder als reine Erzverbindung. Der schwedische Mediziner und Chemiker Jöns Jacob Berzelius entdeckte Selen 1817. Kommerziell fällt Selen bei der Aufarbeitung von Metallerzen an. Technisch wird es in der Glasherstellung, für Pigmente sowie Photozellen verwendet. Früher wurde es für die Herstellung von elektronischen Bauteilen verwendet.
->
 > Selen ist ein für den Menschen essenzielles Spurenelement und unter anderem Bestandteil des antioxidativen Enzyms Glutathionperoxidase. Die Spanne zwischen Mangelernährung und toxischen Konzentrationen bei der Selenaufnahme ist sehr gering, was eine sorgfältige Kontrolle der Zufuhr erforderlich macht. Sowohl elementares Selen als auch Selensalze können schon in geringen Dosen giftig sein und Selenose verursachen.
->
 > [Wikipedia](https://de.wikipedia.org/wiki/Selen)

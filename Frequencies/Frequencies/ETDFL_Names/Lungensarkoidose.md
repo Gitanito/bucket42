@@ -1,5 +1,4 @@
 Lungensarkoidose
-
 [[80 Hz (E)]]
 [[350 Hz (E)]]
 [[37500 Hz (E)]]

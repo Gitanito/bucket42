@@ -1,5 +1,4 @@
 Tachycardie
-
 [[20 Hz (E)]]
 [[520 Hz (E)]]
 [[1200 Hz (E)]]

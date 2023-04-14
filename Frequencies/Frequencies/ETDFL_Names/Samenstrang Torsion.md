@@ -1,5 +1,4 @@
 Samenstrang Torsion
-
 [[70 Hz (E)]]
 [[460 Hz (E)]]
 [[830 Hz (E)]]

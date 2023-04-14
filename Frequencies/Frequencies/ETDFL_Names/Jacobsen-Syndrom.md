@@ -1,5 +1,4 @@
 Jacobsen-Syndrom
-
 [[180 Hz (E)]]
 [[780 Hz (E)]]
 [[850 Hz (E)]]

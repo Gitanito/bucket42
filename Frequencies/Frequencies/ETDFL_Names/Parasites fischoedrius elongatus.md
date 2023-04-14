@@ -1,5 +1,4 @@
 Parasites fischoedrius elongatus
-
 [[190 Hz (E)]]
 [[520 Hz (E)]]
 [[780 Hz (E)]]

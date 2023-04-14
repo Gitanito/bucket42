@@ -1,5 +1,4 @@
 Mitralklappenstenose
-
 [[40 Hz (E)]]
 [[240 Hz (E)]]
 [[62230 Hz (E)]]

@@ -1,7 +1,4 @@
-
-
 Blasenexstrophie
-
 [[20 Hz (E)]]
 [[900 Hz (E)]]
 [[2250 Hz (E)]]

@@ -1,5 +1,4 @@
 Zellweger-Syndrom
-
 [[160 Hz (E)]]
 [[570 Hz (E)]]
 [[780 Hz (E)]]

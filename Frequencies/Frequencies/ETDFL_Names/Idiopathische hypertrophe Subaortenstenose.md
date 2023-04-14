@@ -1,5 +1,4 @@
 Idiopathische hypertrophe Subaortenstenose
-
 [[130 Hz (E)]]
 [[260 Hz (E)]]
 [[20000 Hz (E)]]

@@ -1,5 +1,4 @@
 Louis-Bar-Syndrom
-
 [[130 Hz (E)]]
 [[650 Hz (E)]]
 [[19900 Hz (E)]]

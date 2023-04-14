@@ -1,5 +1,4 @@
 Leer Sella Primary
-
 [[120 Hz (E)]]
 [[9550 Hz (E)]]
 [[55850 Hz (E)]]

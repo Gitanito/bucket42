@@ -1,5 +1,4 @@
 Hypotension
-
 [[20 Hz (E)]]
 [[240 Hz (E)]]
 [[850 Hz (E)]]

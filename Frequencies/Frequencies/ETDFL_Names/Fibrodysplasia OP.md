@@ -1,5 +1,4 @@
 Fibrodysplasia OP
-
 [[230 Hz (E)]]
 [[1180 Hz (E)]]
 [[2260 Hz (E)]]

@@ -1,5 +1,4 @@
 Slow-Virus-Krankheiten
-
 [[190 Hz (E)]]
 [[370 Hz (E)]]
 [[750 Hz (E)]]

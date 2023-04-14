@@ -1,7 +1,4 @@
-
-
 Aldrich-Syndrom
-
 [[200 Hz (E)]]
 [[770 Hz (E)]]
 [[2530 Hz (E)]]

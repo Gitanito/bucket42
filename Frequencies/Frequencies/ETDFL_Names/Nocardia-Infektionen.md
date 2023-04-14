@@ -1,5 +1,4 @@
 Nocardia-Infektionen
-
 [[160 Hz (E)]]
 [[320 Hz (E)]]
 [[950 Hz (E)]]

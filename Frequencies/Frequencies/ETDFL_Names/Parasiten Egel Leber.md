@@ -1,5 +1,4 @@
 Parasiten Egel Leber
-
 [[180 Hz (E)]]
 [[400 Hz (E)]]
 [[800 Hz (E)]]

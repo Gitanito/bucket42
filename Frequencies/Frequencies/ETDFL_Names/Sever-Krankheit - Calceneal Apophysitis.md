@@ -1,5 +1,4 @@
 Sever-Krankheit - Calceneal Apophysitis
-
 [[40 Hz (E)]]
 [[410 Hz (E)]]
 [[730 Hz (E)]]

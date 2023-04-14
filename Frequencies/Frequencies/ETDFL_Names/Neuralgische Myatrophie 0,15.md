@@ -1,5 +1,4 @@
 Neuralgische Myatrophie 0,15
-
 [[570 Hz (E)]]
 [[15160 Hz (E)]]
 [[52500 Hz (E)]]

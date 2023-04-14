@@ -1,5 +1,4 @@
 Leaky Gut-Syndrom
-
 [[170 Hz (E)]]
 [[220 Hz (E)]]
 [[470 Hz (E)]]

@@ -1,5 +1,4 @@
 Capsulitis
-
 [[60 Hz (E)]]
 [[230 Hz (E)]]
 [[20000 Hz (E)]]

@@ -1,5 +1,4 @@
 Makroglobulinämie
-
 [[80 Hz (E)]]
 [[2750 Hz (E)]]
 [[20000 Hz (E)]]

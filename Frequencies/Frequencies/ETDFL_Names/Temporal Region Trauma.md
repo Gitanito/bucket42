@@ -1,5 +1,4 @@
 Temporal Region Trauma
-
 [[130 Hz (E)]]
 [[230 Hz (E)]]
 [[1600 Hz (E)]]

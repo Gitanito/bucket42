@@ -1,5 +1,4 @@
 Vorhofflimmern
-
 [[80 Hz (E)]]
 [[730 Hz (E)]]
 [[970 Hz (E)]]

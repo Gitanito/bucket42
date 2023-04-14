@@ -1,5 +1,4 @@
 SÃ©zary-Syndrom
-
 [[180 Hz (E)]]
 [[300 Hz (E)]]
 [[2330 Hz (E)]]

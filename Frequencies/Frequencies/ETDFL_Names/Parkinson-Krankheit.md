@@ -1,5 +1,4 @@
 Parkinson-Krankheit
-
 [[80 Hz (E)]]
 [[350 Hz (E)]]
 [[650 Hz (E)]]

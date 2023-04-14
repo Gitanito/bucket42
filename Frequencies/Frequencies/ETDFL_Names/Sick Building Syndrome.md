@@ -1,5 +1,4 @@
 Sick Building Syndrome
-
 [[20 Hz (E)]]
 [[770 Hz (E)]]
 [[2500 Hz (E)]]

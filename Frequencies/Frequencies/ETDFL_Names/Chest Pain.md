@@ -1,5 +1,4 @@
 Chest Pain
-
 [[100 Hz (E)]]
 [[260 Hz (E)]]
 [[650 Hz (E)]]

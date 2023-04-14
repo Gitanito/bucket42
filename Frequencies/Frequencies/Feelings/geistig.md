@@ -1,11 +1,6 @@
 > Geist (altgriechisch πνεῦμα pneuma, νοῦς nous und auch ψυχή psyche, lateinisch spiritus, mens, animus bzw. anima, hebräisch ruach und arabisch rūh, englisch mind, spirit, französisch esprit) ist ein uneinheitlich verwendeter Begriff der Philosophie, Theologie, Psychologie und Alltagssprache.Im Zusammenhang mit Bewusstsein kann man grob zwischen zwei Bedeutungskomponenten des Begriffs „Geist“ unterscheiden:
 >
-> 
->
 > Bezogen auf die allgemeinsprachlich „**geistig**“ genannten kognitiven Fähigkeiten des Menschen bezeichnet „Geist“ im Sinne von „Psyche“ das Wahrnehmen und Lernen ebenso wie das Erinnern und Vorstellen sowie Phantasieren und sämtliche Formen des Denkens (des „Verstands“ oder der „Vernunft“) wie Überlegen, Auswählen, Entscheiden, Beabsichtigen und Planen, Strategien verfolgen, Vorher- oder Voraussehen, Einschätzen, Gewichten, Bewerten, Kontrollieren, Beobachten und Überwachen, die dabei nötige Wachsamkeit und Achtsamkeit sowie Konzentration aller Grade bis hin zu hypnotischen und sonstigen tranceartigen Zuständen auf der einen und solchen von Überwachheit und höchster Geistesgegenwärtigkeit auf der anderen Seite.
->
 > Mit religiösen Vorstellungen von einer Seele bis hin zu Jenseitserwartungen verknüpft, umfasst „Geist“ die oft als spirituell bezeichneten Annahmen einer nicht an den leiblichen Körper gebundenen, nur auf ihn einwirkenden reinen oder absoluten, transpersonalen oder gar transzendenten Geistigkeit, die als von Gott geschaffen oder ihm gleich oder wesensgleich, wenn nicht sogar mit ihm identisch gedacht wird. Heiliger Geist wird in der christlichen Vorstellungswelt dagegen der „Geist Gottes“ genannt, der als Person der göttlichen Dreieinigkeit verstanden wird.Die Frage nach der „Natur“ des Geistes ist somit ein zentrales Thema der Metaphysik.
->
 > In der Tradition des deutschen Idealismus bezieht sich der Begriff hingegen auf überindividuelle Strukturen. In diesem Sinne ist etwa die hegelsche Philosophie zu verstehen, aber auch Wilhelm Diltheys Konzeption der Geisteswissenschaften.
->
 > [Wikipedia](https://de.wikipedia.org/wiki/Geist)

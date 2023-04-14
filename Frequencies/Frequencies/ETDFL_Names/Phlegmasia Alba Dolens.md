@@ -1,5 +1,4 @@
 Phlegmasia Alba Dolens
-
 [[240 Hz (E)]]
 [[780 Hz (E)]]
 [[13980 Hz (E)]]

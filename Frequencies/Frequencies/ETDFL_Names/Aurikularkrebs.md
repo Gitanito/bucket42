@@ -1,7 +1,4 @@
-
-
 Aurikularkrebs
-
 [[80 Hz (E)]]
 [[120 Hz (E)]]
 [[850 Hz (E)]]

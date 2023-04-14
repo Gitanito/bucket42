@@ -1,5 +1,4 @@
 Hyperkalzämie
-
 [[110 Hz (E)]]
 [[490 Hz (E)]]
 [[14730 Hz (E)]]

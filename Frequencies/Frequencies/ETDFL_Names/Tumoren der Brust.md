@@ -1,5 +1,4 @@
 Tumoren der Brust
-
 [[20 Hz (E)]]
 [[460 Hz (E)]]
 [[5120 Hz (E)]]

@@ -1,5 +1,4 @@
 Polyneuropathie
-
 [[130 Hz (E)]]
 [[830 Hz (E)]]
 [[3730 Hz (E)]]

@@ -1,7 +1,4 @@
-
-
 Beals-Syndrom
-
 [[70 Hz (E)]]
 [[290 Hz (E)]]
 [[38220 Hz (E)]]

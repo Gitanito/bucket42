@@ -1,5 +1,4 @@
 Tourette-Syndrom
-
 [[160 Hz (E)]]
 [[230 Hz (E)]]
 [[12850 Hz (E)]]

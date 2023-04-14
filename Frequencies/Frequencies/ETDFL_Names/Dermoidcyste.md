@@ -1,5 +1,4 @@
 Dermoidcyste
-
 [[50 Hz (E)]]
 [[490 Hz (E)]]
 [[1520 Hz (E)]]

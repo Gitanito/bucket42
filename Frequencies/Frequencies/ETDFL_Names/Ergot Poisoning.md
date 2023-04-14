@@ -1,5 +1,4 @@
 Ergot Poisoning
-
 [[70 Hz (E)]]
 [[520 Hz (E)]]
 [[680 Hz (E)]]

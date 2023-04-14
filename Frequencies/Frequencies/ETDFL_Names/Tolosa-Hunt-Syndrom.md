@@ -1,5 +1,4 @@
 Tolosa-Hunt-Syndrom
-
 [[350 Hz (E)]]
 [[750 Hz (E)]]
 [[1750 Hz (E)]]

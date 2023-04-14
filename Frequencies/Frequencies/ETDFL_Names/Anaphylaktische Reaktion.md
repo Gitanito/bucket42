@@ -1,5 +1,4 @@
 Anaphylaktische Reaktion
-
 [[140 Hz (E)]]
 [[750 Hz (E)]]
 [[2500 Hz (E)]]

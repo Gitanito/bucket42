@@ -1,5 +1,4 @@
 Thesaurismosis
-
 [[130 Hz (E)]]
 [[520 Hz (E)]]
 [[2610 Hz (E)]]

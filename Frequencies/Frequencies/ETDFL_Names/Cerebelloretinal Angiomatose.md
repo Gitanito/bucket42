@@ -1,5 +1,4 @@
 Cerebelloretinal Angiomatose
-
 [[30 Hz (E)]]
 [[460 Hz (E)]]
 [[2500 Hz (E)]]

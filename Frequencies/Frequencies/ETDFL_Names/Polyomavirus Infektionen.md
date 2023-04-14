@@ -1,5 +1,4 @@
 Polyomavirus Infektionen
-
 [[130 Hz (E)]]
 [[520 Hz (E)]]
 [[6750 Hz (E)]]

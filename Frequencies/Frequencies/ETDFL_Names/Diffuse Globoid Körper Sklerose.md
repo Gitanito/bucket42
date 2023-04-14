@@ -1,5 +1,4 @@
 Diffuse Globoid Körper Sklerose
-
 [[160 Hz (E)]]
 [[550 Hz (E)]]
 [[850 Hz (E)]]

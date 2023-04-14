@@ -1,5 +1,4 @@
 Epilepsie
-
 [[70 Hz (E)]]
 [[180 Hz (E)]]
 [[730 Hz (E)]]

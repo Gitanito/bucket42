@@ -1,5 +1,4 @@
 Parasites Streptococcus pneumoniae
-
 [[680 Hz (E)]]
 [[900 Hz (E)]]
 [[2500 Hz (E)]]

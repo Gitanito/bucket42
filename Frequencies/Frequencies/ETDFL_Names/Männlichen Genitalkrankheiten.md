@@ -1,5 +1,4 @@
 Männlichen Genitalkrankheiten
-
 [[190 Hz (E)]]
 [[220 Hz (E)]]
 [[620 Hz (E)]]

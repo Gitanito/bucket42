@@ -1,5 +1,4 @@
 Hitzewallungen
-
 [[190 Hz (E)]]
 [[270 Hz (E)]]
 [[3450 Hz (E)]]

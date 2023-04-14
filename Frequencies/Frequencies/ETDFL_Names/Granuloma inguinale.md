@@ -1,5 +1,4 @@
 Granuloma inguinale
-
 [[30 Hz (E)]]
 [[500 Hz (E)]]
 [[700 Hz (E)]]

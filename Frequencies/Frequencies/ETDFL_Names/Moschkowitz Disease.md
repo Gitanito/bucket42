@@ -1,5 +1,4 @@
 Moschkowitz Disease
-
 [[50 Hz (E)]]
 [[500 Hz (E)]]
 [[1900 Hz (E)]]

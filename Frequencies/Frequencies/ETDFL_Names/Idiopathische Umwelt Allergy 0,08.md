@@ -1,5 +1,4 @@
 Idiopathische Umwelt Allergy 0,08
-
 [[370 Hz (E)]]
 [[780 Hz (E)]]
 [[8850 Hz (E)]]

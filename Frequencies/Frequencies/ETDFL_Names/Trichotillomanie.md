@@ -1,5 +1,4 @@
 Trichotillomanie
-
 [[240 Hz (E)]]
 [[750 Hz (E)]]
 [[950 Hz (E)]]

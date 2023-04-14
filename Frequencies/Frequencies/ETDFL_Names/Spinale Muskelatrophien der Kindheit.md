@@ -1,5 +1,4 @@
 Spinale Muskelatrophien der Kindheit
-
 [[180 Hz (E)]]
 [[320 Hz (E)]]
 [[25000 Hz (E)]]

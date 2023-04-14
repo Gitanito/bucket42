@@ -1,5 +1,4 @@
 Hyperemesis Gravidarum
-
 [[190 Hz (E)]]
 [[230 Hz (E)]]
 [[850 Hz (E)]]

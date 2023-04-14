@@ -1,5 +1,4 @@
 Sexuelle Störungen (General Set)
-
 [[120 Hz (E)]]
 [[560 Hz (E)]]
 [[34210 Hz (E)]]

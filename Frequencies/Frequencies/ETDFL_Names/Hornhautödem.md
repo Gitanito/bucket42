@@ -1,5 +1,4 @@
 Hornhautödem
-
 [[30 Hz (E)]]
 [[240 Hz (E)]]
 [[6680 Hz (E)]]

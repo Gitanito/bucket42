@@ -1,5 +1,4 @@
 Hepatitis A
-
 [[150 Hz (E)]]
 [[870 Hz (E)]]
 [[5290 Hz (E)]]

@@ -1,5 +1,4 @@
 Diabetes Ketose-Resistant
-
 [[150 Hz (E)]]
 [[890 Hz (E)]]
 [[1700 Hz (E)]]

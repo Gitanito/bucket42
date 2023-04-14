@@ -1,5 +1,4 @@
 Ocular Larve migrans
-
 [[70 Hz (E)]]
 [[370 Hz (E)]]
 [[700 Hz (E)]]

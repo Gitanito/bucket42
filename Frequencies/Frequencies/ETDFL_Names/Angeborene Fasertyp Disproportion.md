@@ -1,7 +1,4 @@
-
-
 Angeborene Fasertyp Disproportion
-
 [[50 Hz (E)]]
 [[410 Hz (E)]]
 [[830 Hz (E)]]

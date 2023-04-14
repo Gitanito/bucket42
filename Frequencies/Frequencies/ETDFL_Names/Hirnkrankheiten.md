@@ -1,5 +1,4 @@
 Hirnkrankheiten
-
 [[40 Hz (E)]]
 [[200 Hz (E)]]
 [[650 Hz (E)]]

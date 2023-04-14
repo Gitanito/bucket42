@@ -1,5 +1,4 @@
 Hypertension
-
 [[30 Hz (E)]]
 [[400 Hz (E)]]
 [[780 Hz (E)]]

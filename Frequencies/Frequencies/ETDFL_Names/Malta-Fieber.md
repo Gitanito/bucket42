@@ -1,5 +1,4 @@
 Malta-Fieber
-
 [[50 Hz (E)]]
 [[35750 Hz (E)]]
 [[60000 Hz (E)]]

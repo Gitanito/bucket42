@@ -1,5 +1,4 @@
 Amyotonia Congenita
-
 [[40 Hz (E)]]
 [[350 Hz (E)]]
 [[6790 Hz (E)]]

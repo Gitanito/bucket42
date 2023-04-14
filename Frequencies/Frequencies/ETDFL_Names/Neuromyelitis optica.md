@@ -1,5 +1,4 @@
 Neuromyelitis optica
-
 [[50 Hz (E)]]
 [[570 Hz (E)]]
 [[600 Hz (E)]]

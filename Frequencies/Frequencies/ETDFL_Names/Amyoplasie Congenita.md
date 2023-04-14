@@ -1,7 +1,4 @@
-
-
 Amyoplasie Congenita
-
 [[190 Hz (E)]]
 [[570 Hz (E)]]
 [[830 Hz (E)]]

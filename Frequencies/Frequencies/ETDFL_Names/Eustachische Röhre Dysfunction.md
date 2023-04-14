@@ -1,5 +1,4 @@
 Eustachische Röhre Dysfunction
-
 [[50 Hz (E)]]
 [[370 Hz (E)]]
 [[830 Hz (E)]]

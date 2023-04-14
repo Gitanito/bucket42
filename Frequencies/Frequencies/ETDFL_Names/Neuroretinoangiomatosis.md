@@ -1,5 +1,4 @@
 Neuroretinoangiomatosis
-
 [[400 Hz (E)]]
 [[950 Hz (E)]]
 [[72500 Hz (E)]]

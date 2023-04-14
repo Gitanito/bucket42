@@ -1,5 +1,4 @@
 Dubin-Johnson-Syndrom
-
 [[200 Hz (E)]]
 [[460 Hz (E)]]
 [[600 Hz (E)]]

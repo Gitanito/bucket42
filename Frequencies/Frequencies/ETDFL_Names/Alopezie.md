@@ -1,9 +1,7 @@
 > Haarausfall ist ein permanenter oder passagerer, diffuser oder herdförmiger verstärkter Haarverlust. Er kann altersabhängig physiologisch auftreten, aber auch vielfältige andere Ursachen haben. Im Normalfall fallen dem Menschen durchschnittlich zwischen 70 und 100 Kopfhaare pro Tag aus und werden ersetzt. Fachbegriffe für unerwünschten Haarausfall sind Effluvium (über die Norm gesteigerter Haarausfall) und **Alopezie** bzw. Alopecia für eine sichtbare Lichtung ohne oder mit abnorm schütterem Haupthaar (Hypotrichose).
 >
 > [Wikipedia](https://de.wikipedia.org/wiki/Haarausfall)
-
 Alopezie
-
 [[60 Hz (E)]]
 [[5070 Hz (E)]]
 [[95000 Hz (E)]]

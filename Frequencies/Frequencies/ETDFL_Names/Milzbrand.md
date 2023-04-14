@@ -1,5 +1,4 @@
 Milzbrand
-
 [[70 Hz (E)]]
 [[680 Hz (E)]]
 [[930 Hz (E)]]

@@ -1,5 +1,4 @@
 Samter-Syndrom
-
 [[180 Hz (E)]]
 [[570 Hz (E)]]
 [[1000 Hz (E)]]

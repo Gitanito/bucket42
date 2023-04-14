@@ -1,5 +1,4 @@
 Chromosome 16 anormal
-
 [[190 Hz (E)]]
 [[180 Hz (E)]]
 [[620 Hz (E)]]

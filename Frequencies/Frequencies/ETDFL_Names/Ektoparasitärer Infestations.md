@@ -1,5 +1,4 @@
 Ektoparasitärer Infestations
-
 [[110 Hz (E)]]
 [[1490 Hz (E)]]
 [[32570 Hz (E)]]

@@ -1,5 +1,4 @@
 Herpes-simplex-2 0,12
-
 [[550 Hz (E)]]
 [[950 Hz (E)]]
 [[291250 Hz (E)]]

@@ -1,5 +1,4 @@
 Adie-Syndrom
-
 [[170 Hz (E)]]
 [[460 Hz (E)]]
 [[10850 Hz (E)]]

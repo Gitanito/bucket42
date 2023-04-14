@@ -1,5 +1,4 @@
 Parasites Endamoeba gingivalis trophozoite
-
 [[810 Hz (E)]]
 [[1420 Hz (E)]]
 [[4320 Hz (E)]]

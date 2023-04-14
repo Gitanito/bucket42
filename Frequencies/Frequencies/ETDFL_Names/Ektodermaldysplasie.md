@@ -1,5 +1,4 @@
 Ektodermaldysplasie
-
 [[130 Hz (E)]]
 [[520 Hz (E)]]
 [[830 Hz (E)]]

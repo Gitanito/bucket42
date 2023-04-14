@@ -1,5 +1,4 @@
 Trigeminusneuralgie
-
 [[20 Hz (E)]]
 [[370 Hz (E)]]
 [[22500 Hz (E)]]

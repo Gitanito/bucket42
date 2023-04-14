@@ -1,6 +1,4 @@
-
 Canavan VBogaert-Bertrand
-
 [[20 Hz (E)]]
 [[970 Hz (E)]]
 [[5690 Hz (E)]]

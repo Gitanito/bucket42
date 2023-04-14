@@ -1,5 +1,4 @@
 Syringomyelia
-
 [[120 Hz (E)]]
 [[5120 Hz (E)]]
 [[7000 Hz (E)]]

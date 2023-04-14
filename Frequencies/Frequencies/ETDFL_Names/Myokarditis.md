@@ -1,5 +1,4 @@
 Myokarditis
-
 [[80 Hz (E)]]
 [[320 Hz (E)]]
 [[1730 Hz (E)]]

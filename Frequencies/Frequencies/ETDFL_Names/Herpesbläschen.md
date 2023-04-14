@@ -1,5 +1,4 @@
 Herpesbläschen
-
 [[110 Hz (E)]]
 [[550 Hz (E)]]
 [[1230 Hz (E)]]

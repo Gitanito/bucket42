@@ -1,5 +1,4 @@
 Überempfindlichkeit
-
 [[60 Hz (E)]]
 [[550 Hz (E)]]
 [[700 Hz (E)]]

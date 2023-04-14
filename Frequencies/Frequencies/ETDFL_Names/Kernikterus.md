@@ -1,5 +1,4 @@
 Kernikterus
-
 [[80 Hz (E)]]
 [[350 Hz (E)]]
 [[600 Hz (E)]]

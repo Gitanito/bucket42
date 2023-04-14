@@ -1,5 +1,4 @@
 Lungenkrebses
-
 [[230 Hz (E)]]
 [[410 Hz (E)]]
 [[720 Hz (E)]]

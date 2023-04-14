@@ -1,5 +1,4 @@
 Herpesviridae-Infektionen
-
 [[550 Hz (E)]]
 [[950 Hz (E)]]
 [[291250 Hz (E)]]

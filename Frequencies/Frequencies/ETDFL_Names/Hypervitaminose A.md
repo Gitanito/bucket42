@@ -1,5 +1,4 @@
 Hypervitaminose A
-
 [[110 Hz (E)]]
 [[570 Hz (E)]]
 [[950 Hz (E)]]

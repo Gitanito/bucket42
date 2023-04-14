@@ -1,5 +1,4 @@
 Sexuelle Dysfunktionen
-
 [[120 Hz (E)]]
 [[580 Hz (E)]]
 [[38000 Hz (E)]]

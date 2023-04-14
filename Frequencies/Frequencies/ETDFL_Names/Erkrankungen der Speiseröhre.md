@@ -1,5 +1,4 @@
 Erkrankungen der Speiseröhre
-
 [[220 Hz (E)]]
 [[650 Hz (E)]]
 [[830 Hz (E)]]

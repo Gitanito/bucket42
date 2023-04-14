@@ -1,5 +1,4 @@
 Nasal Diseases
-
 [[180 Hz (E)]]
 [[320 Hz (E)]]
 [[800 Hz (E)]]

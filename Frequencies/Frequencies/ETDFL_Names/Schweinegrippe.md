@@ -1,5 +1,4 @@
 Schweinegrippe
-
 [[20 Hz (E)]]
 [[450 Hz (E)]]
 [[650 Hz (E)]]

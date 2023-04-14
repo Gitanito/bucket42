@@ -1,5 +1,4 @@
 Endokriner Krebs
-
 [[140 Hz (E)]]
 [[460 Hz (E)]]
 [[750 Hz (E)]]

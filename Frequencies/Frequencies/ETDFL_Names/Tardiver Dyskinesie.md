@@ -1,5 +1,4 @@
 Tardiver Dyskinesie
-
 [[60 Hz (E)]]
 [[7000 Hz (E)]]
 [[22500 Hz (E)]]

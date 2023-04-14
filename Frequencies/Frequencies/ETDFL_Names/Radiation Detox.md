@@ -1,5 +1,4 @@
 Radiation Detox
-
 [[250 Hz (E)]]
 [[500 Hz (E)]]
 [[2750 Hz (E)]]

@@ -1,5 +1,4 @@
 Toxoplasma gondii-Infektion
-
 [[170 Hz (E)]]
 [[320 Hz (E)]]
 [[32500 Hz (E)]]

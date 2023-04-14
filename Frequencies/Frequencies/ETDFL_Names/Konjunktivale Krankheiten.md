@@ -1,5 +1,4 @@
 Konjunktivale Krankheiten
-
 [[170 Hz (E)]]
 [[520 Hz (E)]]
 [[600 Hz (E)]]

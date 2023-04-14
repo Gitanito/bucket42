@@ -1,5 +1,4 @@
 Hypersalivation
-
 [[240 Hz (E)]]
 [[900 Hz (E)]]
 [[9000 Hz (E)]]

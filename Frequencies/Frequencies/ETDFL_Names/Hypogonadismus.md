@@ -1,5 +1,4 @@
 Hypogonadismus
-
 [[100 Hz (E)]]
 [[500 Hz (E)]]
 [[780 Hz (E)]]

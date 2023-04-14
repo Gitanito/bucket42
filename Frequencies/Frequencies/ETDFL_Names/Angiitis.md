@@ -1,9 +1,7 @@
 > **Angiitis** ist der medizinische Fachausdruck für die Entzündung von  Blutgefäßen  oder Lymphgefäßen. Sie kann in jedem durchbluteten Organ, einschließlich der Haut, auftreten und dort über Störungen der Durchblutung zu unterschiedlichsten Funktionsstörungen führen.
 >
 > [Wikipedia](https://de.wikipedia.org/wiki/Angiitis)
-
 Angiitis
-
 [[80 Hz (E)]]
 [[220 Hz (E)]]
 [[730 Hz (E)]]

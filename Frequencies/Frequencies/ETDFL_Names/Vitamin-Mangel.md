@@ -1,5 +1,4 @@
 Vitamin-Mangel
-
 [[40 Hz (E)]]
 [[260 Hz (E)]]
 [[460 Hz (E)]]

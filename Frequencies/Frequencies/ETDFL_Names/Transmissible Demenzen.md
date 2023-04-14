@@ -1,5 +1,4 @@
 Transmissible Demenzen
-
 [[90 Hz (E)]]
 [[230 Hz (E)]]
 [[1950 Hz (E)]]

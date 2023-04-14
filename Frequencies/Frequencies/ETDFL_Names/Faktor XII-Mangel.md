@@ -1,5 +1,4 @@
 Faktor XII-Mangel
-
 [[50 Hz (E)]]
 [[120 Hz (E)]]
 [[600 Hz (E)]]

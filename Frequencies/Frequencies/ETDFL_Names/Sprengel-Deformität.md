@@ -1,5 +1,4 @@
 Sprengel-Deformität
-
 [[140 Hz (E)]]
 [[300 Hz (E)]]
 [[950 Hz (E)]]

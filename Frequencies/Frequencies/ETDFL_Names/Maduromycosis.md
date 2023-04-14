@@ -1,5 +1,4 @@
 Maduromycosis
-
 [[180 Hz (E)]]
 [[370 Hz (E)]]
 [[710 Hz (E)]]

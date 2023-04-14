@@ -1,5 +1,4 @@
 Serotonin-Syndrom
-
 [[70 Hz (E)]]
 [[780 Hz (E)]]
 [[1300 Hz (E)]]

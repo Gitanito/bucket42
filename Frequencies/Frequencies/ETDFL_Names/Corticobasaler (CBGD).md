@@ -1,5 +1,4 @@
 Corticobasaler (CBGD)
-
 [[120 Hz (E)]]
 [[270 Hz (E)]]
 [[7610 Hz (E)]]

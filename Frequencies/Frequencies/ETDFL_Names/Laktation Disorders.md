@@ -1,5 +1,4 @@
 Laktation Disorders
-
 [[190 Hz (E)]]
 [[300 Hz (E)]]
 [[620 Hz (E)]]

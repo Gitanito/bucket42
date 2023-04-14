@@ -1,9 +1,7 @@
 > Ein **Angiom** (auch Blutschwamm oder Aneurysma spongiosum genannt) ist eine tumorartige Gefäßneubildung oder entwicklungsbedingte Gefäßfehlbildung.
 >
 > [Wikipedia](https://de.wikipedia.org/wiki/Angiom)
-
 Angiom
-
 [[150 Hz (E)]]
 [[240 Hz (E)]]
 [[700 Hz (E)]]

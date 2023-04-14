@@ -1,5 +1,4 @@
 Fissur in Ano
-
 [[50 Hz (E)]]
 [[600 Hz (E)]]
 [[2250 Hz (E)]]

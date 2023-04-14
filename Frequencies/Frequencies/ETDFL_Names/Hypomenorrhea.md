@@ -1,5 +1,4 @@
 Hypomenorrhea
-
 [[60 Hz (E)]]
 [[530 Hz (E)]]
 [[49930 Hz (E)]]

@@ -1,5 +1,4 @@
 II HSAN Typ
-
 [[340 Hz (E)]]
 [[620 Hz (E)]]
 [[870 Hz (E)]]

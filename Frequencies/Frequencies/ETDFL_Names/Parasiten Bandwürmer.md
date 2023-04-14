@@ -1,5 +1,4 @@
 Parasiten Bandwürmer
-
 [[100 Hz (E)]]
 [[250 Hz (E)]]
 [[680 Hz (E)]]

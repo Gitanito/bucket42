@@ -1,7 +1,4 @@
-
-
 Bloom-Torre-Machacek S.
-
 [[70 Hz (E)]]
 [[490 Hz (E)]]
 [[32500 Hz (E)]]

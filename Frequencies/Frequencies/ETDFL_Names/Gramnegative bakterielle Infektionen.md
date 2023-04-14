@@ -1,5 +1,4 @@
 Gramnegative bakterielle Infektionen
-
 [[150 Hz (E)]]
 [[9230 Hz (E)]]
 [[42750 Hz (E)]]

@@ -1,5 +1,4 @@
 Larynx-Diseases
-
 [[30 Hz (E)]]
 [[240 Hz (E)]]
 [[620 Hz (E)]]

@@ -1,5 +1,4 @@
 Somatoforme Störungen
-
 [[70 Hz (E)]]
 [[570 Hz (E)]]
 [[23100 Hz (E)]]

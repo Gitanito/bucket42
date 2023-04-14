@@ -1,5 +1,4 @@
 Non-Hodgkin-Lymphom
-
 [[350 Hz (E)]]
 [[930 Hz (E)]]
 [[12330 Hz (E)]]

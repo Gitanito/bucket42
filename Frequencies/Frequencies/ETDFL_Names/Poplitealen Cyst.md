@@ -1,5 +1,4 @@
 Poplitealen Cyst
-
 [[170 Hz (E)]]
 [[350 Hz (E)]]
 [[8850 Hz (E)]]

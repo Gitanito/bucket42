@@ -1,5 +1,4 @@
 Optikus-Neuropathie
-
 [[40 Hz (E)]]
 [[180 Hz (E)]]
 [[700 Hz (E)]]

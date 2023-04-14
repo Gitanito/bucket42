@@ -1,5 +1,4 @@
 Long-QT-Syndrom
-
 [[30 Hz (E)]]
 [[500 Hz (E)]]
 [[850 Hz (E)]]

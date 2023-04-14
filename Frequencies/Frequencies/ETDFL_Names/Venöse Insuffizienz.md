@@ -1,5 +1,4 @@
 Venöse Insuffizienz
-
 [[120 Hz (E)]]
 [[650 Hz (E)]]
 [[13980 Hz (E)]]

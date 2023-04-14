@@ -1,5 +1,4 @@
 Kohlenhydrat-defizientes Glykoprotein-Syndrom
-
 [[180 Hz (E)]]
 [[600 Hz (E)]]
 [[20000 Hz (E)]]

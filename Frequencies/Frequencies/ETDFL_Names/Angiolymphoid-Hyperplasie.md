@@ -1,7 +1,4 @@
-
-
 Angiolymphoid-Hyperplasie
-
 [[100 Hz (E)]]
 [[1000 Hz (E)]]
 [[12330 Hz (E)]]

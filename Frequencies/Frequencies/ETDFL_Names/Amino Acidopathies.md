@@ -1,7 +1,4 @@
-
-
 Amino Acidopathies
-
 [[170 Hz (E)]]
 [[2500 Hz (E)]]
 [[20000 Hz (E)]]

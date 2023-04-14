@@ -1,5 +1,4 @@
 Pleuraerguss
-
 [[170 Hz (E)]]
 [[310 Hz (E)]]
 [[820 Hz (E)]]

@@ -1,9 +1,7 @@
 > **Tinnitus** aurium (deutsch „Klingeln der Ohren“, lateinisch tinnitus von tinnīre, „klingeln“, auris „Ohr“), kurz Tinnitus und auch Ohrensausen genannt, bezeichnet ein Symptom, bei dem der Betroffene Geräusche wahrnimmt, denen keine äußeren Schallquellen zugeordnet werden können. Eine alternative Bezeichnung ist Phantomgeräusch.
 >
 > [Wikipedia](https://de.wikipedia.org/wiki/Tinnitus)
-
 Tinnitus
-
 [[70 Hz (E)]]
 [[240 Hz (E)]]
 [[570 Hz (E)]]

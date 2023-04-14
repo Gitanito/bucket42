@@ -1,5 +1,4 @@
 Pulmonale Thromboembolie
-
 [[350 Hz (E)]]
 [[410 Hz (E)]]
 [[920 Hz (E)]]

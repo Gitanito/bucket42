@@ -1,5 +1,4 @@
 Trichomonas-Infektionen
-
 [[170 Hz (E)]]
 [[620 Hz (E)]]
 [[2750 Hz (E)]]

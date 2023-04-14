@@ -1,5 +1,4 @@
 Osteomalazie
-
 [[100 Hz (E)]]
 [[220 Hz (E)]]
 [[680 Hz (E)]]

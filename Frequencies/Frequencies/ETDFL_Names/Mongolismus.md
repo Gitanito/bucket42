@@ -1,5 +1,4 @@
 Mongolismus
-
 [[320 Hz (E)]]
 [[410 Hz (E)]]
 [[2080 Hz (E)]]

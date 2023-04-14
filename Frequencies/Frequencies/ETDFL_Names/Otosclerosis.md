@@ -1,5 +1,4 @@
 Otosclerosis
-
 [[80 Hz (E)]]
 [[250 Hz (E)]]
 [[900 Hz (E)]]

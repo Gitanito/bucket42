@@ -1,5 +1,4 @@
 Exomphalos-Beckwith
-
 [[110 Hz (E)]]
 [[550 Hz (E)]]
 [[47500 Hz (E)]]

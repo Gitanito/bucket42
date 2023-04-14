@@ -1,5 +1,4 @@
 Neuronaler Ceroid-Lipofuszinosen
-
 [[190 Hz (E)]]
 [[180 Hz (E)]]
 [[700 Hz (E)]]

@@ -1,5 +1,4 @@
 Parasiten turbatrix
-
 [[20 Hz (E)]]
 [[230 Hz (E)]]
 [[730 Hz (E)]]
@@ -13,7 +12,6 @@ Parasiten turbatrix
 [[240 Hz (E)]]
 [[700 Hz (E)]]
 [[970 Hz (E)]]
-[[2500 Hz (E)]]
 [[27500 Hz (E)]]
 [[45830 Hz (E)]]
 [[67500 Hz (E)]]

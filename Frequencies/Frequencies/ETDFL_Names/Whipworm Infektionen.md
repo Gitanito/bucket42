@@ -1,5 +1,4 @@
 Whipworm Infektionen
-
 [[30 Hz (E)]]
 [[520 Hz (E)]]
 [[570 Hz (E)]]

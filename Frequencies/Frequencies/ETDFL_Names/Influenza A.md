@@ -1,5 +1,4 @@
 Influenza A
-
 [[250 Hz (E)]]
 [[20 Hz (E)]]
 [[450 Hz (E)]]

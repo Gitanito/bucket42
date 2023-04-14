@@ -1,5 +1,4 @@
 Milzrupturen
-
 [[30 Hz (E)]]
 [[570 Hz (E)]]
 [[50000 Hz (E)]]

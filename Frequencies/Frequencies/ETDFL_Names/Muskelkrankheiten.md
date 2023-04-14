@@ -1,5 +1,4 @@
 Muskelkrankheiten
-
 [[130 Hz (E)]]
 [[400 Hz (E)]]
 [[5780 Hz (E)]]

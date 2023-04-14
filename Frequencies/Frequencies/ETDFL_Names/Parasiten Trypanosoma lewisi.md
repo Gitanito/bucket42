@@ -1,5 +1,4 @@
 Parasiten Trypanosoma lewisi
-
 [[570 Hz (E)]]
 [[850 Hz (E)]]
 [[5250 Hz (E)]]

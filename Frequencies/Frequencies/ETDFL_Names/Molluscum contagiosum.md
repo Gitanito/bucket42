@@ -1,5 +1,4 @@
 Molluscum contagiosum
-
 [[110 Hz (E)]]
 [[350 Hz (E)]]
 [[800 Hz (E)]]

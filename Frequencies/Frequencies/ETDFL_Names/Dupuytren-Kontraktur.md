@@ -1,5 +1,4 @@
 Dupuytren-Kontraktur
-
 [[70 Hz (E)]]
 [[820 Hz (E)]]
 [[5850 Hz (E)]]

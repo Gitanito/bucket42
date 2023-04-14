@@ -1,5 +1,4 @@
 Chromosome 5p- Syndrom
-
 [[160 Hz (E)]]
 [[550 Hz (E)]]
 [[9850 Hz (E)]]

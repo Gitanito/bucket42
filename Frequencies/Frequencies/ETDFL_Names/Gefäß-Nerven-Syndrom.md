@@ -1,5 +1,4 @@
 Gefäß-Nerven-Syndrom
-
 [[20 Hz (E)]]
 [[400 Hz (E)]]
 [[7250 Hz (E)]]

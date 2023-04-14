@@ -1,7 +1,4 @@
-
-
 Acromegalie
-
 [[80 Hz (E)]]
 [[420 Hz (E)]]
 [[770 Hz (E)]]

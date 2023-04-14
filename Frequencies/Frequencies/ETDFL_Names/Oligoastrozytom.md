@@ -1,5 +1,4 @@
 Oligoastrozytom
-
 [[20 Hz (E)]]
 [[570 Hz (E)]]
 [[9000 Hz (E)]]

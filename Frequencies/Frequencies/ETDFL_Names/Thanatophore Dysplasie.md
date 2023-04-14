@@ -1,5 +1,4 @@
 Thanatophore Dysplasie
-
 [[160 Hz (E)]]
 [[300 Hz (E)]]
 [[570 Hz (E)]]

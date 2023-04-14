@@ -1,5 +1,4 @@
 Fragiles X-Syndrom
-
 [[230 Hz (E)]]
 [[620 Hz (E)]]
 [[950 Hz (E)]]

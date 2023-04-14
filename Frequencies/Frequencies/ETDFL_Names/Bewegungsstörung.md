@@ -1,7 +1,4 @@
-
-
 Bewegungsstörung
-
 [[20 Hz (E)]]
 [[240 Hz (E)]]
 [[950 Hz (E)]]

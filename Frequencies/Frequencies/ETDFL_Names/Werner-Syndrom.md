@@ -1,5 +1,4 @@
 Werner-Syndrom
-
 [[20 Hz (E)]]
 [[250 Hz (E)]]
 [[970 Hz (E)]]

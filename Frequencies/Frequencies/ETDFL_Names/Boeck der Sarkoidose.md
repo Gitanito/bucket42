@@ -1,7 +1,4 @@
-
-
 Boeck der Sarkoidose
-
 [[70 Hz (E)]]
 [[500 Hz (E)]]
 [[37500 Hz (E)]]

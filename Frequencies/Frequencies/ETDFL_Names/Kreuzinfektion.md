@@ -1,5 +1,4 @@
 Kreuzinfektion
-
 [[60 Hz (E)]]
 [[230 Hz (E)]]
 [[730 Hz (E)]]

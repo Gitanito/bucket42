@@ -1,7 +1,4 @@
-
-
 Arnold-Chiari-Fehlbildungen
-
 [[60 Hz (E)]]
 [[830 Hz (E)]]
 [[2500 Hz (E)]]

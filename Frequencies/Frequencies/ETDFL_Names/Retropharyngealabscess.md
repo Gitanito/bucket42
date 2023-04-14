@@ -1,5 +1,4 @@
 Retropharyngealabscess
-
 [[120 Hz (E)]]
 [[250 Hz (E)]]
 [[620 Hz (E)]]

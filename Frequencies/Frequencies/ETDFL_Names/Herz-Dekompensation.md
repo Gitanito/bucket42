@@ -1,5 +1,4 @@
 Herz-Dekompensation
-
 [[140 Hz (E)]]
 [[220 Hz (E)]]
 [[750 Hz (E)]]

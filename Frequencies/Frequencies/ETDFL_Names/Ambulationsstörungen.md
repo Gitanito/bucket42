@@ -1,7 +1,4 @@
-
-
 Ambulationsstörungen
-
 [[250 Hz (E)]]
 [[620 Hz (E)]]
 [[10890 Hz (E)]]

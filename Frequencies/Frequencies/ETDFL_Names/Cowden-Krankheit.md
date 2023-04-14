@@ -1,5 +1,4 @@
 Cowden-Krankheit
-
 [[60 Hz (E)]]
 [[260 Hz (E)]]
 [[680 Hz (E)]]

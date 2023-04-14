@@ -1,5 +1,4 @@
 Cutis Elastica
-
 [[150 Hz (E)]]
 [[180 Hz (E)]]
 [[930 Hz (E)]]

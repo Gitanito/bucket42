@@ -1,5 +1,4 @@
 Spongiforme Enzephalopathie
-
 [[70 Hz (E)]]
 [[120 Hz (E)]]
 [[750 Hz (E)]]

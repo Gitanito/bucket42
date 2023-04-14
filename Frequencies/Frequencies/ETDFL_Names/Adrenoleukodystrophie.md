@@ -1,9 +1,7 @@
 > **Adrenoleukodystrophie** (X-ALD) oder Addison-Schilder-Syndrom ist eine vererbliche Stoffwechselkrankheit, die meist im Kindesalter auftritt und oft einen schnellen neurologischen Verfall mit sich bringt. Im Endstadium zeigt sich eine ausgeprägte Demenz, die schließlich zum Verlust der lebenswichtigen Körperfunktionen und damit zum Tode führt. Da die Erkrankung x-chromosomal-rezessiv vererbt wird, sind fast ausschließlich Männer betroffen. Frauen sind meist nur Überträgerinnen (Konduktor) der Genmutation. Es kommt nur sehr selten vor, dass beide X-Chromosomen einer Frau den Defekt tragen, was dann zur Ausprägung der Krankheitssymptome führt.
 >
 > [Wikipedia](https://de.wikipedia.org/wiki/Adrenoleukodystrophie)
-
 Adrenoleukodystrophie
-
 [[190 Hz (E)]]
 [[750 Hz (E)]]
 [[900 Hz (E)]]

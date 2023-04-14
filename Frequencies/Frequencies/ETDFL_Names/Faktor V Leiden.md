@@ -1,5 +1,4 @@
 Faktor V Leiden
-
 [[70 Hz (E)]]
 [[520 Hz (E)]]
 [[30000 Hz (E)]]

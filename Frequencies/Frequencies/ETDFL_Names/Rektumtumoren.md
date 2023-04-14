@@ -1,5 +1,4 @@
 Rektumtumoren
-
 [[460 Hz (E)]]
 [[27500 Hz (E)]]
 [[17500 Hz (E)]]

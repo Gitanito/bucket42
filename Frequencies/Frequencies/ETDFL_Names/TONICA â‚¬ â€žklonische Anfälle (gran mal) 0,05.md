@@ -1,5 +1,4 @@
 TONICA â‚¬ â€žklonische Anfälle (gran mal) 0,05
-
 [[120 Hz (E)]]
 [[220 Hz (E)]]
 [[580 Hz (E)]]

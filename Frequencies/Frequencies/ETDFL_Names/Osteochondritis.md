@@ -1,5 +1,4 @@
 Osteochondritis
-
 [[140 Hz (E)]]
 [[300 Hz (E)]]
 [[830 Hz (E)]]

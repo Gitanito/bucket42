@@ -1,5 +1,4 @@
 Chondromalazie
-
 [[60 Hz (E)]]
 [[520 Hz (E)]]
 [[27500 Hz (E)]]

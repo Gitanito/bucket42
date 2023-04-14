@@ -1,5 +1,4 @@
 Periodische Paralyse
-
 [[50 Hz (E)]]
 [[120 Hz (E)]]
 [[870 Hz (E)]]

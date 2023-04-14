@@ -1,5 +1,4 @@
 > Eine **Krise** (lateinisch Crisis) ist im Allgemeinen ein Höhepunkt oder Wendepunkt einer gefährlichen Konfliktentwicklung in einem natürlichen oder sozialen System, dem eine massive und problematische Funktionsstörung über einen gewissen Zeitraum vorausging und der eher kürzer als länger andauert.Die mit dem Wendepunkt verknüpfte Entscheidungssituation bietet in der Regel sowohl die Chance zur Lösung der Konflikte als auch die Möglichkeit zu deren Verschärfung. Dass es sich hierbei um einen Wendepunkt handelt, kann jedoch oft erst konstatiert werden, nachdem die Krise abgewendet oder beendet wurde. Nimmt die Entwicklung einen dauerhaft negativen Verlauf, so spricht man von einer Katastrophe (wörtlich in etwa „Niedergang“).
 >
 > Die Krise wird in den Wissenschaftsdisziplinen auf sehr unterschiedliche Weise thematisiert: zunächst in der Medizin und Psychologie, dann in der Politikwissenschaft, in den Militärwissenschaften, in den Wirtschaftswissenschaften und Soziologie (Soziologie als Krisenwissenschaft) wie auch in der Ökologie (etwa als Klimakrise) und Systemtheorie.
->
 > [Wikipedia](https://de.wikipedia.org/wiki/Krise)

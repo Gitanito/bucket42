@@ -1,5 +1,4 @@
 Darier-Weiß-Krankheit
-
 [[160 Hz (E)]]
 [[490 Hz (E)]]
 [[620 Hz (E)]]

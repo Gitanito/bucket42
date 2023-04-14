@@ -1,5 +1,4 @@
 Finger Agnosie
-
 [[120 Hz (E)]]
 [[5620 Hz (E)]]
 [[67500 Hz (E)]]

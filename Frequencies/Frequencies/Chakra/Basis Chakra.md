@@ -1,2 +1,1 @@
-
 Muladhara Chakra

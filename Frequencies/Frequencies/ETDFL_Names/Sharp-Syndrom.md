@@ -1,5 +1,4 @@
 Sharp-Syndrom
-
 [[80 Hz (E)]]
 [[260 Hz (E)]]
 [[57710 Hz (E)]]

@@ -1,5 +1,4 @@
 Psoriasis pustulosa von Handflächen und Fußsohlen
-
 [[50 Hz (E)]]
 [[550 Hz (E)]]
 [[1780 Hz (E)]]

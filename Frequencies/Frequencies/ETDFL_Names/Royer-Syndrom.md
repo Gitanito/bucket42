@@ -1,5 +1,4 @@
 Royer-Syndrom
-
 [[180 Hz (E)]]
 [[410 Hz (E)]]
 [[5670 Hz (E)]]

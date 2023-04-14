@@ -1,5 +1,4 @@
 Zentrales Nervensystem Cysticercosis
-
 [[130 Hz (E)]]
 [[520 Hz (E)]]
 [[730 Hz (E)]]

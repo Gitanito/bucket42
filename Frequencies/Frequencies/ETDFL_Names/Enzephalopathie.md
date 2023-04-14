@@ -1,5 +1,4 @@
 Enzephalopathie
-
 [[460 Hz (E)]]
 [[950 Hz (E)]]
 [[7500 Hz (E)]]
@@ -31,7 +30,6 @@ Enzephalopathie
 [[413910 Hz (E)]]
 [[692270 Hz (E)]]
 [[230 Hz (E)]]
-[[950 Hz (E)]]
 [[12850 Hz (E)]]
 [[25050 Hz (E)]]
 [[97500 Hz (E)]]

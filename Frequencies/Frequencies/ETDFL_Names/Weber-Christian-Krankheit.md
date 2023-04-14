@@ -1,5 +1,4 @@
 Weber-Christian-Krankheit
-
 [[80 Hz (E)]]
 [[490 Hz (E)]]
 [[650 Hz (E)]]

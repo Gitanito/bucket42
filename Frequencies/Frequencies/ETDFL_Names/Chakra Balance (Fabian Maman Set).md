@@ -1,5 +1,4 @@
 Chakra Balance (Fabian Maman Set)
-
 [[390 Hz (E)]]
 [[400 Hz (E)]]
 [[430 Hz (E)]]

@@ -1,5 +1,4 @@
 Insulinom
-
 [[40 Hz (E)]]
 [[320 Hz (E)]]
 [[700 Hz (E)]]

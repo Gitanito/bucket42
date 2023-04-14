@@ -1,7 +1,4 @@
-
-
 Arachnoidales Cerebel-Sarkom
-
 [[140 Hz (E)]]
 [[220 Hz (E)]]
 [[720 Hz (E)]]

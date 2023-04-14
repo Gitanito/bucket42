@@ -1,5 +1,4 @@
 Penile Krankheiten
-
 [[40 Hz (E)]]
 [[520 Hz (E)]]
 [[83620 Hz (E)]]

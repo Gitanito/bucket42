@@ -1,5 +1,4 @@
 Karotisarterie Narrowing
-
 [[20 Hz (E)]]
 [[240 Hz (E)]]
 [[2750 Hz (E)]]

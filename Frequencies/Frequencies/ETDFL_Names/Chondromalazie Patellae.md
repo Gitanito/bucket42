@@ -1,5 +1,4 @@
 Chondromalazie Patellae
-
 [[40 Hz (E)]]
 [[230 Hz (E)]]
 [[22500 Hz (E)]]

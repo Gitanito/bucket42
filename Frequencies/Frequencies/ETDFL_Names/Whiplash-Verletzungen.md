@@ -1,5 +1,4 @@
 Whiplash-Verletzungen
-
 [[120 Hz (E)]]
 [[250 Hz (E)]]
 [[730 Hz (E)]]

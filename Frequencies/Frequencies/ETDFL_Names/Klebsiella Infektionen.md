@@ -1,5 +1,4 @@
 Klebsiella Infektionen
-
 [[130 Hz (E)]]
 [[410 Hz (E)]]
 [[650 Hz (E)]]

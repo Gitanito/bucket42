@@ -1,5 +1,4 @@
 Parasiten Egel intestinaler
-
 [[70 Hz (E)]]
 [[320 Hz (E)]]
 [[970 Hz (E)]]

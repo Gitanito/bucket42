@@ -1,5 +1,4 @@
 Lichtempfindlichkeit
-
 [[500 Hz (E)]]
 [[570 Hz (E)]]
 [[870 Hz (E)]]

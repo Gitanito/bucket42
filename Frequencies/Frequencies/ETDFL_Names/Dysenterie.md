@@ -1,5 +1,4 @@
 Dysenterie
-
 [[230 Hz (E)]]
 [[970 Hz (E)]]
 [[5830 Hz (E)]]

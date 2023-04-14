@@ -1,5 +1,4 @@
 Klippel-Trenaunay Disease
-
 [[60 Hz (E)]]
 [[120 Hz (E)]]
 [[600 Hz (E)]]

@@ -1,5 +1,4 @@
 Prostata Ã¢ â‚¬ â€žInfection - Schmerz
-
 [[830 Hz (E)]]
 [[1870 Hz (E)]]
 [[5630 Hz (E)]]

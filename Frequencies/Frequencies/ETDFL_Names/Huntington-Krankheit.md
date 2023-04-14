@@ -1,5 +1,4 @@
 Huntington-Krankheit
-
 [[150 Hz (E)]]
 [[230 Hz (E)]]
 [[750 Hz (E)]]

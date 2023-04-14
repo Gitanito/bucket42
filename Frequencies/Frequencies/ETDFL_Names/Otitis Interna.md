@@ -1,5 +1,4 @@
 Otitis Interna
-
 [[30 Hz (E)]]
 [[180 Hz (E)]]
 [[650 Hz (E)]]

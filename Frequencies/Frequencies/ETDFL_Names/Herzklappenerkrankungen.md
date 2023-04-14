@@ -1,5 +1,4 @@
 Herzklappenerkrankungen
-
 [[110 Hz (E)]]
 [[220 Hz (E)]]
 [[730 Hz (E)]]

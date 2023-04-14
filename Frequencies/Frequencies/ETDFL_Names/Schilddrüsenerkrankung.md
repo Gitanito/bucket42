@@ -1,5 +1,4 @@
 Schilddrüsenerkrankung
-
 [[140 Hz (E)]]
 [[13930 Hz (E)]]
 [[32500 Hz (E)]]

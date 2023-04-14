@@ -1,5 +1,4 @@
 Tonsillitis
-
 [[250 Hz (E)]]
 [[870 Hz (E)]]
 [[5120 Hz (E)]]

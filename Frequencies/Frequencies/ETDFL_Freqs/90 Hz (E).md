@@ -1,5 +1,4 @@
 90 Hz (E)
-
 [[Airsickness]]
 [[Algodystrophie]]
 [[Apoplexie]]

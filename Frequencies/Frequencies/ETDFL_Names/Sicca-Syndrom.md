@@ -1,5 +1,4 @@
 Sicca-Syndrom
-
 [[130 Hz (E)]]
 [[400 Hz (E)]]
 [[57500 Hz (E)]]

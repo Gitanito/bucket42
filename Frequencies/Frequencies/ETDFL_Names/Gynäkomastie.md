@@ -1,5 +1,4 @@
 Gynäkomastie
-
 [[190 Hz (E)]]
 [[230 Hz (E)]]
 [[950 Hz (E)]]

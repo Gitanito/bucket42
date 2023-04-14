@@ -1,5 +1,4 @@
 Prosthodontics
-
 [[170 Hz (E)]]
 [[720 Hz (E)]]
 [[1650 Hz (E)]]

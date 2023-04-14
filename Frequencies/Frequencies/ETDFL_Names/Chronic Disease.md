@@ -1,5 +1,4 @@
 Chronic Disease
-
 [[40 Hz (E)]]
 [[230 Hz (E)]]
 [[730 Hz (E)]]

@@ -1,5 +1,4 @@
 Hörstörungen
-
 [[40 Hz (E)]]
 [[500 Hz (E)]]
 [[930 Hz (E)]]

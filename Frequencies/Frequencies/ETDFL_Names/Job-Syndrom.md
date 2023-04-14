@@ -1,5 +1,4 @@
 Job-Syndrom
-
 [[130 Hz (E)]]
 [[230 Hz (E)]]
 [[700 Hz (E)]]

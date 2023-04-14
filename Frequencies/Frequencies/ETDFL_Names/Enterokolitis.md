@@ -1,5 +1,4 @@
 Enterokolitis
-
 [[280 Hz (E)]]
 [[750 Hz (E)]]
 [[810 Hz (E)]]

@@ -1,5 +1,4 @@
 Psittakose
-
 [[40 Hz (E)]]
 [[230 Hz (E)]]
 [[1970 Hz (E)]]

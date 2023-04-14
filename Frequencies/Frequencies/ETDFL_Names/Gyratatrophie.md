@@ -1,5 +1,4 @@
 Gyratatrophie
-
 [[50 Hz (E)]]
 [[660 Hz (E)]]
 [[1320 Hz (E)]]

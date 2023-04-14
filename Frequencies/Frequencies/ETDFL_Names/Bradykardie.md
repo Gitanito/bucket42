@@ -3,7 +3,6 @@
 > [Wikipedia](https://de.wikipedia.org/wiki/Bradykardie)
 
 Bradykardie
-
 [[240 Hz (E)]]
 [[700 Hz (E)]]
 [[2750 Hz (E)]]

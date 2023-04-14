@@ -1,5 +1,4 @@
 Clostridium-Infektionen
-
 [[361000 Hz (E)]]
 [[362000 Hz (E)]]
 [[364550 Hz (E)]]

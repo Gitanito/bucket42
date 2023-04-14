@@ -1,5 +1,4 @@
 Trikuspidalatresie
-
 [[170 Hz (E)]]
 [[32500 Hz (E)]]
 [[52500 Hz (E)]]

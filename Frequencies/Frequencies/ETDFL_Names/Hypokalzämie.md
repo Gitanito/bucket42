@@ -1,5 +1,4 @@
 Hypokalzämie
-
 [[120 Hz (E)]]
 [[500 Hz (E)]]
 [[850 Hz (E)]]

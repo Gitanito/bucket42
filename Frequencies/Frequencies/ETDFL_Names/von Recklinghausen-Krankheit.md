@@ -1,5 +1,4 @@
 von Recklinghausen-Krankheit
-
 [[170 Hz (E)]]
 [[350 Hz (E)]]
 [[830 Hz (E)]]

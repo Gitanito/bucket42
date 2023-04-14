@@ -1,5 +1,4 @@
 Faktor VIII-Mangel
-
 [[50 Hz (E)]]
 [[460 Hz (E)]]
 [[3800 Hz (E)]]

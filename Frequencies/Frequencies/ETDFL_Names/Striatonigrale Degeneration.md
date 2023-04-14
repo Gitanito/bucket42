@@ -1,5 +1,4 @@
 Striatonigrale Degeneration
-
 [[140 Hz (E)]]
 [[250 Hz (E)]]
 [[870 Hz (E)]]

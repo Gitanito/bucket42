@@ -1,7 +1,4 @@
-
-
 Arthropodenkrankheiten
-
 [[60 Hz (E)]]
 [[850 Hz (E)]]
 [[7800 Hz (E)]]

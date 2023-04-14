@@ -1,5 +1,4 @@
 Hirnerkrankungen (General) 0,04
-
 [[250 Hz (E)]]
 [[460 Hz (E)]]
 [[320 Hz (E)]]

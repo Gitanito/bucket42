@@ -1,5 +1,4 @@
 Polymyositis
-
 [[70 Hz (E)]]
 [[930 Hz (E)]]
 [[2950 Hz (E)]]

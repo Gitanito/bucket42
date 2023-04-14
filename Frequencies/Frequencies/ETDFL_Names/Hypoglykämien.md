@@ -1,5 +1,4 @@
 Hypoglykämien
-
 [[150 Hz (E)]]
 [[350 Hz (E)]]
 [[620 Hz (E)]]

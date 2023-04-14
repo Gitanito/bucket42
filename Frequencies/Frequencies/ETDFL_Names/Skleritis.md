@@ -1,5 +1,4 @@
 Skleritis
-
 [[80 Hz (E)]]
 [[350 Hz (E)]]
 [[5190 Hz (E)]]

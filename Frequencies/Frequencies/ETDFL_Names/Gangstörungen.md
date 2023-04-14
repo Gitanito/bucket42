@@ -1,5 +1,4 @@
 Gangstörungen
-
 [[130 Hz (E)]]
 [[250 Hz (E)]]
 [[620 Hz (E)]]

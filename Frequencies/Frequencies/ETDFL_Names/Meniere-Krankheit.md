@@ -1,5 +1,4 @@
 Meniere-Krankheit
-
 [[110 Hz (E)]]
 [[350 Hz (E)]]
 [[12800 Hz (E)]]

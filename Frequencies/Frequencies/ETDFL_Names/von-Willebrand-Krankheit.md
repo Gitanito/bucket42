@@ -1,5 +1,4 @@
 von-Willebrand-Krankheit
-
 [[20 Hz (E)]]
 [[250 Hz (E)]]
 [[7500 Hz (E)]]

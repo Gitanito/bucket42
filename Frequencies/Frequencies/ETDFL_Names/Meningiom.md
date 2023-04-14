@@ -1,5 +1,4 @@
 Meningiom
-
 [[100 Hz (E)]]
 [[410 Hz (E)]]
 [[870 Hz (E)]]

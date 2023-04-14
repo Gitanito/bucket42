@@ -1,7 +1,4 @@
-
-
 Bartonella-Infektionen
-
 [[70 Hz (E)]]
 [[120 Hz (E)]]
 [[1630 Hz (E)]]

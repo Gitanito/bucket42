@@ -1,7 +1,4 @@
-
-
 Asymmetrisches Septal Hyper. 0,13
-
 [[260 Hz (E)]]
 [[20000 Hz (E)]]
 [[125000 Hz (E)]]

@@ -1,5 +1,4 @@
 Neuroblastom
-
 [[40 Hz (E)]]
 [[180 Hz (E)]]
 [[780 Hz (E)]]
@@ -13,7 +12,6 @@ Neuroblastom
 [[550 Hz (E)]]
 [[680 Hz (E)]]
 [[870 Hz (E)]]
-[[7500 Hz (E)]]
 [[13610 Hz (E)]]
 [[40000 Hz (E)]]
 [[90000 Hz (E)]]

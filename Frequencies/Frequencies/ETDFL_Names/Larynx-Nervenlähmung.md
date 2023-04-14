@@ -1,5 +1,4 @@
 Larynx-Nervenlähmung
-
 [[80 Hz (E)]]
 [[120 Hz (E)]]
 [[15330 Hz (E)]]

@@ -1,5 +1,4 @@
 HIV assoziierter Infektionen
-
 [[150 Hz (E)]]
 [[180 Hz (E)]]
 [[870 Hz (E)]]

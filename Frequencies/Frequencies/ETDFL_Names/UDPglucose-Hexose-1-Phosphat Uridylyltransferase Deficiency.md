@@ -1,5 +1,4 @@
 UDPglucose-Hexose-1-Phosphat Uridylyltransferase Deficiency
-
 [[110 Hz (E)]]
 [[240 Hz (E)]]
 [[650 Hz (E)]]

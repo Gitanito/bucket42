@@ -1,5 +1,4 @@
 Hämoperikard
-
 [[190 Hz (E)]]
 [[500 Hz (E)]]
 [[570 Hz (E)]]

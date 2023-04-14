@@ -1,11 +1,7 @@
 > Das **Erdmagnetfeld** durchdringt und umgibt die Erde. Es besteht aus drei Komponenten. Der Hauptanteil des Magnetfelds (ca. 95 %) wird vom Geodynamo im flüssigen äußeren Erdkern hervorgerufen. Dieser Feldanteil unterliegt langsamen zeitlichen Veränderungen. Über große Zeiträume (zehntausende Jahre) hat er an der Erdoberfläche annähernd die Feldform eines magnetischen Dipols, leicht schräg zur Erdachse entwickelt. Dazwischen erfolgen geomagnetische Exkursionen auf einer Zeitskala von Jahrhunderten, die zu „Polsprüngen“ führen können.
 >
 > Ein zweiter Anteil des Erdmagnetfeldes entsteht durch elektrische Ströme in der Ionosphäre und der Magnetosphäre. Er trägt an der Erdoberfläche etwa 1 bis 3 % zum Gesamtfeld bei. Die Ursachen sind einerseits Winde in der Ionosphäre (sq-Effekt), die  einen Tages- und Jahresgang zeigen, andererseits Wirkungen des magnetisierten Plasmas des Sonnenwindes, der jenseits der Magnetosphäre herrscht; er staucht sie auf der Tagseite und zieht sie auf der Nachtseite zu einem langen Schlauch. Die so erzeugten magnetischen Stürme führen zu schnellen Schwankungen, die Polarlichter, aber auch Störungen des Funkverkehrs bewirken.
->
 > Der dritte Anteil variiert räumlich stark, denn er zeigt höhere Multipol-Komponenten (siehe Geomagnetik). Zeitlich verändert er sich nur in geologischen Zeiträumen. Er besteht in dem Feld der remanenten Magnetisierung in Teilen der oberen Erdkruste z. B. Erzlagerstätten. Diese „Störfelder“ können lokal mehrere Prozent des Gesamtfeldes ausmachen.
->
 > Die Magnetisierung ferromagnetischer Einschlüsse in den ältesten irdischen Mineralen, den Zirkonen, zeigt, dass das Erdmagnetfeld bereits vor über vier Milliarden Jahren bestand. In einigen geologischen Formationen lassen sich aus der örtlichen Magnetisierung zahlreiche Polsprünge ablesen (Magnetostratigraphie).
->
 > Die Stärke und Richtung des Erdmagnetfeldes variieren mit dem Ort der Messung. Die zur Erdoberfläche horizontale Komponente beträgt in Deutschland etwa 20 Mikrotesla, die vertikale etwa 44 Mikrotesla. Ausgenutzt wird das Erdmagnetfeld z. B. in der geophysikalischen Prospektion und in der Navigation.
->
 > [Wikipedia](https://de.wikipedia.org/wiki/Erdmagnetfeld)

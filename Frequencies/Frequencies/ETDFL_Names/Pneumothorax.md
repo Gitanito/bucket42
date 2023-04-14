@@ -1,5 +1,4 @@
 Pneumothorax
-
 [[240 Hz (E)]]
 [[700 Hz (E)]]
 [[7500 Hz (E)]]

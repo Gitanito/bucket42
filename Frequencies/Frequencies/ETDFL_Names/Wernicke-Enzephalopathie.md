@@ -1,5 +1,4 @@
 Wernicke-Enzephalopathie
-
 [[230 Hz (E)]]
 [[950 Hz (E)]]
 [[12850 Hz (E)]]

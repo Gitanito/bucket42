@@ -1,5 +1,4 @@
 Maggot Infestations
-
 [[130 Hz (E)]]
 [[490 Hz (E)]]
 [[600 Hz (E)]]

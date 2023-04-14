@@ -1,5 +1,4 @@
 Ulnaris Kompression
-
 [[70 Hz (E)]]
 [[320 Hz (E)]]
 [[600 Hz (E)]]

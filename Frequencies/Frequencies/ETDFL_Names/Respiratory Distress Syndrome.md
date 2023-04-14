@@ -1,5 +1,4 @@
 Respiratory Distress Syndrome
-
 [[70 Hz (E)]]
 [[550 Hz (E)]]
 [[650 Hz (E)]]

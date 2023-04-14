@@ -1,5 +1,4 @@
 Night Terror
-
 [[130 Hz (E)]]
 [[400 Hz (E)]]
 [[620 Hz (E)]]

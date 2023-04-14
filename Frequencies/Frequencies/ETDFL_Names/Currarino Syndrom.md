@@ -1,5 +1,4 @@
 Currarino Syndrom
-
 [[70 Hz (E)]]
 [[370 Hz (E)]]
 [[850 Hz (E)]]

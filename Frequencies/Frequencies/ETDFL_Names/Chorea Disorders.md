@@ -1,5 +1,4 @@
 Chorea Disorders
-
 [[80 Hz (E)]]
 [[550 Hz (E)]]
 [[50000 Hz (E)]]

@@ -1,5 +1,4 @@
 Immunodeficiency AIS
-
 [[150 Hz (E)]]
 [[5580 Hz (E)]]
 [[22000 Hz (E)]]

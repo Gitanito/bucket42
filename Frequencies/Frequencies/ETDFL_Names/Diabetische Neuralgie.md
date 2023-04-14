@@ -1,5 +1,4 @@
 Diabetische Neuralgie
-
 [[160 Hz (E)]]
 [[410 Hz (E)]]
 [[770 Hz (E)]]

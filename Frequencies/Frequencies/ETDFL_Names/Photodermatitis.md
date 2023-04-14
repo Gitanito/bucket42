@@ -1,5 +1,4 @@
 Photodermatitis
-
 [[130 Hz (E)]]
 [[240 Hz (E)]]
 [[1700 Hz (E)]]

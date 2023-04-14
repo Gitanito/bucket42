@@ -1,5 +1,4 @@
 Toxocariasis
-
 [[180 Hz (E)]]
 [[240 Hz (E)]]
 [[10530 Hz (E)]]

@@ -1,5 +1,4 @@
 Vogelkrankheiten
-
 [[170 Hz (E)]]
 [[830 Hz (E)]]
 [[25750 Hz (E)]]

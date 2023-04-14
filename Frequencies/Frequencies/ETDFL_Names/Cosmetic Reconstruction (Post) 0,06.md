@@ -1,5 +1,4 @@
 Cosmetic Reconstruction (Post) 0,06
-
 [[230 Hz (E)]]
 [[730 Hz (E)]]
 [[870 Hz (E)]]

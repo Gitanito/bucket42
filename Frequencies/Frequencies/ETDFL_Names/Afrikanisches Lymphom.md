@@ -1,5 +1,4 @@
 Afrikanisches Lymphom
-
 [[50 Hz (E)]]
 [[570 Hz (E)]]
 [[850 Hz (E)]]

@@ -1,5 +1,4 @@
 Magen-Darm-Krebs
-
 [[30 Hz (E)]]
 [[2120 Hz (E)]]
 [[930 Hz (E)]]

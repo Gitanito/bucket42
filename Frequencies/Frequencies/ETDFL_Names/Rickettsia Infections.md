@@ -1,5 +1,4 @@
 Rickettsia Infections
-
 [[130 Hz (E)]]
 [[180 Hz (E)]]
 [[830 Hz (E)]]

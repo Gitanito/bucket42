@@ -1,5 +1,4 @@
 Moersch-Woltmann-Syndrom
-
 [[140 Hz (E)]]
 [[950 Hz (E)]]
 [[5750 Hz (E)]]

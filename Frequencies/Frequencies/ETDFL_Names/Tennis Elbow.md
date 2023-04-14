@@ -1,5 +1,4 @@
 Tennis Elbow
-
 [[80 Hz (E)]]
 [[7250 Hz (E)]]
 [[50000 Hz (E)]]

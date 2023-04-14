@@ -1,5 +1,4 @@
 Spasmodischer Torticollis
-
 [[180 Hz (E)]]
 [[300 Hz (E)]]
 [[5500 Hz (E)]]

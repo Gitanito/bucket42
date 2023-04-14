@@ -1,7 +1,4 @@
-
-
 Aortitis-Syndrom
-
 [[100 Hz (E)]]
 [[350 Hz (E)]]
 [[52500 Hz (E)]]

@@ -1,5 +1,4 @@
 Sao Paulo Typhus
-
 [[70 Hz (E)]]
 [[520 Hz (E)]]
 [[7570 Hz (E)]]

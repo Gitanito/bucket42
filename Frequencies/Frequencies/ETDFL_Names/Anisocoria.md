@@ -1,7 +1,4 @@
-
-
 Anisocoria
-
 [[120 Hz (E)]]
 [[570 Hz (E)]]
 [[830 Hz (E)]]

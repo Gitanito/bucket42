@@ -1,5 +1,4 @@
 Infrarot-RD V2 Haarwachstum
-
 [[170 Hz (E)]]
 [[180 Hz (E)]]
 [[830 Hz (E)]]

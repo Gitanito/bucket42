@@ -1,5 +1,4 @@
 Pleuritis
-
 [[80 Hz (E)]]
 [[410 Hz (E)]]
 [[1470 Hz (E)]]

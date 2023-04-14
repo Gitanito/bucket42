@@ -1,7 +1,4 @@
-
-
 Brill-Krankheit
-
 [[370 Hz (E)]]
 [[750 Hz (E)]]
 [[23900 Hz (E)]]

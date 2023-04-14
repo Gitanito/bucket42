@@ -1,5 +1,4 @@
 Phobische Störungen
-
 [[20 Hz (E)]]
 [[230 Hz (E)]]
 [[650 Hz (E)]]

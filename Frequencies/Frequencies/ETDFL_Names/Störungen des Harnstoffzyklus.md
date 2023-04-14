@@ -1,5 +1,4 @@
 Störungen des Harnstoffzyklus
-
 [[70 Hz (E)]]
 [[460 Hz (E)]]
 [[680 Hz (E)]]

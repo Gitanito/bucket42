@@ -1,5 +1,4 @@
 Fettsäureoxidation Disorders
-
 [[20 Hz (E)]]
 [[520 Hz (E)]]
 [[730 Hz (E)]]

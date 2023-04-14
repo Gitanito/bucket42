@@ -1,5 +1,14 @@
-Cellulitis
+> Zellulitis bezeichnet:
+>
+> 
+>
+> Zellulitis (Entzündung), eine Entzündung des Unterhautzellgewebes, meist im Gesicht von Kindern
+>
+> umgangssprachliche, jedoch medizinisch falsche Bezeichnung für Cellulite oder Orangenhaut
+>
+> [Wikipedia](https://de.wikipedia.org/wiki/Zellulitis)
 
+Cellulitis
 [[30 Hz (E)]]
 [[500 Hz (E)]]
 [[850 Hz (E)]]
@@ -10,9 +19,6 @@ Cellulitis
 [[250000 Hz (E)]]
 [[425750 Hz (E)]]
 [[625000 Hz (E)]]
-[[30 Hz (E)]]
-[[500 Hz (E)]]
-[[850 Hz (E)]]
 [[5250 Hz (E)]]
 [[77250 Hz (E)]]
 [[112780 Hz (E)]]

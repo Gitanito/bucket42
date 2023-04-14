@@ -1,5 +1,4 @@
 Tierkrankheiten
-
 [[50 Hz (E)]]
 [[570 Hz (E)]]
 [[870 Hz (E)]]

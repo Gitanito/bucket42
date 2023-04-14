@@ -1,5 +1,4 @@
 Krypto Pneumonia
-
 [[30 Hz (E)]]
 [[250 Hz (E)]]
 [[10530 Hz (E)]]

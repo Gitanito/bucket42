@@ -1,5 +1,4 @@
 Kiefergelenkserkrankungen
-
 [[160 Hz (E)]]
 [[350 Hz (E)]]
 [[47500 Hz (E)]]

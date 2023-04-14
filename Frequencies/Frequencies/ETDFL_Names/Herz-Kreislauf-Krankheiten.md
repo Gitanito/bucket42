@@ -1,5 +1,4 @@
 Herz-Kreislauf-Krankheiten
-
 [[130 Hz (E)]]
 [[5690 Hz (E)]]
 [[7250 Hz (E)]]

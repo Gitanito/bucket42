@@ -1,5 +1,4 @@
 Facial Hemiatrophie
-
 [[100 Hz (E)]]
 [[500 Hz (E)]]
 [[700 Hz (E)]]

@@ -1,5 +1,4 @@
 Waardenburg-Syndrom
-
 [[40 Hz (E)]]
 [[520 Hz (E)]]
 [[5090 Hz (E)]]

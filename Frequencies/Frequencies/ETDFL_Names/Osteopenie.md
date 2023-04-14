@@ -1,5 +1,4 @@
 Osteopenie
-
 [[230 Hz (E)]]
 [[600 Hz (E)]]
 [[12000 Hz (E)]]

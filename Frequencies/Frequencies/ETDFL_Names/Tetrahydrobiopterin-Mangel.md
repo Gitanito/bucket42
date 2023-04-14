@@ -1,5 +1,4 @@
 Tetrahydrobiopterin-Mangel
-
 [[120 Hz (E)]]
 [[2500 Hz (E)]]
 [[15750 Hz (E)]]

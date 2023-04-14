@@ -1,5 +1,4 @@
 Ochoa-Syndrom
-
 [[190 Hz (E)]]
 [[370 Hz (E)]]
 [[910 Hz (E)]]

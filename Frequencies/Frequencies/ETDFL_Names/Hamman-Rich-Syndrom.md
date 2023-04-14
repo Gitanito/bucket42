@@ -1,5 +1,4 @@
 Hamman-Rich-Syndrom
-
 [[650 Hz (E)]]
 [[410 Hz (E)]]
 [[620 Hz (E)]]

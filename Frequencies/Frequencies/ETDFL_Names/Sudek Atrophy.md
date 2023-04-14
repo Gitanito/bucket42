@@ -1,5 +1,4 @@
 Sudek Atrophy
-
 [[90 Hz (E)]]
 [[520 Hz (E)]]
 [[650 Hz (E)]]

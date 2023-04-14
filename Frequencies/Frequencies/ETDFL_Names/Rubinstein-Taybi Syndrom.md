@@ -1,5 +1,4 @@
 Rubinstein-Taybi Syndrom
-
 [[70 Hz (E)]]
 [[150 Hz (E)]]
 [[3500 Hz (E)]]

@@ -1,5 +1,4 @@
 Hirsutismus
-
 [[110 Hz (E)]]
 [[490 Hz (E)]]
 [[780 Hz (E)]]

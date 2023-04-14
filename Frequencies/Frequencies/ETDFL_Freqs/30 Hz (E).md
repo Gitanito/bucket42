@@ -1,5 +1,4 @@
 30 Hz (E)
-
 [[Adenomyose]]
 [[Ahornsiruperkrankung]]
 [[Albers-Schönberg-Erkrankung]]
@@ -78,7 +77,6 @@
 [[Hypothermie]]
 [[Ichthyosis]]
 [[Ileitis]]
-[[Ileitis]]
 [[Ileocolitis]]
 [[Inokulation Lymphoreticulosis]]
 [[Kanner-Syndrom]]
@@ -117,7 +115,6 @@
 [[Milzrupturen]]
 [[Naevus]]
 [[Nelson-Syndrom]]
-[[Nephritis]]
 [[Nephritis]]
 [[Netherton Syndrom]]
 [[Neuralrohrdefekte]]

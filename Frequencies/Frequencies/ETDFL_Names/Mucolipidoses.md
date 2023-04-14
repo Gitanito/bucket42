@@ -1,5 +1,4 @@
 Mucolipidoses
-
 [[200 Hz (E)]]
 [[250 Hz (E)]]
 [[650 Hz (E)]]

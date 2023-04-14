@@ -1,5 +1,4 @@
 Parasiten follikulären Räude
-
 [[520 Hz (E)]]
 [[680 Hz (E)]]
 [[970 Hz (E)]]

@@ -1,5 +1,4 @@
 Hughe-Syndrom
-
 [[50 Hz (E)]]
 [[730 Hz (E)]]
 [[1550 Hz (E)]]

@@ -1,5 +1,4 @@
 Tyrosine Transaminase-Mangel
-
 [[50 Hz (E)]]
 [[350 Hz (E)]]
 [[680 Hz (E)]]

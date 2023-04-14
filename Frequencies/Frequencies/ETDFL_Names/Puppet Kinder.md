@@ -1,5 +1,4 @@
 Puppet Kinder
-
 [[200 Hz (E)]]
 [[7500 Hz (E)]]
 [[27500 Hz (E)]]

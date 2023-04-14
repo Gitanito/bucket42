@@ -1,5 +1,4 @@
 Ebstein abweichung
-
 [[260 Hz (E)]]
 [[650 Hz (E)]]
 [[11090 Hz (E)]]
