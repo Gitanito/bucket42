@@ -1,4 +1,14 @@
 #Krankheiten/Dysnomia
+> **Dysnomia** bezeichnet:
+>
+> 
+>
+> in der griechischen Mythologie Dämon der Ungesetzlichkeit und Tochter der Eris: siehe Dysnomia (Mythologie)
+>
+> den Mond des Zwergplaneten Eris: siehe Dysnomia (Mond)Dysnomie oder im Englischen Dysnomia bezeichnet Wortfindungsstörungen oder die, durch diese charakterisierte, amnestische bzw. anomische Aphasie.
+>
+> [Wikipedia](https://de.wikipedia.org/wiki/Dysnomia)
+
 Dysnomia
 [[520 Hz (E)]]
 [[800 Hz (E)]]

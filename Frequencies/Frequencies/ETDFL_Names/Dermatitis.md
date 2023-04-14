@@ -1,4 +1,38 @@
 #Krankheiten/Dermatitis
+> Als **Dermatitis** wird eine entzündliche Reaktion der Haut bezeichnet, die vornehmlich die Dermis (Lederhaut) erfasst. Ein Synonym dafür ist über weite Bereiche der Begriff „Ekzem“. Allerdings handelt es sich bei der Dermatitis um eine breiter gefasste Definition und ein Ekzem müsste genauer als Dermatitis ekzematosa benannt werden.
+>
+> So werden in der Klassifikation ICD-10 in der Gruppe L20–L30 („Dermatitis und Ekzem“) die beiden Namen austauschbar verwendet, und dementsprechend hier zunächst jene Erkrankungen aufgeführt, die nicht dort hinein fallen, da deren wesentliche Merkmale einer Einordnung in andere Krankheitsgruppen besser entsprechen und eben nicht eine Intoleranzreaktion wie bei der Ekzemgruppe im Vordergrund steht:
+>
+> 
+>
+> Badedermatitis (Zerkariendermatitis), eine Infektion durch Zerkarien verschiedener Saugwürmer
+>
+> Dermatitis herpetiformis Duhring, eine chronisch-rezidivierende Autoimmunerkrankung mit subepidermaler Blasenbildung
+>
+> Exfoliative Dermatitis:
+>
+> Dermatitis exfoliativa Wilson (vgl. Erythrodermie), erstmals 1861 von William James Wilson (1809–1884) beschrieben
+>
+> Dermatitis exfoliativa neonatorum (Staphylococcal scalded skin syndrome, SSSS), staphylogenes Lyell-Syndrom
+>
+> Dermatitis factitia, eine artifizielle Störung (ICD-10: L98.1) aufgrund selbstschädigender Handlungen
+>
+> Dermatitis ulcerosa, eine Vaskulitis mit einzelstehenden Ulzerationen
+>
+> Periorale Dermatitis (Syn. Rosacea-artige Dermatitis), eine Entzündung der Gesichtshaut durch übermäßige Verwendung von Kosmetika
+>
+> Stauungsdermatitis, in der Regel zu Beginn durch venöse Zirkulationsstörungen wie die Chronisch-venöse Insuffizienz bedingt
+>
+> Krankheiten der Haut durch Strahleneinwirkung, wie
+>
+> Lichtdermatosen aufgrund übermäßiger Sonnenexposition (so handelt es sich beim Sonnenbrand um eine Dermatitis solaris), photoallergischer oder photoxischer Reaktionen (z. B. Berloque-Dermatitis, Wiesengräserdermatitis, Buchweizenkrankheit) oder die
+>
+> Strahlendermatitis (Radiodermatitis) als Folge ionisierender Strahlung
+>
+> XerodermieEnde des 19. Jahrhunderts wurden durch Heinrich Auspitz die angioneurotische Dermatosen von den einfachen entzündlichen Hautveränderungen abgetrennt.
+>
+> [Wikipedia](https://de.wikipedia.org/wiki/Dermatitis)
+
 Dermatitis
 [[30 Hz (E)]]
 [[410 Hz (E)]]

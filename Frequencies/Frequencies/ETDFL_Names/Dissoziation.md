@@ -1,4 +1,18 @@
 #Krankheiten/Dissoziation
+> **Dissoziation** (von lat. dissociare ‚trennen‘, ‚scheiden‘) steht für:
+>
+> 
+>
+> Dissoziation (Chemie), Zerfall eines Moleküls
+>
+> Dissoziation (Entwicklungstheorie), Forderung nach einer temporären Herauslösung von Entwicklungsländern aus dem Weltmarkt
+>
+> Dissoziation (Neuropsychologie), Trennung neuronaler Prozesse
+>
+> Dissoziation (Psychologie), Auseinanderfallen für gewöhnlich zusammenhängender psychischer FunktionenSiehe auch:
+>
+> [Wikipedia](https://de.wikipedia.org/wiki/Dissoziation)
+
 Dissoziation
 [[110 Hz (E)]]
 [[490 Hz (E)]]

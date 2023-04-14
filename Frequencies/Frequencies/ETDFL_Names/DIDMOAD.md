@@ -1,4 +1,8 @@
 #Krankheiten/DIDMOAD
+> Das **DIDMOAD**-Syndrom (oder Wolfram-Syndrom) ist eine mitochondriale und ausgeprägte Form des Diabetes mellitus.
+>
+> [Wikipedia](https://de.wikipedia.org/wiki/DIDMOAD-Syndrom)
+
 DIDMOAD
 [[200 Hz (E)]]
 [[460 Hz (E)]]

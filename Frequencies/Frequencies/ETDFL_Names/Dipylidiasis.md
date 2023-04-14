@@ -1,4 +1,8 @@
 #Krankheiten/Dipylidiasis
+> **Dipylidiasis** oder auch Dipylidiose ist eine Erkrankung, die durch den Gurkenkernbandwurm (Dipylidium caninum) des Hundes verursacht wird. Sie kann auf den Menschen übertragen werden und ist daher eine Zoonose.
+>
+> [Wikipedia](https://de.wikipedia.org/wiki/Dipylidiasis)
+
 Dipylidiasis
 [[240 Hz (E)]]
 [[700 Hz (E)]]

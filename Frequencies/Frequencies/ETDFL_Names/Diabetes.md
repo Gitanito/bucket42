@@ -1,4 +1,26 @@
 #Krankheiten/Diabetes
+> **Diabetes** (griechisch διαβήτης  ‚Harnruhr‘) steht für:
+>
+> 
+>
+> Diabetes mellitus, eine Gruppe von Stoffwechselerkrankungen des Menschen
+>
+> Feliner Diabetes mellitus, Stoffwechselerkrankung der Hauskatze
+>
+> Caniner Diabetes mellitus, Stoffwechselerkrankung des Haushundes
+>
+> Diabetes insipidus, Erkrankung, die durch vermehrte Urinausscheidung charakterisiert ist
+>
+> Diabetes insipidus renalis, die Tubuluszellen reagieren nicht auf Vasopressin
+>
+> Diabetes renalis, Störung der Nierenfunktion mit konstanter Glucoseausscheidung
+>
+> Amindiabetes, vermehrtes Ausscheiden von Aminen über die Niere; siehe Cystinose
+>
+> Phosphatdiabetes, vererbte Störung der PhosphatrückresorptionSiehe auch:
+>
+> [Wikipedia](https://de.wikipedia.org/wiki/Diabetes)
+
 Diabetes
 [[150 Hz (E)]]
 [[890 Hz (E)]]

@@ -1,4 +1,10 @@
 #Krankheiten/Depression
+> Die **Depression** (lateinisch depressio von lateinisch deprimere  ‚niederdrücken‘) ist eine psychische Störung. Als Erkrankung wird sie von der Psychiatrie den Affektiven Störungen zugeordnet. Typische Symptome einer Depression sind gedrückte Stimmung, häufiges Grübeln, das Gefühl von Hoffnungslosigkeit und ein verminderter Antrieb. Häufig verloren gehen Freude und Lustempfinden, Selbstwertgefühl, und das Interesse am Leben insgesamt. Leistungsfähigkeit und Lebensqualität sind dadurch oft beeinträchtigt. Die Krankheitsursachen sind bislang wenig verstanden, vor allem der biologische Pathomechanismus (ursächlich wirkende Kausalkette von Körpervorgängen). Psychotherapie und Antidepressiva gehören zum standardmäßigen medizinischen Behandlungsangebot.
+>
+> Die klinische Depression unterscheidet sich von Trauer oder einer vorübergehend niedergeschlagenen, deprimierten Stimmungslage (Dysphorie) durch eine unverhältnismäßig lange Dauer und Schwere. Als ernste, oft folgenreiche Erkrankung entzieht sie sich der Beeinflussung durch Willenskraft oder Selbstdisziplin des Betroffenen. Die Depression stellt eine wesentliche Ursache für Arbeitsunfähigkeit oder Frühverrentung dar und ist der Auslöser für rund die Hälfte der jährlichen Selbsttötungen in Deutschland.
+>
+> [Wikipedia](https://de.wikipedia.org/wiki/Depression)
+
 Depression
 [[40 Hz (E)]]
 [[370 Hz (E)]]

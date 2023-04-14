@@ -1,4 +1,5 @@
 #Körperteile/Hirnstrom
+#Körperteile/Hirn
 > Die Elektroenzephalografie (EEG; von altgriechisch ἐγκέφαλος enképhalos, deutsch ‚Gehirn‘, γράφειν gráphein, deutsch ‚schreiben‘) ist eine Methode der medizinischen Diagnostik und der neurologischen Forschung zur Messung der summierten elektrischen Aktivität des Gehirns durch Aufzeichnung der Spannungsschwankungen an der Kopfoberfläche. Das Elektroenzephalogramm (ebenfalls EEG abgekürzt) ist die grafische Darstellung dieser Schwankungen. Das EEG ist neben der Elektroneurografie (ENG) und der Elektromyografie (EMG) eine standardmäßige Untersuchungsmethode in der Neurologie.
 >
 > [Wikipedia](https://de.wikipedia.org/wiki/Elektroenzephalografie)

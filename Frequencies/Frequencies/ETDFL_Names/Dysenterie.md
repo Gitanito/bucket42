@@ -1,4 +1,10 @@
 #Krankheiten/Dysenterie
+> Als **Dysenterie** (veraltete Bezeichnung Dissenterie; lateinisch Dysenteria) oder Ruhr (von mittelhochdeutsch ruor „Bauchfluss, Ruhr, verschiedene Formen der Dysenterie“, von althochdeutsch ruora „Strömung, schnelles Fließen; schnelle Bewegung, schnell fließendes Wasser“ und verwandt mit den Gewässernamen „Ruhr“ und „Rur“) wird in engerem Sinn eine entzündliche Erkrankung des Dickdarms bei einer bakteriellen Infektion bezeichnet (Bakterienruhr). In weiterem Sinn wird unter Dysenterie auch eine Durchfallerkrankung verstanden, die bei Infektionen mit Parasiten wie Amöben (Amöbenruhr) oder Lamblien auftritt oder bei Virusinfektionen.
+>
+> Mit dem veralteten Ausdruck Dysenteria catarrhalis wird dagegen die Zöliakie-Erkrankung bei Gluten-Unverträglichkeit bezeichnet.
+>
+> [Wikipedia](https://de.wikipedia.org/wiki/Dysenterie)
+
 Dysenterie
 [[230 Hz (E)]]
 [[970 Hz (E)]]

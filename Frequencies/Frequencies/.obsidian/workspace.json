@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "46a266e39bba2eee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ETDFL_Freqs/140 Hz (E).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "918ae737a7b12ec5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Frequenzen/149,74 Hz.md",
+                "file": "ETDFL_Names/Dystrophia brevicollis Congenita.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ETDFL_Freqs/140 Hz (E).md",
+                "file": "ETDFL_Names/Dystrophia brevicollis Congenita.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ETDFL_Freqs/140 Hz (E).md",
+                "file": "ETDFL_Names/Dystrophia brevicollis Congenita.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ETDFL_Freqs/140 Hz (E).md"
+                "file": "ETDFL_Names/Dystrophia brevicollis Congenita.md"
               }
             }
           },
@@ -168,34 +155,34 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "fc54787aa5159c7a",
+  "active": "918ae737a7b12ec5",
   "lastOpenFiles": [
-    "ETDFL_Names/Depressive Disorder.md",
-    "ETDFL_Freqs/465690 Hz (E).md",
-    "ETDFL_Names/Depression.md",
-    "Krankheiten/Depression.md",
-    "Chakra/„Unbekanntes“ Chakra.md",
-    "Frequenzen/144,72 Hz.md",
-    "Frequenzen/597 Hz.md",
-    "Metalle/Kupfer.md",
-    "ETDFL_Names/Allergie.md",
-    "Krankheiten/Allergie.md",
-    "Bachblüten/Wildapfel.md",
-    "Düfte/Lavendel.md",
-    "Düfte/Lorbeer.md",
-    "Düfte/Magnolie.md",
-    "Düfte/Mimose.md",
-    "Düfte/Muskatellersalbei.md",
-    "Düfte/Myrte.md",
-    "Düfte/Nana-Minze.md",
-    "Düfte/Nelke.md",
-    "Düfte/Neroli.md",
-    "Düfte/Olibanum.md",
-    "Düfte/Patchouli.md",
-    "Düfte/römische Kamille.md",
-    "Düfte/Rose.md",
-    "Düfte/Rosengeranie.md",
-    "Düfte/Salbei.md",
+    "ETDFL_Names/Dystonie.md",
+    "ETDFL_Names/Dysthymie.md",
+    "ETDFL_Names/Dyspraxia.md",
+    "ETDFL_Names/Dysplasien.md",
+    "ETDFL_Names/Dysphasia.md",
+    "ETDFL_Names/Dysphagie.md",
+    "ETDFL_Names/Dyspepsie.md",
+    "ETDFL_Names/Dyspareunie.md",
+    "ETDFL_Names/Dysostosis craniofacialis.md",
+    "ETDFL_Names/Dysostose.md",
+    "ETDFL_Names/Dysnomia.md",
+    "ETDFL_Names/Dysmyelopoietic Syndromes.md",
+    "ETDFL_Names/Dysmorphophobia.md",
+    "ETDFL_Names/Dysmetrie.md",
+    "ETDFL_Names/Dyslipoproteinämien.md",
+    "ETDFL_Names/Dyslipidämien.md",
+    "ETDFL_Names/Dyskinesie Syndromes.md",
+    "ETDFL_Names/Dyshidrosis.md",
+    "ETDFL_Names/Dysfunktion des Gehirns.md",
+    "ETDFL_Names/Dysenterie.md",
+    "ETDFL_Names/Dysembryoma.md",
+    "ETDFL_Names/Dyscalculia.md",
+    "ETDFL_Names/Dysautonomie.md",
+    "ETDFL_Names/Dupuytren-Kontraktur.md",
+    "ETDFL_Names/Duncan-Syndrom.md",
+    "ETDFL_Names/Duhring.md",
     "Bachblüten",
     "Düfte",
     "Effekte",

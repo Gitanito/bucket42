@@ -1,4 +1,5 @@
 #Körperteile/Blutkreislauf
+#Körperteile/Blut
 > Der **Blutkreislauf**, auch Kreislauf, Blutzirkulation und kurz Zirkulation, Blutgefäßsystem oder Blutbahn genannt, ist das Strömungssystem des Blutes im Körper des Menschen und der meisten Tiere, ausgehend vom Herzen zu den Organen und wieder zurück zum Herzen. Herz und Blutkreislauf zusammen bilden das Herz-Kreislauf-System (kardiovaskuläres System). Seine Aufgabe ist die Versorgung der Organe mit Nährstoffen, Signalstoffen und anderem, die Entsorgung von Stoffwechselprodukten und bei den meisten Gruppen mit Kreislauf auch die Versorgung mit Sauerstoff und der Abtransport von Kohlendioxid. Je nach Tiergruppe können weitere Aufgaben hinzu kommen.
 >
 > Blutgefäße, die Blut zum Herzen leiten, werden als Venen (Blutadern) bezeichnet; diejenigen Gefäße, die Blut vom Herzen zu den Organen leiten, nennt man Arterien (Schlagadern). Diese Bezeichnungen gelten unabhängig davon, ob das Blut im jeweiligen Gefäß sauerstoffarm oder sauerstoffreich ist.

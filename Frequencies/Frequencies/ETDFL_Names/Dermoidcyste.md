@@ -1,4 +1,10 @@
 #Krankheiten/Dermoidcyste
+> Die Dermoidzyste (früher auch Dermoidgeschwulst, im Volksmund auch fälschlich Zwilling oder Zwillingsgewächs) ist ein Hohlraum, der von Oberhautgewebe ausgekleidet ist. Die Dermoidzyste gehört zu den Teratomen.
+>
+> Eine Dermoidzyste ist ein Keimzelltumor, ein reifes Teratom, das aus vollkommen verschiedenen Gewebearten besteht. Daher kann es innerhalb der Zyste zur Ausbildung von Gewebestrukturen wie Muskulatur, Knorpel, kleinen Knochen, Haaren und auch völlig ausgebildeten Zähnen kommen.
+>
+> [Wikipedia](https://de.wikipedia.org/wiki/Dermoidzyste)
+
 Dermoidcyste
 [[50 Hz (E)]]
 [[490 Hz (E)]]

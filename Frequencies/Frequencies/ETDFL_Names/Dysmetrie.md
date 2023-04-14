@@ -1,4 +1,8 @@
 #Krankheiten/Dysmetrie
+> **Dysmetrie** bezeichnet eine Störung von willkürlichen Bewegungsabläufen, vor allem bei Schädigung des Kleinhirns und zugeordneter Leitungsbahnen im Rahmen der zerebellären Ataxie. Aufgrund einer falschen Programmierung von Bewegungsabläufen kommt es zu Bewegungen, die entweder zu kurz angesetzt (Hypometrie) oder über das Ziel hinausschießend (Hypermetrie) durchgeführt werden (Danebengreifen).
+>
+> [Wikipedia](https://de.wikipedia.org/wiki/Dysmetrie)
+
 Dysmetrie
 [[100 Hz (E)]]
 [[830 Hz (E)]]

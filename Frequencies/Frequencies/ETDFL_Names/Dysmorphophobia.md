@@ -1,4 +1,8 @@
 #Krankheiten/Dysmorphophobia
+> Hypochondrie (von altgriechisch ὑποχόνδρια hypochóndria für den „Bereich unter den Rippen“) ist zum einen nach dem internationalen Klassifikationssystem ICD-10 eine psychische Störung aus der Untergruppe der somatoformen Störungen. Die Betroffenen beschäftigen sich beharrlich mit der Möglichkeit, an einer oder mehreren schweren und fortschreitenden körperlichen Krankheiten zu leiden, ohne dass sich dafür ein angemessener, objektiver Befund finden lässt. Zudem ist Hypochondrie ein Symptom, das auch im Rahmen anderer psychischer Störungen auftreten kann.
+>
+> [Wikipedia](https://de.wikipedia.org/wiki/Hypochondrie)
+
 Dysmorphophobia
 [[70 Hz (E)]]
 [[570 Hz (E)]]

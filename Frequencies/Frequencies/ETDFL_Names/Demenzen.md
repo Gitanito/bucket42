@@ -1,4 +1,5 @@
 #Krankheiten/Demenzen
+#Krankheiten/Demenz
 Demenzen
 [[90 Hz (E)]]
 [[230 Hz (E)]]

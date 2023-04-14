@@ -1,4 +1,5 @@
 #Körperteile/Dickdarm
+#Körperteile/Darm
 > Der **Dickdarm** (lateinisch Intestinum crassum) ist der letzte Teil des Verdauungstraktes der Wirbeltiere und damit auch des Menschen. Er ist der Teil des Darms, der nach dem Dünndarm beginnt und an der Kloake oder am Anus endet. Seine wesentliche Funktion liegt im Transport und in der Speicherung des Stuhls. Der Dickdarm entzieht dem Stuhl Wasser und dickt ihn dadurch ein. Durch seine Fähigkeit, Natrium-, Kalium- und Chlorid-Ionen aufzunehmen oder auszuscheiden, ist er an der Feinregulation des Elektrolyt-Haushaltes beteiligt. Die Darmflora ist vor allem im Dickdarm zu finden. Erkrankungen des Dickdarms sind beim Menschen häufig: Die akute Appendizitis ist ein gängiges Krankheitsbild der Chirurgie, und Darmkrebs gehört zu den häufigsten Krebsdiagnosen.
 >
 > [Wikipedia](https://de.wikipedia.org/wiki/Dickdarm)
