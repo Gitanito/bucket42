@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ETDFL_Names/Polychondritis.md",
+                "file": "ETDFL_Names/Z/Zähneknirschen Disorder.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ETDFL_Names/Polychondritis.md",
+                "file": "ETDFL_Names/Z/Zähneknirschen Disorder.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ETDFL_Names/Polychondritis.md",
+                "file": "ETDFL_Names/Z/Zähneknirschen Disorder.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ETDFL_Names/Polychondritis.md"
+                "file": "ETDFL_Names/Z/Zähneknirschen Disorder.md"
               }
             }
           },
@@ -154,43 +154,43 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "918ae737a7b12ec5",
+  "active": "78b3be083240fb99",
   "lastOpenFiles": [
-    "ETDFL_Names/Polyarthritis.md",
-    "ETDFL_Names/Polyarteriitis nodosa.md",
-    "ETDFL_Names/Poliomyelitis.md",
-    "ETDFL_Names/Poliodystrophia Cerebri.md",
-    "ETDFL_Names/Polio.md",
-    "ETDFL_Names/Polen-Syndrom.md",
-    "ETDFL_Names/Poikilodermie von Civatte.md",
-    "ETDFL_Names/POEMS-Syndrom.md",
-    "ETDFL_Names/Pocken.md",
-    "ETDFL_Names/Pneumothorax.md",
-    "ETDFL_Names/Pneumonitis.md",
-    "ETDFL_Names/Pneumonia.md",
-    "ETDFL_Names/Pneumokokken-Infektionen.md",
-    "ETDFL_Names/Plexus brachialis NeuroP..md",
-    "ETDFL_Names/Plexus brachialis Neuritis.md",
-    "ETDFL_Names/Plexus brachialis.md",
-    "ETDFL_Names/Pleuritis.md",
-    "ETDFL_Names/Pleurakrankheiten.md",
-    "ETDFL_Names/Pleuraerguss.md",
-    "ETDFL_Names/Plegia.md",
-    "ETDFL_Names/Plattenepithelkarzinome.md",
-    "ETDFL_Names/Platelet-Speicher-Pool-Mangel.md",
-    "ETDFL_Names/Plasmodium-Infektionen.md",
-    "ETDFL_Names/Plague.md",
-    "ETDFL_Names/Plagiocephaly.md",
-    "ETDFL_Names/Pityriasis versicolor.md",
-    "ETDFL_Names/O",
-    "ETDFL_Names/N",
-    "ETDFL_Names/M",
-    "ETDFL_Names/L",
-    "ETDFL_Names/K",
-    "ETDFL_Names/J",
-    "ETDFL_Names/I",
-    "ETDFL_Names/H",
-    "ETDFL_Names/G",
-    "ETDFL_Names/F"
+    "ETDFL_Names/Z/Zysten in der Brust.md",
+    "ETDFL_Names/Z",
+    "ETDFL_Names/Z/Zyklothyme Störung.md",
+    "ETDFL_Names/Z/Zyklothyme Persönlichkeit.md",
+    "ETDFL_Names/Z/Zygomykose.md",
+    "ETDFL_Names/Z/Zyanose.md",
+    "ETDFL_Names/Z/Zwerchfellhernie.md",
+    "ETDFL_Names/Z/Zweite Hirnnervenkrankheiten.md",
+    "ETDFL_Names/Z/Zwangsstörung.md",
+    "ETDFL_Names/Z/Zunge.md",
+    "ETDFL_Names/Z/Zoster.md",
+    "ETDFL_Names/Z/Zoonosen.md",
+    "ETDFL_Names/Z/Zona.md",
+    "ETDFL_Names/Z/Zollinger-Ellison-Syndrom.md",
+    "ETDFL_Names/Z/Zöliakie.md",
+    "ETDFL_Names/Z/Zirrhose.md",
+    "ETDFL_Names/Z/Ziliaren Dyskinesie.md",
+    "ETDFL_Names/Z/Zervikobrachialneuralgie.md",
+    "ETDFL_Names/Z/Zervikale Dystonie.md",
+    "ETDFL_Names/Z/Zerkariendermatitis.md",
+    "ETDFL_Names/Z/Zerebrovaskulären Störungen.md",
+    "ETDFL_Names/Z/Zerebrovaskuläre Moyamoya.md",
+    "ETDFL_Names/Z/Zerebrovaskuläre Apoplexie.md",
+    "ETDFL_Names/Z/Zerebralsklerose.md",
+    "ETDFL_Names/Z/Zerebralparese.md",
+    "ETDFL_Names/Z/Zerebrale Ischämie.md",
+    "ETDFL_Names/Z/Zerebrale Anoxie.md",
+    "ETDFL_Names/Y",
+    "ETDFL_Names/X",
+    "ETDFL_Names/W",
+    "ETDFL_Names/V",
+    "ETDFL_Names/U",
+    "ETDFL_Names/Ü",
+    "ETDFL_Names/T",
+    "ETDFL_Names/S",
+    "ETDFL_Names/R"
   ]
 }

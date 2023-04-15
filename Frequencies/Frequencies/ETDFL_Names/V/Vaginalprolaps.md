@@ -1,0 +1,17 @@
+#Krankheiten/Vaginalprolaps
+
+> Der Scheidenvorfall (lateinisch Prolapsus vaginae, **Vaginalprolaps**; griechisch Kolpoptose) ist eine krankhafte Ausstülpung der Vagina nach außen. Eine Senkung der Vagina ohne Durchtritt durch die Vaginalöffnung wird als Scheidensenkung (Descensus vaginae, Vaginalsenkung) bezeichnet.
+>
+> [Wikipedia](https://de.wikipedia.org/wiki/Scheidenvorfall)
+
+Vaginalprolaps
+[[100 Hz (E)]]
+[[420 Hz (E)]]
+[[930 Hz (E)]]
+[[5250 Hz (E)]]
+[[35000 Hz (E)]]
+[[83000 Hz (E)]]
+[[178000 Hz (E)]]
+[[519340 Hz (E)]]
+[[689930 Hz (E)]]
+[[931000 Hz (E)]]

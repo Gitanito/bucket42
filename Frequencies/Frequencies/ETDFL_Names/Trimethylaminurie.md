@@ -1,2 +1,0 @@
-#Krankheiten/Trimethylaminurie
-Trimethylaminurie

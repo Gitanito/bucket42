@@ -1,0 +1,17 @@
+#Krankheiten/Recruitment
+
+> Das **Recruitment** oder auch Rekruitment, deutsch „Lautheitsausgleich“, ist ein psychoakustisches Phänomen bei Erkrankungen im Innenohr.
+>
+> [Wikipedia](https://de.wikipedia.org/wiki/Recruitment)
+
+Recruitment
+[[40 Hz (E)]]
+[[240 Hz (E)]]
+[[570 Hz (E)]]
+[[17500 Hz (E)]]
+[[86530 Hz (E)]]
+[[132750 Hz (E)]]
+[[342510 Hz (E)]]
+[[721200 Hz (E)]]
+[[823100 Hz (E)]]
+[[919340 Hz (E)]]
