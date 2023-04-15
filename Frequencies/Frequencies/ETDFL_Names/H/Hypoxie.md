@@ -1,0 +1,32 @@
+#Krankheiten/Hypoxie
+> **Hypoxie** (Sauerstoffmangel) ist ein Fachbegriff in:
+>
+> 
+>
+> der Medizin, siehe Hypoxie (Medizin)
+>
+> der Ökologie, siehe Hypoxie (Ökologie)Siehe auch:
+>
+> [Wikipedia](https://de.wikipedia.org/wiki/Hypoxie)
+
+Hypoxie
+[[80 Hz (E)]]
+[[850 Hz (E)]]
+[[2500 Hz (E)]]
+[[43000 Hz (E)]]
+[[97230 Hz (E)]]
+[[175000 Hz (E)]]
+[[388000 Hz (E)]]
+[[791000 Hz (E)]]
+[[853000 Hz (E)]]
+[[972100 Hz (E)]]
+[[150 Hz (E)]]
+[[180 Hz (E)]]
+[[800 Hz (E)]]
+[[5500 Hz (E)]]
+[[17500 Hz (E)]]
+[[32500 Hz (E)]]
+[[151270 Hz (E)]]
+[[257460 Hz (E)]]
+[[413910 Hz (E)]]
+[[692270 Hz (E)]]

@@ -1,4 +1,9 @@
 #Krankheiten/Pemphigus
+
+> **Pemphigus** (zu altgriechisch πέμφιξ pemphix Blase, Ödem auf der Haut) ist ein Gattungsbegriff für eine Gruppe Hautkrankheiten, die zu den Blasenbildenden Autoimmundermatosen gehören und als Pemphiguskrankheiten zu den Bullösen Dermatosen gerechnet werden.
+>
+> [Wikipedia](https://de.wikipedia.org/wiki/Pemphigus)
+
 Pemphigus
 [[30 Hz (E)]]
 [[120 Hz (E)]]

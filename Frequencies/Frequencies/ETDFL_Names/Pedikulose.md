@@ -1,4 +1,9 @@
 #Krankheiten/Pedikulose
+
+> Die **Pedikulose** (Pediculosis), veraltet auch Läusesucht genannt, ist eine Parasitose, bei der es zu einem Befall der Haut durch Kopf-, Filz- oder Kleiderläuse kommt. Sie ist übertragbar und wegen des durch die Bisse und/oder die Ausscheidungen der Läuse hervorgerufenen Juckreizes unangenehm, aber ansonsten ungefährlich. Allerdings können durch Läuse Krankheitserreger übertragen werden.
+>
+> [Wikipedia](https://de.wikipedia.org/wiki/Pedikulose)
+
 Pedikulose
 [[30 Hz (E)]]
 [[410 Hz (E)]]

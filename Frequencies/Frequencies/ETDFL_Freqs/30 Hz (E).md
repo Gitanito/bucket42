@@ -139,7 +139,6 @@
 [[Pemphigus]]
 [[Perikardtamponade]]
 [[Phlebotomus Fieber]]
-[[Phlebotomusfieber]]
 [[Phlegmone]]
 [[Pompe-Krankheit]]
 [[Postcommissurotomy Syndrom]]

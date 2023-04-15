@@ -1,4 +1,9 @@
 #Krankheiten/Peyronie-Krankheit
+
+> Die Induratio penis plastica (IPP, lateinisch induratio  ‚Verhärtung‘, auch **Peyronie-Krankheit**) ist eine Bindegewebserkrankung des Penis, bei der es zur Bildung fibrinöser Plaques am Penisschaft kommt. Die IPP wird auch zu den oberflächlichen Fibromatosen gezählt. Narbengewebe, insbesondere im Bereich der Tunica albuginea, der bindegewebigen Hülle um die Schwellkörper, kann zu abnormaler Penisverkrümmung mit Einziehungen, Schmerzen bei der Erektion, bis zur erektilen Dysfunktion mit psychischen Problemen führen. Eine Reihe von konservativen und operativen Therapiemöglichkeiten steht zur Verfügung.
+>
+> [Wikipedia](https://de.wikipedia.org/wiki/Induratio%20penis%20plastica)
+
 Peyronie-Krankheit
 [[40 Hz (E)]]
 [[570 Hz (E)]]

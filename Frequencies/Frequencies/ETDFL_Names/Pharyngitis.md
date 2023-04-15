@@ -1,4 +1,9 @@
 #Krankheiten/Pharyngitis
+
+> Eine Rachenentzündung (griech.-anat. **Pharyngitis**; aus altgr. φάρυγξ phárynx + -ίτις -itis), auch Rachenkatarrh genannt, ist eine Entzündung der Rachenschleimhaut. Sie tritt im Rahmen entzündlicher Prozesse im Hals-Rachen-Bereich in Erscheinung.
+>
+> [Wikipedia](https://de.wikipedia.org/wiki/Pharyngitis)
+
 Pharyngitis
 [[140 Hz (E)]]
 [[220 Hz (E)]]

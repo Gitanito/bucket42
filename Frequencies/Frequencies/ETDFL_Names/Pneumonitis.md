@@ -1,4 +1,9 @@
 #Krankheiten/Pneumonitis
+
+> Der Begriff **Pneumonitis** steht für eine entzündliche Veränderung der Lunge. Im Gegensatz zur Pneumonie sind die Auslöser jedoch keine Mikroorganismen wie Bakterien oder Pilze, sondern in der Regel pneumotoxisch wirkende Einflüsse wie hochenergetische Strahlung oder Medikamente, also Noxen physikalischer und chemischer Art.
+>
+> [Wikipedia](https://de.wikipedia.org/wiki/Pneumonitis)
+
 Pneumonitis
 [[50 Hz (E)]]
 [[350 Hz (E)]]

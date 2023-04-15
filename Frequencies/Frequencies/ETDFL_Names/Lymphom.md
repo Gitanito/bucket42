@@ -1,2 +1,0 @@
-#Krankheiten/Lymphom
-Lymphom

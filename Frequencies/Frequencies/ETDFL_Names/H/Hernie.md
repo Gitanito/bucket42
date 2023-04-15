@@ -1,0 +1,48 @@
+#Krankheiten/Hernie
+> Eine **Hernie** (Aussprache: [ˈhɛʁni̯ə]; von lateinisch hernia, ‚Bruch‘, von griechisch ἔρνος érnos „Knospe, Spross“), deutsch Bruch, ist der Austritt („Durchbruch“, „Durchbrechen“) von Eingeweiden aus der Bauchhöhle (Eingeweidebruch, Bauchbruch, Bauchwandbruch, Hernia ventralis, älter auch Leibbruch) durch eine angeborene oder erworbene Lücke (genannt Bruchpforte) in den tragenden oder begrenzenden Gewebeschichten.
+>
+> Verlassen Gehirnteile ihre normale Lage, spricht man von einer Hirnhernie. Die Vorwölbung von Muskulatur durch einen Riss der bedeckenden Faszie bezeichnet man als Muskelhernie.
+>
+> [Wikipedia](https://de.wikipedia.org/wiki/Hernie)
+
+Hernie
+[[140 Hz (E)]]
+[[220 Hz (E)]]
+[[730 Hz (E)]]
+[[13390 Hz (E)]]
+[[5580 Hz (E)]]
+[[150000 Hz (E)]]
+[[475850 Hz (E)]]
+[[736420 Hz (E)]]
+[[819340 Hz (E)]]
+[[915700 Hz (E)]]
+[[40 Hz (E)]]
+[[260 Hz (E)]]
+[[680 Hz (E)]]
+[[2250 Hz (E)]]
+[[10890 Hz (E)]]
+[[145220 Hz (E)]]
+[[267500 Hz (E)]]
+[[425910 Hz (E)]]
+[[657770 Hz (E)]]
+[[825220 Hz (E)]]
+[[300 Hz (E)]]
+[[620 Hz (E)]]
+[[51250 Hz (E)]]
+[[117250 Hz (E)]]
+[[245560 Hz (E)]]
+[[367500 Hz (E)]]
+[[625220 Hz (E)]]
+[[816720 Hz (E)]]
+[[905000 Hz (E)]]
+[[600 Hz (E)]]
+[[2500 Hz (E)]]
+[[130 Hz (E)]]
+[[570 Hz (E)]]
+[[780 Hz (E)]]
+[[970 Hz (E)]]
+[[87500 Hz (E)]]
+[[323980 Hz (E)]]
+[[665700 Hz (E)]]
+[[822700 Hz (E)]]
+[[906070 Hz (E)]]

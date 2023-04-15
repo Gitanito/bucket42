@@ -1,4 +1,9 @@
 #Krankheiten/Peutz-Jeghers-Syndrom
+
+> Das **Peutz-Jeghers-Syndrom**, auch Hutchinson-Weber-Peutz-Syndrom oder Peutz-Jeghers-Hamartose, ist eine seltene, genetisch bedingte und autosomal-dominant vererbte gastrointestinale Polypose mit charakteristischen Pigmentflecken an Haut und Schleimhäuten. Das Syndrom kann auch spontan auftreten. Die Erkrankung ist nach den Internisten Jan Peutz und Harold Jeghers benannt. Eine frühe Darstellung 1896 geht auf J. Hutchinson zurück.
+>
+> [Wikipedia](https://de.wikipedia.org/wiki/Peutz-Jeghers-Syndrom)
+
 Peutz-Jeghers-Syndrom
 [[140 Hz (E)]]
 [[550 Hz (E)]]

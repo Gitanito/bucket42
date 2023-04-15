@@ -1,4 +1,15 @@
 #Krankheiten/Paget-Krankheit
+
+> Morbus Paget (**Paget-Krankheit**) bezeichnet:
+>
+> 
+>
+> Osteodystrophia deformans, eine Erkrankung des Skelettsystems
+>
+> Paget-Karzinom, eine Krebsform
+>
+> [Wikipedia](https://de.wikipedia.org/wiki/Morbus%20Paget)
+
 Paget-Krankheit
 [[80 Hz (E)]]
 [[490 Hz (E)]]

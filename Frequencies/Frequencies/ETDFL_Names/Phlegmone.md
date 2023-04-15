@@ -1,4 +1,11 @@
 #Krankheiten/Phlegmone
+
+> Die **Phlegmone** (altgriechisch φλεγμονή phlegmoné, deutsch ‚Entzündung, Hitze‘) ist eine eitrige, sich diffus ausbreitende Infektionserkrankung der Weichteile (des interstitiellen Bindegewebes).
+>
+> Eine besondere Form der phlegmonösen Entzündung der Haut wird phlegmonöses Erysipel (von altgriechisch ἐρυσίπελας erysípelas, deutsch ‚Wundrose‘) genannt.
+>
+> [Wikipedia](https://de.wikipedia.org/wiki/Phlegmone)
+
 Phlegmone
 [[30 Hz (E)]]
 [[500 Hz (E)]]

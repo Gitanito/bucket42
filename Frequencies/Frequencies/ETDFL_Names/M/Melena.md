@@ -1,0 +1,17 @@
+#Krankheiten/Melena
+
+> José Luis **Melena** Jiménez (* 1946 in Donostia, Gipuzkoa, Spanien) ist ein spanischer (baskischer) Altphilologe (Gräzist) und Mykenologe.
+>
+> [Wikipedia](https://de.wikipedia.org/wiki/Jos%C3%A9%20Luis%20Melena%20Jim%C3%A9nez)
+
+Melena
+[[50 Hz (E)]]
+[[520 Hz (E)]]
+[[710 Hz (E)]]
+[[930 Hz (E)]]
+[[2560 Hz (E)]]
+[[33180 Hz (E)]]
+[[215470 Hz (E)]]
+[[402530 Hz (E)]]
+[[592500 Hz (E)]]
+[[7325370 Hz (E)]]

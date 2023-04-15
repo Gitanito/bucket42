@@ -1,4 +1,11 @@
 #Krankheiten/Phlebitis
+
+> Als **Phlebitis** (von griechisch ἡ φλέψ hē phléps „die Ader“) (Mehrzahl: Phlebitiden) oder Venenentzündung wird seit dem 18. Jahrhundert die Entzündung eines venösen Gefäßes bezeichnet. Die Entzündung aller oder vieler Venen wird Panphlebitis, die des die Venen umgebenden Gewebes Periphlebitis genannt.
+>
+> 1793 beschrieb John Hunter erstmals die bis dahin in ihrer Existenz umstrittene Phlebitis.
+>
+> [Wikipedia](https://de.wikipedia.org/wiki/Phlebitis)
+
 Phlebitis
 [[50 Hz (E)]]
 [[370 Hz (E)]]

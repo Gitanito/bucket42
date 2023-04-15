@@ -72,7 +72,7 @@
 [[Lentigo]]
 [[Leukoenzephalopathie]]
 [[Lhermitte-Duclos-Syndrom]]
-[[Masern-]]
+[[Masern]]
 [[Mehrere Cowden-Syndrom]]
 [[Meibom Cyst]]
 [[Meige Syndrom]]

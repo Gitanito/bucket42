@@ -1,4 +1,9 @@
 #Krankheiten/Photophobie
+
+> Eine Lichtscheu, Lichtempfindlichkeit oder **Photophobie** (Lichtphobie) ist eine Überempfindlichkeit der Augen gegenüber Lichteinwirkung. Sie kann krankheitsbedingt oder bei manchen Tieren physiologisch auftreten. Betroffene Menschen und Organismen suchen gerne dunkle Räume auf.
+>
+> [Wikipedia](https://de.wikipedia.org/wiki/Lichtscheu)
+
 Photophobie
 [[500 Hz (E)]]
 [[570 Hz (E)]]

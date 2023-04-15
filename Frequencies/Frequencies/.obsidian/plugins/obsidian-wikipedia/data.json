@@ -1,5 +1,5 @@
 {
-  "template": "{{text}}\n> [Wikipedia]({{url}})",
+  "template": "\n{{text}}\n> [Wikipedia]({{url}})\n\n",
   "shouldUseParagraphTemplate": true,
   "shouldBoldSearchTerm": true,
   "paragraphTemplate": "> {{paragraphText}}\n>\n",

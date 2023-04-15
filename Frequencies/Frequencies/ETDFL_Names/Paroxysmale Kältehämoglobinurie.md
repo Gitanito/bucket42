@@ -1,4 +1,9 @@
 #Krankheiten/ParoxysmaleKältehämoglobinurie
+
+> Eine autoimmunhämolytische Anämie (abgekürzt AIHA) ist eine erworbene hämolytische Anämie, die durch Autoantikörper, d. h. durch Antikörper, die gegen eigene Antigene gerichtet sind, verursacht wird. Diese Antikörper heften sich an die Erythrozyten (roten Blutzellen) und können unter bestimmten Umständen zu deren Zerstörung (Hämolyse) führen. Die autoimmunhämolytischen Anämien sind erworbene, nicht ansteckende Erkrankungen.
+>
+> [Wikipedia](https://de.wikipedia.org/wiki/Autoimmunh%C3%A4molytische%20An%C3%A4mie)
+
 Paroxysmale Kältehämoglobinurie
 [[190 Hz (E)]]
 [[230 Hz (E)]]

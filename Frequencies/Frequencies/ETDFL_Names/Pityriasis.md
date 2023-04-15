@@ -1,4 +1,9 @@
 #Krankheiten/Pityriasis
+
+> **Pityriasis** (Griechisch πίτυρον Kleie) beschreibt die (Ab-)Schuppung der Haut.
+>
+> [Wikipedia](https://de.wikipedia.org/wiki/Pityriasis)
+
 Pityriasis
 [[200 Hz (E)]]
 [[320 Hz (E)]]
