@@ -136,7 +136,7 @@ class WikipediaPlugin extends obsidian.Plugin {
                     .split(",")[0]
                     .split("==")
                     .pop()
-                    .trim() + '\n\n';
+                    .trim();
                 extract = yield this.getWikipediaText(newSearchTerm);
                 if (!extract) {
                     this.handleCouldntResolveDisambiguation();

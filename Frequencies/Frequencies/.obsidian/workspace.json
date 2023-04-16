@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ETDFL_Names/Z/Zähneknirschen Disorder.md",
+                "file": "Frequenzen/1,45 Hz.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "kein",
+                "query": "legast",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ETDFL_Names/Z/Zähneknirschen Disorder.md",
+                "file": "Frequenzen/1,45 Hz.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ETDFL_Names/Z/Zähneknirschen Disorder.md",
+                "file": "Frequenzen/1,45 Hz.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ETDFL_Names/Z/Zähneknirschen Disorder.md"
+                "file": "Frequenzen/1,45 Hz.md"
               }
             }
           },
@@ -154,8 +155,21 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "78b3be083240fb99",
+  "active": "918ae737a7b12ec5",
   "lastOpenFiles": [
+    "ETDFL_Names/L/Legasthenie Symptome.md",
+    "Krankheiten/Legasth.md",
+    "Planeten/Ida.md",
+    "Körperteile/Schilddrüse.md",
+    "ETDFL_Names/S/Speiseröhre.md",
+    "Körperteile/Stimmbänder.md",
+    "ETDFL_Names/L/Laryngomalazie.md",
+    "ETDFL_Names/L/Laryngitis.md",
+    "ETDFL_Names/L/Langer-Giedions Syndrom.md",
+    "ETDFL_Names/L/Landry-Guillain-Barre.md",
+    "ETDFL_Names/L/Lambliasis.md",
+    "ETDFL_Names/L/Lactobacillus acidophilus.md",
+    "ETDFL_Names/Z/Zähneknirschen Disorder.md",
     "ETDFL_Names/Z/Zysten in der Brust.md",
     "ETDFL_Names/Z",
     "ETDFL_Names/Z/Zyklothyme Störung.md",
@@ -170,19 +184,6 @@
     "ETDFL_Names/Z/Zoonosen.md",
     "ETDFL_Names/Z/Zona.md",
     "ETDFL_Names/Z/Zollinger-Ellison-Syndrom.md",
-    "ETDFL_Names/Z/Zöliakie.md",
-    "ETDFL_Names/Z/Zirrhose.md",
-    "ETDFL_Names/Z/Ziliaren Dyskinesie.md",
-    "ETDFL_Names/Z/Zervikobrachialneuralgie.md",
-    "ETDFL_Names/Z/Zervikale Dystonie.md",
-    "ETDFL_Names/Z/Zerkariendermatitis.md",
-    "ETDFL_Names/Z/Zerebrovaskulären Störungen.md",
-    "ETDFL_Names/Z/Zerebrovaskuläre Moyamoya.md",
-    "ETDFL_Names/Z/Zerebrovaskuläre Apoplexie.md",
-    "ETDFL_Names/Z/Zerebralsklerose.md",
-    "ETDFL_Names/Z/Zerebralparese.md",
-    "ETDFL_Names/Z/Zerebrale Ischämie.md",
-    "ETDFL_Names/Z/Zerebrale Anoxie.md",
     "ETDFL_Names/Y",
     "ETDFL_Names/X",
     "ETDFL_Names/W",
