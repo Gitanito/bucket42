@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "b788c72f59a32435",
+        "id": "fd4cd30468df6fed",
         "type": "tabs",
         "children": [
           {
-            "id": "918ae737a7b12ec5",
+            "id": "26a58be1f3dd1001",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Frequenzen/1,45 Hz.md",
-                "mode": "source",
+                "file": "__Webclips/10 gruselige Halloween-Aberglauben.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "legast",
+                "query": "tag:#Frequenzen/527Hz",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Frequenzen/1,45 Hz.md",
+                "file": "__Webclips/10 gruselige Halloween-Aberglauben.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Frequenzen/1,45 Hz.md",
+                "file": "__Webclips/10 gruselige Halloween-Aberglauben.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Frequenzen/1,45 Hz.md"
+                "file": "__Webclips/10 gruselige Halloween-Aberglauben.md"
               }
             }
           },
@@ -138,7 +137,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -152,46 +152,47 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obisidian-note-linker:Note Linker": false
+      "obisidian-note-linker:Note Linker": false,
+      "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "918ae737a7b12ec5",
+  "active": "26a58be1f3dd1001",
   "lastOpenFiles": [
-    "ETDFL_Names/L/Legasthenie Symptome.md",
-    "Krankheiten/Legasth.md",
-    "Planeten/Ida.md",
-    "Körperteile/Schilddrüse.md",
-    "ETDFL_Names/S/Speiseröhre.md",
-    "Körperteile/Stimmbänder.md",
-    "ETDFL_Names/L/Laryngomalazie.md",
-    "ETDFL_Names/L/Laryngitis.md",
-    "ETDFL_Names/L/Langer-Giedions Syndrom.md",
-    "ETDFL_Names/L/Landry-Guillain-Barre.md",
-    "ETDFL_Names/L/Lambliasis.md",
-    "ETDFL_Names/L/Lactobacillus acidophilus.md",
-    "ETDFL_Names/Z/Zähneknirschen Disorder.md",
-    "ETDFL_Names/Z/Zysten in der Brust.md",
-    "ETDFL_Names/Z",
-    "ETDFL_Names/Z/Zyklothyme Störung.md",
-    "ETDFL_Names/Z/Zyklothyme Persönlichkeit.md",
-    "ETDFL_Names/Z/Zygomykose.md",
-    "ETDFL_Names/Z/Zyanose.md",
-    "ETDFL_Names/Z/Zwerchfellhernie.md",
-    "ETDFL_Names/Z/Zweite Hirnnervenkrankheiten.md",
-    "ETDFL_Names/Z/Zwangsstörung.md",
-    "ETDFL_Names/Z/Zunge.md",
-    "ETDFL_Names/Z/Zoster.md",
-    "ETDFL_Names/Z/Zoonosen.md",
-    "ETDFL_Names/Z/Zona.md",
-    "ETDFL_Names/Z/Zollinger-Ellison-Syndrom.md",
-    "ETDFL_Names/Y",
-    "ETDFL_Names/X",
-    "ETDFL_Names/W",
-    "ETDFL_Names/V",
-    "ETDFL_Names/U",
-    "ETDFL_Names/Ü",
-    "ETDFL_Names/T",
-    "ETDFL_Names/S",
-    "ETDFL_Names/R"
+    "__Webclips/9 Anzeichen dafür, dass deine geliebte verstorbene Person noch in der Nähe ist.md",
+    "__Webclips/7 Zeichen, dass jemand versucht, Sie zu verfluchen.md",
+    "__Webclips/Blaue Aura Die verspielte Luft und das sanfte Wasser.md",
+    "__Webclips/Blaue Aura Die verspielte Luft und das sanfte Wasser.md.crdownload",
+    "__Webclips/Grüne Aura Die lebendige Natur und das heilende Herz.md",
+    "__Webclips/Grüne Aura Die lebendige Natur und das heilende Herz.md.crdownload",
+    "__Webclips/Gelbe Aura Die Wärme der Sonne und das Gold der Erde.md",
+    "__Webclips/Gelbe Aura Die Wärme der Sonne und das Gold der Erde.md.crdownload",
+    "__Webclips/Rote Aura Die Kraft des Feuers und die Tiefe des Vulkans.md",
+    "__Webclips/Rote Aura Die Kraft des Feuers und die Tiefe des Vulkans.md.crdownload",
+    "__Webclips/Türkise Aura Die Ruhe des Wassers.md",
+    "__Webclips/Braune Aura Die düstere Untererde und die Wärme der Bäume.md",
+    "__Webclips/Braune Aura Die düstere Untererde und die Wärme der Bäume.md.crdownload",
+    "__Webclips/Weiße Aura Das reine Licht.md",
+    "__Webclips/Weiße Aura Das reine Licht.md.crdownload",
+    "__Webclips/Pinke Aura Die milde Blüte des Frühlings.md",
+    "__Webclips/Pinke Aura Die milde Blüte des Frühlings.md.crdownload",
+    "__Webclips/Lila Aura Das Wunder der Galaxie.md",
+    "__Webclips/Indigo Aura Die mystischen Tiefen des Universums.md",
+    "__Webclips/Indigo Aura Die mystischen Tiefen des Universums.md.crdownload",
+    "__Webclips/Die 10 häufigsten Träume und deren Bedeutung.md",
+    "__Webclips/Die 10 häufigsten Träume und deren Bedeutung.md.crdownload",
+    "__Webclips/Die 9 häufigsten Sexträume und ihre Bedeutung.md",
+    "__Webclips/Die 9 häufigsten Sexträume und ihre Bedeutung.md.crdownload",
+    "__Webclips/Träume von Verstorbenen Sind sie Botschaften aus dem Jenseits.md",
+    "__Webclips/27 interessante Fakten über Träume, die Sie noch nicht wussten.md",
+    "__Webclips/Was bedeutet es, wenn Sie von jemandem träumen.md",
+    "__Webclips/Was bedeutet es, wenn man von einer bestimmten Person träumt.md",
+    "__Webclips/Gute und schlechte Traumvorzeichen - Seien Sie sich bewusst, was Sie jede Nacht besucht.md",
+    "__Webclips/Können Träume die Zukunft vorhersagen.md",
+    "__Webclips/Traumdeutung Mord Die wahre Bedeutung.md",
+    "__Webclips/12 Träume, die Sie niemals ignorieren sollten.md",
+    "__Webclips/Wenn Träume Zeichen, Einsichten und Warnungen senden.md",
+    "__Webclips/Die besten Tricks, wie du dich wieder an deine Träume erinnern kannst.md",
+    "__Webclips/Sympathikus Lernen Sie ihn zu beruhigen.md",
+    "__Webclips/7 Techniken, um in Sekundenschnelle einzuschlafen.md"
   ]
 }
