@@ -23,6 +23,9 @@
                 });
             }
         });
+        document.querySelector('a-scene').addEventListener('enter-vr', function () {
+            document.getElementById('camera').setAttribute('position', {x:0, y:1, z:.5});
+        });
     </script>
     <script src="js/orbit1.js"></script>
     <script src="js/keybindings.js"></script>
@@ -133,7 +136,7 @@
     <a-entity shadow="cast:true; receive:true" id="figures">
         <a-box color="#fff" depth=".01" height=".08" width=".01" position=" -.34 .04 0"></a-box>
     </a-entity>
-    
+
     <a-entity shadow="cast:true; receive:true" id="interior">
 
         <!--<a-entity gltf-model="#kamin" position="4 -.5 -4" rotation="0 45 0"></a-entity>-->
