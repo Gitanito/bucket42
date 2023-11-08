@@ -5,13 +5,15 @@
 
     <script>
         AFRAME.registerComponent('objshadow', {
-            init: function(){
+            init: function () {
                 let el = this.el;
-                el.addEventListener("model-loaded", e =>{
+                el.addEventListener("model-loaded", e => {
                     let tree3D = el.getObject3D('mesh');
-                    if (!tree3D){return;}
-                    tree3D.traverse(function(node){
-                        if (node.isMesh){
+                    if (!tree3D) {
+                        return;
+                    }
+                    tree3D.traverse(function (node) {
+                        if (node.isMesh) {
                             node.material.emissiveIntensity = .50;
                             node.material.clipShadows = true;
                             node.material.metalness = 20;
@@ -22,136 +24,444 @@
             }
         });
     </script>
+    <script src="js/orbit1.js"></script>
+    <script src="js/keybindings.js"></script>
+
 </head>
 <body>
 <a-scene renderer="     antialias: false;
                         colorManagement: true;
-                        sortObjects: true;
+                        sortObjects: false;
                         physicallyCorrectLights: true;
-                        alpha:true;">
+                        alpha: false;
+                        precision: low;
+                        foveationLevel: 1;
+" stats>
     <a-assets>
-        <img id="boxTexture" src="https://cdn.glitch.com/0d738386-1e30-49fc-9a14-75235cb3c2a4%2Fcrate1_diffuse.png?v=1613236542455">
-        <!-- <a-asset-item id="bench" src="microphone_gxl_066_bafhcteks/scene.gltf"></a-asset-item> -->
+        <img id="boxTexture"
+             src="https://cdn.glitch.com/0d738386-1e30-49fc-9a14-75235cb3c2a4%2Fcrate1_diffuse.png?v=1613236542455">
+        <a-asset-item id="wall1_frame" src="assets/Wall1_frame.obj"></a-asset-item>
+        <a-asset-item id="wall1_background" src="assets/Wall1_bg.obj"></a-asset-item>
+        <a-asset-item id="wall2_frame" src="assets/Wall2_frame.obj"></a-asset-item>
+        <a-asset-item id="wall2_background" src="assets/Wall2_bg.obj"></a-asset-item>
+        <a-asset-item id="door1_frame" src="assets/Door1_frame.obj"></a-asset-item>
+        <a-asset-item id="door1_background" src="assets/Door1_bg.obj"></a-asset-item>
+        <a-asset-item id="door1_stuff" src="assets/Door1_stuff.obj"></a-asset-item>
+
+        <a-asset-item id="chimney2_base" src="assets/Chimney2_base.obj"></a-asset-item>
+        <a-asset-item id="chimney2_firewood" src="assets/Chimney2_firewood.obj"></a-asset-item>
+        <a-asset-item id="chimney2_stone" src="assets/Chimney2_stone.obj"></a-asset-item>
+        <a-asset-item id="chimney2_table" src="assets/Chimney2_table.obj"></a-asset-item>
+
+        <a-asset-item id="chimney3_base" src="assets/Chimney3_base.obj"></a-asset-item>
+        <a-asset-item id="chimney3_firewood" src="assets/Chimney3_firewood.obj"></a-asset-item>
+        <a-asset-item id="chimney3_stone" src="assets/Chimney3_stone.obj"></a-asset-item>
+        <a-asset-item id="chimney3_table" src="assets/Chimney3_table.obj"></a-asset-item>
+
+        <a-asset-item id="shelf1_frame" src="assets/Shelf1_frame.obj"></a-asset-item>
+        <a-asset-item id="shelf1_rolls" src="assets/Shelf1_rolls.obj"></a-asset-item>
+        <a-asset-item id="shelf1_boxes" src="assets/Shelf1_boxes.obj"></a-asset-item>
+        <a-asset-item id="shelf1_books" src="assets/Shelf1_books.obj"></a-asset-item>
+
+        <a-asset-item id="barrel1_base" src="assets/Barrel1_base.obj"></a-asset-item>
+        <a-asset-item id="barrel1_stuff" src="assets/Barrel1_stuff.obj"></a-asset-item>
+
+        <a-asset-item id="counter1_base" src="assets/Counter1_base.obj"></a-asset-item>
+        <a-asset-item id="counter1_table" src="assets/Counter1_table.obj"></a-asset-item>
+        <a-asset-item id="counter1_frame" src="assets/Counter1_frame.obj"></a-asset-item>
+
+        <a-asset-item id="lamp1" src="assets/lamp1.obj"></a-asset-item>
         <a-asset-item id="floor" src="assets/floor1.obj"></a-asset-item>
-        <a-asset-item id="kamin" src="kamin.gltf"></a-asset-item>
         <a-asset-item id="stool" src="assets/stool1.obj"></a-asset-item>
         <a-asset-item id="playtable" src="assets/table1.obj"></a-asset-item>
-     </a-assets>
+    </a-assets>
 
     <!--
      <a-entity id="rain" particle-system="preset: rain; color: #24CAFF; particleCount: 5000"></a-entity>
  -->
+
+    <a-sphere  src="assets/tavern1_bg.jpg" material="side: double" open-ended="true" rotation="0 0 0" position="0 1 .5"  scale="10 6 10" roughness="1"></a-sphere>
     <a-entity light="
-                       type:point;
+                       type:ambient;
                        shadowCameraVisible: false;
                        castShadow:true;
                        intensity:3;
-                       shadowCameraTop:    100;
-                       shadowCameraRight:  100;
-                       shadowCameraLeft:  100;" color="white" position="0 2 0" rotation="0 0 0" shadow></a-entity>
+                       shadowCameraTop:    10;
+                       shadowCameraRight:  10;
+                       shadowCameraLeft:  10;
+                        decay: 2;" color="white" position="0 1 0" rotation="-90 0 0" shadow></a-entity>
+    <a-entity light="
+                       type:spot;
+                       shadowCameraVisible: false;
+                       castShadow:true;
+                       intensity:1;
+                       shadowCameraTop:    10;
+                       shadowCameraRight:  10;
+                       shadowCameraLeft:  10;
+                        decay: 2;" color="white" position="0 1 0" rotation="-90 0 0" shadow></a-entity>
 
-    <a-entity light="type: ambient;intensity:.3; color: #CCC"></a-entity>
-    <a-entity light="type: point;intensity:.4; color: #CCC" position="3 .4 0" shadow></a-entity><!--
+
+    <a-entity shadow="cast:true; receive:true" id="spots">
+
+        <!--
+        <a-entity light="  type:spot;
+                           shadowCameraVisible: false;
+                           castShadow:true;
+                           intensity:1;
+                           shadowCameraTop:    10;
+                           shadowCameraRight:  10;
+                           shadowCameraLeft:  10;
+                            decay: 7;" color="yellow" position="-3 1.5 -3" rotation="-90 0 0" shadow></a-entity>
+
+        <a-obj-model src="#lamp1" color="#ac814d" position="-3 1 3" rotation="-90 -45 0" material="roughness:0.9"
+                     scale=".1 .1 .1" shadow="cast:true; receive:true"></a-obj-model>
+        <a-entity light="  type:spot;
+                           shadowCameraVisible: false;
+                           castShadow:true;
+                           intensity:1;
+                           shadowCameraTop:    10;
+                           shadowCameraRight:  10;
+                           shadowCameraLeft:  10;
+                            decay: 7;" color="yellow" position="-3 1.5 3" rotation="-90 0 0" shadow></a-entity>
+
+        <a-obj-model src="#lamp1" color="#ac814d" position="3 1 3" rotation="-90 -45 0" material="roughness:0.9"
+                     scale=".1 .1 .1" shadow="cast:true; receive:true"></a-obj-model>
+        <a-entity light="  type:spot;
+                           shadowCameraVisible: false;
+                           castShadow:true;
+                           intensity:1;
+                           shadowCameraTop:    10;
+                           shadowCameraRight:  10;
+                           shadowCameraLeft:  10;
+                            decay: 7;" color="yellow" position="3 1.5 3" rotation="-90 0 0" shadow></a-entity>
+
+        <a-obj-model src="#lamp1" color="#ac814d" position="3 1 -3" rotation="-90 -45 0" material="roughness:0.9"
+                     scale=".1 .1 .1" shadow="cast:true; receive:true"></a-obj-model>
+        <a-entity light="  type:spot;
+                           shadowCameraVisible: false;
+                           castShadow:true;
+                           intensity:1;
+                           shadowCameraTop:    10;
+                           shadowCameraRight:  10;
+                           shadowCameraLeft:  10;
+                            decay: 7;" color="yellow" position="3 1.5 -3" rotation="-90 0 0" shadow></a-entity>-->
+    </a-entity>
+
+    <!--<a-entity light="type: ambient;intensity:.3; color: #CCC"></a-entity>
+    <a-entity light="type: directional;intensity:.4; color: #CCC" position="3 .4 0" shadow></a-entity>--><!--
     <a-entity light="type: ambient;intensity:.4; color: #CCC" position="0 -1 3" shadow></a-entity>
     <a-entity light="type: ambient;intensity:.4; color: #FCC" position="4 -.8 -4" shadow></a-entity>-->
-
-    <a-sky color="#000"></a-sky>
     <!--<a-sky src="grodno-belarus-may-full-spherical-seamless-panorama-degrees-interior-chester-vintage-restaurant-nightclub-bar-stage-146966071.jpg" 	geometry="phi-start:50;radius:10;"></a-sky>
--->
+    -->
     <a-entity shadow="cast:true; receive:true" id="table">
-        <a-box src="https://2minutetabletop.com/wp-content/uploads/2022/07/Forest-Camp-Dark-Occupied-Zoomed.jpg" position="0 0 0" rotation="0 0 0" width="1.5" height=".005"  depth-material shadow="receive: true;"></a-box>
-        <a-obj-model src="#playtable" color="#4c2f26" position="0 -.9 0" rotation="-90 0 0" material="roughness:0.7" scale=".1 .1 .1"></a-obj-model>
+        <a-box src="https://2minutetabletop.com/wp-content/uploads/2022/07/Forest-Camp-Dark-Occupied-Zoomed.jpg"
+               position="0 0 0" rotation="0 0 0" width="1.5" height=".005" depth-material
+               shadow="receive: true;"></a-box>
+        <a-obj-model src="#playtable" color="#AD6B1B" position="0 -.9 0" rotation="-90 0 0" material="roughness:0.7"
+                     scale=".1 .1 .1"></a-obj-model>
     </a-entity>
-            <a-entity shadow="cast:true; receive:true" id="figures">
-                <a-box color="#fff" depth=".01" height=".08" width=".01" position=" -.34 .04 0" ></a-box>
-            </a-entity>
-
-    <a-entity shadow="cast:true; receive:true" id="floors">
-
-        <a-obj-model src="#floor" color="#4c2f26" material="roughness:1" scale=".1 .1 .1" position="-4 -.9 3.6" rotation="-90 180 0"></a-obj-model>
-        <a-obj-model src="#floor" color="#4c2f26" material="roughness:1" scale=".1 .1 .1" position="-2 -.9 3.6" rotation="-90 0 0"></a-obj-model>
-        <a-obj-model src="#floor" color="#4c2f26" material="roughness:1" scale=".1 .1 .1" position="0 -.9 3.6" rotation="-90 0 0"></a-obj-model>
-        <a-obj-model src="#floor" color="#4c2f26" material="roughness:1" scale=".1 .1 .1" position="2 -.9 3.6" rotation="-90 0 0"></a-obj-model>
-        <a-obj-model src="#floor" color="#4c2f26" material="roughness:1" scale=".1 .1 .1" position="4 -.9 3.6" rotation="-90 180 0"></a-obj-model>
-
-        <a-obj-model src="#floor" color="#4c2f26" material="roughness:1" scale=".1 .1 .1" position="-4 -.9 2.8" rotation="-90 180 0"></a-obj-model>
-        <a-obj-model src="#floor" color="#4c2f26" material="roughness:1" scale=".1 .1 .1" position="-2 -.9 2.8" rotation="-90 0 0"></a-obj-model>
-        <a-obj-model src="#floor" color="#4c2f26" material="roughness:1" scale=".1 .1 .1" position="0 -.9 2.8" rotation="-90 0 0"></a-obj-model>
-        <a-obj-model src="#floor" color="#4c2f26" material="roughness:1" scale=".1 .1 .1" position="2 -.9 2.8" rotation="-90 0 0"></a-obj-model>
-        <a-obj-model src="#floor" color="#4c2f26" material="roughness:1" scale=".1 .1 .1" position="4 -.9 2.8" rotation="-90 180 0"></a-obj-model>
-
-        <a-obj-model src="#floor" color="#4c2f26" material="roughness:1" scale=".1 .1 .1" position="-4 -.9 2" rotation="-90 180 0"></a-obj-model>
-        <a-obj-model src="#floor" color="#4c2f26" material="roughness:1" scale=".1 .1 .1" position="-2 -.9 2" rotation="-90 0 0"></a-obj-model>
-        <a-obj-model src="#floor" color="#4c2f26" material="roughness:1" scale=".1 .1 .1" position="0 -.9 2" rotation="-90 0 0"></a-obj-model>
-        <a-obj-model src="#floor" color="#4c2f26" material="roughness:1" scale=".1 .1 .1" position="2 -.9 2" rotation="-90 0 0"></a-obj-model>
-        <a-obj-model src="#floor" color="#4c2f26" material="roughness:1" scale=".1 .1 .1" position="4 -.9 2" rotation="-90 180 0"></a-obj-model>
-
-        <a-obj-model src="#floor" color="#4c2f26" material="roughness:1" scale=".1 .1 .1" position="-4 -.9 1.2" rotation="-90 180 0"></a-obj-model>
-        <a-obj-model src="#floor" color="#4c2f26" material="roughness:1" scale=".1 .1 .1" position="-2 -.9 1.2" rotation="-90 0 0"></a-obj-model>
-        <a-obj-model src="#floor" color="#4c2f26" material="roughness:1" scale=".1 .1 .1" position="0 -.9 1.2" rotation="-90 0 0"></a-obj-model>
-        <a-obj-model src="#floor" color="#4c2f26" material="roughness:1" scale=".1 .1 .1" position="2 -.9 1.2" rotation="-90 0 0"></a-obj-model>
-        <a-obj-model src="#floor" color="#4c2f26" material="roughness:1" scale=".1 .1 .1" position="4 -.9 1.2" rotation="-90 180 0"></a-obj-model>
-
-        <a-obj-model src="#floor" color="#4c2f26" material="roughness:1" scale=".1 .1 .1" position="-4 -.9 .4" rotation="-90 180 0"></a-obj-model>
-        <a-obj-model src="#floor" color="#4c2f26" material="roughness:1" scale=".1 .1 .1" position="-2 -.9 .4" rotation="-90 0 0"></a-obj-model>
-        <a-obj-model src="#floor" color="#4c2f26" material="roughness:1" scale=".1 .1 .1" position="0 -.9 .4" rotation="-90 0 0"></a-obj-model>
-        <a-obj-model src="#floor" color="#4c2f26" material="roughness:1" scale=".1 .1 .1" position="2 -.9 .4" rotation="-90 0 0"></a-obj-model>
-        <a-obj-model src="#floor" color="#4c2f26" material="roughness:1" scale=".1 .1 .1" position="4 -.9 .4" rotation="-90 180 0"></a-obj-model>
-
-        <a-obj-model src="#floor" color="#4c2f26" material="roughness:1" scale=".1 .1 .1" position="-4 -.9 0" rotation="-90 180 0"></a-obj-model>
-        <a-obj-model src="#floor" color="#4c2f26" material="roughness:1" scale=".1 .1 .1" position="-2 -.9 0" rotation="-90 0 0"></a-obj-model>
-        <a-obj-model src="#floor" color="#4c2f26" material="roughness:1" scale=".1 .1 .1" position="0 -.9 0" rotation="-90 0 0"></a-obj-model>
-        <a-obj-model src="#floor" color="#4c2f26" material="roughness:1" scale=".1 .1 .1" position="2 -.9 0" rotation="-90 0 0"></a-obj-model>
-        <a-obj-model src="#floor" color="#4c2f26" material="roughness:1" scale=".1 .1 .1" position="4 -.9 0" rotation="-90 180 0"></a-obj-model>
-
-        <a-obj-model src="#floor" color="#4c2f26" material="roughness:1" scale=".1 .1 .1" position="-4 -.9 -.4" rotation="-90 180 0"></a-obj-model>
-        <a-obj-model src="#floor" color="#4c2f26" material="roughness:1" scale=".1 .1 .1" position="-2 -.9 -.4" rotation="-90 0 0"></a-obj-model>
-        <a-obj-model src="#floor" color="#4c2f26" material="roughness:1" scale=".1 .1 .1" position="0 -.9 -.4" rotation="-90 0 0"></a-obj-model>
-        <a-obj-model src="#floor" color="#4c2f26" material="roughness:1" scale=".1 .1 .1" position="2 -.9 -.4" rotation="-90 0 0"></a-obj-model>
-        <a-obj-model src="#floor" color="#4c2f26" material="roughness:1" scale=".1 .1 .1" position="4 -.9 -.4" rotation="-90 180 0"></a-obj-model>
-
-        <a-obj-model src="#floor" color="#4c2f26" material="roughness:1" scale=".1 .1 .1" position="-4 -.9 -1.2" rotation="-90 180 0"></a-obj-model>
-        <a-obj-model src="#floor" color="#4c2f26" material="roughness:1" scale=".1 .1 .1" position="-2 -.9 -1.2" rotation="-90 0 0"></a-obj-model>
-        <a-obj-model src="#floor" color="#4c2f26" material="roughness:1" scale=".1 .1 .1" position="0 -.9 -1.2" rotation="-90 0 0"></a-obj-model>
-        <a-obj-model src="#floor" color="#4c2f26" material="roughness:1" scale=".1 .1 .1" position="2 -.9 -1.2" rotation="-90 0 0"></a-obj-model>
-        <a-obj-model src="#floor" color="#4c2f26" material="roughness:1" scale=".1 .1 .1" position="4 -.9 -1.2" rotation="-90 180 0"></a-obj-model>
-
-        <a-obj-model src="#floor" color="#4c2f26" material="roughness:1" scale=".1 .1 .1" position="-4 -.9 -2" rotation="-90 180 0"></a-obj-model>
-        <a-obj-model src="#floor" color="#4c2f26" material="roughness:1" scale=".1 .1 .1" position="-2 -.9 -2" rotation="-90 0 0"></a-obj-model>
-        <a-obj-model src="#floor" color="#4c2f26" material="roughness:1" scale=".1 .1 .1" position="0 -.9 -2" rotation="-90 0 0"></a-obj-model>
-        <a-obj-model src="#floor" color="#4c2f26" material="roughness:1" scale=".1 .1 .1" position="2 -.9 -2" rotation="-90 0 0"></a-obj-model>
-        <a-obj-model src="#floor" color="#4c2f26" material="roughness:1" scale=".1 .1 .1" position="4 -.9 -2" rotation="-90 180 0"></a-obj-model>
-
-        <a-obj-model src="#floor" color="#4c2f26" material="roughness:1" scale=".1 .1 .1" position="-4 -.9 -2.8" rotation="-90 180 0"></a-obj-model>
-        <a-obj-model src="#floor" color="#4c2f26" material="roughness:1" scale=".1 .1 .1" position="-2 -.9 -2.8" rotation="-90 0 0"></a-obj-model>
-        <a-obj-model src="#floor" color="#4c2f26" material="roughness:1" scale=".1 .1 .1" position="0 -.9 -2.8" rotation="-90 0 0"></a-obj-model>
-        <a-obj-model src="#floor" color="#4c2f26" material="roughness:1" scale=".1 .1 .1" position="2 -.9 -2.8" rotation="-90 0 0"></a-obj-model>
-        <a-obj-model src="#floor" color="#4c2f26" material="roughness:1" scale=".1 .1 .1" position="4 -.9 -2.8" rotation="-90 180 0"></a-obj-model>
-
-        <a-obj-model src="#floor" color="#4c2f26" material="roughness:1" scale=".1 .1 .1" position="-4 -.9 -3.6" rotation="-90 180 0"></a-obj-model>
-        <a-obj-model src="#floor" color="#4c2f26" material="roughness:1" scale=".1 .1 .1" position="-2 -.9 -3.6" rotation="-90 0 0"></a-obj-model>
-        <a-obj-model src="#floor" color="#4c2f26" material="roughness:1" scale=".1 .1 .1" position="0 -.9 -3.6" rotation="-90 0 0"></a-obj-model>
-        <a-obj-model src="#floor" color="#4c2f26" material="roughness:1" scale=".1 .1 .1" position="2 -.9 -3.6" rotation="-90 0 0"></a-obj-model>
-        <a-obj-model src="#floor" color="#4c2f26" material="roughness:1" scale=".1 .1 .1" position="4 -.9 -3.6" rotation="-90 180 0"></a-obj-model>
-
-
-        <!--<a-entity gltf-model="#kamin" position="4 -.5 -4" rotation="0 45 0"></a-entity>-->
+    <a-entity shadow="cast:true; receive:true" id="figures">
+        <a-box color="#fff" depth=".01" height=".08" width=".01" position=" -.34 .04 0"></a-box>
     </a-entity>
+    <!--
+        <a-entity shadow="cast:true; receive:true" id="floors">
+
+            <a-obj-model src="#floor" color="#5b3a29" material="roughness:1" scale=".2 .2 .2" position="-8 -.9 -4.5" rotation="-90 0 0"></a-obj-model>
+            <a-obj-model src="#floor" color="#5b3a29" material="roughness:1" scale=".2 .2 .2" position="-4 -.9 -4.5" rotation="-90 0 0"></a-obj-model>
+            <a-obj-model src="#floor" color="#5b3a29" material="roughness:1" scale=".2 .2 .2" position="0 -.9 -4.5" rotation="-90 0 0"></a-obj-model>
+            <a-obj-model src="#floor" color="#5b3a29" material="roughness:1" scale=".2 .2 .2" position="4 -.9 -4.5" rotation="-90 0 0"></a-obj-model>
+            <a-obj-model src="#floor" color="#5b3a29" material="roughness:1" scale=".2 .2 .2" position="8 -.9 -4.5" rotation="-90 0 0"></a-obj-model>
+
+            <a-obj-model src="#floor" color="#5b3a29" material="roughness:1" scale=".2 .2 .2" position="-8 -.9 -3" rotation="-90 0 0"></a-obj-model>
+            <a-obj-model src="#floor" color="#5b3a29" material="roughness:1" scale=".2 .2 .2" position="-4 -.9 -3" rotation="-90 0 0"></a-obj-model>
+            <a-obj-model src="#floor" color="#5b3a29" material="roughness:1" scale=".2 .2 .2" position="0 -.9 -3" rotation="-90 0 0"></a-obj-model>
+            <a-obj-model src="#floor" color="#5b3a29" material="roughness:1" scale=".2 .2 .2" position="4 -.9 -3" rotation="-90 0 0"></a-obj-model>
+            <a-obj-model src="#floor" color="#5b3a29" material="roughness:1" scale=".2 .2 .2" position="8 -.9 -3" rotation="-90 0 0"></a-obj-model>
+
+            <a-obj-model src="#floor" color="#5b3a29" material="roughness:1" scale=".2 .2 .2" position="-8 -.9 -1.5" rotation="-90 0 0"></a-obj-model>
+            <a-obj-model src="#floor" color="#5b3a29" material="roughness:1" scale=".2 .2 .2" position="-4 -.9 -1.5" rotation="-90 0 0"></a-obj-model>
+            <a-obj-model src="#floor" color="#5b3a29" material="roughness:1" scale=".2 .2 .2" position="0 -.9 -1.5" rotation="-90 0 0"></a-obj-model>
+            <a-obj-model src="#floor" color="#5b3a29" material="roughness:1" scale=".2 .2 .2" position="4 -.9 -1.5" rotation="-90 0 0"></a-obj-model>
+            <a-obj-model src="#floor" color="#5b3a29" material="roughness:1" scale=".2 .2 .2" position="8 -.9 -1.5" rotation="-90 0 0"></a-obj-model>
+
+            <a-obj-model src="#floor" color="#5b3a29" material="roughness:1" scale=".2 .2 .2" position="-8 -.9 0" rotation="-90 0 0"></a-obj-model>
+            <a-obj-model src="#floor" color="#5b3a29" material="roughness:1" scale=".2 .2 .2" position="-4 -.9 0" rotation="-90 0 0"></a-obj-model>
+            <a-obj-model src="#floor" color="#5b3a29" material="roughness:1" scale=".2 .2 .2" position="0 -.9 0" rotation="-90 0 0"></a-obj-model>
+            <a-obj-model src="#floor" color="#5b3a29" material="roughness:1" scale=".2 .2 .2" position="4 -.9 0" rotation="-90 0 0"></a-obj-model>
+            <a-obj-model src="#floor" color="#5b3a29" material="roughness:1" scale=".2 .2 .2" position="8 -.9 0" rotation="-90 0 0"></a-obj-model>
+
+            <a-obj-model src="#floor" color="#5b3a29" material="roughness:1" scale=".2 .2 .2" position="-8 -.9 1.5" rotation="-90 0 0"></a-obj-model>
+            <a-obj-model src="#floor" color="#5b3a29" material="roughness:1" scale=".2 .2 .2" position="-4 -.9 1.5" rotation="-90 0 0"></a-obj-model>
+            <a-obj-model src="#floor" color="#5b3a29" material="roughness:1" scale=".2 .2 .2" position="0 -.9 1.5" rotation="-90 0 0"></a-obj-model>
+            <a-obj-model src="#floor" color="#5b3a29" material="roughness:1" scale=".2 .2 .2" position="4 -.9 1.5" rotation="-90 0 0"></a-obj-model>
+            <a-obj-model src="#floor" color="#5b3a29" material="roughness:1" scale=".2 .2 .2" position="8 -.9 1.5" rotation="-90 0 0"></a-obj-model>
+
+            <a-obj-model src="#floor" color="#5b3a29" material="roughness:1" scale=".2 .2 .2" position="-8 -.9 3" rotation="-90 0 0"></a-obj-model>
+            <a-obj-model src="#floor" color="#5b3a29" material="roughness:1" scale=".2 .2 .2" position="-4 -.9 3" rotation="-90 0 0"></a-obj-model>
+            <a-obj-model src="#floor" color="#5b3a29" material="roughness:1" scale=".2 .2 .2" position="0 -.9 3" rotation="-90 0 0"></a-obj-model>
+            <a-obj-model src="#floor" color="#5b3a29" material="roughness:1" scale=".2 .2 .2" position="4 -.9 3" rotation="-90 0 0"></a-obj-model>
+            <a-obj-model src="#floor" color="#5b3a29" material="roughness:1" scale=".2 .2 .2" position="8 -.9 3" rotation="-90 0 0"></a-obj-model>
+
+            <a-obj-model src="#floor" color="#5b3a29" material="roughness:1" scale=".2 .2 .2" position="-8 -.9 4.5" rotation="-90 0 0"></a-obj-model>
+            <a-obj-model src="#floor" color="#5b3a29" material="roughness:1" scale=".2 .2 .2" position="-4 -.9 4.5" rotation="-90 0 0"></a-obj-model>
+            <a-obj-model src="#floor" color="#5b3a29" material="roughness:1" scale=".2 .2 .2" position="0 -.9 4.5" rotation="-90 0 0"></a-obj-model>
+            <a-obj-model src="#floor" color="#5b3a29" material="roughness:1" scale=".2 .2 .2" position="4 -.9 4.5" rotation="-90 0 0"></a-obj-model>
+            <a-obj-model src="#floor" color="#5b3a29" material="roughness:1" scale=".2 .2 .2" position="8 -.9 4.5" rotation="-90 0 0"></a-obj-model>
+
+
+
+    </a-entity>
+
+
+    <a-entity shadow="cast:true; receive:true" id="walls">
+
+        <a-obj-model src="#wall1_frame" color="#5b3a29" position="-4 -.9 -5" rotation="-90 -90 0"
+                     material="roughness:0.9" scale=".1 .1 .1"></a-obj-model>
+        <a-obj-model src="#wall1_background" color="#C69A61" position="-4 -.9 -5" rotation="-90 -90 0"
+                     material="roughness:0.9" scale=".1 .1 .1"></a-obj-model>
+
+        <a-obj-model src="#wall2_frame" color="#5b3a29" position="-2 -.9 -5" rotation="-90 -90 0"
+                     material="roughness:0.9" scale=".1 .1 .1"></a-obj-model>
+        <a-obj-model src="#wall2_background" color="#C69A61" position="-2 -.9 -5" rotation="-90 -90 0"
+                     material="roughness:0.9" scale=".1 .1 .1"></a-obj-model>
+
+        <a-obj-model src="#door1_frame" color="#5b3a29" position="0 -.9 -5" rotation="-90 -90 0"
+                     material="roughness:0.9" scale=".1 .1 .1"></a-obj-model>
+        <a-obj-model src="#door1_background" color="#C69A61" position="0 -.9 -5" rotation="-90 -90 0"
+                     material="roughness:0.9" scale=".1 .1 .1"></a-obj-model>
+        <a-obj-model src="#door1_stuff" color="#cccccc" position="0 -.9 -5" rotation="-90 -90 0"
+                     material="roughness:0.9" scale=".1 .1 .1"></a-obj-model>
+
+        <a-obj-model src="#wall1_frame" color="#5b3a29" position="2 -.9 -5" rotation="-90 -90 0"
+                     material="roughness:0.9" scale=".1 .1 .1"></a-obj-model>
+        <a-obj-model src="#wall1_background" color="#C69A61" position="2 -.9 -5" rotation="-90 -90 0"
+                     material="roughness:0.9" scale=".1 .1 .1"></a-obj-model>
+
+        <a-obj-model src="#wall1_frame" color="#5b3a29" position="4 -.9 -5" rotation="-90 -90 0"
+                     material="roughness:0.9" scale=".1 .1 .1"></a-obj-model>
+        <a-obj-model src="#wall1_background" color="#C69A61" position="4 -.9 -5" rotation="-90 -90 0"
+                     material="roughness:0.9" scale=".1 .1 .1"></a-obj-model>
+
+        <a-obj-model src="#wall1_frame" color="#5b3a29" position="6 -.9 -5" rotation="-90 -90 0"
+                     material="roughness:0.9" scale=".1 .1 .1"></a-obj-model>
+        <a-obj-model src="#wall1_background" color="#C69A61" position="6 -.9 -5" rotation="-90 -90 0"
+                     material="roughness:0.9" scale=".1 .1 .1"></a-obj-model>
+
+
+        <a-obj-model src="#wall1_frame" color="#5b3a29" position="-4 -.9 5" rotation="-90 -90 0"
+                     material="roughness:0.9" scale=".1 .1 .1"></a-obj-model>
+        <a-obj-model src="#wall1_background" color="#C69A61" position="-4 -.9 5" rotation="-90 -90 0"
+                     material="roughness:0.9" scale=".1 .1 .1"></a-obj-model>
+
+        <a-obj-model src="#wall1_frame" color="#5b3a29" position="-2 -.9 5" rotation="-90 -90 0"
+                     material="roughness:0.9" scale=".1 .1 .1"></a-obj-model>
+        <a-obj-model src="#wall1_background" color="#C69A61" position="-2 -.9 5" rotation="-90 -90 0"
+                     material="roughness:0.9" scale=".1 .1 .1"></a-obj-model>
+
+        <a-obj-model src="#wall1_frame" color="#5b3a29" position="0 -.9 5" rotation="-90 -90 0" material="roughness:0.9"
+                     scale=".1 .1 .1"></a-obj-model>
+        <a-obj-model src="#wall1_background" color="#C69A61" position="0 -.9 5" rotation="-90 -90 0"
+                     material="roughness:0.9" scale=".1 .1 .1"></a-obj-model>
+
+        <a-obj-model src="#wall1_frame" color="#5b3a29" position="2 -.9 5" rotation="-90 -90 0" material="roughness:0.9"
+                     scale=".1 .1 .1"></a-obj-model>
+        <a-obj-model src="#wall1_background" color="#C69A61" position="2 -.9 5" rotation="-90 -90 0"
+                     material="roughness:0.9" scale=".1 .1 .1"></a-obj-model>
+
+        <a-obj-model src="#wall1_frame" color="#5b3a29" position="4 -.9 5" rotation="-90 -90 0" material="roughness:0.9"
+                     scale=".1 .1 .1"></a-obj-model>
+        <a-obj-model src="#wall1_background" color="#C69A61" position="4 -.9 5" rotation="-90 -90 0"
+                     material="roughness:0.9" scale=".1 .1 .1"></a-obj-model>
+
+        <a-obj-model src="#wall1_frame" color="#5b3a29" position="6 -.9 5" rotation="-90 -90 0" material="roughness:0.9"
+                     scale=".1 .1 .1"></a-obj-model>
+        <a-obj-model src="#wall1_background" color="#C69A61" position="6 -.9 5" rotation="-90 -90 0"
+                     material="roughness:0.9" scale=".1 .1 .1"></a-obj-model>
+
+
+
+        <a-obj-model src="#wall1_frame" color="#5b3a29" position="7 -.9 -4" rotation="-90 0 0" material="roughness:0.9"
+                     scale=".1 .1 .1"></a-obj-model>
+        <a-obj-model src="#wall1_background" color="#C69A61" position="7 -.9 -4" rotation="-90 0 0"
+                     material="roughness:0.9" scale=".1 .1 .1"></a-obj-model>
+
+        <a-obj-model src="#wall1_frame" color="#5b3a29" position="7 -.9 -2" rotation="-90 0 0" material="roughness:0.9"
+                     scale=".1 .1 .1"></a-obj-model>
+        <a-obj-model src="#wall1_background" color="#C69A61" position="7 -.9 -2" rotation="-90 0 0"
+                     material="roughness:0.9" scale=".1 .1 .1"></a-obj-model>
+
+        <a-obj-model src="#wall1_frame" color="#5b3a29" position="7 -.9 0" rotation="-90 0 0" material="roughness:0.9"
+                     scale=".1 .1 .1"></a-obj-model>
+        <a-obj-model src="#wall1_background" color="#C69A61" position="7 -.9 0" rotation="-90 0 0"
+                     material="roughness:0.9" scale=".1 .1 .1"></a-obj-model>
+
+        <a-obj-model src="#wall1_frame" color="#5b3a29" position="7 -.9 2" rotation="-90 0 0" material="roughness:0.9"
+                     scale=".1 .1 .1"></a-obj-model>
+        <a-obj-model src="#wall1_background" color="#C69A61" position="7 -.9 2" rotation="-90 0 0"
+                     material="roughness:0.9" scale=".1 .1 .1"></a-obj-model>
+
+
+        <a-obj-model src="#wall1_frame" color="#5b3a29" position="7 -.9 4" rotation="-90 0 0" material="roughness:0.9"
+                     scale=".1 .1 .1"></a-obj-model>
+        <a-obj-model src="#wall1_background" color="#C69A61" position="7 -.9 4" rotation="-90 0 0"
+                     material="roughness:0.9" scale=".1 .1 .1"></a-obj-model>
+
+
+        <a-obj-model src="#wall2_frame" color="#5b3a29" position="-5 -.9 -4" rotation="-90 0 0" material="roughness:0.9"
+                     scale=".1 .1 .1"></a-obj-model>
+        <a-obj-model src="#wall2_background" color="#C69A61" position="-5 -.9 -4" rotation="-90 0 0"
+                     material="roughness:0.9" scale=".1 .1 .1"></a-obj-model>
+
+        <a-obj-model src="#wall1_frame" color="#5b3a29" position="-5 -.9 -2" rotation="-90 0 0" material="roughness:0.9"
+                     scale=".1 .1 .1"></a-obj-model>
+        <a-obj-model src="#wall1_background" color="#C69A61" position="-5 -.9 -2" rotation="-90 0 0"
+                     material="roughness:0.9" scale=".1 .1 .1"></a-obj-model>
+
+        <a-obj-model src="#wall1_frame" color="#5b3a29" position="-5 -.9 0" rotation="-90 0 0" material="roughness:0.9"
+                     scale=".1 .1 .1"></a-obj-model>
+        <a-obj-model src="#wall1_background" color="#C69A61" position="-5 -.9 0" rotation="-90 0 0"
+                     material="roughness:0.9" scale=".1 .1 .1"></a-obj-model>
+
+        <a-obj-model src="#wall1_frame" color="#5b3a29" position="-5 -.9 2" rotation="-90 0 0" material="roughness:0.9"
+                     scale=".1 .1 .1"></a-obj-model>
+        <a-obj-model src="#wall1_background" color="#C69A61" position="-5 -.9 2" rotation="-90 0 0"
+                     material="roughness:0.9" scale=".1 .1 .1"></a-obj-model>
+
+    </a-entity>
+-->
+
     <a-entity shadow="cast:true; receive:true" id="interior">
 
-                <!--<a-entity gltf-model="#kamin" position="4 -.5 -4" rotation="0 45 0"></a-entity>-->
-                                <a-obj-model src="#stool" color="#4c2f26" position="-2 -.9 2" rotation="-90 -45 0" material="roughness:0.9" scale=".1 .1 .1"></a-obj-model>
-                                <a-obj-model src="#stool" color="#4c2f26" position="2 -.9 2" rotation="-90 45 0" material="roughness:0.9" scale=".1 .1 .1"></a-obj-model>
-                                <a-obj-model src="#stool" color="#4c2f26" position="-2 -.9 -2" rotation="-90 -130 0" material="roughness:0.9" scale=".1 .1 .1"></a-obj-model>
-                                <a-obj-model src="#stool" color="#4c2f26" position="2 -.9 -2" rotation="-90 117 0" material="roughness:0.9" scale=".1 .1 .1"></a-obj-model>
+        <!--<a-entity gltf-model="#kamin" position="4 -.5 -4" rotation="0 45 0"></a-entity>-->
+        <a-obj-model src="#stool" color="#905917" position="-2 -.9 0" rotation="-90 -105 0" material="roughness:0.9"
+                     scale=".1 .1 .1"></a-obj-model>
+        <a-obj-model src="#stool" color="#905917" position="0 -.9 -1" rotation="-90 -170 0" material="roughness:0.9"
+                     scale=".1 .1 .1"></a-obj-model>
+        <a-obj-model src="#stool" color="#905917" position="2 -.9 0" rotation="-90 117 0" material="roughness:0.9"
+                     scale=".1 .1 .1"></a-obj-model>
+        <a-obj-model src="#stool" color="#905917" position="0 -.9 1" rotation="-90 13 0" material="roughness:0.9"
+                     scale=".1 .1 .1"></a-obj-model>
+<!--
+        <a-obj-model src="#chimney3_base" color="#cccccc" position="-4.45 -.9 0" rotation="-90 0 0" material="roughness:0.9"
+                     scale=".1 .1 .1"></a-obj-model>
+        <a-obj-model src="#chimney3_firewood" color="#ac814d" position="-4.45 -.9 0" rotation="-90 0 0" material="roughness:0.9"
+                     scale=".1 .1 .1"></a-obj-model>
+        <a-obj-model src="#chimney3_stone" color="red" position="-4.45 -.9 0" rotation="-90 0 0" material="roughness:0.9"
+                     scale=".1 .1 .1"></a-obj-model>
+        <a-obj-model src="#chimney3_table" color="#5b3a29" position="-4.45 -.9 0" rotation="-90 0 0" material="roughness:0.9"
+                     scale=".1 .1 .1"></a-obj-model>
 
-                            </a-entity>
+        <a-entity light="  type:point;
+                           shadowCameraVisible: false;
+                           castShadow:true;
+                           intensity:1;
+                           shadowCameraTop:    10;
+                           shadowCameraRight:  10;
+                           shadowCameraLeft:  10;
+                            decay: 1;
+                            color: #ff9a00" position="-4.6 -.60 0" rotation="0 0 0" shadow></a-entity>
+
+        <a-obj-model src="#playtable" color="#AD6B1B" position="-3 -.9 -3" rotation="-90 77 0" material="roughness:0.7"
+                     scale=".1 .1 .1"></a-obj-model>
+        <a-obj-model src="#stool" color="#AD6B1B" position="-2.3 -.9 -2.3" rotation="-90 40 0" material="roughness:0.9"
+                     scale=".1 .1 .1"></a-obj-model>
+        <a-obj-model src="#stool" color="#AD6B1B" position="-2.2 -.9 -3.5" rotation="-90 95 0" material="roughness:0.9"
+                     scale=".1 .1 .1"></a-obj-model>
+        <a-obj-model src="#stool" color="#AD6B1B" position="-4.5 -.9 -2.7" rotation="-90 -81 0" material="roughness:0.9"
+                     scale=".1 .1 .1"></a-obj-model>
+        <a-obj-model src="#stool" color="#AD6B1B" position="-4.56 -.9 -4.5" rotation="-90 -114 0" material="roughness:0.9"
+                     scale=".1 .1 .1"></a-obj-model>
+
+        <a-entity light="  type:point;
+                           shadowCameraVisible: false;
+                           castShadow:true;
+                           intensity:.5;
+                            color: #ff9a00" position="-3 .2 -3" rotation="0 0 0" shadow></a-entity>
+        <a-cylinder color="white" radius=".04" height=".1" position="-3 .05 -3"  material="roughness:0"></a-cylinder>
 
 
 
-                            <a-entity id="rig" position="0 .5 .5">
-                                <a-entity id="camera" rotation="-45 0 0" camera look-controls wasd-controls="acceleration:50"></a-entity>
-                            </a-entity>
-                        </a-scene>
-                        </body>
-                        </html>
+        <a-obj-model src="#playtable" color="#AD6B1B" position="3 -.9 3" rotation="-90 -77 0" material="roughness:0.7"
+                     scale=".1 .1 .1"></a-obj-model>
+        <a-obj-model src="#stool" color="#AD6B1B" position="2.3 -.9 2.3" rotation="-90 -40 0" material="roughness:0.9"
+                     scale=".1 .1 .1"></a-obj-model>
+        <a-obj-model src="#stool" color="#AD6B1B" position="2.2 -.9 3.5" rotation="-90 -95 0" material="roughness:0.9"
+                     scale=".1 .1 .1"></a-obj-model>
+        <a-obj-model src="#stool" color="#AD6B1B" position="4.5 -.9 2.7" rotation="-90 81 0" material="roughness:0.9"
+                     scale=".1 .1 .1"></a-obj-model>
+        <a-obj-model src="#stool" color="#AD6B1B" position="4.56 -.9 4.5" rotation="-90 114 0" material="roughness:0.9"
+                     scale=".1 .1 .1"></a-obj-model>
+
+        <a-entity light="  type:point;
+                           shadowCameraVisible: false;
+                           castShadow:true;
+                           intensity:.5;
+                            color: #ff9a00" position="3 .2 3" rotation="0 0 0" shadow></a-entity>
+        <a-cylinder color="white" radius=".04" height=".1" position="3 .05 3"  material="roughness:0"></a-cylinder>
+
+
+
+
+
+        <a-obj-model src="#barrel1_base" color="#AD6B1B" position="2.3 -.2 -5" rotation="0 0 0" material="roughness:0.9"
+                     scale=".15 .15 .15"></a-obj-model>
+        <a-obj-model src="#barrel1_stuff" color="#cccccc" position="2.3 -.2 -5" rotation="0 0 0" material="roughness:0.9"
+                     scale=".15 .15 .15"></a-obj-model>
+
+        <a-obj-model src="#barrel1_base" color="#AD6B1B" position="3.5 -.2 -5" rotation="0 0 0" material="roughness:0.9"
+                     scale=".15 .15 .15"></a-obj-model>
+        <a-obj-model src="#barrel1_stuff" color="#cccccc" position="3.5 -.2 -5" rotation="0 0 0" material="roughness:0.9"
+                     scale=".15 .15 .15"></a-obj-model>
+
+        <a-obj-model src="#barrel1_base" color="#AD6B1B" position="4.7 -.2 -5" rotation="0 0 0" material="roughness:0.9"
+                     scale=".15 .15 .15"></a-obj-model>
+        <a-obj-model src="#barrel1_stuff" color="#cccccc" position="4.7 -.2 -5" rotation="0 0 0" material="roughness:0.9"
+                     scale=".15 .15 .15"></a-obj-model>
+
+        <a-obj-model src="#barrel1_base" color="#AD6B1B" position="2.9 .8 -5" rotation="0 0 0" material="roughness:0.9"
+                     scale=".15 .15 .15"></a-obj-model>
+        <a-obj-model src="#barrel1_stuff" color="#cccccc" position="2.9 .8 -5" rotation="0 0 0" material="roughness:0.9"
+                     scale=".15 .15 .15"></a-obj-model>
+
+        <a-obj-model src="#barrel1_base" color="#AD6B1B" position="4.1 .8 -5" rotation="0 0 0" material="roughness:0.9"
+                     scale=".15 .15 .15"></a-obj-model>
+        <a-obj-model src="#barrel1_stuff" color="#cccccc" position="4.1 .8 -5" rotation="0 0 0" material="roughness:0.9"
+                     scale=".15 .15 .15"></a-obj-model>
+
+        <a-obj-model src="#counter1_base" color="#A4410D" position="4 -.9 0" rotation="-90 177 0" material="roughness:0.7"
+                     scale=".1 .1 .1"></a-obj-model>
+        <a-obj-model src="#counter1_frame" color="#5b3a29" position="4 -.9 0" rotation="-90 177 0" material="roughness:0.7"
+                     scale=".1 .1 .1"></a-obj-model>
+        <a-obj-model src="#counter1_table" color="#5D280C" position="4 -.9 0" rotation="-90 177 0" material="roughness:0.7"
+                     scale=".1 .1 .1"></a-obj-model>
+
+        <a-obj-model src="#shelf1_frame" color="#5b3a29" position="5 -.9 0" rotation="-90 0 0" material="roughness:0.7"
+                     scale=".1 .1 .1"></a-obj-model>
+
+
+        <a-obj-model src="#shelf1_frame" color="#9B6245" position="0 -.9 4.8" rotation="-90 90 0" material="roughness:0.7"
+                     scale=".1 .1 .1"></a-obj-model>
+        <a-obj-model src="#shelf1_books" color="#5b3a29" position="0 -.9 4.8" rotation="-90 90 0" material="roughness:0.7"
+                     scale=".1 .1 .1"></a-obj-model>
+        <a-obj-model src="#shelf1_boxes" color="#D5A085" position="0 -.9 4.8" rotation="-90 90 0" material="roughness:0.7"
+                     scale=".1 .1 .1"></a-obj-model>
+        <a-obj-model src="#shelf1_rolls" color="#F5C6AE" position="0 -.9 4.8" rotation="-90 90 0" material="roughness:0.7"
+                     scale=".1 .1 .1"></a-obj-model>
+-->
+    </a-entity>
+
+
+    <a-entity id="camera" position="0 1 .5" camera wasd-controls  look-controls></a-entity>
+<!-- orbit-controls="
+            target: #table;
+            enableDamping: true;
+            dampingFactor: 0.125;
+            rotateSpeed:1;
+            rotateToSpeed: 0.25;
+            rotateTo: 0 0 0;
+            logPosition: true;
+            enableZoom: true;
+            "-->
+</a-scene>
+</body>
+</html>
