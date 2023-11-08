@@ -24,6 +24,7 @@
             }
         });
         document.querySelector('a-scene').addEventListener('enter-vr', function () {
+            console.log("entering vr");
             document.getElementById('camera').setAttribute('position', "0 1 .5");
         });
     </script>
@@ -46,7 +47,7 @@
 
         <a-asset-item id="floor" src="assets/floor1.obj"></a-asset-item>
         <a-asset-item id="stool" src="assets/stool1.obj"></a-asset-item>
-        <a-asset-item id="playtable" src="assets/table1.obj"></a-asset-item>
+        <a-asset-item id="playtable" src="assets/Table1_desk.obj"></a-asset-item>
     </a-assets>
 
     <!--
@@ -55,14 +56,15 @@
 
     <a-sphere  src="assets/tavern1_bg.jpg" material="side: double" open-ended="true" rotation="0 0 0" position="0 1 .5"  scale="10 6 10" roughness="1"></a-sphere>
     <a-entity light="
-                       type:ambient;
+                       type:point;
                        shadowCameraVisible: false;
                        castShadow:true;
                        intensity:3;
                        shadowCameraTop:    10;
                        shadowCameraRight:  10;
                        shadowCameraLeft:  10;
-                        decay: 2;" color="white" position="0 1 0" rotation="-90 0 0" shadow></a-entity>
+                        decay: .5;" color="white" position="0 1 0" rotation="-90 0 0" shadow></a-entity>
+    <!--
     <a-entity light="
                        type:spot;
                        shadowCameraVisible: false;
@@ -72,7 +74,7 @@
                        shadowCameraRight:  10;
                        shadowCameraLeft:  10;
                         decay: 2;" color="white" position="0 1 0" rotation="-90 0 0" shadow></a-entity>
-
+-->
 
     <a-entity shadow="cast:true; receive:true" id="spots">
 
@@ -139,7 +141,7 @@
 
     <a-entity shadow="cast:true; receive:true" id="interior">
 
-        <!--<a-entity gltf-model="#kamin" position="4 -.5 -4" rotation="0 45 0"></a-entity>-->
+        <!--<a-entity gltf-model="#kamin" position="4 -.5 -4" rotation="0 45 0"></a-entity>
         <a-obj-model src="#stool" color="#905917" position="-2 -.9 0" rotation="-90 -105 0" material="roughness:0.9"
                      scale=".1 .1 .1"></a-obj-model>
         <a-obj-model src="#stool" color="#905917" position="0 -.9 -1" rotation="-90 -170 0" material="roughness:0.9"
@@ -148,11 +150,13 @@
                      scale=".1 .1 .1"></a-obj-model>
         <a-obj-model src="#stool" color="#905917" position="0 -.9 1" rotation="-90 13 0" material="roughness:0.9"
                      scale=".1 .1 .1"></a-obj-model>
-
+        -->
     </a-entity>
 
-
-    <a-entity id="camera" position="0 1 .5" camera wasd-controls  look-controls></a-entity>
+    <a-entity position="0 1 .5">
+        <a-camera look-controls position="0 0 0"></a-camera>
+        <!-- <a-entity id="camera" position="0 1 .5" camera wasd-controls  look-controls></a-entity>-->
+    </a-entity>
 <!-- orbit-controls="
             target: #table;
             enableDamping: true;
