@@ -25,7 +25,9 @@
         });
         document.querySelector('a-scene').addEventListener('enter-vr', function () {
             console.log("entering vr");
-            document.getElementById('camera').setAttribute('position', "0 1 .5");
+            window.setTimeout(function(){
+                document.getElementById('camera').setAttribute('position', "0 1 .5");
+            }, 1000);
         });
     </script>
     <script src="js/orbit1.js"></script>
@@ -132,7 +134,7 @@
         <a-box src="https://2minutetabletop.com/wp-content/uploads/2022/07/Forest-Camp-Dark-Occupied-Zoomed.jpg"
                position="0 0 0" rotation="0 0 0" width="1.5" height=".005" depth-material
                shadow="receive: true;"></a-box>
-        <a-obj-model src="#playtable" color="#AD6B1B" position="0 -.9 0" rotation="-90 0 0" material="roughness:0.7"
+        <a-obj-model src="#playtable" color="#AD6B1B" position="0 -.901 0" rotation="-90 0 0" material="roughness:0.7"
                      scale=".1 .1 .1"></a-obj-model>
     </a-entity>
     <a-entity shadow="cast:true; receive:true" id="figures">
@@ -153,7 +155,7 @@
         -->
     </a-entity>
 
-    <a-entity position="0 1 .5">
+    <a-entity id="camera" position="0 1 .5">
         <a-camera look-controls position="0 0 0"></a-camera>
         <!-- <a-entity id="camera" position="0 1 .5" camera wasd-controls  look-controls></a-entity>-->
     </a-entity>
