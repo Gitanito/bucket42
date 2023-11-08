@@ -1,7 +1,7 @@
 <html>
 <head>
     <!-- from https://github.com/aframevr/aframe/ -->
-    <script src="https://aframe.io/releases/1.4.2/aframe.min.js"></script>
+    <script src="js/aframe.min.js"></script>
 
     <script>
         AFRAME.registerComponent('objshadow', {
@@ -25,7 +25,7 @@
         });
         document.addEventListener("DOMContentLoaded", function(event) {
             document.querySelector('a-scene').addEventListener('enter-vr', function () {
-                console.log("entering vr");
+                alert("entering vr");
                 window.setTimeout(function(){
                     document.getElementById('camera').setAttribute('position', "0 1 .5");
                 }, 1000);
@@ -134,7 +134,7 @@
     -->
     <a-entity shadow="cast:true; receive:true" id="table">
         <a-box src="https://2minutetabletop.com/wp-content/uploads/2022/07/Forest-Camp-Dark-Occupied-Zoomed.jpg"
-               position="0 0 0" rotation="0 0 0" width="1.5" height=".005" depth-material
+               position="0 0 0" rotation="0 0 0" width="1.5" height=".005" material="roughness:1"
                shadow="receive: true;"></a-box>
         <a-obj-model src="#playtable" color="#AD6B1B" position="0 -.905 0" rotation="-90 0 0" material="roughness:0.7"
                      scale=".1 .1 .1"></a-obj-model>
