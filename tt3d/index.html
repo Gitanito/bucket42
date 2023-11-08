@@ -34,8 +34,9 @@
         document.addEventListener("DOMContentLoaded", function(event) {
             document.querySelector('a-scene').addEventListener('enter-vr', function () {
                 window.setTimeout(function(){
-                    document.getElementById('camera').setAttribute('position', "0 .5 .5");
-                }, 1000);
+                    document.getElementById('cameraWrapper').setAttribute('position', "0 0 1.8");
+                    document.getElementById('cameraWrapper').setAttribute('rotation', "-60 0 0");
+                }, 500);
             });
         });
     </script>
@@ -164,8 +165,8 @@
         -->
     </a-entity>
 
-    <a-entity id="camera" position="0 .5 .5" rotation="0 0 0">
-        <a-camera look-controls position="0 0 0"></a-camera>
+    <a-entity id="cameraWrapper" height=".01" width=".01" depth=".01" position="0 0 1.8" rotation="-60 0 0">
+        <a-camera></a-camera>
         <!-- <a-entity id="camera" position="0 1 .5" camera wasd-controls  look-controls></a-entity>-->
     </a-entity>
 <!-- orbit-controls="
