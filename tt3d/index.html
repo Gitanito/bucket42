@@ -25,7 +25,6 @@
         });
         document.addEventListener("DOMContentLoaded", function(event) {
             document.querySelector('a-scene').addEventListener('enter-vr', function () {
-                alert("entering vr");
                 window.setTimeout(function(){
                     document.getElementById('camera').setAttribute('position', "0 1 .5");
                 }, 1000);
