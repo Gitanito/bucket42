@@ -37,13 +37,13 @@
 
 </head>
 <body>
-<a-scene renderer="     antialias: false;
+<a-scene renderer="     antialias: true;
                         colorManagement: true;
                         sortObjects: false;
                         physicallyCorrectLights: true;
-                        alpha: false;
+                        alpha: true;
                         precision: low;
-                        foveationLevel: 1;
+                        foveationLevel: 0;
 " stats>
     <a-assets>
         <img id="boxTexture"
@@ -134,7 +134,7 @@
     -->
     <a-entity shadow="cast:true; receive:true" id="table">
         <a-box src="https://2minutetabletop.com/wp-content/uploads/2022/07/Forest-Camp-Dark-Occupied-Zoomed.jpg"
-               position="0 0 0" rotation="0 0 0" width="1.5" height=".005" material="roughness:1"
+               position="0 -.01 0" rotation="0 0 0" width="1.5" height=".02" material="roughness:1"
                shadow="receive: true;"></a-box>
         <a-obj-model src="#playtable" color="#AD6B1B" position="0 -.905 0" rotation="-90 0 0" material="roughness:0.7"
                      scale=".1 .1 .1"></a-obj-model>
